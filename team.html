@@ -1,0 +1,53 @@
+---
+layout: page
+title: Equipe
+permalink: /team/
+---
+
+{% for member in site.data.ediano %}
+<ul class="collection">
+    <li class="collection-item avatar">
+        <img src="{{ member.name_img }}" alt="{{ member.name }}" class="circle">
+        <span class="title">{{ member.name }}</span>
+        <p>{{ member.description }}</p>
+        <div class="social">
+            <a href="{{ member.site_link }}" target="_blank">
+                <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.google_link }}" target="_blank">
+                <img src="{{ member.google_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.twitter_link }}" target="_blank">
+                <img src="{{ member.twitter_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.facebook_link }}" target="_blank">
+                <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.instagram_link }}" target="_blank">
+                <img src="{{ member.instagram_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.github_link }}" target="_blank">
+                <img src="{{ member.github_ico }}" alt="{{ member.name }}" /></a>
+
+            <a href="{{ member.linkedin_link }}" target="_blank">
+                <img src="{{ member.linkedin_ico }}" alt="{{ member.name }}" /></a>
+        </div>
+    </li>
+</ul>
+{% endfor %}
+
+{% for member in site.data.luciana %}
+<ul class="collection">
+    <li class="collection-item avatar">
+        <img src="{{ member.name_img }}" alt="{{ member.name }}" class="circle">
+        <span class="title">{{ member.name }}</span>
+        <p>{{ member.description }}</p>
+        <div class="social">
+            <a href="{{ member.site_link }}" target="_blank">
+                <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
+            <a href="{{ member.facebook_link }}" target="_blank">
+                    <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
+        </div>
+    </li>
+</ul>
+{% endfor %}

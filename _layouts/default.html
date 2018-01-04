@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    {% include head.html %}
+</head>
+
+<body>
+
+    {% include google-tagmanager-noscript.html %}
+
+    <div class="scrollspy" id="top"></div>
+
+    <!-- Header -->
+    <header class="row">
+        {% include header.html %}
+    </header>
+
+    <div class="height"></div>
+    <div class="site-description grid center-align">
+        <div class="col s12">
+            <p class="flow-text">{{ site.description | escape }}</p>
+        </div>
+    </div>
+
+    <main class="row grid">        
+        {{ content }}
+    </main>
+
+    {% include follow.html %}
+    {% include ediano.html %}
+    {% include luciana.html %}
+    {% include comments.html %}
+
+    <!-- Footer -->
+    <footer class="row">
+        {% include footer.html %}
+    </footer>
+
+    <!-- Scripts -->
+    {% include scripts-style.html %}
+
+</body>
+
+</html>

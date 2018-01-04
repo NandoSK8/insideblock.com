@@ -1,0 +1,31 @@
+<div class="follow center">
+    <div class="grid">
+        {% for people in site.data.insideblock %}
+        <div class="follow-text">Siga-nos nas nossas redes sociais</div>
+        <div class="follow-link">
+            <a target="_blank" href="{{ people.facebook_link }}">
+                <img src="{{ people.facebook_ico }}" alt="Siga no Facebook" />
+            </a>
+
+            <a target="_blank" href="{{ people.twitter_link }}">
+                <img src="{{ people.twitter_ico }}" alt="Siga no Twitter" />
+            </a>
+
+            <a target="_blank" href="{{ people.google_link }}">
+                <img src="{{ people.google_ico }}" alt="Siga no Google Plus" />
+            </a>
+
+            <a target="_blank" href="{{ people.linkedin_link }}">
+                <img src="{{ people.linkedin_ico }}" alt="Siga no LinkeDin" />
+            </a>
+
+            <a target="_blank" href="{{ people.instagram_link }}">
+                <img src="{{ people.instagram_ico }}" alt="Siga no Instagram" />
+            </a>
+            <a target="_blank" href="{{ people.github_link }}">
+                <img src="{{ people.github_ico }}" alt="Siga no GitHub" />
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

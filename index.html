@@ -1,0 +1,68 @@
+---
+layout: default
+title: Inside Block
+---
+
+<!-- Home -->
+<div class="home" id="home">
+    <div class="ads">
+        {% include ads.html %}
+    </div>
+
+    <!-- Aside -->
+    <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
+        {% include aside.html %}
+    </aside>
+
+    <!-- Home - List Post -->
+    <div class="list-post col s12 m12 l8 xl8">
+        {% for post in paginator.posts %}
+        <article>
+            {% include home-seo.html %}
+            <div class="article-content">
+                {% if post.img %}
+                <div class="thumbnail-post">
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <img src="{{ site.url | append: '/img/post' | prepend: site.baseurl | append: post.img }}" alt="{{ post.title }}" />
+                    </a>
+
+                    <ul class="info">
+                        {% if post.author %}
+                        <li><a href="{{ post.url | prepend: site.baseurl }}#info-post" alt="Membros"><i class="material-icons">person</i></a></li>
+                        {% endif %}
+                        <li><a href="{{ post.url | prepend: site.baseurl }}#category" alt="Seguir categorias"><i class="material-icons">label</i></a></li>
+                        {% if post.comments %}
+                        <li><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" alt="Ver comentários"><i class="material-icons">mode_comment</i></a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+                {% endif %}
+
+                <div class="content">
+                    <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
+                    <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 280 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 280 }}{% endif %}</p>
+                    <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}">Continue lendo →</a>
+
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+
+        <!-- Pagination -->
+        <div class="pagination">
+            <div class="next">
+                {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}"><i class="material-icons">arrow_back</i>Postagens mais recentes</a>
+                {% endif %}
+            </div>
+
+            <div class="prev">
+                {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Postagens mais antigas<i class="material-icons">arrow_forward</i></a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+</div>

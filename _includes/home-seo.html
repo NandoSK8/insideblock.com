@@ -1,0 +1,40 @@
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ post.url | prepend: site.baseurl }}"
+  },
+  "headline": "{{ post.title }}"
+  ,
+  
+  "description": "{{ post.content | strip_html | strip_newlines | truncate: 120 }}","datePublished": "{{ post.date | date: '%d de %B de %Y' }}",
+  "dateModified": "{{ post.modified_time | date: '%d de %B de %Y' }}","image": {
+    "@type": "ImageObject","url": "{{ site.url | append: '/img/post' | prepend: site.baseurl | append: post.img }}",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Inside Block",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url | append: '/img/post' | prepend: site.baseurl | append: post.img }}",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "
+    {% if post.ediano %}
+    {% for people in site.data.ediano %}
+    Autor: {{ people.name }}
+    {% endfor %}
+    {% endif %}
+    ,
+    {% if post.luciana %}
+    {% for people in site.data.luciana %}
+    Coautor: {{ people.name }}
+    {% endfor %}
+    {% endif %}    
+    "
+  }
+}</script>

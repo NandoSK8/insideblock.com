@@ -1,0 +1,33 @@
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="content-language" content="pt-br, en, fr, it"/>
+
+{% if page.title %}
+    <meta content='noindex,nofollow,noarchive' name='robots'/>
+    <title>{{ page.title }}</title>
+
+    {% else %}
+        {% if page.erro %}
+            <meta content='noindex,nofollow,noarchive' name='robots'/>
+            <title>{{ page.erro }}</title>
+        {% endif %}
+    {% else %}
+    <meta content='noindex,nofollow,noarchive' name='robots'/>
+    <title>{{ site.title }}</title>
+{% endif %}
+
+<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feeds/posts/default/" | relative_url }}"/>
+
+<link rel="icon" type="image/x-icon" href="/img/logo/favicon.png " />
+
+{% include social-meta-tags.html %}
+
+<link rel="stylesheet" href="/style/style.min.css"/>
+<link rel="stylesheet" href="/materialize/v1.0.0.alpha.2/materialize.min.css"/>
+<link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet"/>
+<link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+
+{% include scripts-optional.html %}

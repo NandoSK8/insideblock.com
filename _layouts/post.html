@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<div class="post">
+
+    <div class="ads">
+        {% include ads.html %}
+    </div>
+
+    <!-- Aside -->
+    <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
+        {% include aside.html %}
+    </aside>
+
+    <!-- Article -->
+    <article class="col s12 m12 l8 xl8">
+        {% include post-seo.html %}
+        <div class="content">
+            <div class="open-post center">
+                <h1 class="post-title">{{ page.title }}</h1>
+
+                
+                {% include info-post.html %}
+            </div>
+
+            {% if page.img %}
+            <div class="thumbnail-post">
+                <img src="{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}" alt="{{ post.title }}" />
+            </div>
+            {% endif %}
+
+            <div class="share" id="share">
+                {% include share.html %}
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="category" id="category"> Você está em: 
+                <a href="/">Home</a>› {% for category in page.category %}
+                <a href="/category/{{ category }}">{{ category }}</a>› {% endfor %}
+                <span class="post-title">{{ page.title }}</span>
+            </div>
+
+            <div class="ads">
+                {% include ads.html %}
+            </div>
+
+            <div class="body flow-text">
+                {{ content }}
+            </div>
+
+            <div class="ads">
+                {% include ads.html %}
+            </div>
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination">
+            <div class="next">
+                {% if page.next.url %}
+                <a href="{{ page.next.url | prepend: site.baseurl }}">
+                    <span class="text"><i class="material-icons">arrow_back</i>Postagem mais recente</span>
+                    <span class="title-post">{{ page.next.title }}</span>
+                </a>
+                {% endif %}
+            </div>
+
+            <div class="prev">
+                {% if page.previous.url %}
+                <a href="{{ page.previous.url | prepend: site.baseurl }}">
+                    <span class="text">Postagem mais antiga<i class="material-icons">arrow_forward</i></span>
+                    <span class="title-post">{{ page.previous.title }}</span>
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </article>
+
+</div>

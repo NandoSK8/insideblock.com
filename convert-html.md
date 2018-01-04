@@ -1,0 +1,16 @@
+---
+layout: page
+title: Converter HTML
+permalink: /convert-html/
+---
+
+<div class="tool-convert">
+<h3>Código Original</h3>
+<textarea name="original" onfocus="this.select()" onmouseover="this.focus()"></textarea><br />
+<input class="converter btn white black-text" type="button" value="Converter" /><br /><br /><br />
+
+<h3>Código Convertido</h3>
+<textarea name="convertido" onfocus="this.select()" onmouseover="this.focus()"></textarea>
+
+<script type="text/javascript">var botao      = document.getElementsByClassName("converter")[0]; var convertido = document.getElementsByName("convertido")[0];  botao.onclick = function() {   var original     = document.getElementsByName("original")[0];   convertido.value = original.value.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); } </script>
+</div>

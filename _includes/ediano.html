@@ -1,0 +1,14 @@
+{% if page.ediano %}
+{% for people in site.data.ediano %}
+<section class="author teal" itemprop="author">
+    <div class="details grid" itemscope itemtype="http://schema.org/Person">
+        <img itemprop="image" class="img-rounded circle" src="/img/team/ediano.png" alt="{{ people.name }}">
+        <p class="def">Autor:</p>
+        <h3 class="name">
+            <a itemprop="name" target="_blank" href="{{ people.site_link }}">{{ people.name }}</a>
+        </h3>
+        <p class="desc">{{ people.description }}</p>
+    </div>
+</section>
+{% endfor %}
+{% endif %}

@@ -1,0 +1,26 @@
+title: Inside Block
+description: "Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!"
+author: 'Ediano Silva Santos'
+
+url: https://www.insideblock.com
+baseurl: ""
+paginate_path: "/page:num/"
+permalink: /:year/:month/:title.html
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: Home
+   url: /
+ - title: Converter HTML
+   url: /convert-html/
+ - title: Equipe
+   url: /team/
+   title: "#Tags"
+   url: /tags/
+
+google_analytics: "UA-81236717-1"
+google_tagmanager: "GTM-T6PZBSG"

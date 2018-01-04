@@ -1,0 +1,46 @@
+<div class="navbar fixed">
+    <nav class="white">
+        <div class="nav-wrapper grid">
+            <a class="header" href="/">
+                <img src="/img/logo/inside-block.png" alt="Logo Inside Block">
+                <span class="logo hide-on-med-only" alt="Inside Block">{{ site.title }}</span></a>
+
+            <ul id="nav-mobile" class="right hide-on-small-only">
+                <li><a href="/search"><i class="material-icons">search</i></a></li>
+                {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
+                <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+                {% endfor %}
+            </ul>
+
+            <ul id="nav-mobile" class="right hide-on-med-and-up">
+                <li><a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i class="material-icons">menu</i></a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<!--Side Nav - JS -->
+<ul id="slide-out" class="sidenav">
+    <nav class="white">
+        <div class="nav-wrapper">
+            <a class="header" href="{{ site.baseurl }}">
+                <img src="/img/logo/inside-block.png" alt="Logo Inside Block">
+                <span class="logo" alt="Inside Block">{{ site.title }}</span></a>
+        </div>
+    </nav>
+
+    <li><a href="/search">Search<i class="material-icons">search</i></a></li>
+    {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
+    <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+    {% endfor %}
+
+    <div class="divider"></div>
+
+    <menu>
+        <ul>
+            <li><a href="/">Termos</a></li>
+            <li><a href="/">Privacidade</a></li>
+            <li><a href="/">Grupo Multi Camada</a></li>
+        </ul>
+    </menu>
+</ul>

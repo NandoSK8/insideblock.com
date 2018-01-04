@@ -1,0 +1,88 @@
+<!-- Google Ads Mobile -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6753037893956918",
+        enable_page_level_ads: true
+    });
+</script>
+
+<!-- Google Analytics -->
+<script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', '{{ site.google_tagmanager }}');
+</script>
+
+<!-- Tynt -->
+<script id='x33x1513348698569'>
+    var Tynt = Tynt || [];
+    Tynt.push('aFcruWuh0r5OLRrkHcnlxd');
+    Tynt.cmd = Tynt.cmd || [];
+    Tynt.cmd.push(function() {
+        Tynt.ads.display('REPLACE_WITH_SIZE_WxH', 'x33x1513348698569', 'inpage');
+    });
+    (function() {
+        var h, s = document.createElement('script');
+        s.src = (window.location.protocol === 'https:' ?
+            'https' : 'http') + '://cdn.tynt.com/siab.js';
+        h = document.getElementsByTagName('script')[0];
+        h.parentNode.insertBefore(s, h);
+    })();
+</script>
+
+<!-- Cookieconsent -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function() {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#383c56",
+                    "text": "#ffffff"
+                },
+                "button": {
+                    "background": "#ffffff",
+                    "text": "#383c56"
+                }
+            },
+            "theme": "edgeless",
+            "content": {
+                "message": "Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site.",
+                "dismiss": "Entendi!",
+                "link": "Leia mais",
+                "href": "/"
+            }
+        })
+    });
+</script>
