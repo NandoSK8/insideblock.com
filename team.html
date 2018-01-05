@@ -5,49 +5,57 @@ permalink: /team/
 ---
 
 {% for member in site.data.ediano %}
-<ul class="collection">
-    <li class="collection-item avatar">
-        <img src="{{ member.name_img }}" alt="{{ member.name }}" class="circle">
-        <span class="title">{{ member.name }}</span>
-        <p>{{ member.description }}</p>
-        <div class="social">
-            <a href="{{ member.site_link }}" target="_blank">
-                <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
+<section class="author teal" itemprop="author">
+    <div class="details grid" itemscope itemtype="http://schema.org/Person">
+        <img itemprop="image" class="img-rounded circle" src="{{ member.name_img }}" alt="{{ member.name }}">
+        <p class="def">Fundador do Inside Block; Administrador Geral; Desenvolvedor Web e Criador de Conteúdos.</p>
+        <h3 class="name">
+            <a itemprop="name" target="_blank" href="{{ member.site_link }}">{{ member.name }}</a>
+        </h3>
+        <p class="desc">{{ member.description_team }}</p>
+    </div>
 
-            <a href="{{ member.google_link }}" target="_blank">
-                <img src="{{ member.google_ico }}" alt="{{ member.name }}" /></a>
+    <div class="social">
+        <a href="{{ member.site_link }}" target="_blank">
+            <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
 
-            <a href="{{ member.twitter_link }}" target="_blank">
-                <img src="{{ member.twitter_ico }}" alt="{{ member.name }}" /></a>
+        <a href="{{ member.google_link }}" target="_blank">
+            <img src="{{ member.google_ico }}" alt="{{ member.name }}" /></a>
 
-            <a href="{{ member.facebook_link }}" target="_blank">
-                <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
+        <a href="{{ member.twitter_link }}" target="_blank">
+            <img src="{{ member.twitter_ico }}" alt="{{ member.name }}" /></a>
 
-            <a href="{{ member.instagram_link }}" target="_blank">
-                <img src="{{ member.instagram_ico }}" alt="{{ member.name }}" /></a>
+        <a href="{{ member.facebook_link }}" target="_blank">
+            <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
 
-            <a href="{{ member.github_link }}" target="_blank">
-                <img src="{{ member.github_ico }}" alt="{{ member.name }}" /></a>
+        <a href="{{ member.instagram_link }}" target="_blank">
+            <img src="{{ member.instagram_ico }}" alt="{{ member.name }}" /></a>
 
-            <a href="{{ member.linkedin_link }}" target="_blank">
-                <img src="{{ member.linkedin_ico }}" alt="{{ member.name }}" /></a>
-        </div>
-    </li>
-</ul>
+        <a href="{{ member.github_link }}" target="_blank">
+            <img src="{{ member.github_ico }}" alt="{{ member.name }}" /></a>
+
+        <a href="{{ member.linkedin_link }}" target="_blank">
+            <img src="{{ member.linkedin_ico }}" alt="{{ member.name }}" /></a>
+    </div>
+</section>
 {% endfor %}
 
 {% for member in site.data.luciana %}
-<ul class="collection">
-    <li class="collection-item avatar">
-        <img src="{{ member.name_img }}" alt="{{ member.name }}" class="circle">
-        <span class="title">{{ member.name }}</span>
-        <p>{{ member.description }}</p>
-        <div class="social">
-            <a href="{{ member.site_link }}" target="_blank">
-                <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
-            <a href="{{ member.facebook_link }}" target="_blank">
-                    <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
-        </div>
-    </li>
-</ul>
+<section class="author pink" itemprop="author">
+    <div class="details grid" itemscope itemtype="http://schema.org/Person">
+        <img itemprop="image" class="img-rounded circle" src="{{ member.name_img }}" alt="{{ member.name }}">
+        <p class="def">Bacharel em Gestão Ambiental; Técnica em Informática para Internet.</p>
+        <h3 class="name">
+            <a itemprop="name" target="_blank" href="{{ member.site_link }}">{{ member.name }}</a>
+        </h3>
+        <p class="desc">{{ member.description_team }}</p>
+    </div>
+
+    <div class="social">
+        <a href="{{ member.site_link }}" target="_blank">
+            <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
+        <a href="{{ member.facebook_link }}" target="_blank">
+            <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
+    </div>
+</section>
 {% endfor %}
