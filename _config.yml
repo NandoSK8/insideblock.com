@@ -19,7 +19,7 @@ navigation:
    url: /convert-html/
  - title: Equipe
    url: /team/
-   title: "#Tags"
+ - title: "#Tags"
    url: /tags/
 
 google_analytics: "UA-81236717-1"
