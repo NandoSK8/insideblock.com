@@ -8,8 +8,8 @@
   "headline": "{{ page.title }}"
   ,
   
-  "description": "{{ page.content | strip_html | strip_newlines | truncate: 120 }}","datePublished": "{{ page.date | date: '%d de %B de %Y' }}",
-  "dateModified": "{{ page.modified_time | date: '%d de %B de %Y' }}","image": {
+  "description": "{{ page.content | strip_html | strip_newlines | truncate: 120 }}","datePublished": "{{ page.date: date_to_xmlschema }}",
+  "dateModified": "{{ page.modified_time: date_to_xmlschema }}","image": {
     "@type": "ImageObject","url": "{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}",
     "height": 630,
     "width": 1200},"publisher": {
