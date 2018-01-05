@@ -323,7 +323,8 @@ _____________________________________________________________*/
     width: 36px;
     height: 36px;
     line-height: 36px;
-    margin: 0 5px
+    padding: 0;
+    margin: 0 10px
 }
 
 
