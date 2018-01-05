@@ -2,7 +2,7 @@ title: Inside Block
 description: "Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!"
 author: 'Ediano Silva Santos'
 
-url: https://www.insideblock.com
+url: http://www.insideblock.com
 baseurl: ""
 paginate_path: "/page/:num/"
 permalink: /:year/:month/:title.html
