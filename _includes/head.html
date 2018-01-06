@@ -4,7 +4,7 @@
 <meta http-equiv="content-language" content="pt-br, en, fr, it"/>
 
 {% if page.title %}
-    <meta content='noindex,nofollow,noarchive' name='robots'/>
+    <meta content='index' name='robots'/>
     <title>{{ page.title }}</title>
 
     {% else %}
@@ -13,12 +13,12 @@
             <title>{{ page.erro }}</title>
         {% endif %}
     {% else %}
-    <meta content='noindex,nofollow,noarchive' name='robots'/>
+    <meta content='index' name='robots'/>
     <title>{{ site.title }}</title>
 {% endif %}
 
 <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>
-<link rel="canonical" href="{% if page.url %}{{ site.url }}{{ page.url | prepend: site.baseurl }}{% else %} {{ site.url | prepend: site.baseurl }}{% endif %}"/>
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed/" | relative_url }}"/>
 
 <link rel="icon" type="image/x-icon" href="/img/logo/favicon.png " />
