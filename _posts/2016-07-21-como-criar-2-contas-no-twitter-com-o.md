@@ -7,8 +7,8 @@ tags: [ Tutoriais, Redes Sociais ]
 category: [ Tutoriais, Redes Sociais ]
 img: /como-criar-2-contas-no-twitter-com-o/como-criar-2-contas-no-twitter-com-o.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

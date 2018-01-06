@@ -7,8 +7,8 @@ tags: [ Dicas, Segurança, Serviços Online ]
 category: [ Dicas, Segurança, Serviços Online ]
 img: /como-aumentar-o-nivel-de-seguranca-de/como-aumentar-o-nivel-de-seguranca-de.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Blogger, Códigos Web, Tutoriais ]
 category: [ Blogger, Códigos Web, Tutoriais ]
 img: /resumo-de-postagem-automatico-com/resumo-de-postagem-automatico-com.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

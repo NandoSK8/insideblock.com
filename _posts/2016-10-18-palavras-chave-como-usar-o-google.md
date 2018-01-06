@@ -7,8 +7,8 @@ tags: [ Dicas, Segurança, Otimização ]
 category: [ Dicas, Segurança, Otimização ]
 img: /palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

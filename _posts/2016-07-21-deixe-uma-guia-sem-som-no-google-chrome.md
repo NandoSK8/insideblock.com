@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Windows, Informática ]
 category: [ Dicas, Tutoriais, Windows, Informática ]
 img: /deixe-uma-guia-sem-som-no-google-chrome/deixe-uma-guia-sem-som-no-google-chrome.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

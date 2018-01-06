@@ -7,8 +7,8 @@ tags: [ Dicas, Serviços Online, Otimização ]
 category: [ Dicas, Serviços Online, Otimização ]
 img: /voce-vai-comprar-um-dominio-saiba-qual/voce-vai-comprar-um-dominio-saiba-qual.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

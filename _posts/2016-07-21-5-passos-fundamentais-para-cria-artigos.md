@@ -7,8 +7,8 @@ tags: [ Dicas, Otimização ]
 category: [ Dicas, Otimização ]
 img: /5-passos-fundamentais-para-cria-artigos/5-passos-fundamentais-para-cria-artigos.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

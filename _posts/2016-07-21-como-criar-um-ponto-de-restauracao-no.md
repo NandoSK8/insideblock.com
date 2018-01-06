@@ -7,8 +7,8 @@ tags: [ Tutoriais, Windows, Segurança, Informática ]
 category: [ Tutoriais, Windows, Segurança, Informática ]
 img: /como-criar-um-ponto-de-restauracao-no/como-criar-um-ponto-de-restauracao-no.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

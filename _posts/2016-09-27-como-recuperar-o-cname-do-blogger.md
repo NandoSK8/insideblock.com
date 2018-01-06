@@ -7,8 +7,8 @@ tags: [ Blogger, Tutoriais, Otimização ]
 category: [ Blogger, Tutoriais, Otimização ]
 img: /como-recuperar-o-cname-do-blogger/como-recuperar-o-cname-do-blogger.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

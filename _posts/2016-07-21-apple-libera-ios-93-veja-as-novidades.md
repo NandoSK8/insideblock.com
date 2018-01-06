@@ -7,8 +7,8 @@ tags: [ iOS, Dicas, Mobile ]
 category: [ iOS, Dicas, Mobile ]
 img: /apple-libera-ios-93-veja-as-novidades/apple-libera-ios-93-veja-as-novidades.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

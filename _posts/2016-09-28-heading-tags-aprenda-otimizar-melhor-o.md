@@ -7,8 +7,8 @@ tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 img: /heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Dicas, Otimização ]
 category: [ Dicas, Otimização ]
 img: /como-aproveitar-se-dos-plagiadores-para/como-aproveitar-se-dos-plagiadores-para.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

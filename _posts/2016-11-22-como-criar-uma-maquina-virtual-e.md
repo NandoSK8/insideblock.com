@@ -7,8 +7,8 @@ tags: [ Tutoriais, Windows, Informática ]
 category: [ Tutoriais, Windows, Informática ]
 img: /como-criar-uma-maquina-virtual-e/como-criar-uma-maquina-virtual-e.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Códigos Web, Tutoriais, Otimização ]
 category: [ Códigos Web, Tutoriais, Otimização ]
 img: /ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

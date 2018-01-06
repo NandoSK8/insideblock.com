@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Windows, Informática ]
 category: [ Dicas, Tutoriais, Windows, Informática ]
 img: /como-criar-um-pendrive-bootavel-de/como-criar-um-pendrive-bootavel-de.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

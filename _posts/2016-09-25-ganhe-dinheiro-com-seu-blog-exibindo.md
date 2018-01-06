@@ -7,8 +7,8 @@ tags: [ WordPress, Blogger, Tutoriais, Monetização ]
 category: [ WordPress, Blogger, Tutoriais, Monetização ]
 img: /ganhe-dinheiro-com-seu-blog-exibindo/ganhe-dinheiro-com-seu-blog-exibindo.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

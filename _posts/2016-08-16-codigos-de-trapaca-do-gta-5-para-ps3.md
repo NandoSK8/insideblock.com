@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Games ]
 category: [ Dicas, Tutoriais, Games ]
 img: /codigos-de-trapaca-do-gta-5-para-ps3/codigos-de-trapaca-do-gta-5-para-ps3.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

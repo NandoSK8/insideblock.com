@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Windows, Informática ]
 category: [ Dicas, Tutoriais, Windows, Informática ]
 img: /habilitar-ou-desabilitar-opcao-de-logon/habilitar-ou-desabilitar-opcao-de-logon.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

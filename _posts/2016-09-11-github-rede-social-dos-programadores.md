@@ -7,8 +7,8 @@ tags: [ Produtividade, Serviços Online, Redes Sociais ]
 category: [ Produtividade, Serviços Online, Redes Sociais ]
 img: /github-rede-social-dos-programadores/github-rede-social-dos-programadores.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

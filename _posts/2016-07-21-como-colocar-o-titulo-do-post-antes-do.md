@@ -7,8 +7,8 @@ tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 img: /como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

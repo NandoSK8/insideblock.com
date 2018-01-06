@@ -7,8 +7,8 @@ tags: [ Dicas, Produtividade, Tutoriais, Otimização ]
 category: [ Dicas, Produtividade, Tutoriais, Otimização ]
 img: /links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

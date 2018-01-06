@@ -7,8 +7,8 @@ tags: [ Tutoriais, Windows, Informática ]
 category: [ Tutoriais, Windows, Informática ]
 img: /como-recuperar-pendrive-com-pastas-e/como-recuperar-pendrive-com-pastas-e.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

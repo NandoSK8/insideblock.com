@@ -7,8 +7,8 @@ tags: [ Dicas, Produtividade, Otimização ]
 category: [ Dicas, Produtividade, Otimização ]
 img: /erros-que-eu-cometi-ao-criar-o-meu/erros-que-eu-cometi-ao-criar-o-meu.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

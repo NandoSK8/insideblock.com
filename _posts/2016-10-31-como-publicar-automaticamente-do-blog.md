@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Serviços Online ]
 category: [ Dicas, Tutoriais, Serviços Online ]
 img: /como-publicar-automaticamente-do-blog/como-publicar-automaticamente-do-blog.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

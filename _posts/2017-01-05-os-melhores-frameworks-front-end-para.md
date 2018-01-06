@@ -7,8 +7,8 @@ tags: [ Dicas, Produtividade, Códigos Web ]
 category: [ Dicas, Produtividade, Códigos Web ]
 img: /os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

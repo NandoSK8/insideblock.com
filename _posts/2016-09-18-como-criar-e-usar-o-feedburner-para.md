@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Otimização ]
 category: [ Dicas, Tutoriais, Otimização ]
 img: /como-criar-e-usar-o-feedburner-para/como-criar-e-usar-o-feedburner-para.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

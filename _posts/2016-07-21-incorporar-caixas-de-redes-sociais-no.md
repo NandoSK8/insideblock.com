@@ -7,8 +7,8 @@ tags: [ Tutoriais, Redes Sociais ]
 category: [ Tutoriais, Redes Sociais ]
 img: /incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

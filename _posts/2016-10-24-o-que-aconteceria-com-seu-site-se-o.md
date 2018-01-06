@@ -6,8 +6,8 @@ modified_time: '2016-11-26T19:54:47.167-04:00'
 tags: [ Dicas, Segurança, Otimização ]
 img: /o-que-aconteceria-com-seu-site-se-o/o-que-aconteceria-com-seu-site-se-o.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

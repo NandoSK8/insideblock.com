@@ -7,8 +7,8 @@ tags: [ Dicas, Segurança, Serviços Online ]
 category: [ Dicas, Segurança, Serviços Online ]
 img: /clouding-computing-servicos-de/clouding-computing-servicos-de.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -6,8 +6,8 @@ modified_time: '2017-05-02T11:51:05.129-04:00'
 tags: [ Tutoriais, Windows, Informática ]
 img: /resolver-100-de-uso-do-disco-rigido-no/resolver-100-de-uso-do-disco-rigido-no.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

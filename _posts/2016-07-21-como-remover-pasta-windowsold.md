@@ -7,8 +7,8 @@ tags: [ Tutoriais, Windows, Informática ]
 category: [ Tutoriais, Windows, Informática ]
 img: /como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

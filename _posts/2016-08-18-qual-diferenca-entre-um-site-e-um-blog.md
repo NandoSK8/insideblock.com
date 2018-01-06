@@ -7,8 +7,8 @@ tags: [ Dicas, Produtividade, Tutoriais ]
 category: [ Dicas, Produtividade, Tutoriais ]
 img: /qual-diferenca-entre-um-site-e-um-blog/qual-diferenca-entre-um-site-e-um-blog.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

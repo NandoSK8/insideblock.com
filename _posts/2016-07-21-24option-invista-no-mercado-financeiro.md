@@ -7,8 +7,8 @@ tags: [ Opções Binárias, Monetização ]
 category: [ Opções Binárias, Monetização ]
 img: /24option-invista-no-mercado-financeiro/24option-invista-no-mercado-financeiro.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

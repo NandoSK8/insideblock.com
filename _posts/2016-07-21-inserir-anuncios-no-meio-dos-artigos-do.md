@@ -7,8 +7,8 @@ tags: [ Blogger, Códigos Web, Monetização, Otimização ]
 category: [ Blogger, Códigos Web, Monetização, Otimização ]
 img: /inserir-anuncios-no-meio-dos-artigos-do/inserir-anuncios-no-meio-dos-artigos-do.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

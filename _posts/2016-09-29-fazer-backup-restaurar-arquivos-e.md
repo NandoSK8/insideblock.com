@@ -7,8 +7,8 @@ tags: [ Blogger, Tutoriais, Segurança ]
 category: [ Blogger, Tutoriais, Segurança ]
 img: /fazer-backup-restaurar-arquivos-e/fazer-backup-restaurar-arquivos-e.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

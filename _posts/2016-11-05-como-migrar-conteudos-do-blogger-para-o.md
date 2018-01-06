@@ -7,8 +7,8 @@ tags: [ WordPress, Blogger, Tutoriais, Serviços Online ]
 category: [ WordPress, Blogger, Tutoriais, Serviços Online ]
 img: /como-migrar-conteudos-do-blogger-para-o/como-migrar-conteudos-do-blogger-para-o.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

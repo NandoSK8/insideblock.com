@@ -7,8 +7,8 @@ tags: [ Downloads, Dicas, Produtividade, Códigos Web ]
 category: [ Downloads, Dicas, Produtividade, Códigos Web ]
 img: /visual-studio-code-novo-editor-de/visual-studio-code-novo-editor-de.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Monetização, Redes Sociais ]
 category: [ Monetização, Redes Sociais ]
 img: /como-ganhar-dinheiro-no-facebook/como-ganhar-dinheiro-no-facebook.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

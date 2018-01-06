@@ -7,8 +7,8 @@ tags: [iOS, Serviços Online, Android, Mobile]
 category: [iOS, Serviços Online, Android, Mobile]
 img: /conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

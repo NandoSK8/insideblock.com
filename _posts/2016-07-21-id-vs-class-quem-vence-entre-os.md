@@ -7,8 +7,8 @@ tags: [ Dicas, Códigos Web, Tutoriais ]
 category: [ Dicas, Códigos Web, Tutoriais ]
 img: /id-vs-class-quem-vence-entre-os/id-vs-class-quem-vence-entre-os.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

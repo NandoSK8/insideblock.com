@@ -7,8 +7,8 @@ tags: [ iOS, Tutoriais, Windows, Informática, Mobile ]
 category: [ iOS, Tutoriais, Windows, Informática, Mobile ]
 img: /espelhar-tela-do-iphone-no-windows-ou/espelhar-tela-do-iphone-no-windows-ou.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

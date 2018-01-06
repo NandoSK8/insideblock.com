@@ -7,8 +7,8 @@ tags: [ Dicas, Produtividade, Otimização ]
 category: [ Dicas, Produtividade, Otimização ]
 img: /ranking-melhorar-experiencia-das/ranking-melhorar-experiencia-das.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Dicas, Android, Mobile ]
 category: [ Dicas, Android, Mobile ]
 img: /7-funcoes-do-android-que-talvez-voce/7-funcoes-do-android-que-talvez-voce.jpg
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

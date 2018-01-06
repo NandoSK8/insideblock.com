@@ -7,8 +7,8 @@ tags: [ Dicas, Blogger, Serviços Online ]
 category: [ Dicas, Blogger, Serviços Online ]
 img: /novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Dicas, Redes Sociais ]
 category: [ Dicas, Redes Sociais ]
 img: /qual-importancia-dos-botoes-de/qual-importancia-dos-botoes-de.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Tutoriais, Segurança, Informática ]
 category: [ Tutoriais, Segurança, Informática ]
 img: /como-bloquear-sites-pornagraficos-e/como-bloquear-sites-pornagraficos-e.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

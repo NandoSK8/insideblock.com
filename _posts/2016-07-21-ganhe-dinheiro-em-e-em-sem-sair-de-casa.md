@@ -7,8 +7,8 @@ tags: [ Dicas, Monetização ]
 category: [ Dicas, Monetização ]
 img: /ganhe-dinheiro-em-e-em-sem-sair-de-casa/ganhe-dinheiro-em-e-em-sem-sair-de-casa.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

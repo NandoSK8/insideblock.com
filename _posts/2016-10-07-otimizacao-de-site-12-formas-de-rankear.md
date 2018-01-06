@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Otimização ]
 category: [ Dicas, Tutoriais, Otimização ]
 img: /otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

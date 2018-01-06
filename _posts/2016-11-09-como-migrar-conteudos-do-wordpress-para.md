@@ -7,8 +7,8 @@ tags: [ WordPress, Dicas, Blogger, Tutoriais ]
 category: [ WordPress, Dicas, Blogger, Tutoriais ]
 img: /como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
 author: true
-ediano: true
-luciana: false
+author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

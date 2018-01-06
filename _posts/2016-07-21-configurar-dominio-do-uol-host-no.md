@@ -7,8 +7,8 @@ tags: [ Tutoriais, Otimização ]
 category: [ Tutoriais, Otimização ]
 img: /configurar-dominio-do-uol-host-no/configurar-dominio-do-uol-host-no.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

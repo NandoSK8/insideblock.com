@@ -7,8 +7,8 @@ tags: [ Dicas, Monetização ]
 category: [ Dicas, Monetização ]
 img: /como-ganhar-dinheiro-trabalhando-na/como-ganhar-dinheiro-trabalhando-na.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

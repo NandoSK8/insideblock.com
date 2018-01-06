@@ -7,8 +7,8 @@ tags: [ Dicas, Blogger, Serviços Online ]
 category: [ Dicas, Blogger, Serviços Online ]
 img: /google-libera-novo-visual-do-blogger-e/google-libera-novo-visual-do-blogger-e.jpg
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

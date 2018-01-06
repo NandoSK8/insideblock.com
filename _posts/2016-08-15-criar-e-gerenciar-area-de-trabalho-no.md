@@ -7,8 +7,8 @@ tags: [ Dicas, Tutoriais, Windows ]
 category: [ Dicas, Tutoriais, Windows ]
 img: /criar-e-gerenciar-area-de-trabalho-no/criar-e-gerenciar-area-de-trabalho-no.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

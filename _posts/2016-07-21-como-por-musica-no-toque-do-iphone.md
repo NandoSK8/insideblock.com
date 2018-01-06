@@ -7,8 +7,8 @@ tags: [ iOS, Dicas, Tutoriais, Mobile ]
 category: [ iOS, Dicas, Tutoriais, Mobile ]
 img: /como-por-musica-no-toque-do-iphone/como-por-musica-no-toque-do-iphone.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

@@ -7,8 +7,8 @@ tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 img: /postagens-relacionadas-com-imagem-para/postagens-relacionadas-com-imagem-para.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

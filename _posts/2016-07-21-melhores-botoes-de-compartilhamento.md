@@ -7,8 +7,8 @@ tags: [ Dicas, Redes Sociais ]
 category: [ Dicas, Redes Sociais ]
 img: /melhores-botoes-de-compartilhamento/melhores-botoes-de-compartilhamento.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

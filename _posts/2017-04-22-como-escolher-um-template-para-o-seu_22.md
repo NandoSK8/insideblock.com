@@ -7,8 +7,8 @@ tags: [ WordPress, Produtividade, Blogger, Web Designer ]
 category: [ WordPress, Produtividade, Blogger, Web Designer ]
 img: /como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
 author: true
-ediano: true
-luciana: true
+author_ediano: true
+coauthor_luciana: true
 comments: true
 ---
 

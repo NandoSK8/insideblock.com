@@ -7,8 +7,8 @@ tags: [ Dicas, Monetização, Otimização ]
 category: [ Dicas, Monetização, Otimização ]
 img: /melhor-formato-de-anuncios-adsense-para/melhor-formato-de-anuncios-adsense-para.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

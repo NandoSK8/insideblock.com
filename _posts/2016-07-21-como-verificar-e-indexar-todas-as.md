@@ -7,8 +7,8 @@ tags: [ Tutoriais, Otimização ]
 category: [ Tutoriais, Otimização ]
 img: /como-verificar-e-indexar-todas-as/como-verificar-e-indexar-todas-as.png
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

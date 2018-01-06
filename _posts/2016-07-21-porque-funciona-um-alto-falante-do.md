@@ -7,8 +7,8 @@ tags: [ Dicas, Mobile ]
 category: [ Dicas, Mobile ]
 img: /porque-funciona-um-alto-falante-do/porque-funciona-um-alto-falante-do.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

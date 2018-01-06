@@ -7,8 +7,8 @@ tags: [ Tutoriais, Windows, Informática ]
 category: [ Tutoriais, Windows, Informática ]
 img: /resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

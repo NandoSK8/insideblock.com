@@ -7,8 +7,8 @@ tags: [ Códigos Web, Tutoriais, Otimização ]
 category: [ Códigos Web, Tutoriais, Otimização ]
 img: /como-redirecionar-paginas-de-erro-no/como-redirecionar-paginas-de-erro-no.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 

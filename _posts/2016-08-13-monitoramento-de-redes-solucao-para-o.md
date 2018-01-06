@@ -7,8 +7,8 @@ tags: [ Dicas, Segurança, Informática ]
 category: [ Dicas, Segurança, Informática ]
 img: /monitoramento-de-redes-solucao-para-o/monitoramento-de-redes-solucao-para-o.jpg
 author: true
-ediano: true
-luciana: false
+author_author_ediano: true
+coauthor_luciana: false
 comments: true
 ---
 
