@@ -24,17 +24,27 @@
   },"author": {
     "@type": "Person",
     "name": "
-    {% if page.ediano %}
-    {% for people in site.data.ediano %}
-    Autor: {{ people.name }}
-    {% endfor %}
+    {% if page.author_ediano %}
+      {% for people in site.data.ediano %}
+      Autor: {{ people.name }}
+      {% endfor %}
+    {% endif %}
+    {% if page.author_luciana %}
+      {% for people in site.data.luciana_fabiano %}
+      Autor: {{ people.name }}
+      {% endfor %}
     {% endif %}
     ,
-    {% if page.luciana %}
-    {% for people in site.data.luciana_fabiano %}
-    Coautor: {{ people.name }}
-    {% endfor %}
-    {% endif %}    
+    {% if page.coauthor_ediano %}
+      {% for people in site.data.ediano %}
+      Coautor: {{ people.name }}
+      {% endfor %}
+    {% endif %}
+    {% if page.coauthor_luciana %}
+      {% for people in site.data.luciana_fabiano %}
+      Coautor: {{ people.name }}
+      {% endfor %}
+    {% endif %}
     "
   }
 }</script>
