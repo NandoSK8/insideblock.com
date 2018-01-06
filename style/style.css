@@ -11,10 +11,7 @@ body {
 
 div.height {
     height: 500px;
-    background-image: url("/img/site/header.png");
-    background-position: top center;
-    background-size: auto 500px;
-    background-repeat: no-repeat
+    background: linear-gradient(to bottom left, #76C4E2, #8176B5)
 }
 
 .site-description {
