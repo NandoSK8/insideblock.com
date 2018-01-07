@@ -1,29 +1,26 @@
 {% if page.img %}
-<link href='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}' rel='image_src'/>
+<link rel='image_src' href='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}'/>
 {% else %}
-<link href='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}' rel='image_src'/>
+<link rel='image_src' href='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}'/>
 {% endif %}
 
 {% if page.description %}
-<meta content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}' name='description'/>
+<meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}'/>
 {% else %}
-<meta content='{{ site.description }}' name='description'/>
+<meta name='description' content='{{ site.description }}'/>
 {% endif %}
 
-<meta content='{{ page.title }}' property='title'/>
-<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='url'/>
-
-<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='og:url'/>
-<meta content='{{ page.title }}' property='og:title'/>
+<meta property='og:title' content='{{ page.title }}'/>
+<meta property='og:url' content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}'/>
 
 {% if page.description %}
-<meta content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}' property='og:description'/>
+<meta property='og:description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}'/>
 {% else %}
-<meta content='{{ site.description }}' property='og:description'/>
+<meta property='og:description' content='{{ site.description }}'/>
 {% endif %}
 
 {% if page.img %}
-<meta content='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}' property='og:image'/>
+<meta property='og:image' content='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}'/>
 {% else %}
-<meta content='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}' property='og:image'/>
+<meta property='og:image' content='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}'/>
 {% endif %}
