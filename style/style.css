@@ -551,8 +551,7 @@ _____________________________________________________________*/
 }
 
 .post article .info-post .authors a,
-.post article .info-post .times time,
-.post article .info-post .times reading {
+.post article .info-post .times time {
     color: rgba(0, 0, 0, .75);
     font-weight: 500
 }
