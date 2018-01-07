@@ -7,7 +7,7 @@ tags: [ Dicas, Produtividade, Informática ]
 category: [ Dicas, Produtividade, Informática ]
 img: /help-desk-software-solucao-para-sua/help-desk-software-solucao-para-sua.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

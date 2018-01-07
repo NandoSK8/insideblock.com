@@ -7,7 +7,7 @@ tags: [ Tutoriais, Redes Sociais, Otimização ]
 category: [ Tutoriais, Redes Sociais, Otimização ]
 img: /como-criar-uma-pagina-page-no-facebook/como-criar-uma-pagina-page-no-facebook.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

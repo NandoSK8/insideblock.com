@@ -7,7 +7,7 @@ tags: [ Produtividade, Tutoriais, Serviços Online ]
 category: [ Produtividade, Tutoriais, Serviços Online ]
 img: /como-hospedar-arquivos-css-e-js-no/como-hospedar-arquivos-css-e-js-no.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

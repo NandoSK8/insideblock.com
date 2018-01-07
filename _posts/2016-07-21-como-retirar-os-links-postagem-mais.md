@@ -8,7 +8,7 @@ tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 img: /como-retirar-os-links-postagem-mais/como-retirar-os-links-postagem-mais.png
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

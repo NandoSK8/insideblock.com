@@ -7,7 +7,7 @@ tags: [ Blogger, Códigos Web, Tutoriais, Segurança ]
 category: [ Blogger, Códigos Web, Tutoriais, Segurança ]
 img: /como-desativar-selecao-de-texto-no/como-desativar-selecao-de-texto-no.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

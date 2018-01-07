@@ -7,7 +7,7 @@ tags: [ Dicas, Tutoriais, Windows ]
 category: [ Dicas, Tutoriais, Windows ]
 img: /truques-e-atalhos-que-voce-pode-usar-no/truques-e-atalhos-que-voce-pode-usar-no.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

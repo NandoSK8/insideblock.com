@@ -7,7 +7,7 @@ tags: [ Downloads, Tutoriais, Android, Mobile ]
 category: [ Downloads, Tutoriais, Android, Mobile ]
 img: /moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

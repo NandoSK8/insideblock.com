@@ -7,7 +7,7 @@ tags: [ Tutoriais, Windows, Segurança, Informática ]
 category: [ Tutoriais, Windows, Segurança, Informática ]
 img: /quebre-senha-de-qualquer-computador/quebre-senha-de-qualquer-computador.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

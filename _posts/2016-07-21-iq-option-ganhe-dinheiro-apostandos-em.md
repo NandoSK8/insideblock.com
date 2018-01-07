@@ -7,7 +7,7 @@ tags: [ Opções Binárias, Monetização ]
 category: [ Opções Binárias, Monetização ]
 img: /iq-option-ganhe-dinheiro-apostandos-em/iq-option-ganhe-dinheiro-apostandos-em.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

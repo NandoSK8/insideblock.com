@@ -7,7 +7,7 @@ tags: [ Dicas, Serviços Online ]
 categoy: [ Dicas, Serviços Online ]
 img: /acerte-no-alvo-com-o-google-adwords/acerte-no-alvo-com-o-google-adwords.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

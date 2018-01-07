@@ -7,7 +7,7 @@ tags: [ iOS, Dicas, Android, Mobile ]
 category: [ iOS, Dicas, Android, Mobile ]
 img: /acesso-guiado-vs-fixacao-de-tela-quem/acesso-guiado-vs-fixacao-de-tela-quem.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

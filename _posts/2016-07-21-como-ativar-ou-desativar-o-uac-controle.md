@@ -7,7 +7,7 @@ tags: [ Tutoriais, Windows, Segurança, Informática ]
 category: [ Tutoriais, Windows, Segurança, Informática ]
 img: /como-ativar-ou-desativar-o-uac-controle/como-ativar-ou-desativar-o-uac-controle.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

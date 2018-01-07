@@ -7,7 +7,7 @@ tags: [ Dicas, Tutoriais, Android, Mobile ]
 category: [ Dicas, Tutoriais, Android, Mobile ]
 img: /hard-reset-moto-g2-2014-android-60/hard-reset-moto-g2-2014-android-60.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

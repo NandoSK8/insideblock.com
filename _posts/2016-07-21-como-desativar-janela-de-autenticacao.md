@@ -7,7 +7,7 @@ tags: [ Dicas, Tutoriais, Windows, Informática ]
 category: [ Dicas, Tutoriais, Windows, Informática ]
 img: /como-desativar-janela-de-autenticacao/como-desativar-janela-de-autenticacao.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

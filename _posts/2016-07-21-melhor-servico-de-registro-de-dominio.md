@@ -7,7 +7,7 @@ tags: [ Dicas, Serviços Online, Otimização ]
 category: [ Dicas, Serviços Online, Otimização ]
 img: /melhor-servico-de-registro-de-dominio/melhor-servico-de-registro-de-dominio.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

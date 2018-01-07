@@ -7,7 +7,7 @@ tags: [ Códigos Web, Redes Sociais, Otimização ]
 category: [ Códigos Web, Redes Sociais, Otimização ]
 img: /como-ativar-o-comentario-do-google-no/como-ativar-o-comentario-do-google-no.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

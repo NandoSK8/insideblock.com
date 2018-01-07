@@ -7,7 +7,7 @@ tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
 img: /como-colocar-mapa-do-site-no-blogger/como-colocar-mapa-do-site-no-blogger.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

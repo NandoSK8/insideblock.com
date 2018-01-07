@@ -7,7 +7,7 @@ tags: [ Códigos Web, Tutoriais, Redes Sociais ]
 category: [ Códigos Web, Tutoriais, Redes Sociais ]
 img: /botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

@@ -7,7 +7,7 @@ tags: [ Códigos Web, Tutoriais, Otimização ]
 category: [ Códigos Web, Tutoriais, Otimização ]
 img: /caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

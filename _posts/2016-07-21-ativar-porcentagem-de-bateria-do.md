@@ -7,7 +7,7 @@ tags: [ Dicas, Tutoriais, Android, Mobile ]
 category: [ Dicas, Tutoriais, Android, Mobile ]
 img: /ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

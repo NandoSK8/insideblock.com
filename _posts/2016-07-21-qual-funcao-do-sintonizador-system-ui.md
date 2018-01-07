@@ -6,7 +6,7 @@ modified_time: '2017-01-05T21:55:29.518-04:00'
 tags: [ Dicas, Android, Mobile ]
 img: /qual-funcao-do-sintonizador-system-ui/qual-funcao-do-sintonizador-system-ui.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

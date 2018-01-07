@@ -7,7 +7,7 @@ tags: [ iOS, Dicas, Tutoriais, Mobile ]
 category: [ iOS, Dicas, Tutoriais, Mobile ]
 img: /como-ativar-o-assistivetouch-no-iphone/como-ativar-o-assistivetouch-no-iphone.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

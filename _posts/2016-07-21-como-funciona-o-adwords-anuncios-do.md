@@ -7,7 +7,7 @@ tags: [ Dicas, Serviços Online ]
 category: [ Dicas, Serviços Online ]
 img: /como-funciona-o-adwords-anuncios-do/como-funciona-o-adwords-anuncios-do.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

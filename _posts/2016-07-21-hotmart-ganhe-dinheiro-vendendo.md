@@ -7,7 +7,7 @@ tags: [ Monetização, Serviços Online ]
 category: [ Monetização, Serviços Online ]
 img: /hotmart-ganhe-dinheiro-vendendo/hotmart-ganhe-dinheiro-vendendo.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

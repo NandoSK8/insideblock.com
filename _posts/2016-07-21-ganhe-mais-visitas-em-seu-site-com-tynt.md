@@ -7,7 +7,7 @@ tags: [ Dicas, Serviços Online, Otimização ]
 category: [ Dicas, Serviços Online, Otimização ]
 img: /ganhe-mais-visitas-em-seu-site-com-tynt/ganhe-mais-visitas-em-seu-site-com-tynt.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

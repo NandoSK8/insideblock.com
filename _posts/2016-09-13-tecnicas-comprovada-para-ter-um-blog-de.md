@@ -7,7 +7,7 @@ tags: [ Dicas, Otimização ]
 category: [ Dicas, Otimização ]
 img: /tecnicas-comprovada-para-ter-um-blog-de/tecnicas-comprovada-para-ter-um-blog-de.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

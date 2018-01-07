@@ -7,7 +7,7 @@ tags: [ Dicas, Windows, Segurança, Informática ]
 category: [ Dicas, Windows, Segurança, Informática ]
 img: /mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

@@ -7,7 +7,7 @@ tags: [ Dicas, Tutoriais, Windows ]
 category: [ Dicas, Tutoriais, Windows ]
 img: /chrome-sempre-carrega-ultima-pagina-que/chrome-sempre-carrega-ultima-pagina-que.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---

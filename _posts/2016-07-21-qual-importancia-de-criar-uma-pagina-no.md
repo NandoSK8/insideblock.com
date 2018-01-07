@@ -7,7 +7,7 @@ tags: [ Dicas, Redes Sociais, Otimização ]
 category: [ Dicas, Redes Sociais, Otimização ]
 img: /qual-importancia-de-criar-uma-pagina-no/qual-importancia-de-criar-uma-pagina-no.jpg
 author: true
-author_author_ediano: true
+author_ediano: true
 coauthor_luciana: false
 comments: true
 ---
