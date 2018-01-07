@@ -25,7 +25,7 @@ div.height {
     color: #fff
 }
 
-a.top{
+a.top {
     position: fixed;
     right: 10px;
     bottom: 10px;
@@ -65,10 +65,6 @@ a.top{
         margin-left: auto;
         overflow: hidden
     }
-}
-
-strong {
-    font-size: 80% !important
 }
 
 code {
@@ -288,24 +284,23 @@ _____________________________________________________________*/
     border-radius: 3px
 }
 
-.page article .category{
+.page article .category {
     padding: 25px;
     margin: 0 0 25px 0;
     border-bottom: 1px solid rgba(0, 0, 0, .05)
 }
 
-
-.page article .category:hover{
+.page article .category:hover {
     background-color: rgba(0, 0, 0, .05)
 }
 
-.page article h2{
+.page article h2 {
     font-size: 2rem;
     margin: 0
 }
 
-.page article h2 a{
-    color: rgba(31,75,158,1)
+.page article h2 a {
+    color: rgba(31, 75, 158, 1)
 }
 
 .page .social {
