@@ -1,0 +1,27 @@
+{% if page.img %}
+<link href='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}' rel='image_src'/>
+{% else %}
+<link href='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}' rel='image_src'/>
+{% endif %}
+
+{% if page.description %}
+<meta content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}' name='description'/>
+{% else %}
+<meta content='{{ site.description }}' name='description'/>
+{% endif %}
+
+<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='og:url'/>
+
+<meta content='{{ page.title }}' property='og:title'/>
+
+{% if page.description %}
+<meta content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}' property='og:description'/>
+{% else %}
+<meta content='{{ site.description }}' property='og:description'/>
+{% endif %}
+
+{% if page.img %}
+<meta content='{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}' property='og:image'/>
+{% else %}
+<meta content='{{ site.url | append: '/img/logo/inside-block.png' | prepend: site.baseurl }}' property='og:image'/>
+{% endif %}

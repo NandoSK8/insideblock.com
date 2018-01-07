@@ -41,7 +41,7 @@ title: Inside Block
                 <div class="content">
                     <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 
-                    <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 280 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 280 }}{% endif %}</p>
+                    <p class="description">{% if post.description %}{{ post.content | strip_html | strip_newlines | truncate: 280 }}{% endif %}</p>
                     <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}">Continue lendo →</a>
 
                 </div>
