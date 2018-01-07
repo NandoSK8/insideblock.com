@@ -10,8 +10,10 @@
 <meta content='{{ site.description }}' name='description'/>
 {% endif %}
 
-<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='og:url'/>
+<meta content='{{ page.title }}' property='title'/>
+<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='url'/>
 
+<meta content='{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}' property='og:url'/>
 <meta content='{{ page.title }}' property='og:title'/>
 
 {% if page.description %}
