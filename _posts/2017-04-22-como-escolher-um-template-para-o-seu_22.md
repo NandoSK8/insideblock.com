@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Como escolher um template para o seu blog
-description: ""
+description: "Escolher um modelo de site que agrada os usuários é algo primordial, independente do assunto proposto pelo blog. Por outro lado devemos levar em consideração o estudo do público alvo, descobrir novas tendências e acompanhar as exigências da atualidade."
 date: '2017-04-22T16:49:00.002-04:00'
-modified_time: '2017-07-11T00:50:06.485-04:00'
+modified_time: '2018-01-07T20:50:06.485-04:00'
 tags: [ WordPress, Produtividade, Blogger, Web Designer ]
 category: [ WordPress, Produtividade, Blogger, Web Designer ]
 img: /como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
