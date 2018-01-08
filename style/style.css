@@ -304,11 +304,8 @@ _____________________________________________________________*/
 }
 
 .page .social {
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    display: flex;
-    margin: 20px 0 10px 0
+    margin: 20px 0 10px 0;
+    overflow: hidden
 }
 
 .page .social a img {
