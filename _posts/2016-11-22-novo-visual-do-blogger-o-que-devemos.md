@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Novo visual do Blogger: O que devemos esperar da novidade'
+description: "O Google pretende lançar um novo visual para a plataforma Blogger, entretanto ela ainda não está acessível no endereço da página principal, caso queira fazer um teste antes de qualquer usuário acompanhe o artigo"
 date: '2016-11-22T22:34:00.002-04:00'
 modified_time: '2017-06-11T23:49:08.288-04:00'
 tags: [ Dicas, Blogger, Serviços Online ]

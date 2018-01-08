@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Como escolher um template para o seu blog
+description: ""
 date: '2017-04-22T16:49:00.002-04:00'
 modified_time: '2017-07-11T00:50:06.485-04:00'
 tags: [ WordPress, Produtividade, Blogger, Web Designer ]

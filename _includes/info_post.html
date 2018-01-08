@@ -26,7 +26,7 @@
 
 <div class="times">
     <div class="time">Em:
-        <time>{% include date.html %}</time>
+        <time>{{ site.time | date_to_long_string }}</time>
     </div>
 </div>
 </div>
