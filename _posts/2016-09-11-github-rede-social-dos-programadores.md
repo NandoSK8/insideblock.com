@@ -22,7 +22,7 @@ O serviço trabalha com Git, um sistema de controle de versão, isso é ótimos 
 
 É possível gerenciar os projeto do GitHub via navegação web através de um navegador ou aplicativo instalado no computador, tanto para Windows, Mac e Linux.
 
-O serviço é tão completo que os usuários pode desenvolver qualquer tipo de aplicação, desde a criação de software, apps para smartphones, web à <a href="http://www.insideblock.com/2016/09/como-hospedar-arquivos-css-e-js-no.html" target="_blank">hospedagem de sites e outros servições</a>, ele suporta mais de 100 tipos de extensões como .css, .js, .dll, .txt entre outras.
+O serviço é tão completo que os usuários pode desenvolver qualquer tipo de aplicação, desde a criação de software, apps para smartphones, web à <a href="http://www.insideblock.com/post/como-hospedar-arquivos-css-e-js-no.html" target="_blank">hospedagem de sites e outros servições</a>, ele suporta mais de 100 tipos de extensões como .css, .js, .dll, .txt entre outras.
 
 Como ele é voltado para experts, códigos maliciosos são detectados com menos dificuldade pelo usuário, mesmo assim ainda existe projetos infectados, por isso tenha cuidado ao realizar testes ou usar códigos de terceiros, cheque se o desenvolvedor tem um bom histórico.
 

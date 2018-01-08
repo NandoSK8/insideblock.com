@@ -15,16 +15,16 @@ comments: true
 
 Hoje existe um grande número de blogs espalhados pela internet, cada um com uma identidade diferente, uma forma de chamar a atenção dos leitores, tanto pelo bom conteúdo quanto pelo ótimo modelo que facilita a navegação dos usuários.
 
-Criar um blog não é apenas publicar um artigo ou uma imagem na internet, um blog antes de tudo se inicia na escolha do <a href="https://www.insideblock.com/2016/07/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, depois parte para a escolha do modelo e por último publicam-se os conteúdos.
+Criar um blog não é apenas publicar um artigo ou uma imagem na internet, um blog antes de tudo se inicia na escolha do <a href="https://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, depois parte para a escolha do modelo e por último publicam-se os conteúdos.
 
 Escolher um modelo de acordo com o assunto proposto no blog, nem sempre é fácil, principalmente para os blogueiros iniciantes. Mas o que devemos fazer, por onde devemos iniciar, o que temos que analisar antes de aplicar qualquer template em um blog?
 
 ## Nicho de mercado
-Muitos usuários questionam esta análise, ou pouco se importam com ela, entretanto este é o prato principal, quanto mais você trabalhar com o <a href="http://www.insideblock.com/2016/07/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, maiores são os resultados de um blog.
+Muitos usuários questionam esta análise, ou pouco se importam com ela, entretanto este é o prato principal, quanto mais você trabalhar com o <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, maiores são os resultados de um blog.
 
 Mas onde isso se encaixa quando se trata de escolher um modelo para um blog? Bom, este fato se encaixa em todas as análises, imagine um blog que aborda assuntos sobre tecnologia com um modelo voltado para o público infantil (eu exagerei um pouco fazendo esta análise), porém isso finda acontecendo, a falta de experiência do administrador de um blog pode levar tudo a perder.
 
-A melhor forma de escolher um modelo para o seu blog é estudando o <a href="http://www.insideblock.com/2016/07/acerte-no-alvo-com-o-google-adwords.html" target="_blank">público alvo</a>, procure saber o que cada um dos usuários quer encontrar dentro do blog (ferramenta de navegação), e com isso construa uma base de dados, para criar um layout que de fato ajuda os leitores, facilita a navegação do site e constrói um vínculo entre aparência e usuário.
+A melhor forma de escolher um modelo para o seu blog é estudando o <a href="http://www.insideblock.com/post/acerte-no-alvo-com-o-google-adwords.html" target="_blank">público alvo</a>, procure saber o que cada um dos usuários quer encontrar dentro do blog (ferramenta de navegação), e com isso construa uma base de dados, para criar um layout que de fato ajuda os leitores, facilita a navegação do site e constrói um vínculo entre aparência e usuário.
 
 ## Layout
 O layout de um blog é uma das partes chave mais simples de escolher. Primeiro: você determina onde deve ficar o cabeçalho do blog (logotipo). Segundo: escolhe-se quais os tipos de ferramentas de navegação se quer ter implantado dentro da página, um menu, uma barra de postagens populares ou algo do tipo. Terceiro: escolhe-se um espaço para publicar o conteúdo e demarca-se um rodapé que faz referência ao assunto do blog, referências sobre o autor ou link para as redes sociais.

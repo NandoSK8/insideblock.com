@@ -12,7 +12,7 @@ coauthor_luciana: false
 comments: true
 ---
 
-O GitHub é um tipo de <a href="http://www.insideblock.com/2016/09/github-rede-social-dos-programadores.html" target="_blank">rede social para programadores</a>, que permitir que os usuários desenvolvam seus códigos e hospedado no mesmo. Outra função interessante é a possibilidade de hospedar seu website e executá-lo diretamente de dentro dele 100% free, sem a necessidade de um servidor ou de pagar um serviço de hospedagem.
+O GitHub é um tipo de <a href="http://www.insideblock.com/post/github-rede-social-dos-programadores.html" target="_blank">rede social para programadores</a>, que permitir que os usuários desenvolvam seus códigos e hospedado no mesmo. Outra função interessante é a possibilidade de hospedar seu website e executá-lo diretamente de dentro dele 100% free, sem a necessidade de um servidor ou de pagar um serviço de hospedagem.
 
 Neste artigos vamos lhe ensinar a hospedar arquivos *css e *js, que possa ser executado de dentro do GitHub para o seu site como incorporação de layout.
 

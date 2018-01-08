@@ -19,12 +19,12 @@ O site é uma página mais formal e reservada do que um blog, é como se fosse a
 Já o blog é como se fosse o seu amigo que gosta de compartilhar coisas, que quer contar suas opiniões, falar sobre seus hobbies.
 
 ## Objetivo
-**Blog:** Informar e interagir com pessoas e clientes que se interessam pelo assuntos e temas que complementam o <a href="http://www.insideblock.com/2016/07/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
+**Blog:** Informar e interagir com pessoas e clientes que se interessam pelo assuntos e temas que complementam o <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
 
 **Site:** Informa e divulgar a própria marca, produtos/serviços e potencializar no mercado negócios.
 
 ## Conteúdo
-**Blog:** Geralmente focado em um tema específico que agrada o publico alvo, com grande fluxo de atualização voltado para o <a href="http://www.insideblock.com/2016/07/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
+**Blog:** Geralmente focado em um tema específico que agrada o publico alvo, com grande fluxo de atualização voltado para o <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
 
 **Site:** Mais rígido com o índice de aprovação do publico alvo, mais formal com a divulgação de seus conteúdos, tem um baixo fluxo de atualizações.
 
@@ -41,6 +41,6 @@ Já o blog é como se fosse o seu amigo que gosta de compartilhar coisas, que qu
 ## Desenvolvimento
 **Blog:** Para desenvolver um blog é muito simples, hoje existe centenas de plataforma que oferece serviços gratuitos assim como Blogger e WordPress, essas duas ferramentas são as mais populares do mundo, e todas elas vem com ferramentas de edição para pessoas que não sabe editar em html e css.
 
-**Site** Geralmente é mais complicado pois envolve muitas pessoas, assim como profissionais na área de TI ou agências especializadas em desenvolvimento de website, para fazer implantações de sistema de <a href="http://www.insideblock.com/2016/07/help-desk-software-solucao-para-sua.html" target="_blank">Help desk</a> caso necessário.
+**Site** Geralmente é mais complicado pois envolve muitas pessoas, assim como profissionais na área de TI ou agências especializadas em desenvolvimento de website, para fazer implantações de sistema de <a href="http://www.insideblock.com/post/help-desk-software-solucao-para-sua.html" target="_blank">Help desk</a> caso necessário.
 
 Agora que você já sabe qual a diferença de um site e um blog, você já está pronto para começar o seu próprio negócio na internet, aproveite o seu conhecimento e faça dela uma oportunidade de sucesso.

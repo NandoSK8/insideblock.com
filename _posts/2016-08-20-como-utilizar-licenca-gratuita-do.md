@@ -16,7 +16,7 @@ Até pouco tempo a Microsoft estava liberando a atualização gratuita do Window
 
 **Antes de começa, o seu Windows tem que seguir alguns pré-requisitos**
 
-.Windows 10 original, adquirido a partir do update do Windows 7/8/8.1.<br />.Uma conta de e-mail da Microsoft (outlook ou hotmail), se você ainda não tem uma conta, crie uma nesse link.<br /><br />Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/2016/07/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
+.Windows 10 original, adquirido a partir do update do Windows 7/8/8.1.<br />.Uma conta de e-mail da Microsoft (outlook ou hotmail), se você ainda não tem uma conta, crie uma nesse link.<br /><br />Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/post/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
 
 1. Abra as Configurações do Windows ícone de roda dentada.
 

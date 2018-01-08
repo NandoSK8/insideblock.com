@@ -17,7 +17,7 @@ O Blogger permite que você faça o backup completo de seus conteúdos e templat
 ## Onde salvar seus arquivos de backup
 Antes de iniciarmos gostaria de deixar algumas dicas de onde você pode salvar seus arquivos de backup, para salvar os arquivos de backup você pode usar o seu próprio computador, dispositivos como HD externo ou pendrive, serviços em nuvem entre outros.
 
-Para o arquivo de template temos uma indicação especial de armazenamento em nuvem, um serviço de controle de versão para desenvolvedores, o GitHub, inclusive já falamos como ele funciona <a href="http://www.insideblock.com/2016/09/github-rede-social-dos-programadores.html" target="_blank">neste artigo</a> e nesse outros fizemos um tutorial de <a href="http://www.insideblock.com/2016/09/como-hospedar-arquivos-css-e-js-no.html" target="_blank">como hospedar seus arquivos css e js no GitHub</a>.
+Para o arquivo de template temos uma indicação especial de armazenamento em nuvem, um serviço de controle de versão para desenvolvedores, o GitHub, inclusive já falamos como ele funciona <a href="http://www.insideblock.com/post/github-rede-social-dos-programadores.html" target="_blank">neste artigo</a> e nesse outros fizemos um tutorial de <a href="http://www.insideblock.com/post/como-hospedar-arquivos-css-e-js-no.html" target="_blank">como hospedar seus arquivos css e js no GitHub</a>.
 
 ## Salvar uma cópia do modelo do blog
 
@@ -40,7 +40,7 @@ Para o arquivo de template temos uma indicação especial de armazenamento em nu
 3. Clique em **Fazer upload**, aguarde o arquivo à ser carregado.
 
 ## Fazer cópia das postagens, páginas e comentários
-Se você estiver usando o <a href="http://www.insideblock.com/2016/07/como-ativar-o-comentario-do-google-no.html" target="_blank">comentário do Google +</a>, o backup do mesmo não será realizado, para que os comentários também seja copiado mude para os comentários do Blogger.
+Se você estiver usando o <a href="http://www.insideblock.com/post/como-ativar-o-comentario-do-google-no.html" target="_blank">comentário do Google +</a>, o backup do mesmo não será realizado, para que os comentários também seja copiado mude para os comentários do Blogger.
 
 1. Faça login no Blogger.
 

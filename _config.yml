@@ -5,7 +5,7 @@ author: 'Ediano Silva Santos'
 url: http://www.insideblock.com
 baseurl: ""
 paginate_path: "/page/:num/"
-permalink: /:year/:month/:title.html
+permalink: /post/:title
 
 markdown: kramdown
 highlighter: rouge

@@ -23,7 +23,7 @@ Após <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank">ba
 
 * **Search:** A função de pesquisa do VS Code e muito eficiente, porém até o momento ela pesquisa apenas por arquivos ou pastas que já tenha sido aberta anteriormente pelo software, para encontrar um arquivo basta pesquisar pelo nome ou pela extensão da linguagem de programação.
 
-* **Git:** O Git é muito importante, para quem não sabe o que é esta função, ela é um controle de versão que funciona como o <a href="http://www.insideblock.com/2016/09/github-rede-social-dos-programadores.html" target="_blank">GitHub</a>, o controle de versão do VS Code não precisa de login, ela salva pequenos arquivos temporário na memoria do computador, acelerando ainda mais o desenvolvimento do projeto.
+* **Git:** O Git é muito importante, para quem não sabe o que é esta função, ela é um controle de versão que funciona como o <a href="http://www.insideblock.com/post/github-rede-social-dos-programadores.html" target="_blank">GitHub</a>, o controle de versão do VS Code não precisa de login, ela salva pequenos arquivos temporário na memoria do computador, acelerando ainda mais o desenvolvimento do projeto.
 
 * **Debug:** Como em qualquer outro IDE, o debug é o depurador de códigos que realiza teste, descobre falhas e acertos, facilita o nosso trabalho e garante que os projetos fique livre de possíveis problemas no futuro.
 
