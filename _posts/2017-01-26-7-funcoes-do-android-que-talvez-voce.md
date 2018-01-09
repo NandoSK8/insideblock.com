@@ -4,8 +4,8 @@ title: 7 funções do Android que talvez você não conheça
 description: "O Android é o sistema operacional mobile mais popular do mundo. Apesar do seu tão popular reconhecimento, será que você conhece todas as funções disponíveis nele? Mostraremos aqui 7 delas, porém ele tem muito mais que isso."
 date: '2017-01-26T23:22:00.000-04:00'
 modified_time: '2017-06-11T23:44:01.342-04:00'
-tags: [ Dicas, Android, Mobile ]
-category: [ Dicas, Android, Mobile ]
+tags: [Android, Mobile, Sistema Operacional]
+category: [Mobile]
 img: /7-funcoes-do-android-que-talvez-voce/7-funcoes-do-android-que-talvez-voce.jpg
 author: true
 author_ediano: true

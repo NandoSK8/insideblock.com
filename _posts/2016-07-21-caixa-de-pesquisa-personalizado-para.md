@@ -3,8 +3,8 @@ layout: post
 title: Caixa de pesquisa personalizado para blogs
 date: '2016-07-21T17:18:00.000-04:00'
 modified_time: '2016-12-05T09:30:45.670-04:00'
-tags: [ Códigos Web, Tutoriais, Otimização ]
-category: [ Códigos Web, Tutoriais, Otimização ]
+tags: [Desenvolvimento Web, Otimização, SEO]
+category: [Desenvolvimento Web]
 img: /caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
 author: true
 author_ediano: true

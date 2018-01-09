@@ -3,8 +3,8 @@ layout: post
 title: Códigos de trapaça do GTA 5 para PS3, Xbox 360 e PC
 date: '2016-08-16T20:57:00.000-04:00'
 modified_time: '2016-10-02T00:51:19.801-04:00'
-tags: [ Dicas, Tutoriais, Games ]
-category: [ Dicas, Tutoriais, Games ]
+tags: [Games, Console]
+category: [Games]
 img: /codigos-de-trapaca-do-gta-5-para-ps3/codigos-de-trapaca-do-gta-5-para-ps3.jpg
 author: true
 author_ediano: true

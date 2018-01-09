@@ -3,8 +3,8 @@ layout: post
 title: Ganhe dinheiro com seu blog exibindo anúncios
 date: '2016-09-25T22:41:00.001-04:00'
 modified_time: '2016-11-05T21:34:42.289-04:00'
-tags: [ WordPress, Blogger, Tutoriais, Monetização ]
-category: [ WordPress, Blogger, Tutoriais, Monetização ]
+tags: [Monetização, Serviços Online]
+category: [Monetização]
 img: /ganhe-dinheiro-com-seu-blog-exibindo/ganhe-dinheiro-com-seu-blog-exibindo.jpg
 author: true
 author_ediano: true

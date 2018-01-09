@@ -3,8 +3,8 @@ layout: post
 title: Fazer backup, restaurar arquivos e excluir blogger
 date: '2016-09-29T23:25:00.000-04:00'
 modified_time: '2016-10-10T15:06:58.740-04:00'
-tags: [ Blogger, Tutoriais, Segurança ]
-category: [ Blogger, Tutoriais, Segurança ]
+tags: [Blogger, Desenvolvimento Web, Segurança Digital]
+category: [Segurança Digital]
 img: /fazer-backup-restaurar-arquivos-e/fazer-backup-restaurar-arquivos-e.jpg
 author: true
 author_ediano: true

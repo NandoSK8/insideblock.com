@@ -1,0 +1,6 @@
+---
+layout: category
+title: Seguranca Digital
+category: Seguranca Digital
+permalink: /category/Seguranca Digital/
+---

@@ -3,8 +3,8 @@ layout: post
 title: Como criar duas contas no twitter com o mesmo e-mail
 date: '2016-07-21T16:37:00.000-04:00'
 modified_time: '2016-10-01T01:26:52.747-04:00'
-tags: [ Tutoriais, Redes Sociais ]
-category: [ Tutoriais, Redes Sociais ]
+tags: [Otimização, Redes Sociais, Serviços Online]
+category: [Otimização]
 img: /como-criar-2-contas-no-twitter-com-o/como-criar-2-contas-no-twitter-com-o.jpg
 author: true
 author_ediano: true

@@ -4,8 +4,8 @@ title: Como retirar os links (Postagem mais recente, Início e Postagem mais ant
   do Blogger
 date: '2016-07-21T16:40:00.000-04:00'
 modified_time: '2016-12-05T09:30:45.691-04:00'
-tags: [ Blogger, Códigos Web, Tutoriais, Otimização ]
-category: [ Blogger, Códigos Web, Tutoriais, Otimização ]
+tags: [Blogger, Desenvolvimento Web, Otimização]
+category: [Desenvolvimento Web]
 img: /como-retirar-os-links-postagem-mais/como-retirar-os-links-postagem-mais.png
 author: true
 author_ediano: true

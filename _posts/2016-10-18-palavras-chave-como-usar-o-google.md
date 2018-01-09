@@ -3,8 +3,8 @@ layout: post
 title: 'Palavras-chave: Como usar o Google AdWords #Parte 1'
 date: '2016-10-18T23:48:00.000-04:00'
 modified_time: '2016-10-18T23:48:04.492-04:00'
-tags: [ Dicas, Segurança, Otimização ]
-category: [ Dicas, Segurança, Otimização ]
+tags: [SEO, Otimização]
+category: [Otimização]
 img: /palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg
 author: true
 author_ediano: true

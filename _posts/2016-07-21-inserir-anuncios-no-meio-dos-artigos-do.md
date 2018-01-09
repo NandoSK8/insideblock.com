@@ -3,8 +3,8 @@ layout: post
 title: Inserir anúncios no meio dos artigos do Blogger
 date: '2016-07-21T17:59:00.000-04:00'
 modified_time: '2016-12-05T09:30:59.330-04:00'
-tags: [ Blogger, Códigos Web, Monetização, Otimização ]
-category: [ Blogger, Códigos Web, Monetização, Otimização ]
+tags: [ Blogger, Monetização, Otimização ]
+category: [Monetização]
 img: /inserir-anuncios-no-meio-dos-artigos-do/inserir-anuncios-no-meio-dos-artigos-do.jpg
 author: true
 author_ediano: true

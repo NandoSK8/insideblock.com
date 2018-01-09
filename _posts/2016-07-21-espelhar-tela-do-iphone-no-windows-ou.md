@@ -3,8 +3,8 @@ layout: post
 title: Espelhar tela do iPhone no Windows ou Mac OS
 date: '2016-07-21T13:14:00.000-04:00'
 modified_time: '2016-10-02T00:26:37.640-04:00'
-tags: [ iOS, Tutoriais, Windows, Informática, Mobile ]
-category: [ iOS, Tutoriais, Windows, Informática, Mobile ]
+tags: [ iOS, Sistema Operacional, Windows, Informática, Mobile ]
+category: [Mobile]
 img: /espelhar-tela-do-iphone-no-windows-ou/espelhar-tela-do-iphone-no-windows-ou.jpg
 author: true
 author_ediano: true

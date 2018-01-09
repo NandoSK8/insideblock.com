@@ -3,8 +3,8 @@ layout: post
 title: Erros que eu cometi ao criar o meu primeiro blog
 date: '2016-09-16T18:39:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.761-04:00'
-tags: [ Dicas, Produtividade, Otimização ]
-category: [ Dicas, Produtividade, Otimização ]
+tags: [SEO, Otimização]
+category: [Otimização]
 img: /erros-que-eu-cometi-ao-criar-o-meu/erros-que-eu-cometi-ao-criar-o-meu.jpg
 author: true
 author_ediano: true

@@ -1,26 +1,8 @@
-- name: Android
-  link: /category/Android
-
-- name: Blogger
-  link: /category/Blogger
-
-- name: Códigos Web
-  link: /category/Códigos Web
-
-- name: Dicas
-  link: /category/Dicas
-
-- name: Downloads
-  link: /category/Downloads
+- name: Desenvolvimento Web
+  link: /category/Desenvolvimento Web
 
 - name: Games
   link: /category/Games
-
-- name: Informática
-  link: /category/Informática
-
-- name: iOS
-  link: /category/iOS
 
 - name: Mobile
   link: /category/Mobile
@@ -28,32 +10,17 @@
 - name: Monetização
   link: /category/Monetização
 
-- name: Opções Binárias
-  link: /category/Opções Binárias
+- name: Notícias
+  link: /category/Notícias
 
 - name: Otimização
   link: /category/Otimização
 
-- name: Prudutividade
-  link: /category/Produtividade
+- name: Segurança Digital
+  link: /category/Segurança Digital
 
-- name: Redes Sociais
-  link: /category/Redes Sociais
+- name: Sistema Operacional
+  link: /category/Sistema Operacional
 
-- name: Segurança
-  link: /category/Segurança
-
-- name: Serviços Online
-  link: /category/Serviços Online
-
-- name: Tutoriais
-  link: /category/Tutoriais
-
-- name: Web Designer
-  link: /category/Web Designer
-
-- name: Windows
-  link: /category/Windows
-
-- name: WordPress
-  link: /category/WordPress
+- name: Software
+  link: /category/Software

@@ -3,8 +3,8 @@ layout: post
 title: Como criar e usar o FeedBurner para blogs
 date: '2016-09-18T20:56:00.003-04:00'
 modified_time: '2016-10-02T01:09:19.869-04:00'
-tags: [ Dicas, Tutoriais, Otimização ]
-category: [ Dicas, Tutoriais, Otimização ]
+tags: [SEO, Otimização]
+category: [Otimização]
 img: /como-criar-e-usar-o-feedburner-para/como-criar-e-usar-o-feedburner-para.jpg
 author: true
 author_ediano: true

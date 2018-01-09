@@ -3,8 +3,8 @@ layout: post
 title: Como hospedar arquivos css e js no GitHub
 date: '2016-09-13T19:24:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.765-04:00'
-tags: [ Produtividade, Tutoriais, Serviços Online ]
-category: [ Produtividade, Tutoriais, Serviços Online ]
+tags: [Desenvolvimento Web, Serviços Online, Redes Sociais]
+category: [Desenvolvimento Web]
 img: /como-hospedar-arquivos-css-e-js-no/como-hospedar-arquivos-css-e-js-no.jpg
 author: true
 author_ediano: true

@@ -3,8 +3,8 @@ layout: post
 title: Resumo de postagem automático com imagem para Blogger
 date: '2016-09-17T19:01:00.000-04:00'
 modified_time: '2016-12-05T09:28:18.201-04:00'
-tags: [ Blogger, Códigos Web, Tutoriais ]
-category: [ Blogger, Códigos Web, Tutoriais ]
+tags: [Desenvolvimento Web, Otimização, SEO]
+category: [Desenvolvimento Web]
 img: /resumo-de-postagem-automatico-com/resumo-de-postagem-automatico-com.jpg
 author: true
 author_ediano: true
