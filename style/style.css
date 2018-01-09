@@ -360,21 +360,22 @@ aside .feed::before {
 aside .category .title {
     padding: 25px 15px;
     margin: 0;
+    font-weight: 600;
     color: #fff;
-    background-color: #26a69a
+    background-color: #00897b
 }
 
 aside .category ul.content {
     position: relative;
-    padding: 0 25px 50px 25px;
+    padding: 0;
     margin: 0;
-    background-color: #009688;
     overflow: hidden
 }
 
 aside .category ul.content li {
-    padding: 5px 0;
-    margin: 10px
+    padding: 25px;
+    border-bottom: 1px solid rgba(0, 0, 0, .075);
+    background-color: #009688
 }
 
 aside .category ul.content li:hover::before {
@@ -386,7 +387,10 @@ aside .category ul.content li:hover::before {
 
 aside .category li a {
     display: block;
-    color: rgba(255, 255, 255, .75)
+    font-size: 1rem;
+    margin: 0 15px;
+    color: rgba(255, 255, 255, .75);
+    font-weight: 500
 }
 
 aside .category li a:hover {
