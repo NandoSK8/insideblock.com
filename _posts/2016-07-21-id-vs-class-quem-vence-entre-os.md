@@ -3,7 +3,7 @@ layout: post
 title: ID vs CLASS quem vence entre os seletores HTML
 date: '2016-07-21T18:49:00.000-04:00'
 modified_time: '2016-12-05T09:30:59.332-04:00'
-tags: [Desenvolvimento Web, Otimização]
+tags: [Desenvolvimento, Códigos, Otimização]
 category: [Desenvolvimento Web]
 img: /id-vs-class-quem-vence-entre-os/id-vs-class-quem-vence-entre-os.jpg
 author: true

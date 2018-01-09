@@ -3,8 +3,8 @@ layout: post
 title: GitHub a rede social dos programadores
 date: '2016-09-11T16:10:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.773-04:00'
-tags: [Desenvolvimento Web, Serviços Online, Redes Sociais]
-category: [Desenvolvimento Web]
+tags: [Redes Sociais, SEO, Otimização]
+category: [Serviços Online]
 img: /github-rede-social-dos-programadores/github-rede-social-dos-programadores.jpg
 author: true
 author_ediano: true

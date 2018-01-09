@@ -1,26 +1,26 @@
-- name: Desenvolvimento Web
-  link: /category/Desenvolvimento Web
+- name: Aplicação
+  link: /category/aplicacao
 
-- name: Games
-  link: /category/Games
+- name: Desenvolvimento Web
+  link: /category/desenvolvimento-web
 
 - name: Mobile
-  link: /category/Mobile
+  link: /category/mobile
 
 - name: Monetização
-  link: /category/Monetização
+  link: /category/monetizacao
 
 - name: Notícias
-  link: /category/Notícias
+  link: /category/noticias
 
 - name: Otimização
-  link: /category/Otimização
+  link: /category/otimizacao
 
 - name: Segurança Digital
-  link: /category/Segurança Digital
+  link: /category/seguranca-digital
 
-- name: Sistema Operacional
-  link: /category/Sistema Operacional
+- name: Serviços Online
+  link: /category/servicos-online
 
-- name: Software
-  link: /category/Software
+- name: Sistema
+  link: /category/sistema

@@ -3,7 +3,7 @@ layout: post
 title: Qual a diferença entre um site e um blog
 date: '2016-08-18T19:26:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.776-04:00'
-tags: [Desenvolvimento Web, SEO, Otimização]
+tags: [Desenvolvimento, SEO, Otimização]
 category: [Desenvolvimento Web]
 img: /qual-diferenca-entre-um-site-e-um-blog/qual-diferenca-entre-um-site-e-um-blog.jpg
 author: true

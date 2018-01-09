@@ -2,5 +2,5 @@
 layout: category
 title: Monetização
 category: Monetização
-permalink: /category/Monetização/
+permalink: /category/monetizacao/
 ---

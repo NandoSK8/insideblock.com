@@ -2,5 +2,5 @@
 layout: category
 title: Mobile
 category: Mobile
-permalink: /category/Mobile/
+permalink: /category/mobile/
 ---

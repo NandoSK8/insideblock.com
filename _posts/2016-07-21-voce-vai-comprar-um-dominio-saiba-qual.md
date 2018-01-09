@@ -3,8 +3,8 @@ layout: post
 title: Você vai comprar um domínio? Saiba qual a melhor extensão
 date: '2016-07-21T18:34:00.000-04:00'
 modified_time: '2016-10-02T00:36:53.539-04:00'
-tags: [Serviços Online, Otimização]
-category: [Otimização]
+tags: [SEO, Otimização, Desenvolvimento]
+category: [Serviços Online]
 img: /voce-vai-comprar-um-dominio-saiba-qual/voce-vai-comprar-um-dominio-saiba-qual.jpg
 author: true
 author_ediano: true

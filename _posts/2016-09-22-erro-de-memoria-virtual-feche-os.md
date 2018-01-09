@@ -3,8 +3,8 @@ layout: post
 title: Erro de memoria virtual - Feche os programas para impedir a perda de informações
 date: '2016-09-22T11:25:00.001-04:00'
 modified_time: '2016-10-15T02:08:51.163-04:00'
-tags: [Sistema Operacional, Windows, Informática]
-category: [Sistema Operacional]
+tags: [Funcionalidade, Sistema, Aplicação]
+category: [Aplicação]
 img: /erro-de-memoria-virtual-feche-os/erro-de-memoria-virtual-feche-os.jpg
 author: true
 author_ediano: true

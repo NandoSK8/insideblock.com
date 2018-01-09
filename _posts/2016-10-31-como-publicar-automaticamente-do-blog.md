@@ -3,8 +3,8 @@ layout: post
 title: Como publicar automaticamente do blog para as redes sociais
 date: '2016-10-31T18:50:00.000-04:00'
 modified_time: '2016-11-24T00:34:01.636-04:00'
-tags: [Serviços Online, Otimização]
-category: [Otimização]
+tags: [Desenvolvimento, SEO, Otimização]
+category: [Serviços Online]
 img: /como-publicar-automaticamente-do-blog/como-publicar-automaticamente-do-blog.jpg
 author: true
 author_ediano: true

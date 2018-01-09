@@ -3,7 +3,7 @@ layout: post
 title: 5 passos fundamentais para cria artigos de sucesso
 date: '2016-07-21T14:51:00.000-04:00'
 modified_time: '2016-09-30T20:39:42.436-04:00'
-tags: [SEO, Otimização]
+tags: [SEO, Otimização, Aplicação]
 category: [Otimização]
 img: /5-passos-fundamentais-para-cria-artigos/5-passos-fundamentais-para-cria-artigos.jpg
 author: true
