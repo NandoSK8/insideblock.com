@@ -31,7 +31,7 @@ Se o seu PC físico estiver dentro dos pré-requisitos, podemos iniciar a instal
 
 5. Agora em “**File location and size**”, escolha o tamanho do HD que você deseja usar na VM. Recomendo deixar como padrão, caso use para fazer testes simples e criação de poucos arquivos. Mas se você costuma fazer testes com arquivos grandes, neste caso recomendo que aumente o tamanho do mesmo.
 
-6. Clique em “**Create**”, veja que agora você voltou para a janela inicial do VirtualBox. Ao clicar sobre a VM do lado direito serão exibidas informações de configurações, clique com o botão direito do mouse em uma das áreas das informações e habilite todas as funções que  estiverem desativadas.
+6. Clique em “**Create**”, veja que agora você voltou para a janela inicial do VirtualBox. Ao clicar sobre a VM do lado direito serão exibidas informações de configurações, clique com o botão direito do mouse em uma das áreas das informações e habilite todas as funções que estiverem desativadas.
 
 Até aqui tudo certo, nossa VM já está criada e configurada, porém ela ainda não vai funcionar, pois agora iremos instalar o sistema operacional. Como foi criada a VM para atender os requisitos do Windows 7, novamente será instalado o mesmo. Para isso será preciso um DVD ou ISO original do sistema, independente da plataforma escolhida!
 

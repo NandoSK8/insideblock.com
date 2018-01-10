@@ -13,7 +13,7 @@ coauthor_luciana: true
 comments: true
 ---
 
-Você quer migrar todos os conteúdos do seu Blogger para o WordPress, sem correr o risco de perder nenhum artigo? Bom, estamos aqui te ajudar com esta tarefa. Este tutorial mostra passo a passo como você pode migrar suas postagens para o WordPres<span/>.com e/ou WordPress<span/>.org.
+Você quer migrar todos os conteúdos do seu Blogger para o WordPress, sem correr o risco de perder nenhum artigo? Bom, estamos aqui para te ajudar com esta tarefa. Este tutorial mostra passo a passo como você pode migrar suas postagens para o WordPres<span/>.com e/ou WordPress<span/>.org.
 
 Antes de iniciarmos gostaria que você soubesse que WordPress<span/>.com é um site que oferece um serviço gratuito de criação e hospedagem de blogs. No WordPress<span/>.org, para o seu blog ir no ar, você precisa ter uma hospedagem de site, além do registro obrigatório de um domínio próprio (ex: example<span/>.com).
 
