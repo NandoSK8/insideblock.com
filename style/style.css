@@ -316,6 +316,18 @@ _____________________________________________________________*/
     margin: 0 10px
 }
 
+.erro .progress .indeterminate:after {
+    -webkit-animation: indeterminate-short 5s cubic-bezier(0.165, 0.84, 0.44, 1) infinite !important;
+    animation: indeterminate-short 5s cubic-bezier(0.165, 0.84, 0.44, 1) infinite !important;
+    -webkit-animation-delay: 5s !important;
+    animation-delay: 5s !important;
+}
+
+.erro .progress .indeterminate:before {
+    -webkit-animation: indeterminate 5s cubic-bezier(0.65, 0.815, 0.735, 0.395) infinite !important;
+    animation: indeterminate 5s cubic-bezier(0.65, 0.815, 0.735, 0.395) infinite !important;
+}
+
 
 /* Aside
 _____________________________________________________________*/
