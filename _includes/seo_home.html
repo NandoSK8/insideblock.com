@@ -34,17 +34,6 @@
       Autor: {{ people.name }}
       {% endfor %}
     {% endif %}
-    ,
-    {% if post.coauthor_ediano %}
-      {% for people in site.data.ediano %}
-      Coautor: {{ people.name }}
-      {% endfor %}
-    {% endif %}
-    {% if post.coauthor_luciana %}
-      {% for people in site.data.luciana_fabiano %}
-      Coautor: {{ people.name }}
-      {% endfor %}
-    {% endif %}
     "
   }
 }</script>
