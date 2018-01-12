@@ -688,19 +688,38 @@ _____________________________________________________________*/
     margin: 0 0 15px 0 !important
 }
 
-.post article .related_posts li a {
-    padding: 20px 0;
-    margin: 0 10px 20px 10px;
-    color: rgba(56, 60, 86, 1);
-    font-weight: 700;
-    display: block;
-    border-bottom: 1px solid;
+.post article .related_posts li{
+    padding: 0
+}
+
+.post article .list_related_posts{
+    position: relative;
+    height: 120px;
+    margin: 10px;
     overflow: hidden
 }
 
-.post article .related_posts li:hover {
-    background-color: rgba(0, 0, 0, .075);
-    border-radius: 5px
+.post article .related_posts a {
+    position: relative;
+    min-height: 100%;
+    min-width: 100%;
+    font-size: 1.1rem;
+    font-weight: 700;
+    padding: 10px 15px 0 15px;
+    color: #fff;
+    overflow: hidden;
+    background-color: rgba(51,51,51,.75);
+    z-index: 1;
+    display: block
+}
+
+.post article .related_posts img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    overflow: hidden
 }
 
 .home .pagination,
@@ -980,7 +999,8 @@ ___________________________*/
         font-size: 1.5rem !important
     }
     .home article .content h2 a {
-        color: #fff !important
+        color: #fff !important;
+        font-weight: 600
     }
     .home article p.description {
         height: 80px;
@@ -1062,14 +1082,6 @@ ___________________________*/
     .post article .content {
         border-right: 1px solid rgba(229, 229, 229, 1);
         border-bottom: 1px solid rgba(229, 229, 229, 1)
-    }
-    .post article .related_posts li {
-        justify-content: center;
-        align-content: center;
-        display: flex
-    }
-    .post article .related_posts li a {
-        height: 100px
     }
     /* Home / Post - Pagination
 ___________________________*/

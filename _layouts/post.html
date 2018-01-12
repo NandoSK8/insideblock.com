@@ -35,7 +35,7 @@ layout: default
 
             <div class="divider"></div>
 
-            <div class="category" id="category"> Você está em: 
+            <div class="category" id="category"> Você está em:
                 <a href="/">Home</a>› {% for category in page.category %}
                 <a href="/category/{{ category }}">{{ category }}</a>› {% endfor %}
                 <span class="post-title">{{ page.title }}</span>
@@ -53,16 +53,7 @@ layout: default
                 {% include ads.html %}
             </div>
 
-            {% if site.related_posts.size >= 1 %}
-            <ul class="related_posts">
-                <h5>Postagens relacionadas</h5>
-                {% for related_post in site.related_posts limit: 4 %}
-                    <li class="col s12 m6 l6 xl6">
-                        <a href="{{ related_post.url }}">{{ related_post.title }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
-            {% endif %}
+            {% include related_posts.html %}
         </div>
 
         <!-- Pagination -->
