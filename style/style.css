@@ -688,11 +688,11 @@ _____________________________________________________________*/
     margin: 0 0 15px 0 !important
 }
 
-.post article .related_posts li{
+.post article .related_posts li {
     padding: 0
 }
 
-.post article .list_related_posts{
+.post article .list_related_posts {
     position: relative;
     height: 120px;
     margin: 10px;
@@ -708,12 +708,12 @@ _____________________________________________________________*/
     padding: 10px 15px 0 15px;
     color: #fff;
     overflow: hidden;
-    background-color: rgba(51,51,51,.75);
+    background-color: rgba(51, 51, 51, .75);
     z-index: 1;
     display: block
 }
 
-.post article .related_posts img{
+.post article .related_posts img {
     position: absolute;
     top: 0;
     left: 0;
