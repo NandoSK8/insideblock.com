@@ -517,12 +517,12 @@ _____________________________________________________________*/
 /* Post - Article
 _____________________________________________________________*/
 
-.post article ul:not(.browser-default)>li {
+.post article .body ul:not(.browser-default)>li {
     padding: 10px 0;
     list-style-type: initial !important;
 }
 
-.post article ul:not(.browser-default) {
+.post article .body ul:not(.browser-default) {
     padding: 0 0 0 40px !important;
     list-style-type: initial !important;
 }
@@ -676,6 +676,31 @@ _____________________________________________________________*/
     line-height: 1;
     margin-top: -5px;
     margin-right: 10px
+}
+
+.post article .related_posts {
+    padding: 0 15px 20px 15px;
+    overflow: hidden
+}
+
+.post article .related_posts h5 {
+    font-weight: 700;
+    margin: 0 0 15px 0 !important
+}
+
+.post article .related_posts li a {
+    padding: 20px 0;
+    margin: 0 10px 20px 10px;
+    color: rgba(56, 60, 86, 1);
+    font-weight: 700;
+    display: block;
+    border-bottom: 1px solid;
+    overflow: hidden
+}
+
+.post article .related_posts li:hover {
+    background-color: rgba(0, 0, 0, .075);
+    border-radius: 5px
 }
 
 .home .pagination,
@@ -1037,6 +1062,14 @@ ___________________________*/
     .post article .content {
         border-right: 1px solid rgba(229, 229, 229, 1);
         border-bottom: 1px solid rgba(229, 229, 229, 1)
+    }
+    .post article .related_posts li {
+        justify-content: center;
+        align-content: center;
+        display: flex
+    }
+    .post article .related_posts li a {
+        height: 100px
     }
     /* Home / Post - Pagination
 ___________________________*/

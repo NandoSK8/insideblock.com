@@ -52,6 +52,17 @@ layout: default
             <div class="ads">
                 {% include ads.html %}
             </div>
+
+            {% if site.related_posts.size >= 1 %}
+            <ul class="related_posts">
+                <h5>Postagens relacionadas</h5>
+                {% for related_post in site.related_posts limit: 4 %}
+                    <li class="col s12 m6 l6 xl6">
+                        <a href="{{ related_post.url }}">{{ related_post.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+            {% endif %}
         </div>
 
         <!-- Pagination -->
