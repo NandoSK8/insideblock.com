@@ -8,14 +8,21 @@
     </div>
     {% endif %}
 
-    {% if page.coauthor_luciana %}
+    {% if page.author_luciana %}
     <div class="coauthor">Coautor: {% for people in site.data.luciana_fabiano %}
         <a href="{{ people.site_link }}" target="_blank">
             {{ people.name }}</a> {% endfor %}
     </div>
     {% endif %}
 
-    {% if page.author_luciana %}
+    {% if page.coauthor_ediano %}
+    <div class="author">Autor: {% for people in site.data.ediano %}
+        <a href="{{ people.site_link }}" target="_blank">
+            {{ people.name }}</a> {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.coauthor_luciana %}
     <div class="coauthor">Coautor: {% for people in site.data.luciana_fabiano %}
         <a href="{{ people.site_link }}" target="_blank">
             {{ people.name }}</a> {% endfor %}

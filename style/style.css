@@ -169,7 +169,7 @@ section.author .desc {
 }
 
 #disqus_thread {
-    padding: 50px 50px;
+    padding: 50px 50px !important;
     overflow: hidden
 }
 
