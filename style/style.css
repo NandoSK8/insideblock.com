@@ -168,6 +168,11 @@ section.author .desc {
     margin: 0
 }
 
+section.author .desc a {
+    color: #fff;
+    border-bottom: 1px solid #fff
+}
+
 #disqus_thread {
     padding: 50px 50px !important;
     overflow: hidden
