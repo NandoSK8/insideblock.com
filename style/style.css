@@ -801,16 +801,16 @@ footer .indications .text.grid {
     text-align: left
 }
 
+footer .indications .grid {
+    padding: 25px 0
+}
+
 footer .indications .col.s12 {
     padding: 1rem
 }
 
 footer .indications h5 {
     margin: 0;
-}
-
-footer .indications .grid {
-    padding: 25px 0
 }
 
 
