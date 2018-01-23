@@ -797,8 +797,16 @@ footer .indications {
 }
 
 footer .indications .text.grid {
-    padding: 0;
+    padding: 0 0 0 25px;
     text-align: left
+}
+
+footer .indications .col.s12 {
+    padding: 1rem
+}
+
+footer .indications h5 {
+    margin: 0;
 }
 
 footer .indications .grid {
