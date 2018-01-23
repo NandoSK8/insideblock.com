@@ -790,6 +790,21 @@ footer .footer-copyright {
     overflow: hidden
 }
 
+footer .indications {
+    display: block;
+    padding: 15px 0 17px 0;
+    overflow: hidden
+}
+
+footer .indications .text.grid {
+    padding: 0;
+    text-align: left
+}
+
+footer .indications .grid {
+    padding: 25px 0
+}
+
 
 /* Search
 _____________________________________________________________*/
