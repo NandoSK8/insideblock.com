@@ -174,20 +174,12 @@ section.author .desc a {
 }
 
 .related_posts {
-    padding: 25px 15px 20px 15px;
     margin-top: 0;
-    border-top: 2px solid rgba(0, 0, 0, .05);  
     overflow: hidden
 }
 
-.related_posts h5 {
-    font-weight: 600;
-    color: #999;
-    margin: 0 0 15px 0 !important
-}
-
 .related_posts li {
-    padding: 0
+    padding: 1.25rem !important;
 }
 
 .list_related_posts {
