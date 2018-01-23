@@ -1,4 +1,5 @@
-<ul class="related_posts">
+<ul class="related_posts row white">
+    <div class="grid">
     <h5>Postagens relacionadas</h5>
     {% assign maxRelated = 4 %}
     {% assign minCommonTags = 2 %}
@@ -18,7 +19,10 @@
     <li class="col s12 m6 l6 xl6">
         <div class="list_related_posts">
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a>
-            <img src="{{site.baseurl}}/img/post/{{ post.img }}">
+            <p class="description">
+                {% if post.content %}
+                    {{ post.content | strip_html | strip_newlines | truncate: 75 }}
+                {% endif %}</p>
         </div>
     </li>
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -27,4 +31,5 @@
         {% endif %}
     {% endif %}
     {% endfor %}
+    </div>
 </ul>

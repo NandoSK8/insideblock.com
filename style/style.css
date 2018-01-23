@@ -173,6 +173,41 @@ section.author .desc a {
     border-bottom: 1px solid #fff
 }
 
+.related_posts {
+    padding: 25px 15px 20px 15px;
+    margin-top: 0;
+    border-top: 2px solid rgba(0, 0, 0, .05);  
+    overflow: hidden
+}
+
+.related_posts h5 {
+    font-weight: 600;
+    color: #999;
+    margin: 0 0 15px 0 !important
+}
+
+.related_posts li {
+    padding: 0
+}
+
+.list_related_posts {
+    margin: 10px;
+    border-bottom: 1px solid #999;
+    overflow: hidden
+}
+
+.related_posts a {
+    min-height: 100%;
+    min-width: 100%;
+    font-size: 1.1rem;
+    font-weight: 600;
+    padding: 10px 15px 0 15px;
+    color: #039be5;
+    overflow: hidden;
+    z-index: 1;
+    display: block
+}
+
 #disqus_thread {
     padding: 50px 50px !important;
     overflow: hidden
@@ -683,50 +718,6 @@ _____________________________________________________________*/
     margin-right: 10px
 }
 
-.post article .related_posts {
-    padding: 0 15px 20px 15px;
-    overflow: hidden
-}
-
-.post article .related_posts h5 {
-    font-weight: 700;
-    margin: 0 0 15px 0 !important
-}
-
-.post article .related_posts li {
-    padding: 0
-}
-
-.post article .list_related_posts {
-    position: relative;
-    height: 120px;
-    margin: 10px;
-    overflow: hidden
-}
-
-.post article .related_posts a {
-    position: relative;
-    min-height: 100%;
-    min-width: 100%;
-    font-size: 1.1rem;
-    font-weight: 700;
-    padding: 10px 15px 0 15px;
-    color: #fff;
-    overflow: hidden;
-    background-color: rgba(51, 51, 51, .75);
-    z-index: 1;
-    display: block
-}
-
-.post article .related_posts img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    overflow: hidden
-}
-
 .home .pagination,
 .post .pagination {
     background: #fff;
@@ -794,11 +785,6 @@ footer .indications {
     display: block;
     padding: 15px 0 17px 0;
     overflow: hidden
-}
-
-footer .indications .text.grid {
-    padding: 0 0 0 25px;
-    text-align: left
 }
 
 footer .indications .grid {
