@@ -651,7 +651,8 @@ _____________________________________________________________*/
 }
 
 .post article .body {
-    padding: 0 30px
+    padding: 0 30px;
+    font-family: Arial
 }
 
 .post article .body p {
@@ -950,6 +951,9 @@ ___________________________*/
         border-bottom: 1px solid rgba(229, 229, 229, 1);
         border-left: 1px solid rgba(229, 229, 229, 1)
     }
+    .post article .body {
+        font-size: 16px
+    }
     /* Home - Pagination
 ___________________________*/
     .home .pagination a {
@@ -1087,6 +1091,9 @@ ___________________________*/
     .post article .content {
         border-right: 1px solid rgba(229, 229, 229, 1);
         border-bottom: 1px solid rgba(229, 229, 229, 1)
+    }
+    .post article .body {
+        font-size: 18px
     }
     /* Home / Post - Pagination
 ___________________________*/
