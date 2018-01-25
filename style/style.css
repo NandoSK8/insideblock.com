@@ -747,22 +747,48 @@ footer .footer-copyright {
     overflow: hidden
 }
 
-footer .indications {
+footer .footer-info{
+    padding: 15px 0;
+    border-top: 2px solid #e0e0e0
+}
+footer .footer-info ul {
+    padding: 10px;
+    margin-bottom: 25px 
+}
+
+footer .footer-info span.title{
     display: block;
-    padding: 15px 0 17px 0;
-    overflow: hidden
+    padding: 15px;
+    margin-bottom: 10px;
+    color: rgba(0, 0, 0, .5);
+    font-weight: 700;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(0, 0, 0, .1)
 }
 
-footer .indications .grid {
-    padding: 25px 0
+footer .footer-info ul.menu li,
+footer .footer-info ul.indications li {
+    display: block;
+    padding: 10px 0;
+    border-radius: 5px
 }
 
-footer .indications .col.s12 {
-    padding: 1rem
+footer .footer-info ul.menu a,
+footer .footer-info ul.indications a{
+    padding: 0 15px;
+    font-weight: 600
 }
 
-footer .indications h5 {
-    margin: 0;
+footer .footer-info ul.menu a:hover::after,
+footer .footer-info ul.indications a:hover::after{
+    content: "}";
+    position: relative;
+    top: 0;
+    right: -10px
+}
+
+footer .footer-info ul a{
+    color: rgba(0, 0, 0, .75)
 }
 
 
