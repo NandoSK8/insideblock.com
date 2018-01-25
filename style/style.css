@@ -651,7 +651,8 @@ _____________________________________________________________*/
 }
 
 .post article .body {
-    padding: 0 30px
+    padding: 0 30px;
+    font-weight: 400
 }
 
 .post article .body p {
