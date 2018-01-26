@@ -4,9 +4,11 @@ layout: default
 
 <div class="post">
 
-    <div class="ads">
-        {% include ads.html %}
-    </div>
+    {% if page.ads %}
+        <div class="ads">
+            {% include ads.html %}
+        </div>
+    {% endif %}
 
     <!-- Aside -->
     <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
