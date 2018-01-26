@@ -813,6 +813,7 @@ _____________________________________________________________*/
 }
 
 .search #results-container li a {
+    display: block;
     padding: 0 15px;
     color: rgba(31, 75, 158, 1)
 }
@@ -860,7 +861,7 @@ _____________________________________________________________*/
 
 .page article .list-tags li {
     display: block;
-    padding: 10px 0;
+    padding: 10px;
     margin: 0 0 10px 0;
     border-bottom: 1px solid rgba(0, 0, 0, .1)
 }
