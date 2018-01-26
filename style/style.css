@@ -89,8 +89,7 @@ blockquote p {
     margin: 0 !important
 }
 
-.ads,
-.ads_article {
+.ads {
     width: 100%;
     display: block;
     padding: 20px 7.5px;
