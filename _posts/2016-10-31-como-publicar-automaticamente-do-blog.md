@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Você quer ganhar mais tempo ao compartilhar as postagens nas redes sociais, o método mais usado pelos blogueiros é o compartilhamento automático. Eles não precisam fazer muitas coisas, apenas algumas configurações básicas para que o serviço comece a funcionar.

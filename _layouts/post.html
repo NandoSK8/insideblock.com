@@ -41,17 +41,21 @@ layout: default
                 <span class="post-title">{{ page.title }}</span>
             </div>
 
-            <div class="ads">
-                {% include ads_article.html %}
-            </div>
+            {% if page.ads %}
+                <div class="ads">
+                    {% include ads_article.html %}
+                </div>
+            {% endif %}
 
             <div class="body flow-text">
                 {{ content }}
             </div>
 
-            <div class="ads">
-                {% include ads_article.html %}
-            </div>
+            {% if page.ads %}
+                <div class="ads">
+                    {% include ads_article.html %}
+                </div>
+            {% endif %}
         </div>
 
         <!-- Pagination -->

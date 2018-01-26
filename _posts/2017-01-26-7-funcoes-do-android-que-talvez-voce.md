@@ -11,6 +11,8 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Todo mundo sabe que os celulares fazem ligações e enviam sms, isso é óbvio, é a função deles! Mas será que os usuários estão usando todos os recursos dos smartphones? Nos dispositivos com o Android, existem várias funções que muitos usuários não sabem que existe ou não sabem como funciona.

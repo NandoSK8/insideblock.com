@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Se você atualizou o Windows para uma versão superior ao seu de (Windows 7 para Windows 8 ou Windows 10), alguns arquivo da versão anterior fica salvo na pasta Windows.old. Este arquivos serão apagados dentro de 28 dias automaticamente, ou se você preferir você pode remover manualmente usando a “Limpeza de Disco”.

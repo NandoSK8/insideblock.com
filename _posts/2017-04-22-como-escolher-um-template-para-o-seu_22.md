@@ -11,6 +11,8 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Hoje existe um grande número de blogs espalhados pela internet, cada um com uma identidade diferente, uma forma de chamar a atenção dos leitores, tanto pelo bom conteúdo quanto pelo ótimo modelo que facilita a navegação dos usuários.

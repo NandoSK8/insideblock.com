@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O título deste post é uma pergunta, correto! Este mesmo título é muito fácil e ao mesmo tempo muito difícil de ser respondida. Veja o que acontece quando alguém pergunta “é possível ganhar dinheiro trabalhando na internet”? Para uma pessoa sem experiência a responta provavelmente seria “não”, agora faça esta mesmo pergunta para uma pessoa com experiência, que trabalha na internet e ganhar a vida fazendo isso, na verdade você nem deveria fazer esta pergunta, se você sabe que esta pessoa ganhar a vida trabalhando na internet, para que fazer esta perguntar? Na realidade para todas as pessoas que já ouviram falar, mas que não saber se isso é realmente verdade, resta apenas perguntas, perguntas que vão deixar de ser duvidas, com este artigo.

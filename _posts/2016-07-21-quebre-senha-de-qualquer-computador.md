@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Você já esqueceu a senha do seu computador alguma vez? Pois bem se sua resposta foi “sim”, este tutorial pode ser bem útil caso você não queira gastar dinheiro levando seu computador à uma assistência técnica para recuperar a senha ou fazer o backup e depois formatar. Pensando nisso nos aqui do Inside Block resolvemos te ajudar, para que você evite ter gastos desnecessários e garantir que outros pessoas não tenha acesso a seus arquivos pessoais.

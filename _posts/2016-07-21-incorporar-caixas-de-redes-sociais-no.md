@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 As redes sociais são ótimas ferramenta para interagir com o publico, alem de ser uma boa maneira de conseguir mais trafego para o seu site. Mas como fazer para que seus visitantes, visite e cadastre-se em sua pagina da internet?

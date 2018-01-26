@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Visual Studio Code é o novo IDE da Microsoft, um editor de código livre, um pouco diferente e muito mais leve que o Visual Studio Clássico, para Windows, Linux e MacOS. Essa nova versão é ótima para os programadores iniciantes, o IDE não exige muito conhecimento dos usuários e qualquer um com experiências básicas pode começar à usar.

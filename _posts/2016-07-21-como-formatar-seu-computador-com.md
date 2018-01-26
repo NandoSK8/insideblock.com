@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O processo de formatação do Windows é muito simples e qualquer um pode fazer, o problema é apos a formatação, onde é necessário que você instale os drive e os aplicativos necessário para navegação de internet, edição de texto, leitor de PDF entre outros aplicativos necessários para o uso do dia a dia.

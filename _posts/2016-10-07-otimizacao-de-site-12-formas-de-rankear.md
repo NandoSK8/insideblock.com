@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Conquistar uma boa posição nos motores de busca, um espaço dentro do seu <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, conseguir um número considerável de visitas mensais, pode ser um pouco complicado sem as técnicas de otimização necessárias.

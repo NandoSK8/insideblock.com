@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O GitHub é um portal de controle de versão e compartilhamento de projeto de desenvolvimento. Ele funciona como um rede social para programadores, onde é possível publicar códigos e receber contribuições de outros profissionais, este serviço é usado por empresas para desenvolver projetos para terceiros, desenvolvedores individuais e estudantes de programação, ao qual o acessoa é publico para download.

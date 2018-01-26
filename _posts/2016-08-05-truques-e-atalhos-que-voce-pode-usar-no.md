@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Google Chrome é o navegar de internet mais usado do mundo, alem de ser o mais usado ele também é mais completo com diversos recursos nativos que pode ser ativado e desativado a qualquer momento, mesmo que alguns desses recursos não seja o suficiente para as necessidades do usuário, o Chrome disponibiliza uma loja onde o usuário pode adicionar extensões e aplicativos que funciona integrado como o navegador.

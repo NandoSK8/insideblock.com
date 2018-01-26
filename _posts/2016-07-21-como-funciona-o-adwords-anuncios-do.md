@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O AdWords como muita gente já sabe e conhece é o maior o melhor sistema de anúncios da gigantesca Google, por suas vez o que muita gente não sabe é com este sistema funciona e para que realmente ela serve. Bom só adiantando uma coisas o AdWords e a principal e maior fonte de renda do Google, no popular a que mais dar dinheiro para os fundadores do Google, lembrando que o Google tem centenas de sistemas lucrativa e vamos explicar especialmente neste post como funciona o Google AdWords.

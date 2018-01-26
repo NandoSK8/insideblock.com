@@ -11,6 +11,8 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Os frameworks front-end simplificam a vida para os desenvolvedores. A cada dia são criadas novas ideias e completo CSS que facilita o desenvolvimento de projetos web. A vantagem de usar estes frameworks é que eles são 100% universais, e têm a capacidade de funcionar em qualquer plataforma hospedeira de site ou app mobile.

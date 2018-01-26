@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Se você chegou a este artigo, certamente você é um blogueiro, ou pretende ser futuramente e esta procurando ajuda, para o seu blog. Com certeza você também quer ganhar dinheiro com eles? Se eu acertei você veio ao lugar certo.<

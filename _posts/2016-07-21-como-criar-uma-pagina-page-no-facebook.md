@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Facebook hoje já ultrapassa os bilhões de usuários cadastro, se tornando uns dos grandes aliados para empresas, site e blog oferecendo diversas ferramentas de divagação, para o mercado de trabalho online gratuito e Premium.

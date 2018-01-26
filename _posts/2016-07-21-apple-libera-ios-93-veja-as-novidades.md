@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Apple libera o upgrade do iOS 9.3 nesta segunda feira 21 de março de 2016, em um evento onde ela revelou outras novidades como os novos iPhones “SE”, e as novas pulseiras para o Apple Watch.

@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O AirPlay é um recurso nativo do iOS para espelhar o seu iPhone e iPad para a Apple TV, entretanto a maçã tenha criado este recursos para usar em seus próprios dispositivos, para você espelhar a tela do iPhone no seu computador, você tem que usar um aplicativo desenvolvido por terceiros instalar em seu computador.

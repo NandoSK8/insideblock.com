@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Este tutorial e para todos os iniciantes com sites e blogs, que querem registrar um domínio do Uol Host no Blogger/Blogspot.

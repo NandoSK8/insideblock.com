@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Com esta dica você vai aprender a ocultar e exibir elementos do blogger em determinadas paginas, quando instalamos um elemento no blogger por parão ele mostra na página inicial, nas páginas internas, incluindo as páginas de arquivos e marcadores.

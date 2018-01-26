@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Um pagina responsiva é muito importante para rankear sites para os motores de busca. Devido o site ser compatível com computadores, celulares, tablets e outros, quando um usuários faz uma pesquisa em um buscador através de um desses dispositivos, ele traz as pesquisas mais relevantes e compatíveis para o dispositivo do usuário.

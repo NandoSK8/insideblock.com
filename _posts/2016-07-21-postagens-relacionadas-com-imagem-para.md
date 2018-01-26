@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Uma maneira bem simples de manter seus leitores por mais tempo dentro do seu site, é utilizando as postagens relacionadas.

@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Google Chrome é o navegador mais completo para acessar qualquer página na internet, configurações de dispositivos como modem e roteador e software gerenciáveis via web. Mesmo assim ele não esta livre de erros ou problemas de mal funcionamento. Separamos um erro incomum que pode apresentar no browser, onde algumas pessoas acha que é normal, mas para outras pode se torna uma grande dor de cabeça.

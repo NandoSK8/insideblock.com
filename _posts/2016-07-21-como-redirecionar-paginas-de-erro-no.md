@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Os blogs por suas maiorias não estão livres de problemas ou erros. Uns dos problemas mais enfrentador pelo blogueiros são páginas ou artigos (posts) não encontrador.

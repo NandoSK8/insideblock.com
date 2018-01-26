@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Uma eventualidade de vírus em geral, vem infectando computadores pendrives e outros tipos de dispositivos, convertendo arquivos e pastas em atalho (ou ocultando).

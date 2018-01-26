@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Criar um pendrive bootável com o Windows pode ser um pouco complicado, devido a necessidade de baixar programas ou arquivos para inicializar o pendrive para formatar um PC. Principalmente quando se tem netbook, ao qual não tem leitor de CD/DVD ou quando não se tem um DVD para gravar a *ISO no disco.

@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Você já pensou, em facilitar a navegação dos seus visitantes em seu blog, e encontrar todos os seus artigos publicado nele.

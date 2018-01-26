@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Controle da Conta de Usuário (UAC) pode a ajudar a impedir alterações não autorizadas no seu computador, O (UAC) noticia todos vez que um usuários tentar fazer alterações no computador exigindo que o mesmo tenha permissão em nível de administrador, se o (UAC) estiver desativado qualquer usuário pode ter permissão para fazer alterações no sistema operacional exceto a conta de “Convidado”, estas alterações pode afetar as configuradões do computador ou alterar as informações e contas de outros usuários.

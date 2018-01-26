@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Windows 10 é o sistema operacional mais completo em comparação com as versões anteriores desenvolvido pela Microsoft, desde a data de lançamento oficial foi anunciado alguns recursos que faram parte do novo sistema operacional, que interage diretamente com os usuários

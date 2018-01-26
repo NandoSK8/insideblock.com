@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O GitHub é um tipo de <a href="http://www.insideblock.com/post/github-rede-social-dos-programadores.html" target="_blank">rede social para programadores</a>, que permitir que os usuários desenvolvam seus códigos e hospedado no mesmo. Outra função interessante é a possibilidade de hospedar seu website e executá-lo diretamente de dentro dele 100% free, sem a necessidade de um servidor ou de pagar um serviço de hospedagem.

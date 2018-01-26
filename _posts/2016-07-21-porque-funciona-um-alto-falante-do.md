@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 A Apple é mesma cheia de surpresar, eu tive o mesmo problema em um iPhone 3GS, um dia acabei descobrindo que apenas um dos altos falantes estava funcionando, eu abrir o dispositivo para consertá-lo e acabei quebrando o cabo flat que sai da placa mãe à tela.

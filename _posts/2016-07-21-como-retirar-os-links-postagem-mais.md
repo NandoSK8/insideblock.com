@@ -11,6 +11,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Muitos blogueiros que usam o Blogger, não gostam dos links (Postagens mais recente, Inicio, Postagens mais antiga) exibido no rodapé da postagem do blog, por isso muito deles removem estes links.

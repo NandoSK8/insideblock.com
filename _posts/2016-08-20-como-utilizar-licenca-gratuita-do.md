@@ -10,17 +10,23 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Até pouco tempo a Microsoft estava liberando a atualização gratuita do Windows 10 para todos os usuários do Windows 8 e Windows 7. Agora que acabou a caridade da Microsoft, os usuários que não adquiriu o Windows 10 pela atualização gratuita agora terão que pagar para usar o sistema operacional. Se você é um dos usuários que adquiriu o update gratuito, saiba que você pode salva sua licença para usar posteriormente caso formate, trocar o hardware ou de computador.
 
 **Antes de começa, o seu Windows tem que seguir alguns pré-requisitos**
 
-.Windows 10 original, adquirido a partir do update do Windows 7/8/8.1.<br />.Uma conta de e-mail da Microsoft (outlook ou hotmail), se você ainda não tem uma conta, crie uma nesse link.<br /><br />Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/post/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
+* Windows 10 original, adquirido a partir do update do Windows 7/8/8.1.
+
+* Uma conta de e-mail da Microsoft (outlook ou hotmail), se você ainda não tem uma conta, crie uma nesse link.
+
+* Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/post/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
 
 1. Abra as Configurações do Windows ícone de roda dentada.
 
-2. Clique sobre **Atualização e segurança › Ativação**. Veja a seguinte mensagem “O Windows está com uma licença digital”. Caso esta mensagem estiver visível pule diretamente para a etapa “
+2. Clique sobre **Atualização e segurança › Ativação**. Veja a seguinte mensagem “O Windows está com uma licença digital”.
 
 3. Caso o sistema operacional apresente o Windows ativo mas sem licença digital, significa que a licença não esta qualificado para ser vincular à conta da Microsoft.
 

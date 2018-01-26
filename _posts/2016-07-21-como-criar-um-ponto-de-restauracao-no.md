@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 Durante o uso do computador, instalamos e removemos vários programas do sistema operacional. Essas alterações pode causar sérios problemas no Windows, principalmente quando lidamos com desenvolvedores ruins e certas aplicações, com antivírus e temas Areá de trabalho.

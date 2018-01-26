@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Google AdWords é uma ferramenta desenvolvida para empresas que querem anunciar no Google, porém nós blogueiros podemos usufruir muito bem dela, planejando palavras-chave para escolher um <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, o nicho é muito importante para definir uma identidade de negócio.

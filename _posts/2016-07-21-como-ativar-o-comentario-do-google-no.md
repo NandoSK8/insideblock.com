@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Blogger e o Google Plus estão cada vez mais integrados um com o outro, o Google + por sua vez desenvolveu uma um caixa de comentários para integrar com o Blogger. Esta ferramenta pode trazer maiores resultados para os webmaster, aumentando a popularidade de seus projetos na internet, já que ela facilita a interatividade dos leitores entre si e com o administrador da página.

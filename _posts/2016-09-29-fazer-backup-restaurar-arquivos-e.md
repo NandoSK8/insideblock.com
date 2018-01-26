@@ -10,6 +10,8 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
+ads: true
+ads_adsense: true
 ---
 
 O Blogger permite que você faça o backup completo de seus conteúdos e template, para importar para outro blog ou para excluí-lo. Os backups são as formas mais segura de resolvermos certos imprevistos, que permite a restauração do blog para uma versão anterior caso venha ocorrer algum erro ao fazer atualizações no template ou artigos.
