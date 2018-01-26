@@ -6,6 +6,6 @@
 
 > Please do not copy this template
 
-* <a href="http://multicamada.com">Multi Camada</a>
+Made by <a href="http://multicamada.com">Multi Camada</a>
 
-* <a href="http://ediano.com.br">Ediano Silva Santos</a>
+Administrador Geral <a href="http://ediano.com.br">Ediano Silva Santos</a>
