@@ -89,9 +89,10 @@ blockquote p {
     margin: 0 !important
 }
 
-.ads {
+.ads,
+.ads_article {
     width: 100%;
-    display: inline-block;
+    display: block;
     padding: 20px 7.5px;
     text-align: center;
     justify-content: center;
@@ -746,16 +747,17 @@ footer .footer-copyright {
     overflow: hidden
 }
 
-footer .footer-info{
+footer .footer-info {
     padding: 15px 0;
     border-top: 2px solid #e0e0e0
 }
+
 footer .footer-info ul {
     padding: 10px;
-    margin-bottom: 25px 
+    margin-bottom: 25px
 }
 
-footer .footer-info span.title{
+footer .footer-info span.title {
     display: block;
     padding: 15px;
     margin-bottom: 10px;
@@ -773,20 +775,20 @@ footer .footer-info ul.indications li {
 }
 
 footer .footer-info ul.menu a,
-footer .footer-info ul.indications a{
+footer .footer-info ul.indications a {
     padding: 0 15px;
     font-weight: 600
 }
 
 footer .footer-info ul.menu a:hover::after,
-footer .footer-info ul.indications a:hover::after{
+footer .footer-info ul.indications a:hover::after {
     content: "}";
     position: relative;
     top: 0;
     right: -10px
 }
 
-footer .footer-info ul a{
+footer .footer-info ul a {
     color: rgba(0, 0, 0, .75)
 }
 
