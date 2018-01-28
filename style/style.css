@@ -377,15 +377,14 @@ aside .feed::before {
 aside .category .title {
     padding: 25px 15px;
     margin: 0;
-    color: #fff;
-    background-color: #26a69a
+    color: #fff
 }
 
 aside .category ul.content {
     position: relative;
     padding: 0 25px 50px 25px;
     margin: 0;
-    background-color: #009688;
+    background-color: rgba(0, 0, 0, .1);
     overflow: hidden
 }
 
