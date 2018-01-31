@@ -48,4 +48,4 @@ Obs: Caso as imagens das postagens estejam hospedadas no Blogger, você não pod
 
 6. Passe o mouse sobre o menu “**Post**” e clique em “**Todos os Posts**”, veja que todas as postagens do Blogger agora estão no WordPress.
 
-Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagem uma-a-uma e envie para o WordPress. Se preferir, recomendo o imgur<span/>.com para hospedar as imagens, neste caso você poderá migrar entre Blogger e WordPress ou vice-versa a qualquer momento, sem se preocupar se vai excluir ou não o blog.
+Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagens uma-a-uma e envie para o WordPress. Se preferir, recomendo o imgur<span/>.com para hospedar as imagens, neste caso você poderá migrar entre Blogger e WordPress ou vice-versa a qualquer momento, sem se preocupar se vai excluir ou não o blog.

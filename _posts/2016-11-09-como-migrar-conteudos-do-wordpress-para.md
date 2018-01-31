@@ -43,4 +43,4 @@ Detalhe: O arquivo *xml não pode passar de 1 mb, caso o site dê algum erro, vo
 
 5. Marque a opção “**Não sou um robô**”, clique em “**Importar do computador**”, selecione o último arquivo *xml - o que foi convertido, aguarde alguns instantes para que o conteúdo seja publicado automaticamente.
 
-Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagem uma-a-uma e envie para o Blogger. Se preferir, recomendo o imgur<span/>.com para hospedar as imagens, neste caso você poderá migrar entre WordPress e Blogger, ou vice-versa, a qualquer momento, sem se preocupar se vai excluir ou não o blog.
+Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagens uma-a-uma e envie para o Blogger. Se preferir, recomendo o imgur<span/>.com para hospedar as imagens, neste caso você poderá migrar entre WordPress e Blogger, ou vice-versa, a qualquer momento, sem se preocupar se vai excluir ou não o blog.
