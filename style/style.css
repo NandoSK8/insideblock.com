@@ -182,8 +182,13 @@ section.author .desc a {
 /* Header
 _____________________________________________________________*/
 
-header .navbar.fixed a.header span,
-header .navbar.fixed ul li a {
+header>.navbar-fixed {
+    height: 64px !important;
+    z-index: 999
+}
+
+header .navbar-fixed a.header span,
+header .navbar-fixed ul li a {
     color: rgba(56, 60, 86, 1)
 }
 
@@ -913,16 +918,6 @@ _____________________________________________________________*/
         width: 100%;
         height: auto;
         padding: 0 25% 20px 25%
-    }
-    /* Header
-___________________________*/
-    header>.navbar.fixed {
-        position: relative;
-        height: 64px;
-        z-index: 999
-    }
-    header>.navbar.fixed nav {
-        position: fixed
     }
     /* Home - List Post
 ___________________________*/
