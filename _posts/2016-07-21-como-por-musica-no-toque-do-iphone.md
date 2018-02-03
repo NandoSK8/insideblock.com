@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Se você possui um iPhone, já dever ter percebido que não é possível colocar musicas de sua biblioteca como toque do telefone, a forma mais simples de fazer isso é acessando a loja de toque e comprar a musica desejada, entretanto se você já tive a musicas salva em seu computador ou em seu celular, você pode recortar um trecho da musica para colocar como toque. Confira abaixo como usar o iTunes parra por musica como toque do iOS.

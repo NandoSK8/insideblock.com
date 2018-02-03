@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 O setor TI é um dos setores mais importante dentro de uma empresa, mas quem realmente mantém o setor de TI funcionando, será o analista ou a ferramenta que ele usa pra analisar o sistema? A resposta para essa pergunta é simples! Na verdade o setor de TI precisa dos dois, os dois são ferramentas importantes que devem trabalhar em conjunto.

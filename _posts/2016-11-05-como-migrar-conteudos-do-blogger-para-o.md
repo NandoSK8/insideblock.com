@@ -11,14 +11,10 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Você quer migrar todos os conteúdos do seu Blogger para o WordPress, sem correr o risco de perder nenhum artigo? Bom, estamos aqui para te ajudar com esta tarefa. Este tutorial mostra passo a passo como você pode migrar suas postagens para o WordPres<span/>.com e/ou WordPress<span/>.org.

@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 O Google AdWords não para de crescer, e a publicidade digital esta acompanhando esse crescimento. A cada dia que se passa pequenas e grandes empresas querem anunciar mais no Google, contribuindo para que o negócio online cresça transformando em realidade o sonho de muitas pessoas! Que é trabalhar em casa, principalmente daquelas que não querem passar horas trancadas em escritórios recebendo ordens.

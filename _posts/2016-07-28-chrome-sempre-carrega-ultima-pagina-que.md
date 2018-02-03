@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 O Google Chrome é o navegador mais completo para acessar qualquer página na internet, configurações de dispositivos como modem e roteador e software gerenciáveis via web. Mesmo assim ele não esta livre de erros ou problemas de mal funcionamento. Separamos um erro incomum que pode apresentar no browser, onde algumas pessoas acha que é normal, mas para outras pode se torna uma grande dor de cabeça.

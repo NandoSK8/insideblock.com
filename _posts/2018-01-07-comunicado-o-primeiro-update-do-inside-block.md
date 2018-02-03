@@ -11,14 +11,10 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Caros leitores, o blog Inside Block passou por uma grande e recente atualização no dia 04/01/2018, tanto na parte de layout quanto na migração da plataforma. Sempre usei e defendi a plataforma Blogger do Google, entretanto, por motivos de aprimoramento, expansão do blog, aumento no número de membros da equipe e por inovações, estudos, aperfeiçoamentos e a criação do <a href="http://multicamada.com" target="_blank">Grupo Multi Camada</a>, decidimos abandonar nosso tão amado Blogger. A partir desta data, 04/01/2018, o blog Inside Block passou a ser hospedado na plataforma GitHub Pages.

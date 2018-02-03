@@ -11,14 +11,10 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Olá usuários da plataforma Blogger, o Google e sua equipe de engenheiros estão preparando uma novidade para todos nós. Recentemente visitei o painel do Blogger no formato rascunho e me deparei com um novo visual, totalmente remodelado. A imagem abaixo é verdadeira e até o momento é assim que vamos ver o painel do Blogger no modelo rascunho.

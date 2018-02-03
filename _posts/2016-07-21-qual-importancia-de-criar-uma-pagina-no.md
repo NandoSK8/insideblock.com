@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Como já falamos antes no Inside Block sobre as redes sociais, hoje elas são as melhores formas para se fazer divulgação e aumentar potencialmente as visitas para o seu site e/ou blog. Cada rede tem sua funcionalidade diferente, alem de ser uma mais popular que a outra, enquanto a isso você não se deve importar, pois todas elas tem o mesmo objetivo de lhe ajudar à aumentar as visitas do seu site.

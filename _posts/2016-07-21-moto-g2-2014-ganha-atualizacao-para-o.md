@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Depois de alguns dias que a Motorola liberou a atualização do Android 6.0 para o Moto X Play e Moto X Style, ela finalmente começa a liberar o update pata Moto G 2014 2º geração XT1069, alguns usuários já conseguiram receber a atualização automaticamente, já para outros, o update esta demorando um pouco, obrigando a baixar o arquivo de atualização do Android 6.0.

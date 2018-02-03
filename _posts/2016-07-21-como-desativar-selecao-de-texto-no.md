@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 A maioria dos blogueiros, procuram sempre uma forma de adquirir mais segurança ao seus blogs, boa parte deles procuram como evitar o plagio (copia do original), entre outros crimes cometidos na internet, unas das formas mais fácil é com a instalação de código de segurança em HTML dentro de seus Templates.

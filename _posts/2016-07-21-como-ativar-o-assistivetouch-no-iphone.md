@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Desde as primeiras versões do iOS, o sistema operacional da Apple vem com algumas funções ocultas, já que algumas dessas funções não agrada à todos os usuários, uma delas e o AssistiveTouch, que evita o uso do botão Home, muitos pessoas prefere usar esta função para garantir que o Home não se quebre, como em alguns casos onde o próprio usuário acaba forçando de forma inadequada, danificando a funcionalidade do botão.

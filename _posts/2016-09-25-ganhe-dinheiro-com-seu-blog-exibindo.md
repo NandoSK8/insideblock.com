@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Ganhar dinheiro com blog é um momento muito esperado pela maioria dos blogueiros, criar um blog simples para falar sobre seu hobby, conta sobre suas viagens, falar e ensinar um pouco sobre o seu trabalho pode ser lucrativo, você não precisa ser profissional em escrever artigos de mídia digital, você só precisa das ferramentas e orientações certas.

@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Você já pensou em ganhar dinheiro na internet de forma fácil e segura, usando apenas o Facebook? Espere ai na verdade a pergunta é - Você usar todos os recursos do Facebook a seu favor para ganhar dinheiro online? Bom se você acha que isso não é possível, estou aqui para lhe provar o contrario, hoje 20% do valor total que ganho na internet são originado com a ajuda do Facebook, aqui eu descobrir uma forma fácil e pratica de aumentar minha renda na internet com tarefas simples de ser executadas.

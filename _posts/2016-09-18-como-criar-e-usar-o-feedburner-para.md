@@ -10,14 +10,10 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_site: true
-ads_top_site_adsense: true
-ads_aside: true
-ads_aside_adsense: true
 ads_top_post: true
-ads_top_post_adsense: true
-ads_bot_post: true
-ads_bot_post_adsense: true
+ads_top_post_ads: true
+ads_foot_post: true
+ads_foot_post_ads: true
 ---
 
 Os feed para blogs são ótimas maneiras de conseguir links alternativos para aumentar a otimização da página e com isso ajuda a <a href="http://www.insideblock.com/post/ranking-melhorar-experiencia-das.html" target="_blank">rankear</a> para os motores de buscas. O FeedBurner do Google é uma das ferramentas mais usadas por blogueiros para fazer este tipo de otimização.

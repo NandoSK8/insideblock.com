@@ -4,11 +4,9 @@ layout: default
 
 <div class="post">
 
-    {% if page.ads_top_site %}
-        <div class="ads">
-            {% include ads_top_site.html %}
-        </div>
-    {% endif %}
+    <div class="ads">
+        {% include ads.html %}
+    </div>
 
     <!-- Aside -->
     <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
@@ -53,9 +51,9 @@ layout: default
                 {{ content }}
             </div>
 
-            {% if page.ads_bot_post %}
+            {% if page.ads_foot_post %}
                 <div class="ads">
-                    {% include ads_bot_post.html %}
+                    {% include ads_foot_post.html %}
                 </div>
             {% endif %}
         </div>
