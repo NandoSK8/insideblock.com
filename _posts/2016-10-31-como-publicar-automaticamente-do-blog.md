@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Você quer ganhar mais tempo ao compartilhar as postagens nas redes sociais, o método mais usado pelos blogueiros é o compartilhamento automático. Eles não precisam fazer muitas coisas, apenas algumas configurações básicas para que o serviço comece a funcionar.

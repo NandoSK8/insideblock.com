@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Muitos dos computadores tem as configurações padrões de reprodução e do microfone muito ruim, porém é possível fazer algumas alterações para aumentar a qualidade dos dispositivos, tirar ruídos e chiados, aumentar a sensibilidade do microfone, aumentar o volume de reprodução e intensidade de bits.

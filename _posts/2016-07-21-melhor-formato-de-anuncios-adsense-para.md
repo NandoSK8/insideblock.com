@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 O Google Adsense sem duvidas hoje é o maior programa de afiliados de todos os tempos, com seus variáveis formatos de anúncios para blogs. O Adsense também apresenta uma grande quantidade de blogs (editores) cadastrado em sua plataforma de divulgação de anúncios, promovidos pelo Google AdWords.

@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Você sabe qual a diferença dos links orgânicos e links patrocinados, e qual a preferência dos mecanismos de busca e dos usuários em relação a esses links? Para chegar a um resultado final, você precisa saber qual a diferença entre eles, saber o que as pessoas estão procurando nos buscadores e com isso definir uma estratégia de otimização de site.

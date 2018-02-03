@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Escolher um nome de domínio não é nada fácil, seja por escolher um nome legal ou porque esse nome já foi registrado. Bom mas enquanto a extensão de domínio .com, .org, .net, .com.br, .co, .edu, .xyz e vários outros, você sabia que cada extensão dessas tem um significado de negocio, sendo ela para empresa ou para um simples blog.

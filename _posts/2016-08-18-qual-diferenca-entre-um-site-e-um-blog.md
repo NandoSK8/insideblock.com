@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Saber diferenciar um site de um blog é muito simples, mas sabe qual é a finalidade de cada um deles pode ser um pouco mais complicado, por isso as dúvidas são muito comuns sobre esse tipo de assunto. O que diferencia um site de um blog é a maneira de como o conteúdo é gerenciado e a integra com o publico alvo. Para saber melhor como diferenciar um do outro vamos fazer algumas analogias.

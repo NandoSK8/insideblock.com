@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 O grande problema dos blogueiro hoje, é alcançar uma boa audiência para os seus blogs, quanto mais visitante você conseguir em seu blog, melhor para você, assim você vai ter mais chance de ganhar dinheiro com seu site ou blog.

@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 O tela segura de logon do Windows, geralmente fica disponível para usuários que estão dentro de rede corporativa, controlado por um servidor de AD, em casos raros esta tela também pode ser exibida para usuários de computadores comuns, causando um certo desconforto para o usuário, obrigando a pressionar as teclas Ctrl-Alt-Del toda vez que ele ligar o computador ou quando ele ativar a tela de bloqueio.

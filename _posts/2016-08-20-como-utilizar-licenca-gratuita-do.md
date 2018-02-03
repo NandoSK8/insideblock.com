@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Até pouco tempo a Microsoft estava liberando a atualização gratuita do Windows 10 para todos os usuários do Windows 8 e Windows 7. Agora que acabou a caridade da Microsoft, os usuários que não adquiriu o Windows 10 pela atualização gratuita agora terão que pagar para usar o sistema operacional. Se você é um dos usuários que adquiriu o update gratuito, saiba que você pode salva sua licença para usar posteriormente caso formate, trocar o hardware ou de computador.

@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Você já parou para observar que tudo que fazemos hoje na internet é usando uma conta de e-mail. Para fazer uma pesquisa, criar contas em redes sociais, em site de compras e vendas, sites de fórum e suporte online. Ate para usar um celular nos precisamos de uma conta de e-mail.

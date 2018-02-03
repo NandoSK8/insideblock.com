@@ -4,9 +4,9 @@ layout: default
 
 <div class="post">
 
-    {% if page.ads %}
+    {% if page.ads_top_site %}
         <div class="ads">
-            {% include ads.html %}
+            {% include ads_top_site.html %}
         </div>
     {% endif %}
 
@@ -43,9 +43,9 @@ layout: default
                 <span class="post-title">{{ page.title }}</span>
             </div>
 
-            {% if page.ads %}
+            {% if page.ads_top_post %}
                 <div class="ads">
-                    {% include ads_article.html %}
+                    {% include ads_top_post.html %}
                 </div>
             {% endif %}
 
@@ -53,9 +53,9 @@ layout: default
                 {{ content }}
             </div>
 
-            {% if page.ads %}
+            {% if page.ads_bot_post %}
                 <div class="ads">
-                    {% include ads_article.html %}
+                    {% include ads_bot_post.html %}
                 </div>
             {% endif %}
         </div>

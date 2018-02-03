@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Help desk é um termo em inglês que significa "balcão de ajuda" esse é nome que pode salva a sua empresas de falhas no setor de TI, e que se refere a um serviço de atendimento aos clientes que procuram por soluções, as soluções que se aplica a este serviço são indispensáveis para grandes e pequenas empresas, que estabelece uma comunicação inteligente com os clientes para esclarecimentos sobre dúvidas e outras solicitações para problemas técnicos relacionados a telefonia, informática, tecnologia da informação ou ainda pré e pós-vendas, funciona de forma automática 24 horas por dia 7 dias por semana.

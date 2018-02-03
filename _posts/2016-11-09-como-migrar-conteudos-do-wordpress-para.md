@@ -11,8 +11,14 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Recentemente escrevi uma postagem aqui no Inside Block de <a href="http://www.insideblock.com/post/como-migrar-conteudos-do-blogger-para-o.html" target="_blank">como migrar o conteúdo do Blogger para o Wordpress</a>. Agora iremos fazer o processo inverso, migrar do Wordpress para o Blogger.

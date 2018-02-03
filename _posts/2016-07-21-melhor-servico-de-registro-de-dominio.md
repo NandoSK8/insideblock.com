@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Ao criarmos um site devemos registar um domínio, para remover aquelas palavras chatas no final do endereço do blog (seu-site.blogspot.com ou seu-site.wordpress.com) o legal seria “seu-site.com” ou qualquer outro tipo de extensão de registro (.com<span/>.br, .net, .net<span/>.br, .org entre outros), ao escolha um nome de domínio para o seu site e importante lembrar que você não pode contratar qualquer serviço de registro, recomendamos que contrate serviços de confiança, procure site brasileiro reconhecido pelo “orgão de registro .BR”.

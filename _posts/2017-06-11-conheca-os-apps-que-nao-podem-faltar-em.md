@@ -11,8 +11,14 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 É quase impossível viver sem tecnologia hoje, ainda mais sem um smartphone, entretanto, somente com os seus recursos e configurações padrões de fábrica, os smartphones em si não ajudam muito, além das ligações e envio ou recebimento de sms.

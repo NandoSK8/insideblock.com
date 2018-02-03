@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Desde quando a Motorola liberou a <a href="http://www.insideblock.com/post/moto-g2-2014-ganha-atualizacao-para-o.html" target="_blank">versão de teste do Android 6</a> no final de 2015, e a versão final no inicio de 2016 para o Moto G2 2014 XT1069, muitos usuários vem questionando o porque não conseguem mais fazer o Hard Reset na nova versão do Android.

@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Você já deve ter observado que alguns blogs, mostram somente o resumo das postagens com um botão leia mais ou mais informações, e quando clicamos em um desses botões a postagem abre completamente, hoje vamos lhe ensinar a adicionar este resumo em todos os post automaticamente como imagem de exibição e sem javascript.

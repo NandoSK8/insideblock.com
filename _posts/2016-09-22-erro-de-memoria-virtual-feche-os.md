@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Este tipo de erro é muito comum de aparecer no Windows, quando fazemos algum tipo de alteração no sistema para ganhar mais velocidade, mesmo que o sistema chegue ao resultado esperado após as alterações, é muito provável que mais tardar o mesmo venha apresentar o mesmo ou outros tipo de problema.

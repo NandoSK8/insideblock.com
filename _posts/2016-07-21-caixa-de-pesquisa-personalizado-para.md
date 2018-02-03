@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 A caixa de pesquisa ( ou caixa de busca) é um dos recursos mais importantes em um blog. É através dela que o leitor irá procurar por outros posts mais antigos e de maior interesse dele. É muito útil também para o dono do blog encontrar seus próprios artigos e tornando mais fácil a navegação em seu blog ou site.

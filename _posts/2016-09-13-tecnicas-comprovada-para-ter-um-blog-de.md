@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Acredito que seja possível criar e manter um blog de qualidade em qualquer uma das plataforma Blogger e WordPress, aplicando técnicas de SEO para <a href="http://www.insideblock.com/post/como-otimizar-seu-site-para-o.html" target="_blank">otimizar</a> ao máximo as páginas para os motores de busca.

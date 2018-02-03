@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 O seu site é dependente do Google? Você já parou para pensar o que aconteceria com o seu site se o Google acabasse nesse exato momento? Talvez você não tenha pensado nisso, mas agora que toquei no assunto acho que sua respostas seria “o fim do sucesso”, ou qualquer outra resposta ruim que classificaria o seu site como um verdadeiro fracasso.

@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 O uso do computador hoje se tornou algo indispensável para muitas pessoas trabalho, estudo, noticias, entretenimento, jogos e vários outros motivos, mas e a segurança do seu PC como esta? Nem um sistema operacional esta livre de ataque de hacker.

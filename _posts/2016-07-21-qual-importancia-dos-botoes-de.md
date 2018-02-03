@@ -10,8 +10,14 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads: true
-ads_adsense: true
+ads_top_site: true
+ads_top_site_adsense: true
+ads_aside: true
+ads_aside_adsense: true
+ads_top_post: true
+ads_top_post_adsense: true
+ads_bot_post: true
+ads_bot_post_adsense: true
 ---
 
 Todos os dias vemos novos sites sendo criados, sites e ideias de sucesso, apesar de todo o sucesso o que todos eles tem em comum são os “botões de compartilhamento”. Os botões de compartilhamento são ferramentas importante que devem ser usada ao criar um site ou uma página na internet, principalmente quando falamos em alcançar novos objetivos com projetos desenvolvidos na web, a importância desta ferramenta não se compara a nem uma outra, o seu poder de conseguir mais visitas para uma determinada página é gigantesca, totalmente alavancadora.
