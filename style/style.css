@@ -800,16 +800,7 @@ footer .footer-info ul a {
     color: rgba(0, 0, 0, .75)
 }
 
-footer .link{
-    border-bottom: 1px solid
-}
-
-footer .jekyll-github {
-    padding: 10px 0;
-    margin: 25px 0 0 0
-}
-
-footer .jekyll-github a{
+footer .link {
     border-bottom: 1px solid
 }
 
