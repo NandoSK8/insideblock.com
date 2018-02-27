@@ -33,7 +33,7 @@ Você pode usar qualquer DVD ou Pen Driver Bootavel do Windows, em qualquer outr
 
 * Ao carregar a primeira tela do Boot, clique em “**Avançar**” e em seguida “**Reparar o seu computador**”, aguarde a tela de recuperação carregar é em seguida clique em “**Carregar Drivers**”.
 
-![Carregamento de drivers](/img/post/quebre-senha-de-qualquer-computador/carregar-drivers.png)
+![Carregamento de drivers](/assets/img/post/quebre-senha-de-qualquer-computador/carregar-drivers.png)
 
 * No canto esquerdo da tela clique em “**Computador**”, selecione a unidade do disco rígido onde seu sistema operacional esta instalado, navegue ate a pasta **Windows › System32**.
 
@@ -41,11 +41,11 @@ Você pode usar qualquer DVD ou Pen Driver Bootavel do Windows, em qualquer outr
 
 * Procure pelo arquivo “**SETHC**” e renomeie ele para “**SETHC2**”.
 
-![Arquivo Sethc](/img/post/quebre-senha-de-qualquer-computador/arquivo-sethc.png)
+![Arquivo Sethc](/assets/img/post/quebre-senha-de-qualquer-computador/arquivo-sethc.png)
 
 * Agora vá ate o final da tela no arquivo “CMD” que você criou um copia e renomeie para “SETHC”.
 
-![Arquivo CMD para Sethc](/img/post/quebre-senha-de-qualquer-computador/arquivo-cmd-sethc.png)
+![Arquivo CMD para Sethc](/assets/img/post/quebre-senha-de-qualquer-computador/arquivo-cmd-sethc.png)
 
 * Feche todas as janelas, reinicie o computador e deixe iniciar normalmente, na tela de logon pressione a tecla “**SHIFT**” cinco vezes ou mais, ate que janela do “**CMD**” do Windows seja executada.
 

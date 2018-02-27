@@ -28,7 +28,7 @@ Este recurso é nativa do iOS, é você não precisa instalar qualquer aplicativ
 
 4. Desmarque a opção, "**Mostrar Meu Número**".
 
-![Ajuste de ligação do Iphone](/img/post/como-fazer-ligacao-privada-do-iphone/ligacao-iphone.png)
+![Ajuste de ligação do Iphone](/assets/img/post/como-fazer-ligacao-privada-do-iphone/ligacao-iphone.png)
 
 Pronto você já pode fazer ligações com o número restrito.
 

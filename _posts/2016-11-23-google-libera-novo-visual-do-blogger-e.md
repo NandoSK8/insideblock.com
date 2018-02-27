@@ -19,7 +19,7 @@ ads_foot_post_ads: true
 
 O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/post/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.
 
-![Novo visual do Blogger](/img/post/google-libera-novo-visual-do-blogger-e/new-blogger.png)
+![Novo visual do Blogger](/assets/img/post/google-libera-novo-visual-do-blogger-e/new-blogger.png)
 
 O novo modelo revela ser mais inteligente, as mudanças são mais visuais, enquanto algumas configurações mudaram de posições, outras continuam exatamente onde já estavam, duas modificações que foram feitas e todos percebem logo de cara ao acessar o painel, é que os blogs não ficam mais em formato de lista, e a barra de cabeçalho agora fica na mesma altura que a logo do Blogger.
 

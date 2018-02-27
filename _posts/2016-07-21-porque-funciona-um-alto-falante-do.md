@@ -20,7 +20,7 @@ A Apple é mesma cheia de surpresar, eu tive o mesmo problema em um iPhone 3GS, 
 
 Um bom tempo depois comprei um iPhone 5S, e no segundo dia de uso observei que um dos alto falante também não funcionava, achei logo de inicio que fosse alguma configuração ou algum bug do iOS, alterei e habilitei varias opções de configurações e nada de resolver o problema, ate que resolvi procurar algumas informações na internet, e bombam, “o iPhone tem apenas um alto falante e não dois”.
 
-![Microfone e alto-falante do Iphone](/img/post/porque-funciona-um-alto-falante-do/iphone-microfone-alto-falante.png)
+![Microfone e alto-falante do Iphone](/assets/img/post/porque-funciona-um-alto-falante-do/iphone-microfone-alto-falante.png)
 
 A Apple sempre teve um ótimo e bom gosta nos designer de seus dispositivos, fazendo com que alguns usuários se confunda ou venha pesar que seu aparelho esteja com problema no alto falante, a duvida fica porque o modelo do lado do alto falante e idêntico ao do microfone, e quando você colocar algum áudio pra tocar no dispositivo apenas um dos lados sai o som de reprodução (geralmente do lado direito na parte inferior do iPhone (5S)).
 
