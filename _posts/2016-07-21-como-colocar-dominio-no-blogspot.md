@@ -64,13 +64,17 @@ Fim da recuperação CNAME.
 8. Opcional continuação: Depois de concluir a etapa 6, liste os endereços IP mostrados abaixo na seção "A". Você deve criar quatro registros "A", separados que direcionem para quatro IPs diferentes do Google.
 
 Tipo: **A**
+
 Entrada: **@**
+
 Valor: **216.239.32.21**
 
 Repita o mesmo processo para os IPs abaixo.
 
 **216.239.34.21**
+
 **216.239.36.21**
+
 **216.239.38.21**
 
 Fim da seção opcional.
