@@ -54,7 +54,7 @@ Fim da recuperação CNAME.
 ## Continuação da configuração de domínio
 4. Acesse o site do seu serviço de registro de domínio e encontre as configurações "DNS" (**Sistema de Nome de Domínio**) no painel de controle.
 
-5. Agora digite o CNAMEs. Em Nome, Marcador ou Host, basta digitar "www" e listar ghs.google.com como Destino, Alvo ou Direcionar para.
+5. Agora digite o CNAMEs. Em Nome, Marcador ou Host, basta digitar "www" e listar ghs<span/>.google<span/>.com como Destino, Alvo ou Direcionar para.
 
 6. Digite o segundo CNAME da mesma forma.
 
