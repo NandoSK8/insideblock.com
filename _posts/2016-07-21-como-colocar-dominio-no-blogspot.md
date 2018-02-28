@@ -18,9 +18,9 @@ ads_foot_post_ads: true
 
 Toda vez quando criamos um blog com hospedagem grátis, além de escolhermos um domínio grátis ele é seguido por um subdomínio como no caso do "blogspot<span/>.com", isso incomoda muitos blogueiros levando eles a comprarem um domínio personalizado.
 
-Logo depois vem a pergunta se eu adquirir um domínio personalizado, como faço para configurar em meu blog, bom isso é bem simples no caso do "blogspot.com", nos temos aqui um tutorial completo para qualquer domínio de nível superior "www<span/>.example<span/>.com".
+Logo depois vem a pergunta se eu adquirir um domínio personalizado, como faço para configurar em meu blog, bom isso é bem simples no caso do "blogspot<span/>.com", nos temos aqui um tutorial completo para qualquer domínio de nível superior "www<span/>.example<span/>.com".
 
-Se por acaso você ainda não adquirir nem um domínio, recomendamos que usem o Google Domains, pois o domínio "insideblock.com" é registrado no próprio, temos também um outro tutorial passo a passo como configurar domínio do Uol Host no Blogger.
+Se por acaso você ainda não adquirir nem um domínio, recomendamos que usem o Google Domains, pois o domínio "<a href="//www.insideblock.com">insideblock.com</a>" é registrado no próprio, temos também um outro tutorial passo a passo como configurar domínio do Uol Host no Blogger.
 
 OBS: Este tutorial não é valido para o Google Domains, pois o serviço já se integra automaticamente ao Blogger.
 
@@ -30,7 +30,7 @@ Depois de comprar um domínio personalizado siga as instruções.
 
 2. Digite o URL do domínio que você comprou, lembrando que dever iniciar com "www" para funcionar, clique em **Salvar**.
 
-3. Agora verá um erro e dois CNAMEs listados abaixo. Cada CNAME é formado por duas partes: Nome, Marcador ou Hoste Destino, Alvo ou Direcionar para. O primeiro é igual para todos: Nome sendo "www", destino como "ghs.google.com". O segundo CNAME é único é específico para o seu blog e sua conta no Google, é portanto diferente para cada pessoa.
+3. Agora verá um erro e dois CNAMEs listados abaixo. Cada CNAME é formado por duas partes: Nome, Marcador ou Hoste Destino, Alvo ou Direcionar para. O primeiro é igual para todos: Nome sendo "www", destino como "ghs<span/>.google<span/>.com". O segundo CNAME é único é específico para o seu blog e sua conta no Google, é portanto diferente para cada pessoa.
 
 NOTA: Se o seu CNAME não aparecer no painel do Blogger leia o seguinte trecho deste tutorial, (Meu CNAME não aparece no Blogger como faça para encontrar).
 
