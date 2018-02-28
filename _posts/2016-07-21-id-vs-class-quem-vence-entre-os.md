@@ -34,11 +34,11 @@ As únicas regras usadas como padrões é o forma de fazer o apontamento para o 
 
 **.CLASS:** Já para as CLASS não à regras de nome do seletor, elas pode se repetir sem nem um problema, não importa quantas vezes você tenha usar a mesma CLASS. Veja o exemplo.
 
-    <h1 class="class-seletor"> CLASS sempre pode se sepete </h1>
+    <h1 class="class-seletor"> CLASS sempre pode se repete </h1>
 
-    <h3 class="class-seletor"> CLASS sempre pode se sepete </h3>
+    <h3 class="class-seletor"> CLASS sempre pode se repete </h3>
 
-    <h3 class="class-seletor"> CLASS sempre pode se sepete </h3>
+    <h3 class="class-seletor"> CLASS sempre pode se rsepete </h3>
 
 Com você tem visto os exemplos. Geralmente quando se usar IDs, você também usar um código CSS maior; já para as CLASS um único seletor do código CSS, pode ser adicionado a vários outros, sem a necessidade de fazer um novo código.
 
