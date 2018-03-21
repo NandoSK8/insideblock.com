@@ -30,7 +30,7 @@ Ao concluir a criação do feed por padrão ele vem com a cópia dos posts compl
 
 Acesse **Optimize › Summary Burner**, na opção “**Maximum length**” coloque o valor “300” para exibir apenas 300 caracteres de cada post ou um valor que achar melhor, na opção “**Teaser**” deixe como está ou coloque uma frase de apresentação no final de cada resumo, clique em **Activate** ou **Save** e veja como ficou.
 
-# Cadastro de e-mail para leitores
+## Cadastro de e-mail para leitores
 Agora devemos ativar a caixa de captura de e-mail e adicionar o código de incorporação no blog.
 
 Acesse **Publicize › Email Subscriptions**, faça as alterações necessárias para o idioma de sua preferência e o tipo de plataforma que o blog está hospedado clique em **Activate** ou **Save**, copie o código de incorporação e adicione ao template. Pronto sua caixa de e-mail já está pronta, se você preferir você pode personalizar o modelo da caixa para se adaptar com as cores do blog.
