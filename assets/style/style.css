@@ -178,6 +178,21 @@ section.author .desc a {
     overflow: hidden
 }
 
+div#modal1 {
+    top: 5% !important
+}
+
+.modal {
+    max-height: 90% !important;
+    width: 90% !important
+}
+
+div.tyntShIh {
+    height: 0 !important;
+    width: 0 !important;
+    display: none !important
+}
+
 
 /* Header
 _____________________________________________________________*/

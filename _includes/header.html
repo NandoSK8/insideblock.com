@@ -8,7 +8,7 @@
             </h1>
 
             <ul id="nav-mobile" class="right hide-on-small-only">
-                <li><a href="/search"><i class="material-icons">search</i></a></li>
+                <li><a class="waves-effect waves-light modal-trigger" href="#modal1"><i class="material-icons">search</i></a></li>
                 {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
                 <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
                 {% endfor %}
@@ -31,7 +31,7 @@
         </div>
     </nav>
 
-    <li><a href="/search">Search<i class="material-icons">search</i></a></li>
+    <li><a class="waves-effect waves-light modal-trigger" href="#modal1">Search<i class="material-icons">search</i></a></li>
     {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
     <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
     {% endfor %}

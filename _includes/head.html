@@ -20,7 +20,7 @@
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}"/>
-<link rel="icon" type="image/x-icon" href="/assets/img/logo/favicon.png " />
+<link rel="icon" type="image/x-icon" href="{{ site.url | append: site.logo | prepend: site.baseurl }}" />
 
 <!-- Metas Seo -->
 <html itemscope itemtype="http://schema.org/Blog"/>
