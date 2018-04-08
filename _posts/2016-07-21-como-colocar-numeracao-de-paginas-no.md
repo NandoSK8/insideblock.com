@@ -45,7 +45,7 @@ Antes dele adicione o seguinte:
                 var urlactivepage=location.href;
                 var home_page="/";
     </script>
-    <script src='//multicamada.github.io/FreeCodeProject/JavaScript/PaginationForBlogger.js' type='text/javascript'></script>
+    <script src='https://multicamada.github.io/FreeCodeProject/JavaScript/PaginationForBlogger.js' type='text/javascript'></script>
 
 ##Alteração do código
 Na linha **(var numshowpage=10;)** o numero 10 exibe a o resultado de página que o blog tem.

@@ -31,7 +31,7 @@ Procure pela tag **</head>** e adicione o código abaixo acima dela.
     <script type='text/javascript'>
     $(document).ready(function() {$(&#39;.resizethumbnail&#39;).attr(&#39;src&#39;, function(i, src) {return src.replace( &#39;s72-c&#39;, &#39;s500-c&#39; );});});
     </script>
-    <script src='//multicamada.github.io/FreeCodeProject/JavaScript/RelatedPostsForBlogger.js' type='text/javascript'/>
+    <script src='https://multicamada.github.io/FreeCodeProject/JavaScript/RelatedPostsForBlogger.js' type='text/javascript'/>
     <!-- Postagens Relacionadas.js -->
 
 ## Segundo código
