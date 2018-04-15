@@ -10,13 +10,13 @@ body {
 }
 
 div.height {
-    height: 500px;
+    height: 300px;
     background: linear-gradient(to bottom left, #76C4E2, #8176B5)
 }
 
 .site-description {
     padding: 20px 50px;
-    margin-top: -500px;
+    margin-top: -300px;
     overflow: hidden
 }
 
@@ -90,6 +90,7 @@ blockquote p {
 }
 
 .ads,
+.google-auto-placed,
 .google-auto-placed.ap_container {
     width: 100%;
     display: block;
@@ -99,6 +100,7 @@ blockquote p {
     overflow: hidden
 }
 
+.post article .google-auto-placed,
 .post article .google-auto-placed.ap_container {
     padding: 0 7.5px 20px 7.5px !important
 }
