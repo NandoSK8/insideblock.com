@@ -89,13 +89,14 @@ blockquote p {
     margin: 0 !important
 }
 
-.ads,
-.google-auto-placed,
-ins.adsbygoogle {
+main .ads,
+main .google-auto-placed ins.adsbygoogle,
+main ins.adsbygoogle {
     display: none
 }
 
 main .ads,
+main .google-auto-placed ins.adsbygoogle,
 main ins.adsbygoogle {
     width: 100%;
     display: block !important;
