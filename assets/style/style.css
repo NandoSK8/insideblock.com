@@ -96,7 +96,6 @@ ins.adsbygoogle {
 }
 
 main .ads,
-main .google-auto-placed,
 main ins.adsbygoogle {
     width: 100%;
     display: block !important;
