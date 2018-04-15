@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Hoje nos deparamos com a grande quantidade de conteúdo copiados na internet, certamente isso é pouco provável que acabe, tão pouco menos de ser impedida, por isso só o que nos resta a fazer é dificultando o tão pouco esforço dos plagiadores, e com isso podemos aumentar nossas visitas em nossos sites/blogs, se não podemos combate-los vamos usa-los a nosso favor.

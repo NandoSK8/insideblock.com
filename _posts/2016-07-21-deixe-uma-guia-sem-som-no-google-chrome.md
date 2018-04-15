@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Você já abril varias guia do YouTube, ou de algum outro site que tem anúncios barulhentos ou rádios online no Chrome ao mesmo tempo, e você toda vez tem que clicar sobre a guia e pausar o vídeo ou a radio? Bom isso acaba se tornando um pouco chato e desconfortante para os nossos ouvido e dos nossos amigos ao lado.

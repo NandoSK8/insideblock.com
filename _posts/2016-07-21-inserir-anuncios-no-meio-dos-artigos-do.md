@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 O posicionamento dos anúncios é mesmo muito importante para o rendimento do seu blog, entretanto escolher e colocar os anúncios em locais específicos pode ser um pouco difícil. Para que isso fique mais fácil temos alguns códigos para o templete do Blogger.

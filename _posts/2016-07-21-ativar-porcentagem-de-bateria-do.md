@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 O Android 6 não para de trazer novidades, como o modo Doze que ajuda economizar bateria e a opção de exibição de porcentagem da bateria, nas versões inferior ao Android 4 esta função já existia, mas o Google tinha optado por descontinuar esta função a parti do KitKat, esta ideia não deixou os usuários do Android felizes, obrigando eles a instalar apps para controlar a porcentagem da baterias, principalmente para os usuários que utilizam smartfone com Android puro.

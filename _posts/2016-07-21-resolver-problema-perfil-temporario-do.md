@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 A mensagens de perfil temporário pode acontecer por vários motivos, toda vez que você faz logon em um determinado computador a mensagem de “perfil temporário” aparace na barra de notificações do Windows, e toda vez que você salva algum arquivo e reiniciar ou sair do usuário o arquivo é apagado apresentando novamente o mensagem de perfil temporário ao fazer logon. Este tipo de erro é comum em computadores ligados a uma rede corporativa conectada a uma domínio com usuário de AD.

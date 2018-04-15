@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Assim como no Android o iPhone também tem a função de ocultar o ID de chamada e fazer ligações privada para qualquer numero ou para qualquer pessoa da sua agenda de contatos.

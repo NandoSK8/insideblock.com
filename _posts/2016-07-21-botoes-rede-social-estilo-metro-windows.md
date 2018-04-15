@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Hoje as redes sociais é um grande aliados para todos os blogueiros, principalmente quando criamos nossas páginas oficiais para divulgar nossos artigos, em primeira mão para nossos visitantes diretamente para o Facebook, Twitter, Google+ entre outros.

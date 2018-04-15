@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Desde o lançamento do Office 2013, alguma empresas vem enfrentado um problema, ao abrir ou salvar um documento de qualquer aplicação do pacote Office, uma janela com a seguinte mensagem aparece: “Conectando-se com servidor proxy store.office.com. Insira suas credenciais.”, entretanto o Office 2016 também vem apresentando o mesmo problema.

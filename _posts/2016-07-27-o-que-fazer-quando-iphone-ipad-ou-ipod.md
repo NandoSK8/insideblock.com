@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Você não consegue ouvir nada no alto-falante do iPhone, iPad ou iPod? Talvez você consegue ouvir, mas o som esteja distorcido, abafado e intermitente. Também é possível que você esteja ouvindo um som estático ou ruídos de estalo. Fique sabendo que isso pode acontecer de um hora para outra e se explicação, e que existe algumas maneiras de resolver o problema, sem a necessidade de algum suporte técnico.

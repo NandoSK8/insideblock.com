@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Os botões de compartilhamento são ótimas ferramentas que podem aumentar as visitas do seu site, hoje quando vemos um site ou blog sem esta ferramenta logo percebemos que o administrador deste site (Webmaster), não tem experiência o suficiente para aproveitar e aumentar o número de visitas ou para lista entre os mais procurados e visitados da blogosfera.

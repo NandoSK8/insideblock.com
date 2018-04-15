@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Os IDs e as Classes são seletores importantes de uma estrutura HTML, eles são tão importante que não é possível desenvolver qualquer tipo de site sem eles. Entretanto ele tem todas as igualdades e apenas uma diferença.

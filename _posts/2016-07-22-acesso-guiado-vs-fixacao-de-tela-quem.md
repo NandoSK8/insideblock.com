@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 A Apple é o Google sempre estão disputando entre-si para ver que desenvolve o melhor sistema operacional para celulares e tablets, de um lado o iOS da Apple do outro o Android do Google, ambos tem recursos protegido por lei de patentes, mas um desses recursos deixa os usuários a espreita, quanto se trata do "Acesso Guiado" do iOS e "Fixação de Tela" do Android.

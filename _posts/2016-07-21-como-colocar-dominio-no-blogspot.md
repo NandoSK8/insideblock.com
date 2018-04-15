@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Toda vez quando criamos um blog com hospedagem grátis, além de escolhermos um domínio grátis ele é seguido por um subdomínio como no caso do "blogspot<span/>.com", isso incomoda muitos blogueiros levando eles a comprarem um domínio personalizado.

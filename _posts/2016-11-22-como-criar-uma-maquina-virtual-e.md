@@ -11,10 +11,7 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Ter um segundo computador para fazer testes é muito importante, evita que você comprometa o sistema operacional e os arquivos do computador principal, porém nem todos têm dois computadores, mas é possível ter vários a partir de um.

@@ -4,10 +4,6 @@ layout: default
 
 <div class="post">
 
-    <div class="ads">
-        {% include ads.html %}
-    </div>
-
     <!-- Aside -->
     <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
         {% include aside.html %}
@@ -41,21 +37,9 @@ layout: default
                 <span class="post-title">{{ page.title }}</span>
             </div>
 
-            {% if page.ads_top_post %}
-                <div class="ads">
-                    {% include ads_top_post.html %}
-                </div>
-            {% endif %}
-
             <div class="body flow-text">
                 {{ content }}
             </div>
-
-            {% if page.ads_foot_post %}
-                <div class="ads">
-                    {% include ads_foot_post.html %}
-                </div>
-            {% endif %}
         </div>
 
         <!-- Pagination -->

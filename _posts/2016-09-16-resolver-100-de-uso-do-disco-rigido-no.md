@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Nenhum sistema operacional está livre de bugs, o sistema da Microsoft entretanto vem apresentando um bug que deixexando o disco rígido 100% em uso, ocasionando em lentidão do sistema ao abrir um arquivo ou programa.

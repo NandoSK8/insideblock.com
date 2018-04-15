@@ -11,10 +11,7 @@ author: true
 author_ediano: true
 coauthor_luciana: true
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/post/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.

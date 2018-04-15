@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 As Heading tags ou tags de cabeçalho, são usadas para diferenciar o título ou subtítulo do restante do conteúdo de uma página. Elas são responsáveis por informar aos motores de buscas, qual parte de um conteúdo é mais importante.

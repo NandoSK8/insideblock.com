@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Muitos usuários do Blogger, geralmente opta por fazer algumas alterações em seu template, para facilitar a navegação de seus usuários e tona-la mais acessível todas as informações publicada em seu blog. As alterações do template varia da necessidade de cada blogueiro, sendo assim hoje nos vamos lhe ensinar a por numeração de página em seu blog do Blogger.

@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Quando criei o meu primeiro blog, eu não tinha informações o suficientes para gerenciá-lo de forma correta, cometi alguns erros e levei muito tempo para chegar ao nível em que estou.

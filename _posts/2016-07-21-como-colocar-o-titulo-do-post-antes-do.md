@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Nos Templates padrões do Blogger, quando se é aberto o mesmo blog em várias janelas ou guias em um navegador, aparece por primeiro o nome do blog e depois o título da postagem.

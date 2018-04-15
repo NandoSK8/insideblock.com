@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Não é exagero dizer que a pornográfia e site perigosos ocupam uma grande parcela da internet, com esta grande preocupação virtual, muitos pais, usuários, empresas entre outros, buscam forma de bloquear este site que de certa forma no oferece um tipo risco virtual.

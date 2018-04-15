@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Trabalhar a partir de casa e algo realmente muito bom, ganha dinheiro com a internet em US$ e em €$ é muito melhor, pois já que você esta em casa, você pode fazer diversas coisas diferente e ir trabalho no horário que quiser, sem que miguem te em comode no seu trabalho, você não precisa receber ordem de qualquer pessoa que tenha um carga melhor ou maior do que o seu (Chefe), pois aqui você trabalho pra você mesmo.

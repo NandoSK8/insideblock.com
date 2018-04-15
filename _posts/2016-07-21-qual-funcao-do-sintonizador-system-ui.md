@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Sintonizador System UI é uma das grandes novidade do Android  Marshmallow, esta função permite que você controle varias opções sobre a barra de status e a areá de configuração rápida. A função que permite que você controle as permissões individualmente por aplicativos, o modo Doze e o Now on Tap também são novos no Marshmallow.

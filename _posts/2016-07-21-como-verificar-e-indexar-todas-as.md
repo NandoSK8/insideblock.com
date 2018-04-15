@@ -10,10 +10,7 @@ author: true
 author_ediano: true
 coauthor_luciana: false
 comments: true
-ads_top_post: true
-ads_top_post_ads: true
-ads_foot_post: true
-ads_foot_post_ads: true
+ads: true
 ---
 
 Ter todas as paginas do blog indexadas no Google pode ajudar a gerar mais visitas por isso vale a pena verificar se o seu blog está indexado corretamente no Google. Isso é simples de fazer e você pode usar as ferramentas para <a href="http://www.google.com/webmasters" rel="nofollow" target="_blank">Webmasters</a> do Google para enviar seus sitemaps e melhorar sua posição nos resultados das buscas do Google.
