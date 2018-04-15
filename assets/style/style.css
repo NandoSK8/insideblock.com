@@ -91,9 +91,15 @@ blockquote p {
 
 .ads,
 .google-auto-placed,
-.google-auto-placed.ap_container {
+ins.adsbygoogle {
+    display: none
+}
+
+main .ads,
+main .google-auto-placed,
+main ins.adsbygoogle {
     width: 100%;
-    display: block;
+    display: block !important;
     padding: 15px 7.5px;
     text-align: center;
     justify-content: center;
