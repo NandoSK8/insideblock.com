@@ -89,17 +89,24 @@ blockquote p {
     margin: 0 !important
 }
 
+.ads,
+.google-auto-placed,
+.google-auto-placed ins.adsbygoogle,
+ins.adsbygoogle {
+    display: none
+}
+
 main .ads,
+main .google-auto-placed,
 main .google-auto-placed ins.adsbygoogle,
 main ins.adsbygoogle {
-    display: none
+    display: block !important
 }
 
 main .ads,
 main .google-auto-placed ins.adsbygoogle,
 main ins.adsbygoogle {
     width: 100%;
-    display: block !important;
     padding: 15px 7.5px;
     text-align: center;
     justify-content: center;
