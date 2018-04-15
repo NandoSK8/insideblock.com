@@ -100,7 +100,7 @@ main .ads,
 main .google-auto-placed {
     width: 100%;
     display: block !important;
-    padding: 15px 7.5px;
+    padding: 20px 0;
     text-align: center;
     justify-content: center;
     overflow: hidden
