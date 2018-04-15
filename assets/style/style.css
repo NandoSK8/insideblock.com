@@ -94,15 +94,10 @@ blockquote p {
 .google-auto-placed.ap_container {
     width: 100%;
     display: block;
-    padding: 20px 7.5px;
+    padding: 15px 7.5px;
     text-align: center;
     justify-content: center;
     overflow: hidden
-}
-
-.post article .google-auto-placed,
-.post article .google-auto-placed.ap_container {
-    padding: 0 7.5px 20px 7.5px !important
 }
 
 .disabled {
@@ -667,7 +662,7 @@ _____________________________________________________________*/
 }
 
 .post article .body p {
-    margin: 0 0 25px 0;
+    margin: 15px 0;
     letter-spacing: .01rem
 }
 
@@ -683,6 +678,7 @@ _____________________________________________________________*/
     padding: 0 0 15px 0;
     margin: 50px 0 10px 0;
     font-size: 2rem;
+    font-weight: 400;
     border-bottom: 1px solid #eaecef
 }
 
