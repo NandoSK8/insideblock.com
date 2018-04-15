@@ -89,13 +89,18 @@ blockquote p {
     margin: 0 !important
 }
 
-.ads {
+.ads,
+.google-auto-placed.ap_container {
     width: 100%;
     display: block;
     padding: 20px 7.5px;
     text-align: center;
     justify-content: center;
     overflow: hidden
+}
+
+.post article .google-auto-placed.ap_container {
+    padding: 0 7.5px 20px 7.5px !important
 }
 
 .disabled {
