@@ -92,7 +92,8 @@ blockquote p {
 .ads,
 .google-auto-placed,
 .google-auto-placed,
-ins.adsbygoogle {
+ins.adsbygoogle,
+ins#google_pedestal_container {
     display: none
 }
 
