@@ -20,9 +20,9 @@ A numeração de página para blogs facilita a navegação de seus usuários, de
 Antes de fazer qualquer alteração recomendamos que você faça o BACKUP do modelo atual do seu blog, para evitar problemas e alterações indesejáveis do template.
 
 ## Adicionando o Script
-* Pressione Ctrl+F e procure pelo seguinte código
+Pressione Ctrl+F e procure pelo seguinte código
 
-        </body>
+    </body>
 
 Antes dele adicione o seguinte:
 
