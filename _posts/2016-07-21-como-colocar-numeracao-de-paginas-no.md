@@ -52,9 +52,9 @@ Na linha **(var postperpage =3;)** o numero 3 exibe o resultados de artigos enco
 No trecho **(#)** você pode alterar os valores (a frente de #), para combinar com as cores do seu blog.
 
 ## Corrigindo o Template
-* Agora procure pelo trecho a seguinte:
+Agora procure pelo trecho a seguinte:
 
-        'data:label.url'
+    'data:label.url'
 
 Substitua todos os código encontrado por:
 
