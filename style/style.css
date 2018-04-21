@@ -413,7 +413,7 @@ aside .feed::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: url("/assets/img/site/feed.jpg");
+    background-image: url("/img/site/feed.jpg");
     background-size: 150%;
     background-repeat: no-repeat;
     background-position: center;
@@ -708,7 +708,7 @@ _____________________________________________________________*/
 .post article .body a::after {
     content: "";
     display: inline-block;
-    background-image: url("/assets/img/site/link.png");
+    background-image: url("/img/site/link.png");
     background-size: 100%;
     margin-left: .3rem;
     width: 1rem;

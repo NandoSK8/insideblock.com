@@ -19,14 +19,14 @@ Como nas versões anterior do Android o Marshmallow vem com algumas funções oc
 
 * Posicione seu dedo no topo da tela e deslize de cima para baixa para acessar o ajustes rápido. Pressione sobre o ícone que da acessoa as configurações do celular por 5 (cinco) segundos ou mais.
 
-![Botão de ajustes rápido do Android 6](/assets/img/post/ativar-porcentagem-de-bateria-do/botao-configuracao.png)
+![Botão de ajustes rápido do Android 6](/img/post/ativar-porcentagem-de-bateria-do/botao-configuracao.png)
 
 * Ao soltar o ícone de configurações você sera levado ate as configurações e a seguinte mensagem vai aparecer por alguns segundos, (Parabéns! O sintonizador System UI foi adiciona às configurações). Deslize ate o final da tela e acesse (Sintonizador System UI).
 
-![Sintonizador System UI do Andriod 6](/assets/img/post/ativar-porcentagem-de-bateria-do/menu.png)
+![Sintonizador System UI do Andriod 6](/img/post/ativar-porcentagem-de-bateria-do/menu.png)
 
 * Dentro da configuração (Sintonizador Sytem UI), habilite a opção (Mostrar porcentagem de bateria inc…), o normal é que a porcentagem de bateria comece a aparecer no mesmo momento que você habilitar, caso isso não aconteça desligue e ligue o seu aparelho.
 
-![Mostrar porcentagem de bateria Android 6](/assets/img/post/ativar-porcentagem-de-bateria-do/menu-sintonizado-system-ui.png)
+![Mostrar porcentagem de bateria Android 6](/img/post/ativar-porcentagem-de-bateria-do/menu-sintonizado-system-ui.png)
 
 Para ativar a porcentagem de bateria nas versões anteriores do Android, basta baixar a ferramenta <a href="https://play.google.com/store/apps/details?id=de.kroegerama.android4batpercent" rel="nofollow" target="_blank">Ativador de Percentagem</a>. Seu nome já indica a função: ao iniciar o app, basta ativar a função de mostrador em porcentagem e o ícone da bateria na barra de status também mostrará quanto resta de energia em números. O aplicativo não precisa de permissões de root e funciona a partir do Android 4.4 KitKat.

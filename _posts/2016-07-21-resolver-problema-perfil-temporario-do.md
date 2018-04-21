@@ -23,6 +23,6 @@ Esta mensagem começa a aparece quando um usuário tem sua pasta excluída do �
 
 3. Procure pela pasta que contém o valor do usuário que tem o perfil temporário, Clique com o botão direito sobre a pasta e em **Excluir**, vai perguntar se tem certeza que deseja excluir clique em sim. Reinicia o Windows e faça logon novamente.
 
-![Registro do Windows](/assets/img/post/resolver-problema-perfil-temporario-do/regedit-windows.png)
+![Registro do Windows](/img/post/resolver-problema-perfil-temporario-do/regedit-windows.png)
 
 Espero ter ajudado, se você gostou deste artigo, nos ajude e compartilhe com seus amigos.

@@ -27,15 +27,15 @@
 <meta itemprop="name" content="{{ page.title }}"/>
 <meta itemprop="url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 <meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}"/>{% if page.img %}
-<meta itemprop="image" content="{{ site.url | append: '/assets/img/post' | prepend: site.baseurl | append: page.img }}"/>{% else %}
+<meta itemprop="image" content="{{ site.url | append: '/img/post' | prepend: site.baseurl | append: page.img }}"/>{% else %}
 <meta itemprop="image" content="{{ site.url | append: site.logo | prepend: site.baseurl }}"/>{% endif %}
 
 <meta name="google-site-verification" content="WFfdXxzxwHG8RawsmRbU7KggGQx-kUe8m7A6LvjElN0"/>
 <meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB"/>
 
-<link rel="stylesheet" href="/assets/style/style.min.css"/>
-<link rel="stylesheet" href="/assets/materialize/v1.0.0.alpha.2/materialize.min.css"/>
-<link href="/assets/fonts/roboto/roboto.css" rel="stylesheet"/>
-<link href="/assets/fonts/material_icons/icons.css" rel="stylesheet"/>
+<link rel="stylesheet" href="/style/style.min.css"/>
+<link rel="stylesheet" href="/materialize/v1.0.0.alpha.2/materialize.min.css"/>
+<link href="/fonts/roboto/roboto.css" rel="stylesheet"/>
+<link href="/fonts/material_icons/icons.css" rel="stylesheet"/>
 
 {% include scripts_optional.html %}

@@ -7,17 +7,17 @@
   },
   "headline": "{{ post.title }}"
   ,
-  
+
   "description": "{{ post.content | strip_html | strip_newlines | truncate: 120 }}","datePublished": "{{ post.date | date_to_xmlschema }}",
   "dateModified": "{{ post.modified_time | date_to_xmlschema }}","image": {
-    "@type": "ImageObject","url": "{{ site.url | append: '/assets/img/post' | prepend: site.baseurl | append: post.img }}",
+    "@type": "ImageObject","url": "{{ site.url | append: '/img/post' | prepend: site.baseurl | append: post.img }}",
     "height": 630,
     "width": 1200},"publisher": {
     "@type": "Organization",
     "name": "Inside Block",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.url | append: '/assets/img/post' | prepend: site.baseurl | append: post.img }}",
+      "url": "{{ site.url | append: '/img/post' | prepend: site.baseurl | append: post.img }}",
       "width": 206,
       "height": 60
     }

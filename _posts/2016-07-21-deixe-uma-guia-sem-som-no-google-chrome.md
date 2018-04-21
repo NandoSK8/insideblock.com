@@ -21,7 +21,7 @@ Em alguns caso as guias recém aberta permanece com o vídeo pausado ou silencia
 
 1. Abra uma nova guia no Chrome e digite ou cole o seguinte endereço na de pesquisa “**chrome://flags/**” sem aspas, procure por algo parecido como “**Controle de interface do usuário de silenciamento de áudio da guia**”, clique em “Ativar” e “Reiniciar”.
 
-![Guia do Google Chrome](/assets/img/post/deixe-uma-guia-sem-som-no-google-chrome/guia-chrome.png)
+![Guia do Google Chrome](/img/post/deixe-uma-guia-sem-som-no-google-chrome/guia-chrome.png)
 
 Tome muito cuidado para não ativar ou desativar recursos que pode afetar diretamente a funcionalidade do navegador, não oferecemos qualquer garantia sobre o que possa acontecer ao ativar algum recurso experimentos.
 
