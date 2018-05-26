@@ -16,6 +16,8 @@ paginate: 10
 navigation:
  - title: Home
    url: /
+ - title: Contato
+   url: /contact/
  - title: Converter HTML
    url: /convert-html/
  - title: Equipe

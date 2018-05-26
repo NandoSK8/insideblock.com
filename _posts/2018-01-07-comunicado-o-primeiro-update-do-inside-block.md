@@ -29,9 +29,6 @@ A equipe do <a href="http://multicamada.com" target="_blank">Grupo Multi Camada<
 
 Estamos desenvolvendo também um ambiente de cursos online, com principal foco no desenvolvimento de Front-End e templates para o GitHub Pages construído com Jekyll.
 
-## Ambiente de teste
-A partir de agora o blog Inside Block, ganhou um ambiente de teste. Todas as nossas atualizações relacionadas a modelos e adicionamento de novas ferramentas serão liberadas primeiro em next<span/>.insideblock<span/>.com como versão “beta”, após todas as adequações e elaborações de novos recursos, o mesmo será publicado no www<span/>.insideblock<span/>.com.
-
 A equipe Inside Block agradece a fidelidade ao Blog.
 Em breve, mais novidades.
 
