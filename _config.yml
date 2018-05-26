@@ -25,3 +25,5 @@ navigation:
 
 google_analytics: "UA-81236717-1"
 google_tagmanager: "GTM-T6PZBSG"
+
+include: ['_redirects', '_headers']
