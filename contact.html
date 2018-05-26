@@ -5,26 +5,26 @@ permalink: /contact/
 ---
 
 <div class="row">
-  <form class="col s12" name="contact" netlify>
+  <form class="col s12" action="/success/" name="contact" netlify>
     <div class="row">
       <div class="input-field col s6">
-        <input id="first_name" name="PrimeiroNome" type="text" class="validate">
+        <input id="first_name" name="PrimeiroNome" type="text" required="" class="validate">
         <label for="first_name">Primeiro nome</label>
       </div>
       <div class="input-field col s6">
-        <input id="last_name" type="text" name="Sobrenome" class="validate">
+        <input id="last_name" type="text" name="Sobrenome" required="" class="validate">
         <label for="last_name">Sobrenome</label>
       </div>
     </div>
     <div class="row">
       <div class="input-field col s12">
-        <input id="email" type="email" name="Email" class="validate">
+        <input id="email" type="email" name="Email" required="" class="validate">
         <label for="email">Email</label>
       </div>
     </div>
     <div class="row">
       <div class="input-field col s12">
-        <input id="text" type="text" name="Assunto" class="validate">
+        <input id="text" type="text" name="Assunto" required="" class="validate">
         <label for="text">Assunto</label>
       </div>
     </div>
@@ -36,7 +36,7 @@ permalink: /contact/
     </div>
     <div class="row">
       <div class="input-field col s12">
-        <textarea name="message" id="textarea1" class="materialize-textarea"></textarea>
+        <textarea name="message" id="textarea1" required="" class="validate materialize-textarea"></textarea>
         <label for="textarea1">Sua mensagem</label>
       </div>
     </div>
