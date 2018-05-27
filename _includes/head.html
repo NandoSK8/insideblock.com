@@ -6,13 +6,16 @@
 {% if page.title %}
     <meta content='index' name='robots'/>
     <title>{{ page.title }}</title>
-
     {% else %}
-        {% if page.erro %}
+    {% if page.erro %}
+        <meta content='noindex,nofollow,noarchive' name='robots'/>
+        <title>{{ page.erro }}</title>
+        {% else %}
+        {% if page.success %}
             <meta content='noindex,nofollow,noarchive' name='robots'/>
-            <title>{{ page.erro }}</title>
+            <title>{{ page.success }}</title>
         {% endif %}
-
+    {% endif %}
     {% else %}
     <meta content='index' name='robots'/>
     <title>{{ site.title }}</title>
@@ -33,9 +36,9 @@
 <meta name="google-site-verification" content="WFfdXxzxwHG8RawsmRbU7KggGQx-kUe8m7A6LvjElN0"/>
 <meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB"/>
 
-<link rel="stylesheet" href="/style/style.min.css"/>
-<link rel="stylesheet" href="/materialize/v1.0.0.alpha.2/materialize.min.css"/>
-<link href="/fonts/roboto/roboto.css" rel="stylesheet"/>
-<link href="/fonts/material_icons/icons.css" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/style/style.min.css"/>
+<link rel="stylesheet" href="/assets/materialize/v1.0.0.alpha.2/materialize.min.css"/>
+<link href="/assets/fonts/roboto/roboto.css" rel="stylesheet"/>
+<link href="/assets/fonts/material_icons/icons.css" rel="stylesheet"/>
 
 {% include scripts_optional.html %}

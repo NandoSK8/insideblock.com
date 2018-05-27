@@ -16,7 +16,7 @@ ads: true
 
 Olá usuários da plataforma Blogger, o Google e sua equipe de engenheiros estão preparando uma novidade para todos nós. Recentemente visitei o painel do Blogger no formato rascunho e me deparei com um novo visual, totalmente remodelado. A imagem abaixo é verdadeira e até o momento é assim que vamos ver o painel do Blogger no modelo rascunho.
 
-![Novno visual do Blogger](/img/post/novo-visual-do-blogger-o-que-devemos/layout-new-blogger.png)
+![Novno visual do Blogger](/assets/img/post/novo-visual-do-blogger-o-que-devemos/layout-new-blogger.png)
 
 Sou apaixonado pelos produtos do Google, por isso sou colaborador do Fórum de Ajuda do Blogger. Até o momento o Blogger não fez nenhuma divulgação oficial do novo modelo, porém ele pode ser acessado por qualquer pessoa através do <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>. Eu sou o tipo de pessoa que sempre procura novidades, principalmente quando fazem parte do meu trabalho. O Inside Block, por exemplo, é 100% Blogger e não queremos mudar, somos fã de carteirinha.
 
