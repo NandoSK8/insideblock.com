@@ -24,7 +24,7 @@ Para que você não tenha mais esse desconforto, siga o tutorial abaixo; Detalhe
 
 3. Reinicie o Windows, caso continue pedindo Ctrl-Alt-Delete na tela de logon, siga para o próximo método.
 
-![Contas de usuário](/assets/img/post/habilitar-ou-desabilitar-opcao-de-logon/contas-de-usuario.png)
+![Contas de usuário](/assets/posts/habilitar-ou-desabilitar-opcao-de-logon/contas-de-usuario.png)
 
 ## Segundo método
 1. Pressione a tecla “Windows+R” digite “secpol.msc” sem aspas e pressione Enter.
@@ -33,6 +33,6 @@ Para que você não tenha mais esse desconforto, siga o tutorial abaixo; Detalhe
 
 3. Marque a opção Desabilitado, Aplique e em OK.
 
-![Politicas de segurança local](/assets/img/post/habilitar-ou-desabilitar-opcao-de-logon/politicas-de-seguranca.png)
+![Politicas de segurança local](/assets/posts/habilitar-ou-desabilitar-opcao-de-logon/politicas-de-seguranca.png)
 
 Espero ter ajudado como esta informações, caso tenha alguma outra duvida deixe um comentários.

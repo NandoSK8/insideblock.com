@@ -30,7 +30,7 @@ Nessa opção temos vários campos de preenchimento, porém usaremos apenas a se
 ## Idéias de palavras-chave
 Quando fazemos uma pesquisa com a seção “**Seu produto ou serviço**”, o primeiro resultado encontrado é as “**Ideias de grupos de anúncios**”, esse tipo de grupo não é interessante para criar um <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, por isso devemos alterna para “**Ideias de palavras-chave**”.
 
-![Google AdWords - Idéias de palavras chaves](/assets/img/post/palavras-chave-como-usar-o-google/google-adwords.png)
+![Google AdWords - Idéias de palavras chaves](/assets/posts/palavras-chave-como-usar-o-google/google-adwords.png)
 
 Se você pesquisar por “carros usados” o AdWords vai elaborar novas ideias de palavras como “carros, carros semi novos, veículos usados” entre outros, todas elas são segmentos de um único exemplo. Observe que no menu lateral esquerdo existem algumas informações que você pode alterá, em “**Segmentação**” você pode escolher de onde vem esses resultados, como idioma, região e forma de busca, em nosso caso todos os resultados encontrados é do Brasil, idioma português e resultados apenas do Google.
 

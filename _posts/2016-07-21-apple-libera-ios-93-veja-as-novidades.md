@@ -20,12 +20,12 @@ O novo update traz correção de hardware, melhorias de segurança e desempenho 
 ## Night Shift
 O Night Shift tem a função de diminuir o brilho da tela para a parte mais quente do espectro de cores, todos os dia ao por do sol, com tom de vermelho com laranja, caso você não queira que ele inicie automaticamente ao por do sol, você pode agendar um horário para ele comece e terminar, ou se você preferir, você pode ativar e desativar no menu de acesso rápida do iOS.
 
-![Função Night Shift](/assets/img/post/apple-libera-ios-93-veja-as-novidades/night-shift.png)
+![Função Night Shift](/assets/posts/apple-libera-ios-93-veja-as-novidades/night-shift.png)
 
 ## Notas
 O Notas do iOS esta mais seguro com a nova função, agora é possível definir uma senha para cada nota (“Google Keep que se cuide”), esta nova função esta dando o que falar, muntos usuários já deixarão de usar notas de terceiros que fazia a mesma função, (não é o caso do Google Keep), esta segurança veio no hora certa, desde o caso Apple e FBI cada vez mais usuários vem se preocupando com a privacidade de seus dispositivos, não sabemos lhe afirma, se Aplle já vinha pensando nessa ideias antes do caso, só sei que foi bem aceita por todos os apaixonados da maça mordida.
 
-![Bloco de notas](/assets/img/post/apple-libera-ios-93-veja-as-novidades/notas.png)
+![Bloco de notas](/assets/posts/apple-libera-ios-93-veja-as-novidades/notas.png)
 
 ## Apps nativos
 O update trouce mais uma novidade para seus apps nativos, com o novo app de saúde agora é possível conectar um numero maior de apps de terceiros, para os demais apps musicas, vídeos e outros ouve melhorias de segurança e desempenho.

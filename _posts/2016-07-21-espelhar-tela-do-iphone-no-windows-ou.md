@@ -25,10 +25,10 @@ O aplicativo tem varias funções, como reproduzir o áudio no computador que es
 
 * Agora ative o Wi-Fi do seu iPhone ou iPad, Acesse a “Central de Controle” do dispositivo e clique no ícone de Wi-Fi para ativar (caso esteja desativado), se a opção “AirPlay” não estive ativa veja que ela vai aparecer no exato momento.
 
-![Função AirPlay do Iphone](/assets/img/post/espelhar-tela-do-iphone-no-windows-ou/airplay-iphone.png)
+![Função AirPlay do Iphone](/assets/posts/espelhar-tela-do-iphone-no-windows-ou/airplay-iphone.png)
 
 * Clique na opção AirPlay, selecione o nome abaixo de iPhone, por padrão o nome fica “LonelyScreen” e marque a opção “Espelhamento”. Em nosso exemplo nos alteramos o nome padrão para RV419.
 
-![Espelhamento via LonelyScreen do Iphone](/assets/img/post/espelhar-tela-do-iphone-no-windows-ou/lonelyscreen.png)
+![Espelhamento via LonelyScreen do Iphone](/assets/posts/espelhar-tela-do-iphone-no-windows-ou/lonelyscreen.png)
 
 Pronto! Agora que você já sabe como espelhar qualquer dispositivo móvel da maça para o seu computador, você pode criar tutoriais, ou reproduzir sua musicas em vídeos favoritos na tela do seu PC.

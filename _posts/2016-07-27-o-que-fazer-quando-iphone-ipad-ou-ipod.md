@@ -23,7 +23,7 @@ Se não for possível ouvir som ou se ele não estiver claro, prossiga para pró
 
 * Se o dispositivo tiver um interruptor de Toque/Silencioso, verifique se está posicionado para tocar. Se visualizar a cor laranja, o interruptor está ajustado para silencioso.
 
-![Botão de silencia Iphone](/assets/img/post/o-que-fazer-quando-iphone-ipad-ou-ipod/silenciar-iphone.png)
+![Botão de silencia Iphone](/assets/posts/o-que-fazer-quando-iphone-ipad-ou-ipod/silenciar-iphone.png)
 
 * Desligue e ligue o dispositivo, e faça um teste.
 

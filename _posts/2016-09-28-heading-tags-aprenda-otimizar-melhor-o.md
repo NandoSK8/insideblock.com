@@ -22,7 +22,7 @@ Os buscadores usa as heading tags para otimizar os assuntos mais importantes, se
 ## Como devemos usar
 A tag H1 pode ser adiciona apenas uma vez por página, e como o seu blog tem um nome seria muito interessante guarda a tag H1 para destacar o cabeçalho do mesmo.A tag H2 e as demais pode ser repetida várias vezes em um página, mas reserve a H2 para título de post e páginas, se tiver um gadget na lateral do blog use ela para destacar o título do gadget também. A H3 pode ser usada para destacar subtítulos dentro do conteúdo, porém se quiser usar à H2 não tem problema. Para as demais tags, de H4 à H6 elas podem ser usada para destacar títulos de comentários, ou em marcação simples entre outros.
 
-![Heading Tags H1 a H6](/assets/img/post/heading-tags-aprenda-otimizar-melhor-o/heading.png)
+![Heading Tags H1 a H6](/assets/posts/heading-tags-aprenda-otimizar-melhor-o/heading.png)
 
 ## Aviso de tags de títulos e tags de conteúdos
 Como as tags H1 a H6 são usadas para destacar títulos e subtítulos, jamais use elas para destacar o conteúdo completo, para conteúdos use a tag **<p>** ou não use nada deixe o texto livre, isso faz toda a diferença para que os buscadores otimize melhor seus artigos.
