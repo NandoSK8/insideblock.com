@@ -25,6 +25,12 @@ navigation:
  - title: "#Tags"
    url: /tags/
 
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
 google_analytics: "UA-81236717-1"
 google_tagmanager: "GTM-T6PZBSG"
 
