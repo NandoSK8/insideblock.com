@@ -1,2 +1,4 @@
 https://insideblock.netlify.com/* https://www.insideblock.com/:splat 301!
 http://insideblock.netlify.com/* https://www.insideblock.com/:splat 301!
+https://www.insideblock.com/post/* https://www.insideblock.com/posts/:splat 301!
+http://www.insideblock.com/post/* https://www.insideblock.com/posts/:splat 301!
