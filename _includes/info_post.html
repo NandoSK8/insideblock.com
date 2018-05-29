@@ -33,7 +33,7 @@
 
 <div class="times">
     <div class="time">Em:
-        <time>{{ page.date | date_to_long_string }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time>
     </div>
 </div>
 </div>
