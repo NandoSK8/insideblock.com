@@ -13,10 +13,6 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
 
-highlighter: pygments
-
-include: ['_redirects', '_headers']
-
 navigation:
  - title: Home
    url: /
@@ -28,6 +24,8 @@ navigation:
    url: /team/
  - title: "#Tags"
    url: /tags/
+
+include: ['_redirects', '_headers']
 
 compress_html:
   clippings: all
