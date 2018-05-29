@@ -37,8 +37,10 @@ ads: true
 
                 <div class="content">
                     <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-
-                    <p class="description">{% if post.content %}{{ post.content | strip_html | strip_newlines | truncate: 280 }}{% endif %}</p>
+                    
+                    <p class="description">
+                        <time class="grey-text" datetime="{{ post.date | date_to_xmlschema }}">Em: {% include date.html date=post.date %} |</time>
+                            {% if post.content %}{{ post.content | strip_html | strip_newlines | truncate: 280 }}{% endif %}</p>
                     <a class="readmore" href="{{ post.url | prepend: site.baseurl }}" alt="{{ post.title }}">Continue lendo →</a>
 
                 </div>
