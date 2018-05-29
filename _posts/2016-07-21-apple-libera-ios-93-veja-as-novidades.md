@@ -5,7 +5,7 @@ date: '2016-07-21T14:05:00.000-04:00'
 modified_time: '2016-10-02T00:19:03.129-04:00'
 tags: [Mobile, Sistema, Update]
 category: [Mobile]
-img: /apple-libera-ios-93-veja-as-novidades/apple-libera-ios-93-veja-as-novidades.jpg
+img: /assets/posts/apple-libera-ios-93-veja-as-novidades/apple-libera-ios-93-veja-as-novidades.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

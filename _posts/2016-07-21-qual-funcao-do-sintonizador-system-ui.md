@@ -5,7 +5,7 @@ date: '2016-07-21T17:45:00.000-04:00'
 modified_time: '2017-01-05T21:55:29.518-04:00'
 tags: [Aplicação, Funcionalidade]
 category: [Mobile]
-img: /qual-funcao-do-sintonizador-system-ui/qual-funcao-do-sintonizador-system-ui.jpg
+img: /assets/posts/qual-funcao-do-sintonizador-system-ui/qual-funcao-do-sintonizador-system-ui.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

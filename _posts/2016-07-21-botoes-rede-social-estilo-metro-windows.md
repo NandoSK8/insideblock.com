@@ -5,7 +5,7 @@ date: '2016-07-21T14:06:00.000-04:00'
 modified_time: '2016-12-05T09:30:22.141-04:00'
 tags: [Códigos, Redes Sociais, SEO]
 category: [Desenvolvimento Web]
-img: /botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
+img: /assets/posts/botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

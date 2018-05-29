@@ -5,7 +5,7 @@ date: '2016-07-21T22:34:00.000-04:00'
 modified_time: '2016-12-05T09:30:45.666-04:00'
 tags: [Desenvolvimento, Otimização, Web]
 category: [Aplicação]
-img: /ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
+img: /assets/posts/ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

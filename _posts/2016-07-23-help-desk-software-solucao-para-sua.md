@@ -5,7 +5,7 @@ date: '2016-07-23T14:21:00.002-04:00'
 modified_time: '2016-12-05T09:32:53.779-04:00'
 tags: [Sistema, Aplicação, Software]
 category: [Segurança Digital]
-img: /help-desk-software-solucao-para-sua/help-desk-software-solucao-para-sua.jpg
+img: /assets/posts/help-desk-software-solucao-para-sua/help-desk-software-solucao-para-sua.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

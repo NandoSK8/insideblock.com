@@ -5,7 +5,7 @@ date: '2016-09-28T23:15:00.001-04:00'
 modified_time: '2016-12-05T09:34:42.046-04:00'
 tags: [SEO, Otimização, Códigos]
 category: [Otimização]
-img: /heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
+img: /assets/posts/heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -67,4 +67,4 @@ Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data d
     display: block; /* edite um título por linha ou delete */
     border-bottom: 1px solid rgba(0,0,0,0.1); /* edite borda abaixo do título */}
 
-Existem várias técnicas para melhorar a <a href="http://www.insideblock.com/post/como-otimizar-seu-site-para-o.html" target="_blank">otimização do blog para os motores de busca</a>, uma delas é <a href="http://www.insideblock.com/post/como-verificar-e-indexar-todas-as.html" target="_blank">indexar as páginas do blog para o Google</a>, espero que este tutoria ajude suas páginas tanto para facilitar a leitura dos clientes leitores quanto para o as metas de SEO.
+Existem várias técnicas para melhorar a <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização do blog para os motores de busca</a>, uma delas é <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-todas-as.html" target="_blank">indexar as páginas do blog para o Google</a>, espero que este tutoria ajude suas páginas tanto para facilitar a leitura dos clientes leitores quanto para o as metas de SEO.

@@ -19,17 +19,17 @@ ads: true
             <div class="article-content">
                 {% if post.img %}
                 <div class="thumbnail-post">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
-                        <img src="{{ site.url | append: '/assets/posts' | prepend: site.baseurl | append: post.img }}" alt="{{ post.title }}" />
+                    <a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}">
+                        <img src="{{ site.url }}{{ post.img }}" alt="{{ post.title }}" />
                     </a>
 
                     <ul class="info">
                         {% if post.author %}
-                        <li><a href="{{ post.url | prepend: site.baseurl }}#info-post" alt="Membros"><i class="material-icons">person</i></a></li>
+                        <li><a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}#info-post" alt="Membros"><i class="material-icons">person</i></a></li>
                         {% endif %}
-                        <li><a href="{{ post.url | prepend: site.baseurl }}#category" alt="Seguir categorias"><i class="material-icons">label</i></a></li>
+                        <li><a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}#category" alt="Seguir categorias"><i class="material-icons">label</i></a></li>
                         {% if post.comments %}
-                        <li><a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" alt="Ver comentários"><i class="material-icons">mode_comment</i></a></li>
+                        <li><a href="{{ site.url }}{{ post.url | prepend: site.baseurl }}#disqus_thread" alt="Ver comentários"><i class="material-icons">mode_comment</i></a></li>
                         {% endif %}
                     </ul>
                 </div>

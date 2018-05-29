@@ -5,7 +5,7 @@ date: '2016-07-21T14:48:00.000-04:00'
 modified_time: '2016-09-30T20:35:46.826-04:00'
 tags: [SEO, Redes Sociais, Otimização]
 category: [Otimização]
-img: /incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
+img: /assets/posts/incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

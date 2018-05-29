@@ -6,7 +6,7 @@ date: '2016-11-22T22:34:00.002-04:00'
 modified_time: '2017-06-11T23:49:08.288-04:00'
 tags: [Desenvolvimento, Update]
 category: [Seriços Online]
-img: /novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
+img: /assets/posts/novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
 author: true
 author_ediano: true
 coauthor_luciana: true

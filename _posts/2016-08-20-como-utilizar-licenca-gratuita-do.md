@@ -5,7 +5,7 @@ date: '2016-08-20T14:26:00.001-04:00'
 modified_time: '2016-10-02T00:54:08.402-04:00'
 tags: [Sistema, Update, Aplicação]
 category: [Aplicação]
-img: /como-utilizar-licenca-gratuita-do/como-utilizar-licenca-gratuita-do.jpg
+img: /assets/posts/como-utilizar-licenca-gratuita-do/como-utilizar-licenca-gratuita-do.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -21,7 +21,7 @@ Até pouco tempo a Microsoft estava liberando a atualização gratuita do Window
 
 * Uma conta de e-mail da Microsoft (outlook ou hotmail), se você ainda não tem uma conta, crie uma nesse link.
 
-* Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/post/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
+* Se os pré-requisitos estive como solicitado, vamos iniciar o processo de vincular a licença a sua conta da Microsoft. Leia também <a href="http://www.insideblock.com/posts/como-formatar-seu-computador-com.html" target="_blank">Como formatar seu computador com Windows 10?</a>
 
 1. Abra as Configurações do Windows ícone de roda dentada.
 

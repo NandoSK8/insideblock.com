@@ -5,7 +5,7 @@ date: '2016-07-21T21:34:00.000-04:00'
 modified_time: '2016-11-18T11:04:39.796-04:00'
 tags: [Sistema, Mobile, Update]
 category: [Sistema]
-img: /moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
+img: /assets/posts/moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

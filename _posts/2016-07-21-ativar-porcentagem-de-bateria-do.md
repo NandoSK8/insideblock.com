@@ -5,7 +5,7 @@ date: '2016-07-21T23:29:00.000-04:00'
 modified_time: '2016-10-01T14:20:52.550-04:00'
 tags: [Sistema, Aplicação, Mobile]
 category: [Mobile]
-img: /ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
+img: /assets/posts/ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

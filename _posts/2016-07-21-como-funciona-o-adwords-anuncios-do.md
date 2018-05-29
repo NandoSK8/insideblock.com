@@ -5,7 +5,7 @@ date: '2016-07-21T18:05:00.000-04:00'
 modified_time: '2016-10-01T01:46:16.574-04:00'
 tags: [Monetização, AdWords]
 category: [Serviços Online]
-img: /como-funciona-o-adwords-anuncios-do/como-funciona-o-adwords-anuncios-do.jpg
+img: /assets/posts/como-funciona-o-adwords-anuncios-do/como-funciona-o-adwords-anuncios-do.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -18,7 +18,7 @@ O AdWords como muita gente já sabe e conhece é o maior o melhor sistema de an�
 O AdWords é um sistema muito conhecida e usada por empresas que querem anunciar no Google (já que se trata de uma ferramenta de publicidade online), e também muito conhecida por webmaster e blogueiros ( já que esta mesmo sistema oferece ferramenta para acompanhar o maior e o melhor nicho de mercado ).
 
 ## Google AdWords
-O AdWords foi criado especialmente para anunciantes que querem anunciar suas marcas, empresas, produtos e etc diretamente no Google, usando um sistema de custo CPC, CPR e CPM um valor pago pelo anunciante por cada exibição do anuncio ou por cada clique que este anuncio receber. Este anúncios são exibidos na própria pagina do Google ou em sites cadastrado no Google AdSense (sistema de afiliados do Google). O AdWords alem de ser uma ótimo sistema para anunciantes é também uma ótima ferramenta para Webmasters, que oferece varias segmentações com analise no mercado de publicidade online, para poder seguir o mercado mais lucrativo e que mais se destaca atualmente. Leia também <a href="http://www.insideblock.com/post/acerte-no-alvo-com-o-google-adwords.html" target="_blank">Acerte no alvo com o Google AdWords</a>.
+O AdWords foi criado especialmente para anunciantes que querem anunciar suas marcas, empresas, produtos e etc diretamente no Google, usando um sistema de custo CPC, CPR e CPM um valor pago pelo anunciante por cada exibição do anuncio ou por cada clique que este anuncio receber. Este anúncios são exibidos na própria pagina do Google ou em sites cadastrado no Google AdSense (sistema de afiliados do Google). O AdWords alem de ser uma ótimo sistema para anunciantes é também uma ótima ferramenta para Webmasters, que oferece varias segmentações com analise no mercado de publicidade online, para poder seguir o mercado mais lucrativo e que mais se destaca atualmente. Leia também <a href="http://www.insideblock.com/posts/acerte-no-alvo-com-o-google-adwords.html" target="_blank">Acerte no alvo com o Google AdWords</a>.
 
 ## Como Funciona?
 O AdWords é um sistema de publicidade online mais conhecido do mundo desenvolvido pelo Google, sua criação tem dois papeis importante "ajudar as empresas a alcançar suas metas" e "ajudar os Webmasters escolher bom nichos de mercado ". Estas duas segmentações andam juntos no Google AdWords, quando um representante de uma empresa anuncia no Google ele tem que passar informações importantes sobre a empresa como (Categoria, Publico Alvo, O Que Quer Anunciar - Como marca ou produto), é nesta hora que os webmaster fica sabendo qual o melhor e o maior nicho para se criar um site e/ou blog. O AdWords tem ferramenta que oferece a pesquisa de palavras-chaves para escolher melhor o tipo de anuncio que uma empresa deve escolher e qual o valor pago por esta palavra, assim também para os webmaster que pode escolher palavras-chaves especificas para criar um blog de sucesso.

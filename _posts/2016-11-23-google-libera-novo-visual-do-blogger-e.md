@@ -6,7 +6,7 @@ date: '2016-11-23T01:06:00.001-04:00'
 modified_time: '2017-06-11T23:48:12.507-04:00'
 tags: [Desenvolvimento, Update]
 category: [Serviços Online]
-img: /google-libera-novo-visual-do-blogger-e/google-libera-novo-visual-do-blogger-e.jpg
+img: /assets/posts/google-libera-novo-visual-do-blogger-e/google-libera-novo-visual-do-blogger-e.jpg
 author: true
 author_ediano: true
 coauthor_luciana: true
@@ -14,7 +14,7 @@ comments: true
 ads: true
 ---
 
-O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/post/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.
+O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/posts/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.
 
 ![Novo visual do Blogger](/assets/posts/google-libera-novo-visual-do-blogger-e/new-blogger.png)
 

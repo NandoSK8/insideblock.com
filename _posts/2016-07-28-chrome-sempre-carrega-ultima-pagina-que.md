@@ -5,7 +5,7 @@ date: '2016-07-28T21:25:00.002-04:00'
 modified_time: '2016-10-02T00:43:10.347-04:00'
 tags: [Aplicação, Software, Sistema]
 category: [Aplicação]
-img: /chrome-sempre-carrega-ultima-pagina-que/chrome-sempre-carrega-ultima-pagina-que.jpg
+img: /assets/posts/chrome-sempre-carrega-ultima-pagina-que/chrome-sempre-carrega-ultima-pagina-que.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -15,7 +15,7 @@ ads: true
 
 O Google Chrome é o navegador mais completo para acessar qualquer página na internet, configurações de dispositivos como modem e roteador e software gerenciáveis via web. Mesmo assim ele não esta livre de erros ou problemas de mal funcionamento. Separamos um erro incomum que pode apresentar no browser, onde algumas pessoas acha que é normal, mas para outras pode se torna uma grande dor de cabeça.
 
-Um desses problema é que todas vez que você fecha o Chrome, ao abrir ele carrega a ultima guia com o site que você visitou, isso para alguns usuários não é problema mas para outros e um grande problema, principalmente quando se trata de privacidade. Apesar que existe o histórico do navegador onde fica uma lista completa de todos os sites que você visitou, mesmo assim com essa guia sempre carregado pode se um pouco desconfortável. Leia também <a href="http://www.insideblock.com/post/deixe-uma-guia-sem-som-no-google-chrome.html" target="_blank">Deixe uma guia sem som no Google Chrome</a>.
+Um desses problema é que todas vez que você fecha o Chrome, ao abrir ele carrega a ultima guia com o site que você visitou, isso para alguns usuários não é problema mas para outros e um grande problema, principalmente quando se trata de privacidade. Apesar que existe o histórico do navegador onde fica uma lista completa de todos os sites que você visitou, mesmo assim com essa guia sempre carregado pode se um pouco desconfortável. Leia também <a href="http://www.insideblock.com/posts/deixe-uma-guia-sem-som-no-google-chrome.html" target="_blank">Deixe uma guia sem som no Google Chrome</a>.
 
 Isso pode acontecer por configurações mal feita, ao atualizar o Chrome, erros no sistema operacional ou problemas de mal funcionamento do navegador.
 

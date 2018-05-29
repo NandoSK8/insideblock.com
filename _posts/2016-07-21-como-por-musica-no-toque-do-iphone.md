@@ -5,7 +5,7 @@ date: '2016-07-21T18:18:00.000-04:00'
 modified_time: '2016-10-02T00:19:59.465-04:00'
 tags: [Mobile, Sistema, Funcionalidade]
 category: [Mobile]
-img: /como-por-musica-no-toque-do-iphone/como-por-musica-no-toque-do-iphone.jpg
+img: /assets/posts/como-por-musica-no-toque-do-iphone/como-por-musica-no-toque-do-iphone.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

@@ -5,7 +5,7 @@ date: '2016-07-21T18:45:00.000-04:00'
 modified_time: '2017-05-02T13:21:44.858-04:00'
 tags: [Otimização, SEO, Códigos]
 category: [Otimização]
-img: /como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
+img: /assets/posts/como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

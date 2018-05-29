@@ -6,7 +6,7 @@ date: '2017-01-05T22:10:00.000-04:00'
 modified_time: '2017-06-11T23:45:53.381-04:00'
 tags: [Códigos, Front-End, Aplicação]
 category: [Desenvolvimento Web]
-img: /os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
+img: /assets/posts/os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
 author: true
 author_ediano: true
 coauthor_luciana: true

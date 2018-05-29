@@ -5,7 +5,7 @@ date: '2016-07-21T18:29:00.000-04:00'
 modified_time: '2016-10-13T17:17:43.395-04:00'
 tags: [Monetização, Redes Sociais, Otimização]
 category: [Monetização]
-img: /como-ganhar-dinheiro-no-facebook/como-ganhar-dinheiro-no-facebook.jpg
+img: /assets/posts/como-ganhar-dinheiro-no-facebook/como-ganhar-dinheiro-no-facebook.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

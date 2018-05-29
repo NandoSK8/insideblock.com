@@ -5,7 +5,7 @@ date: '2016-10-07T10:19:00.000-04:00'
 modified_time: '2016-10-16T16:24:46.779-04:00'
 tags: [SEO, Códigos, Otimização]
 category: [Otimização]
-img: /otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
+img: /assets/posts/otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -13,16 +13,16 @@ comments: true
 ads: true
 ---
 
-Conquistar uma boa posição nos motores de busca, um espaço dentro do seu <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, conseguir um número considerável de visitas mensais, pode ser um pouco complicado sem as técnicas de otimização necessárias.
+Conquistar uma boa posição nos motores de busca, um espaço dentro do seu <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, conseguir um número considerável de visitas mensais, pode ser um pouco complicado sem as técnicas de otimização necessárias.
 
 Imagine você ter um website com um layout bom e postagens de alta qualidade e mesmo assim não obter o resultado esperado, não diria que isso é um erro mas sim falta de informações ou experiência.
 
 Muitos dos mestres de SEO usam técnicas simples, que poucos blogueiros conhecem, mas mesmo que você conheça alguma dessas técnicas será que você está aplicando corretamente? Criar um blog é fácil o difícil é alcançar o tão desejado sucesso.
 
 ## Nicho de mercado: Escolha o ramos em que seu blog vai seguir
-Mais uma vez estamos falando sobre <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, qual a função dele, porque ele é tão importante? O nicho de mercado é como se fosse uma segunda identidade para sua empresa depois da logomarca, vamos dizer que o seu negócio na internet fala sobre automóveis, bom isso é uma identificação uma categoria de negócio, por isso quanto mais você focar no seu ramos maiores serão suas vantagens, não convém é não faz sentido uma empresa de automóveis que vende roupas, já imaginou a confusão que iria ficar para os seus clientes.
+Mais uma vez estamos falando sobre <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, qual a função dele, porque ele é tão importante? O nicho de mercado é como se fosse uma segunda identidade para sua empresa depois da logomarca, vamos dizer que o seu negócio na internet fala sobre automóveis, bom isso é uma identificação uma categoria de negócio, por isso quanto mais você focar no seu ramos maiores serão suas vantagens, não convém é não faz sentido uma empresa de automóveis que vende roupas, já imaginou a confusão que iria ficar para os seus clientes.
 
-O negócio é focar em um determinado assunto, e com isso conquistar clientes leitores que gostam realmente deste tipo de conteúdo. O Google AdWords é uma das grandes ferramentas que os mestres de SEO usam para <a href="http://www.insideblock.com/post/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">identificar um nicho de mercado relevantes</a>, e o Google Trends calcula estimativas de o quanto e até quando este nicho vai ser relevante. Não vamos nos aprofundar muito sobre AdWords e Trends, em breve falaremos deles abaixo.
+O negócio é focar em um determinado assunto, e com isso conquistar clientes leitores que gostam realmente deste tipo de conteúdo. O Google AdWords é uma das grandes ferramentas que os mestres de SEO usam para <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">identificar um nicho de mercado relevantes</a>, e o Google Trends calcula estimativas de o quanto e até quando este nicho vai ser relevante. Não vamos nos aprofundar muito sobre AdWords e Trends, em breve falaremos deles abaixo.
 
 ## Meta Tags: Categorias e descrição do website
 Quando você escolher um nicho de mercado é importante que você adicione descrições e palavras-chave de rastreamento geral, para que os buscadores entenda melhor quais os tipos de assuntos tem dentro do seu website.
@@ -30,7 +30,7 @@ Quando você escolher um nicho de mercado é importante que você adicione descr
 Lembrando, não adianta tentar enganar os buscadores ou seus clientes leitores, se você fala sobre automóveis a descrição e palavras-chave tem que ser relacionadas ao nicho de mercado. Isso traz mais relevância para os resultados de pesquisa, indica um site profissional com conteúdos de qualidade.
 
 ## Heading tags: Tags de cabeçalho
-As heading tags podem ser usada em qualquer plataforma blog, elas são tags de marcação universais que os buscadores usam para rastrear títulos e subtítulos de um conteúdo, fazer essas marcações melhora o rank da página e o rastreamento do conteúdo, inclusive já falamos aqui como você pode usar as <a href="http://www.insideblock.com/post/heading-tags-aprenda-otimizar-melhor-o.html" target="_blank">tags de cabeçalho no Blogger</a>.
+As heading tags podem ser usada em qualquer plataforma blog, elas são tags de marcação universais que os buscadores usam para rastrear títulos e subtítulos de um conteúdo, fazer essas marcações melhora o rank da página e o rastreamento do conteúdo, inclusive já falamos aqui como você pode usar as <a href="http://www.insideblock.com/posts/heading-tags-aprenda-otimizar-melhor-o.html" target="_blank">tags de cabeçalho no Blogger</a>.
 
 ![Exemplo de tags heading](/assets/posts/otimizacao-de-site-12-formas-de-rankear/tags-head.png)
 
@@ -100,9 +100,9 @@ O Google Trends é uma segunda opção depois do AdWords se você não estiver s
 ## Feed: Mantenha seus clientes atualizados por e-mail e ative link alternativos
 O feed e o verdadeiro organizador de link ativos, tudo o que acontece no seu site ele fica sabendo é tudo que tem na internet os mecanismo de pesquisa rastreia.
 
-O <a href="http://www.insideblock.com/post/como-criar-e-usar-o-feedburner-para.html" target="_blank">feed</a> é popular por dois motivos, eles copiam um pequeno trecho do seu artigo e ativa um link para conteúdo original, se um leitor não encontrar o artigo pelo link original ele pode encontrar pelo link do feed. O outro motivo é a possibilidade da entrega de e-mail automática, toda vez que você fizer uma publicação o feed vai rastrear e vai enviar para o e-mail do cliente leitor, que se cadastrar para receber as atualizações do site.
+O <a href="http://www.insideblock.com/posts/como-criar-e-usar-o-feedburner-para.html" target="_blank">feed</a> é popular por dois motivos, eles copiam um pequeno trecho do seu artigo e ativa um link para conteúdo original, se um leitor não encontrar o artigo pelo link original ele pode encontrar pelo link do feed. O outro motivo é a possibilidade da entrega de e-mail automática, toda vez que você fizer uma publicação o feed vai rastrear e vai enviar para o e-mail do cliente leitor, que se cadastrar para receber as atualizações do site.
 
-Alguns <a href="http://www.insideblock.com/post/como-criar-e-usar-o-feedburner-para.html" target="_blank">feed</a> permite fazer várias programações, como determinar um horário para ele fazer as entrega de e-mail, criar link para arquivos de áudio e vídeo para podcasts, construir e analisar dados dos e-mail cadastrado. A principal ideia do feed é ativar link alternativos que podem ajudar os usuários a encontrar seu website e fazer entrega via e-mail.
+Alguns <a href="http://www.insideblock.com/posts/como-criar-e-usar-o-feedburner-para.html" target="_blank">feed</a> permite fazer várias programações, como determinar um horário para ele fazer as entrega de e-mail, criar link para arquivos de áudio e vídeo para podcasts, construir e analisar dados dos e-mail cadastrado. A principal ideia do feed é ativar link alternativos que podem ajudar os usuários a encontrar seu website e fazer entrega via e-mail.
 
 ## Rede sociais, grupos e fóruns: Links secundários e fáceis de serem clicáveis
 Você sabia que as redes sociais são nossas amigas assim como os grupos e fórum, se sua resposta for não fique sabendo ele está aqui para nos ajudar a alcançar nossos objetivos, as redes sociais funciona como uma rede de seguidores que podem clicar a qualquer momento em nossos link quando compartilhamos um artigo, os grupos e fórum funciona como uma comunidade colaborativa, você compartilha seu conhecimento indicando seu artigo para resolver determinados assuntos e/ou problemas, aumento ainda mais a quantidade de links buildings espalhado pela internet.

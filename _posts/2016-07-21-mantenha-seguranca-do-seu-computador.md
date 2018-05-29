@@ -5,7 +5,7 @@ date: '2016-07-21T14:46:00.000-04:00'
 modified_time: '2016-10-02T00:13:39.962-04:00'
 tags: [Aplicação, Firewall, Aplicação]
 category: [Segurança Digital]
-img: /mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
+img: /assets/posts/mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -30,7 +30,7 @@ Um bom antivírus e tudo, seu PC fica protegido contra hackers, software, script
 O Windows update é um grande ferramenta nativa do Windows, ela facilita que você atualize o sistema operacional, recomendamos que deixe o Windows Update sem ativo no automático, assim você garante que vai receber atualizações para corrigir possíveis erros de vulnerabilidade, desempenho ou qualquer outra falha no sistema.
 
 ## Controle da Conta de Usuário
-O <a href="http://www.insideblock.com/post/como-ativar-ou-desativar-o-uac-controle.html" target="_blank">controle de conta de usuários</a> pode não parecer uma coisa importante, para o Windows é sim, esta função pode alentar de qualquer aplicativo que esta sendo instalado ou de qualquer outra aplicação e/ou alteação que pode comprometer a seguração do sistema operacional, antes de qualquer alteração a função te alerta com uma mensagem de permissão, caso seja negado o mesmo não aplica a alteração.
+O <a href="http://www.insideblock.com/posts/como-ativar-ou-desativar-o-uac-controle.html" target="_blank">controle de conta de usuários</a> pode não parecer uma coisa importante, para o Windows é sim, esta função pode alentar de qualquer aplicativo que esta sendo instalado ou de qualquer outra aplicação e/ou alteação que pode comprometer a seguração do sistema operacional, antes de qualquer alteração a função te alerta com uma mensagem de permissão, caso seja negado o mesmo não aplica a alteração.
 
 ## Conclusão
 O computador não é apenas um aparelho eletrônico que você liga e desliga, ele tem um sistema operacional Windows e precisa ser gerenciado, as dicas acima não acaba por aqui, essas são apenas as mais usadas e as comum que você mesmo pode executar sem qualquer experiencia.

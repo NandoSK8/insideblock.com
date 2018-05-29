@@ -5,7 +5,7 @@ date: '2016-07-21T06:35:00.000-04:00'
 modified_time: '2016-10-15T02:17:08.935-04:00'
 tags: [Software, Aplicação, Funcionalidade]
 category: [Aplicação]
-img: /deixe-uma-guia-sem-som-no-google-chrome/deixe-uma-guia-sem-som-no-google-chrome.jpg
+img: /assets/posts/deixe-uma-guia-sem-som-no-google-chrome/deixe-uma-guia-sem-som-no-google-chrome.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

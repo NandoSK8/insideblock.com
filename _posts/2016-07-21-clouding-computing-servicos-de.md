@@ -5,7 +5,7 @@ date: '2016-07-21T20:34:00.000-04:00'
 modified_time: '2016-10-02T00:35:48.042-04:00'
 tags: [Serviços Online]
 category: [Serviços Online]
-img: /clouding-computing-servicos-de/clouding-computing-servicos-de.jpg
+img: /assets/posts/clouding-computing-servicos-de/clouding-computing-servicos-de.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

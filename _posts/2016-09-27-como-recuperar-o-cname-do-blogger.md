@@ -5,7 +5,7 @@ date: '2016-09-27T15:01:00.001-04:00'
 modified_time: '2016-10-10T15:06:58.747-04:00'
 tags: [SEO, Otimização, Web]
 category: [Serviços Online]
-img: /como-recuperar-o-cname-do-blogger/como-recuperar-o-cname-do-blogger.jpg
+img: /assets/posts/como-recuperar-o-cname-do-blogger/como-recuperar-o-cname-do-blogger.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -13,7 +13,7 @@ comments: true
 ads: true
 ---
 
-Ao adicionar um <a href="http://www.insideblock.com/post/como-colocar-dominio-no-blogspot.html" target="_blank">domínio personalizado no Blogger</a> pela primeira vez é gerado um CNAME, entretanto caso o usuário escolha mudar de domínio ou removeu o mesmo e tente adicionar novamente, o Blogger não mostrar na segunda vez as informações de apontamento de DNS que deve ser adicionada ao serviço de registro.
+Ao adicionar um <a href="http://www.insideblock.com/posts/como-colocar-dominio-no-blogspot.html" target="_blank">domínio personalizado no Blogger</a> pela primeira vez é gerado um CNAME, entretanto caso o usuário escolha mudar de domínio ou removeu o mesmo e tente adicionar novamente, o Blogger não mostrar na segunda vez as informações de apontamento de DNS que deve ser adicionada ao serviço de registro.
 
 Porém é possível fazer a recuperação dos apontamentos de DNS com a ajuda do Google Webmaster. Acesse o página do <a href="https://www.google.com/webmasters/tools/home?hl=pt-BR" rel="nofollow" target="_blank">Webmaster</a>, faça login com uma conta do Google, caso não tenha crie uma.
 

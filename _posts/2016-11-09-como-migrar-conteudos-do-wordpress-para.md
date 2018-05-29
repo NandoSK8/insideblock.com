@@ -6,7 +6,7 @@ date: '2016-11-09T22:24:00.002-04:00'
 modified_time: '2018-01-07T20:25:13.304-04:00'
 tags: [Aplicação, Códigos]
 category: [Aplicação]
-img: /como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
+img: /assets/posts/como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
 author: true
 author_ediano: true
 coauthor_luciana: true
@@ -14,7 +14,7 @@ comments: true
 ads: true
 ---
 
-Recentemente escrevi uma postagem aqui no Inside Block de <a href="http://www.insideblock.com/post/como-migrar-conteudos-do-blogger-para-o.html" target="_blank">como migrar o conteúdo do Blogger para o Wordpress</a>. Agora iremos fazer o processo inverso, migrar do Wordpress para o Blogger.
+Recentemente escrevi uma postagem aqui no Inside Block de <a href="http://www.insideblock.com/posts/como-migrar-conteudos-do-blogger-para-o.html" target="_blank">como migrar o conteúdo do Blogger para o Wordpress</a>. Agora iremos fazer o processo inverso, migrar do Wordpress para o Blogger.
 
 Se você for usuário do WordPress<span/>.org recomendo que antes de fazer a migração para o Blogger,  migre primeiro o seu blog para o WordPress<span/>.com, isso vai fazer com que as imagens e anexos das postagens continuem funcionando no Blogger.
 

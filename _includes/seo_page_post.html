@@ -10,14 +10,14 @@
 
   "description": "{{ page.content | strip_html | strip_newlines | truncate: 120 }}","datePublished": "{{ page.date: date_to_xmlschema }}",
   "dateModified": "{{ page.modified_time: date_to_xmlschema }}","image": {
-    "@type": "ImageObject","url": "{{ site.url | append: '/assets/posts' | prepend: site.baseurl | append: page.img }}",
+    "@type": "ImageObject","url": "{{ site.url }}{{ page.img }}",
     "height": 630,
     "width": 1200},"publisher": {
     "@type": "Organization",
     "name": "Inside Block",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.url | append: '/assets/posts' | prepend: site.baseurl | append: page.img }}",
+      "url": "{{ site.url }}{{ page.img }}",
       "width": 206,
       "height": 60
     }

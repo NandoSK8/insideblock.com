@@ -6,7 +6,7 @@ date: '2017-06-11T22:23:00.001-04:00'
 modified_time: '2017-07-11T00:43:11.017-04:00'
 tags: [Aplicação, Update]
 category: [Mobile]
-img: /conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
+img: /assets/posts/conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
 author: true
 author_ediano: true
 coauthor_luciana: true

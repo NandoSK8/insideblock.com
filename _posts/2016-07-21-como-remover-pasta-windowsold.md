@@ -5,7 +5,7 @@ date: '2016-07-21T09:58:00.000-04:00'
 modified_time: '2016-10-01T14:18:46.050-04:00'
 tags: [Funcionalidade, Aplicação]
 category: [Aplicação]
-img: /como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
+img: /assets/posts/como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

@@ -21,7 +21,7 @@ layout: default
 
             {% if page.img %}
             <div class="thumbnail-post">
-                <img src="{{ site.url | append: '/assets/posts' | prepend: site.baseurl | append: page.img }}" alt="{{ page.title }}" />
+                <img src="{{ site.url }}{{ page.img }}" alt="{{ page.title }}" />
             </div>
             {% endif %}
 

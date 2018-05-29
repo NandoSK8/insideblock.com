@@ -5,7 +5,7 @@ date: '2016-07-21T23:59:00.000-04:00'
 modified_time: '2016-10-01T14:25:05.932-04:00'
 tags: [Sistema, Funcionalidade, Mobile]
 category: [Sistema]
-img: /hard-reset-moto-g2-2014-android-60/hard-reset-moto-g2-2014-android-60.jpg
+img: /assets/posts/hard-reset-moto-g2-2014-android-60/hard-reset-moto-g2-2014-android-60.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
@@ -13,7 +13,7 @@ comments: true
 ads: true
 ---
 
-Desde quando a Motorola liberou a <a href="http://www.insideblock.com/post/moto-g2-2014-ganha-atualizacao-para-o.html" target="_blank">versão de teste do Android 6</a> no final de 2015, e a versão final no inicio de 2016 para o Moto G2 2014 XT1069, muitos usuários vem questionando o porque não conseguem mais fazer o Hard Reset na nova versão do Android.
+Desde quando a Motorola liberou a <a href="http://www.insideblock.com/posts/moto-g2-2014-ganha-atualizacao-para-o.html" target="_blank">versão de teste do Android 6</a> no final de 2015, e a versão final no inicio de 2016 para o Moto G2 2014 XT1069, muitos usuários vem questionando o porque não conseguem mais fazer o Hard Reset na nova versão do Android.
 
 Poucos sabem que toda vez que o Robozinho verde muda de versão, as opções do Hard Reset também muda, para muitos usuários do Android 6 fazer o Hard Reset ainda é novidade, felizmente para nos não, descobrimos como fazer e vamos mostrar para você como é simples e rápido.
 

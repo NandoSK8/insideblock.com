@@ -5,7 +5,7 @@ date: '2016-07-21T21:05:00.000-04:00'
 modified_time: '2016-10-02T00:33:22.435-04:00'
 tags: [Mobile, Aplicação, Funcionalidade]
 category: [Mobile]
-img: /como-fazer-ligacao-privada-do-iphone/como-fazer-ligacao-privada-do-iphone.jpg
+img: /assets/posts/como-fazer-ligacao-privada-do-iphone/como-fazer-ligacao-privada-do-iphone.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false

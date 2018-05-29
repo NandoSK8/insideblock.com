@@ -5,7 +5,7 @@ date: '2016-07-21T12:04:00.000-04:00'
 modified_time: '2017-06-22T23:20:15.329-04:00'
 tags: [Desenvolvimento, Otimização, SEO]
 category: [Desenvolvimento Web]
-img: /como-colocar-mapa-do-site-no-blogger/como-colocar-mapa-do-site-no-blogger.jpg
+img: /assets/posts/como-colocar-mapa-do-site-no-blogger/como-colocar-mapa-do-site-no-blogger.jpg
 author: true
 author_ediano: true
 coauthor_luciana: false
