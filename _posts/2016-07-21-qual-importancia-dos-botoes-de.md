@@ -26,6 +26,6 @@ A maioria das redes sociais tem a mesma ideia ou objetivo, na prática isso pode
 Lembrando que você jamais pode criar duas páginas em uma rede social para um único site, mas se ela tiver opção você pode criar uma página e uma comunidade como o Google Plus permite ou criar um fan-page e um grupo no caso do Facebook.
 
 ## Onde conseguir botões de compartilhamento?
-Essa é a parte mais fácil, você pode conseguir estes botões com a própria rede social que você criou o perfil ou em sites de terceiros, cada rede social oferece seu próprio tipo de botão padronizado por ela, caso você queira fugir desses padrões, você pode adquirir botões personalizados de site de terceiro, como www<span/>.shareaholic<span/>.com ou www<span/>.addthis<span/>.com.
+Essa é a parte mais fácil, você pode conseguir estes botões com a própria rede social que você criou o perfil ou em sites de terceiros, cada rede social oferece seu próprio tipo de botão padronizado por ela, caso você queira fugir desses padrões, você pode adquirir botões personalizados de site de terceiro, como www.shareaholic.com ou www.addthis.com.
 
 Cada rede sociais disponibiliza um botão personalizado com suas característica, os site de terceiro que lhe oferece está ferramenta também tem botões personalizados e diferenciado um dos outros.

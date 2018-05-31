@@ -35,13 +35,13 @@ Caso você já tenha adicionado algum subdomínio, recomendo que faça o BACKUP 
 
 Para isso precisamos do CNAME que o Blogger lhe informou na hora de configurar o seu domínio, casa você não saiba ou que tenha pedido o mesmo siga os passos seguintes  para você recuperar o CNAME, se você já tem o mesmo em mãos pule esta parte para o paragrafo (5.).
 
-* Entre com sua conta do Blogger no Google para Webmasters, clique em "**ADICIONAR UM SITE**", coloque o seu domínio personalizado como (www<span/>.exemplo<span/>.com ou exemplo<span/>.com), clique em "Continuar".
+* Entre com sua conta do Blogger no Google para Webmasters, clique em "**ADICIONAR UM SITE**", coloque o seu domínio personalizado como (www.exemplo.com ou exemplo.com), clique em "Continuar".
 
 * Clique sobre a roda dentada no canto superior direito da tela, e selecione "**Detalhes da confirmação**".
 
 * Agora clique no link "**Verificar usando um método diferente**", e selecione "**Provedor de nome de domínio**".
 
-* Escolha o provedor de domínio "**UOLHost<span/>.com<span/>.br**", clique no link "**Adicionar um registro CNAME**".
+* Escolha o provedor de domínio "**UOLHost.com.br**", clique no link "**Adicionar um registro CNAME**".
 
 Observe que agora ele abril suas informações de configurações CNAME para o domínio selecionado.
 
@@ -59,7 +59,7 @@ Observe que agora ele abril suas informações de configurações CNAME para o d
 
 > Entrada: **www**
 
-> Valor: **ghs<span/>.google<span/>.com**
+> Valor: **ghs.google.com**
 
 Clique em Criar e aguarde a confirmação.
 
@@ -99,10 +99,10 @@ Se você fez todas as configurações conforme o descrito, recomendo que aguarde
 
 * Agora entre no **Painel do Blogger, selecione › Configurações › Básico**, Na área "Publicação", clique no link para adicionar um domínio personalizado.
 
-* Insira o URL de seu domínio personalizado na caixa de texto exibida como (www<span/>.exemplo<span/>.com) e clique em Salvar.
+* Insira o URL de seu domínio personalizado na caixa de texto exibida como (www.exemplo.com) e clique em Salvar.
 
-* Agora atualize a página, clique em Editar, e marque a opção "Redirecionar exemplo<span/>.com para www<span/>.exemplo<span/>.com", clique novamente em Salvar. **OBS: É  de total importância que esta opção esteja marcada**.
+* Agora atualize a página, clique em Editar, e marque a opção "Redirecionar exemplo.com para www.exemplo.com", clique novamente em Salvar. **OBS: É  de total importância que esta opção esteja marcada**.
 
-Ponto, seu domínio blogspot<span/>.com em breve vai esta funcionando com o domínio personalizado ao qual você acabou de adicionar.
+Ponto, seu domínio blogspot.com em breve vai esta funcionando com o domínio personalizado ao qual você acabou de adicionar.
 
 Nota: É recomentado que aguarde 24 horas para que as configurações de DNS seja ativado, nos aqui no Inside Block, tivemos que aguardar por 72 Horas, para que o nosso domino fosse 100% atualizado e ativado no DNS do nosso provedor de registro.

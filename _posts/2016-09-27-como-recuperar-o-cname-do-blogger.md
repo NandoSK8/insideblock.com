@@ -18,7 +18,7 @@ Ao adicionar um <a href="http://www.insideblock.com/posts/como-colocar-dominio-n
 Porém é possível fazer a recuperação dos apontamentos de DNS com a ajuda do Google Webmaster. Acesse o página do <a href="https://www.google.com/webmasters/tools/home?hl=pt-BR" rel="nofollow" target="_blank">Webmaster</a>, faça login com uma conta do Google, caso não tenha crie uma.
 
 ## Adicionar propriedade
-Na primeira página após fazer o login, o Google Webmaster vai exibir todos os sites listados, caso o seu site não esteja listado no mesmo clique em “**Adicione uma propriedade**”, digite o endereço do domínio registrado do tipo “www<span/>.example<span/>.com”, confirme em **Adicionar**.
+Na primeira página após fazer o login, o Google Webmaster vai exibir todos os sites listados, caso o seu site não esteja listado no mesmo clique em “**Adicione uma propriedade**”, digite o endereço do domínio registrado do tipo “www.example.com”, confirme em **Adicionar**.
 
 ## Detalhes da verificação
 Após adicionar o site clique sobre o mesmo, clique na “**Roda dentada**” localizada no canto superior direito da tela, selecione “**Detalhes da verificação**”.
@@ -31,10 +31,10 @@ Siga o caminho **Problemas? Adicionar um registro TXT › Adicionar um registro 
 
 **Exemplo do registro CNAME**
 
-> **Marcador/Host CNAME:** xxxxxxxxxxxxx.example<span/>.com
+> **Marcador/Host CNAME:** xxxxxxxxxxxxx.example.com
 
-> **Destino/Alvo CNAME:** gv-xxxxxxxxxxxxxxxx.dv.googlehosted<span/>.com
+> **Destino/Alvo CNAME:** gv-xxxxxxxxxxxxxxxx.dv.googlehosted.com
 
-Ao adicionar as informações CNAME no provedor de registro clique em “**Verificar**”, caso esteja tudo certo a seguinte mensagem tem que ser apresentada “Parabéns, você confirmou a propriedade de example<span/>.com”, clique em “**Continuar**”.
+Ao adicionar as informações CNAME no provedor de registro clique em “**Verificar**”, caso esteja tudo certo a seguinte mensagem tem que ser apresentada “Parabéns, você confirmou a propriedade de example.com”, clique em “**Continuar**”.
 
 Para evitar que você execute todos esses passos, recomendamos que faça uma cópia de seus registro e salve em um local seguro, caso altere o endereço do seu blog atual, você terá que executar todos os passo novamente.

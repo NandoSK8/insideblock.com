@@ -13,12 +13,12 @@ comments: true
 ads: true
 ---
 
-Ao criarmos um site devemos registar um domínio, para remover aquelas palavras chatas no final do endereço do blog (seu-site.blogspot.com ou seu-site.wordpress.com) o legal seria “seu-site.com” ou qualquer outro tipo de extensão de registro (.com<span/>.br, .net, .net<span/>.br, .org entre outros), ao escolha um nome de domínio para o seu site e importante lembrar que você não pode contratar qualquer serviço de registro, recomendamos que contrate serviços de confiança, procure site brasileiro reconhecido pelo “orgão de registro .BR”.
+Ao criarmos um site devemos registar um domínio, para remover aquelas palavras chatas no final do endereço do blog (seu-site.blogspot.com ou seu-site.wordpress.com) o legal seria “seu-site.com” ou qualquer outro tipo de extensão de registro (.com.br, .net, .net.br, .org entre outros), ao escolha um nome de domínio para o seu site e importante lembrar que você não pode contratar qualquer serviço de registro, recomendamos que contrate serviços de confiança, procure site brasileiro reconhecido pelo “orgão de registro .BR”.
 
 ## Serviços de registro recomendado
 Os serviços de registro que recomendado, são os mesmo que o “orgão de registro .BR” reconhece, ou que seja reconhecido globalmente, neste caso recomendamos dois prestadores desse tipo de serviço, o site brasileiro registro.br (o próprio orgão de registro .BR), e o site estrangeiro Godaddy.
 
-## Registro<span/>.br
+## Registro.br
 O orgão de registro .BR atualmente permite que você registra apenas domínios “.com.br”, esta pratica é reconhecida pelo visitante de um determinado site, que a página que encontra “.br” esta registrado em território brasileiro, esta informação não quer dizer que o site é seguro, mas pode trazer mais confiança para os usuários principalmente se for do território nacional.
 
 ## Godaddy

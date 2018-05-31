@@ -16,10 +16,10 @@ ads: true
 
 Recentemente escrevi uma postagem aqui no Inside Block de <a href="http://www.insideblock.com/posts/como-migrar-conteudos-do-blogger-para-o.html" target="_blank">como migrar o conteúdo do Blogger para o Wordpress</a>. Agora iremos fazer o processo inverso, migrar do Wordpress para o Blogger.
 
-Se você for usuário do WordPress<span/>.org recomendo que antes de fazer a migração para o Blogger,  migre primeiro o seu blog para o WordPress<span/>.com, isso vai fazer com que as imagens e anexos das postagens continuem funcionando no Blogger.
+Se você for usuário do WordPress.org recomendo que antes de fazer a migração para o Blogger,  migre primeiro o seu blog para o WordPress.com, isso vai fazer com que as imagens e anexos das postagens continuem funcionando no Blogger.
 
 ## Fazer backup do conteúdo do WordPress
-1. Acesse o Painel do WordPress, usando os link de exemplo como método de entrada blog<span/>.wordpress<span/>.com/wp-admin ou seu-blog<span/>.com/wp-admin
+1. Acesse o Painel do WordPress, usando os link de exemplo como método de entrada blog.wordpress.com/wp-admin ou seu-blog.com/wp-admin
 
 2. Agora no menu da lateral esquerda da tela, passe o mouse sobre “**Ferramentas**” e escolha “**Exportar**”
 
@@ -42,4 +42,4 @@ Detalhe: O arquivo *xml não pode passar de 1 mb, caso o site dê algum erro, vo
 
 5. Marque a opção “**Não sou um robô**”, clique em “**Importar do computador**”, selecione o último arquivo *xml - o que foi convertido, aguarde alguns instantes para que o conteúdo seja publicado automaticamente.
 
-Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagens uma-a-uma e envie para o Blogger. Se preferir, recomendo o imgur<span/>.com para hospedar as imagens, neste caso você poderá migrar entre WordPress e Blogger, ou vice-versa, a qualquer momento, sem se preocupar se vai excluir ou não o blog.
+Dica importante: Para evitar ficar com dois blogs recomendo que baixe as imagens uma-a-uma e envie para o Blogger. Se preferir, recomendo o imgur.com para hospedar as imagens, neste caso você poderá migrar entre WordPress e Blogger, ou vice-versa, a qualquer momento, sem se preocupar se vai excluir ou não o blog.
