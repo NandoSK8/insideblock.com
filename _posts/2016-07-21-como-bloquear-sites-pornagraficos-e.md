@@ -28,9 +28,9 @@ Nos preocupado com sua segurança, temos aqui uma ótima dica para você bloquea
 
 4. Marque a opção "Usar os seguintes endereço de servidor DNS" e cole o DNS abaixo.
 
-* Servidor DNS preferencial: **208.67.222.123**
+Servidor DNS preferencial: **208.67.222.123**
 
-* Servidor DNS alternativo: **208.67.223.123**
+Servidor DNS alternativo: **208.67.223.123**
 
 ## Bloquear todos os computadores na mesma rede
 Para bloquear todos os computadores de uma unica vez da mesma rede, você precisar ter uma noção de configuração de modem, para fazer as alterações necessárias.

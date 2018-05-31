@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Como desativar janela de autenticação de proxy no Office
+title: Desativar janela de autenticação de proxy no Office
 date: '2016-07-21T18:40:00.000-04:00'
 modified_time: '2016-12-03T22:35:27.412-04:00'
 tags: [Software, Aplicação, Funcionalidade]
@@ -27,7 +27,11 @@ Isso acontece por conta do servidor de proxy, geralmente ele deve esta bloqueand
 ## Segundo Método
 1. Abra o regedit do Windows pressione a tecla Windows+R e digite “**regedit**” sem aspas tecle "Enter".
 
-2. Acesse o caminha: **HKEY_CURRENT_USER › HKEY_LOCAL_MACHINE › SOFTWARE › Microsoft › Office › 15.0 ou 16.0 › Commom › Internet**. OBS: Caso você estiver usando o Office 2013 selecione a pasta 15.0, ou se você estiver usando o Office 2016 selecione a pasta 16.0.
+2. Acesse o caminho.
+
+> HKEY_CURRENT_USER\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\15.0 ou 16.0\Commom\Internet
+
+OBS: Caso você estiver usando o Office 2013 selecione a pasta 15.0, ou se você estiver usando o Office 2016 selecione a pasta 16.0.
 
 3. De um clique duplo sobre a chave “**UseOnlineContent**”, com a opção “Hexadecimal” marcada, altere o valor de 1 para 0, reinicie o Windows.
 

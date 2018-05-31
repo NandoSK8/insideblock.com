@@ -19,15 +19,19 @@ Com a personalização do título do Post antes do nome do Blog; Nos provedores 
 
 * Acesse o Painel do Blogger › Modelo › Editar html, aperte as teclas: ctrl+f Procure pela linha abaixo.
 
-        <title><data:blog.pageTitle/></title>
+```html
+ <title><data:blog.pageTitle/></title>
+```
 
 Substitua o código encontrado, pelo código abaixo:
 
-    <b:if cond='data:blog.pageType == &quot;item&quot;'>
+```html
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
     <title><data:blog.pageName/> - <data:blog.title/></title>
     <b:else/>
     <title><data:blog.pageTitle/></title>
-    </b:if>
+</b:if>
+```
 
 Clique em Visualizar, se estiver certo clique em ‘Salvar Modelo’.
 

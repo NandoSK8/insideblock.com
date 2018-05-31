@@ -25,11 +25,14 @@ Um mapa do site, tem muito mais funções de otimização do blog, do você pode
 
 Cole o código abaixo dentro da página, faça as alterações necessária e clique em publicar.
 
-    <script src="https://multicamada.github.io/FreeCodeProject/JavaScript/SitemapForBlogger.js"></script><script src="http://NOME-DO-SEU-BLOG.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc"></script>
+```html
+<script src="https://multicamada.github.io/FreeCodeProject/JavaScript/SitemapForBlogger.js"></script>
+<script src="http://NOME-DO-SEU-BLOG.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&ampcallback=loadtoc"></script>
+```
 
 ## Modificação necessária
 Altere onde esta "**NOME-DO-SEU-BLOG**", para o nome do seu blog.
 
-Se você preferir você pode substituir "http://**NOME-DO-SEU-BLOG-AQUI**<span/>.blogspot<span/>.com/" pelo url completo do seu blog.
+Se você preferir você pode substituir `http://NOME-DO-SEU-BLOG-AQUI.blogspot.com/` pelo url completo do seu blog.
 
 Este tutorial foi testado apenas na plataforma Blogger, por isso recomendamos que use este código apenas para o Blogger.

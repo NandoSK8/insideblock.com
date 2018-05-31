@@ -20,7 +20,8 @@ OBS. O código da caixa de pesquisa funciona para qualquer tipo de plataforma Bl
 ## Primeiro passo
 Entre no Painel do seu Blogger clique em Layout › Adicionar um Gadget › HTML/JavaScript e cole o código abaixo.
 
-    <center><style type="text/css">
+```html
+<center><style type="text/css">
     #pesquisafsm-caixa {
     background: #eee; padding:15px; border:15 none; width:340px;
     }
@@ -43,35 +44,42 @@ Entre no Painel do seu Blogger clique em Layout › Adicionar um Gadget › HTML
     }
     </style>
     <form action="/search" id="searchthis" method="get" style="display: inline;">
-    <input id="pesquisafsm-caixa" name="q" placeholder="O que está procurando?" size="50" type="text" /> <input id="pesquisafsm-botao" type="submit" value="Pesquisar" /> </form></center>
-
+    <input id="pesquisafsm-caixa" name="q" placeholder="O que está procurando?" size="50" type="text" /> <input id="pesquisafsm-botao" type="submit" value="Pesquisar" /></form>
+</center>
+```
 
 **Veja as alterações que você pode fazer:** Observe que os trechos na caixa de pesquisa determina a posição da mesma, no código atual no centro de qualquer Gadget.
 
-    <center> </center>
+```html
+<center> </center>
+```
 
 * Largura da caixa de pesquisa
 
-        background: #eee; padding:15px; border:15 none; width:340px;
+```css
+background: #eee; padding:15px; border:15 none; width:340px;
+```
 
-* O trecho (padding:15px; border:15 none;) desta linha determina pela altura da caixa de pesquisa.
+* O trecho `padding:15px; border:15 none;` desta linha determina pela altura da caixa de pesquisa.
 
-* O trecho (width 340px;) desta linha determina pelo tamanho da caixa de pesquisa.
+* O trecho `width 340px;` desta linha determina pelo tamanho da caixa de pesquisa.
 
 * Botão padding
 
-        padding:15px 15px 15px 22px;
-
+```css
+padding:15px 15px 15px 22px;
+```
 
 Posição do botão de pesquisa.
 
 * Descrição da caixa de pesquisa
 
-        <input id="pesquisafsm-caixa" name="q" placeholder="O que está procurando?" size="50" type="text" />
+```html
+<input id="pesquisafsm-caixa" name="q" placeholder="O que está procurando?" size="50" type="text" />
+```
 
+* `O que está procurando?` Este pequeno texto descreve-se dentro da caixa de pesquisa.
 
-* (O que está procurando?) Este pequeno texto descreve-se dentro da caixa de pesquisa.
-
-* O trecho (size="50") determina o numero de caracteres que pode ser digitado dentro da caixa de pesquisa.
+* O trecho `size="50"` determina o numero de caracteres que pode ser digitado dentro da caixa de pesquisa.
 
 As demais linha não é recomendado editar os valores dos numero, pois o mesmo pode calsar erros a caixa de pesquisa.

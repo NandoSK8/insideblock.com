@@ -23,7 +23,9 @@ Mas o problema nem sempre se trata de um bug no sistema, mas sim um problema de 
 
 * **Terceiro:** Desative o armazenamento de arquivos em cache da memoria RAM, o mesmo tem quatro funções, 1. Desativar todos os armazenamento em cache, 2. Deixar apenas aplicativos em cache, 3. Deixar apenas sistema de boot e por último 4. Ativar todos os cache. Para isso abra o "**regedit**" do Windows como administrador e vá para o seguinte caminho.
 
-> HKEY_LOCAL_MACHINE › SYSTEM › CurrentControlSet › Control › Session Manager › Memory Management › PrefetchParameters
+```
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters
+```
 
 Abra o arquivo "**EnablePrefetcher**" e altere o campo "**Dados do valor**" conforme a orientação entre aspas abaixo.
 

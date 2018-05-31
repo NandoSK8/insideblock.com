@@ -25,17 +25,19 @@ Um site responsivo é tudo, alem de deixar as páginas mais elegante de navegaç
 
 Exemplo de uma estrutura responsiva
 
-    @media only screen and (min-width: 993px){
+```css
+@media only screen and (min-width: 993px){
     /* Estilo Desktop */
     }
-
-    @media only screen and (min-width: 769px) and (max-width: 992px){
+    
+@media only screen and (min-width: 769px) and (max-width: 992px){
     /* Estilo Tablet */
     }
 
-    @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     /* Estilo Mobile */
     }
+```
 
 A estrutura do estilo CSS é padrão para todos os navegadores, a largura da pagina pode varias de "min-width" para "max-width", aqui fica a sua preferencia.
 

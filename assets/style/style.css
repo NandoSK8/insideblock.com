@@ -67,26 +67,13 @@ a.top {
     }
 }
 
-code {
-    background: #f7f7f7 !important;
-    display: block !important;
-    padding: 15px 10px !important;
-    margin: 20px 0 40px 0 !important;
-    border-left: 5px solid rgba(56, 60, 86, 1) !important;
-    font-size: 80% !important;
-    overflow: auto !important
+a.vglnk {
+    border: none !important;
+    pointer-events: none
 }
 
-blockquote {
-    padding: 15px 10px !important;
-    margin: 20px 0 40px 0 !important;
-    font-size: 80% !important;
-    background: #f7f7f7 !important;
-    border-left: 5px solid rgba(56, 60, 86, 1) !important;
-}
-
-blockquote p {
-    margin: 0 !important
+a.vglnk::after {
+    content: none !important
 }
 
 .ads,
@@ -669,7 +656,7 @@ _____________________________________________________________*/
 }
 
 .post article .body {
-    padding: 0 30px;
+    padding: 0 30px 30px 30px;
     color: rgba(0, 0, 0, .80);
     font-weight: 400
 }
@@ -1172,9 +1159,6 @@ ___________________________*/
 }
 
 @media only screen and (min-width: 993px) {
-    section.author .details {
-        width: 70rem
-    }
     /* Home - List Post
 ___________________________*/
     .home article {

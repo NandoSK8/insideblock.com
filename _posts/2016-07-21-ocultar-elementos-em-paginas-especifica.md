@@ -24,11 +24,13 @@ Acesse o **Painel do Blogger › Modelo › Editar HTML**. (Recomendamos que fa�
 
 No nosso exemplo, este elemento é o anuncio, então o código html que inicia este anuncio vai estar assim:
 
-    <!--Inicio do Anuncio Que Iremos Ocultar-->
-    <div id="ads" class="ads">
+```html
+<!--Inicio do Anuncio Que Iremos Ocultar-->
+<div id="ads" class="ads">
 
-    </div>
-    <!--Fim do Anuncio Que Iremos Ocultar-->
+</div>
+<!--Fim do Anuncio Que Iremos Ocultar-->
+```
 
 Agora você deve colar o código da condicional que define onde o anuncio irá aparecer, que no nosso exemplo será apenas na home.
 
@@ -36,13 +38,15 @@ Você deve colar o código de abertura da condicional logo ACIMA da linha que in
 
 Deverá ficar assim:
 
-    <b:if cond='data:blog.url == data:blog.homepageUrl'>
-    <!--Inicio do Anuncio Que Iremos Ocultar-->
-    <div id="ads" class="ads">
+```html
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+<!--Inicio do Anuncio Que Iremos Ocultar-->
+<div id="ads" class="ads">
 
-    </div>
-    <!--Fim do Anuncio Que Iremos Ocultar-->
-    </b:if>
+</div>
+<!--Fim do Anuncio Que Iremos Ocultar--> 
+</b:if>
+```
 
 No exemplo acima, o anuncio vai aparecer somente na página inicial do blog.
 
@@ -50,34 +54,54 @@ Não esqueça que: Sempre que quiser ocultar um elemento em determinada página,
 
 ## Código específicos da condicional para função ocultar
 Para Ocultar um elemento APENAS na Página Inicial:
-> &lt;b:if cond='data:blog.homepageUrl != data:blog.url'&gt;
+```html
+<b:if cond='data:blog.homepageUrl != data:blog.url'>
+```
 
 Para Ocultar um elemento APENAS nas Páginas internas(de postagens):
-> &lt;b:if cond='data:blog.pageType != "item"'&gt;
+```html
+<b:if cond='data:blog.pageType != "item"'>
+```
 
 Para Ocultar um elemento APENAS na página inicial, de marcadores e arquivo:
-> &lt;b:if cond='data:blog.pageType == "item"'&gt;
+```html
+<b:if cond='data:blog.pageType == "item"'>
+```
 
 Para ocultar um elemento APENAS nas Páginas Estáticas:
-> &lt;b:if cond='data:blog.pageType != "static_page"'&gt;
+```html
+<b:if cond='data:blog.pageType != "static_page"'>
+```
 
 ## Código específicos da condicional para função exibir/mostrar
 Para MOSTRAR um elemento APENAS na Página Inicial:
-> &lt;b:if cond='data:blog.url == data:blog.homepageUrl'&gt;
+```html
+<b:if cond='data:blog.url == data:blog.homepageUrl'>
+```
 
 Para MOSTRAR um elemento APENAS nas Páginas Inicial, de Marcadores e de Arquivos:
-> &lt;b:if cond='data:blog.pageType != "item"'&gt;
+```html
+<b:if cond='data:blog.pageType != "item"'>
+```
 
 Para MOSTRAR um elemento APENAS nas Páginas Individuais dos Posts(páginas internas):
-> &lt;b:if cond='data:blog.pageType == "item"'&gt;
+```html
+<b:if cond='data:blog.pageType == "item"'>
+```
 
 Para MOSTRAR um elemento APENAS nas Páginas Estáticas:
-> &lt;b:if cond='data:blog.pageType == "static_page"'&gt;
+```html
+<b:if cond='data:blog.pageType == "static_page"'>
+```
 
 Para MOSTRAR um elemento APENAS na Página de um Post Específico:
-> &lt;b:if cond='data:blog.url == "URL-DO-POST"'&gt;
+```html
+<b:if cond='data:blog.url == 'URL-DO-POST"'>
+```
 
 Para MOSTRAR um elemento APENAS nas Páginas de Arquivos:
-> &lt;b:if cond='data:blog.pageType == "archive"'&gt;
+```html
+<b:if cond='data:blog.pageType == "archive"'>
+```
 
 Estas são as condicionais suportáveis pelo Blogger. Se algum código que você inseriu não deu certo, eu recomendo que você teste, usando o outro.

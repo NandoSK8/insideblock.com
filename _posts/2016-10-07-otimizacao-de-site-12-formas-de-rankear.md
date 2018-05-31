@@ -39,7 +39,9 @@ Existem seis tags de cabeçalhos H1, H2, H3, H4, H5 e H6, quanto menor a tag H1 
 ## Dados estruturais: Marcações HTML de rastreamento de página e conteúdo
 Os dados estruturais e a peça chave de um quebra cabeça, fazer corretamente as marcações HTML pode colocar o seu site no topo dos mecanismos de pesquisa, essas marcações de dados estruturais é um pouco diferente das heading tags, mas tem praticamente a mesma função só que mais eficiente. Veja o exemplo.
 
-    <h2 class='post-title entry-title' itemprop='name'> Título do conteúdo </h2>
+```html
+<h2 class='post-title entry-title' itemprop='name'> Título do conteúdo </h2>
+```
 
 Este código tem três marcações de dados estruturais, a primeira é a “H2” heading tag, a segunda e a class “entre-title”, e por último a marcação “itemprop”.
 

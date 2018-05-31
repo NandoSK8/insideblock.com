@@ -19,7 +19,9 @@ Esta mensagem começa a aparece quando um usuário tem sua pasta excluída do �
 
 1. Pressione tecla **WINDOWS + R**, digite “**regedit**” sem as aspas e pressione Enter. Lembrando para executar esta função você deve ser o administrador do sistema.
 
-2. No editor do Regedit vá em **HKEY_LOCAL_MACHINE › SOFTWARE › Microsoft › Windows NT** dentro da pasta **Windows NT** expanda a guia **CurrentVersion** e procure pela pasta **ProfileList** expanda a pasta.
+2. No editor do Regedit acesse o seguinte caminho
+
+> HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 
 3. Procure pela pasta que contém o valor do usuário que tem o perfil temporário, Clique com o botão direito sobre a pasta e em **Excluir**, vai perguntar se tem certeza que deseja excluir clique em sim. Reinicia o Windows e faça logon novamente.
 

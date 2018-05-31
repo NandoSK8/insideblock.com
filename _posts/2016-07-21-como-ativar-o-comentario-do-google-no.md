@@ -27,10 +27,14 @@ Atenção: Antes de executar os passos a seguir recomendo que faça o backup do 
 
 * Clique em Editar HTML procure por
 
-        <div class='post-footer'>
+```html
+<div class='post-footer'>
+```
 
 * Adicione o código abaixo depois do código encontrado.
 
-        <div class='cmt_iframe_holder' data-viewtype='FILTERED_POSTMOD' expr:href='data:blog.canonicalUrl'/>
+```html
+<div class='cmt_iframe_holder' data-viewtype='FILTERED_POSTMOD' expr:href='data:blog.canonicalUrl'/>
+```
 
 Clique em "Salvar modelo" e confira como ficou suas postagens com a nova caixa de comentário.

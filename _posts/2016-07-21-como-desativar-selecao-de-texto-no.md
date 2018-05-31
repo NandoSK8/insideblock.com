@@ -25,39 +25,47 @@ Recomendamos que antes de fazer qualquer alteração em seu template que faça o
 
 * Agora procure pelo código abaixo. 
 
-        </head>
+```html
+</head>
+```
 
 * Cole o seguinte código ABAIXO do tag encontrada.
 
-        <script type="text/javascript">
-        function disableSelection(target){
-        if (typeof target.onselectstart!="undefined") //IE route
-        target.onselectstart=function(){return false}
-        else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
-        target.style.MozUserSelect="none"
-        else //All other route (ie: Opera)
-        target.onmousedown=function(){return false}
-        target.style.cursor = "default"
-        }
-        </script>
-        <script>
-        function click() {
-        if (event.button==2||event.button==3) {
-        oncontextmenu='return false';
-        }
-        }
-        document.onmousedown=click
-        document.oncontextmenu = new Function("return false;")
-        </script>
+```html
+<script type="text/javascript">
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //IE route
+target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
+target.style.MozUserSelect="none"
+else //All other route (ie: Opera)
+target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+</script>
+<script>
+function click() {
+if (event.button==2||event.button==3) {
+oncontextmenu='return false';
+}
+}
+document.onmousedown=click
+document.oncontextmenu = new Function("return false;")
+</script>
+```
 
 * Procure pelo seguinte código.
 
-        </body>
+```html
+</body>
+```
 
 * Cole o código abaixo acima do código encontrado.
 
-        <script type="text/javascript">
-        disableSelection(document.body) //disable text selection on entire body of page
-        </script>
+```html
+<script type="text/javascript">
+disableSelection(document.body) //disable text selection on entire body of page
+</script>
+```
 
 O código instalado em seu Template desativa, qualquer tipo de seleção de texto em seu blog, mesmo que eles esteja ou não dentro de seus artigos publicados.

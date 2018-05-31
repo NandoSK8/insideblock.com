@@ -23,13 +23,12 @@ Para resolver estes problemas, temos em mão um ótimo script de redirecionament
 
 * Clique em Editar da opção "Página não encontrada" personalizada? Copie e cole o código abaixo, dentro da caixa de definições.
 
-        Desculpe, mas a página que você está procurando nesse blog não existe.
-        Você será redirecionado a nossa página inicial em instantes.
-        <script type = "text/javascript">
-        BSPNF_redirect = setTimeout(function() {
-        location.pathname= "/"
-        }, 5000);
-        </script>
+```html
+Desculpe, mas a página que você está procurando nesse blog não existe. Você será redirecionado a nossa página inicial em instantes.
+<script type = "text/javascript">
+BSPNF_redirect = setTimeout(function() { location.pathname= "/" }, 5000);
+</script>
+```
 
 * Clique em "**Salvar alterações**" e pronto agora é fazer o teste e aproveitar.
 

@@ -23,19 +23,19 @@ As únicas regras usadas como padrões é o forma de fazer o apontamento para o 
 
 **#ID:** A regra básica dos ID é para o nome do seletor, o nome nunca pode se repetir ou ser adicionado a outro ID, ou seja os IDs carrega nomes de seletores únicos. Veja o exemplo abaixo.
 
-    <h1 id="id-seletor1"> ID nunca pode se repete </h1>
-
-    <h2 id="id-seletor2"> ID nunca pode se repete </h2>
-
-    <h3 id="id-seletor3"> ID nunca pode se repete </h3>
+```html
+<h1 id="id-seletor1"> ID nunca pode se repete </h1>
+<h2 id="id-seletor2"> ID nunca pode se repete </h2>
+<h3 id="id-seletor3"> ID nunca pode se repete </h3>
+```
 
 **.CLASS:** Já para as CLASS não à regras de nome do seletor, elas pode se repetir sem nem um problema, não importa quantas vezes você tenha usar a mesma CLASS. Veja o exemplo.
 
-    <h1 class="class-seletor"> CLASS sempre pode se repete </h1>
-
-    <h3 class="class-seletor"> CLASS sempre pode se repete </h3>
-
-    <h3 class="class-seletor"> CLASS sempre pode se rsepete </h3>
+```html
+<h1 class="class-seletor"> CLASS sempre pode se repete </h1>
+<h2 class="class-seletor"> CLASS sempre pode se repete </h2>
+<h3 class="class-seletor"> CLASS sempre pode se rsepete </h3>
+```
 
 Com você tem visto os exemplos. Geralmente quando se usar IDs, você também usar um código CSS maior; já para as CLASS um único seletor do código CSS, pode ser adicionado a vários outros, sem a necessidade de fazer um novo código.
 
