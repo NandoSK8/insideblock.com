@@ -27,6 +27,8 @@ navigation:
 
 pages_to_cache:
   - '/'
+  
+files_to_cache:
   - '/assets/style/style.css'
   - '/assets/style/rouge.css'
   - '/assets/materialize/v1.0.0.alpha.2/materialize.min.css'
