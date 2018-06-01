@@ -37,13 +37,13 @@ Copie e cole o código abaixo dentro da caixa HTML/JavaScript que acabou de abri
 .metro-social .in{background:url(http://1.bp.blogspot.com/-wstBUi1KJvM/UhvkFE0ULUI/AAAAAAAAAjI/pYXFGoASttM/s1600/linkedin.png) no-repeatcenter center #0097bd;width:73px;height:69px}
 .metro-social .yt{background:url(http://2.bp.blogspot.com/-TrekCNcWUx0/UhvkM9ZF3CI/AAAAAAAAAjQ/Mo34C4balm8/s1600/youtube.png) no-repeatcenter center #e64a41;width:147px;height:69px}
 .metro-social .fd{background:url(http://3.bp.blogspot.com/-cCSDv3lC0X0/UhvkU9C9HiI/AAAAAAAAAjY/mGiP5hJsM-c/s1600/feed.png) no-repeat center center #e9a01c;width:147px;height:69px}
-.metro-social li:hover .fb{background:ur(http://1.bp.blogspot.com/-BFbVTHudOlM/UhvkgeVoiqI/AAAAAAAAAjg/35axnVfIeS0/s1600/facebook1.png) no-repeatcenter center #1f69b3}
-.metro-social li:hover .tw{background:ur(http://2.bp.blogspot.com/-saT_EfxJaJE/UhvkuFTXjJI/AAAAAAAAAjo/577uDpJQEbc/s1600/twitter-bird-dark-bgs1.png no-repeat center center #43b3e5}
-.metro-social li:hover .gp{background:ur(http://2.bp.blogspot.com/-v5Z8YpYN8_E/Uhvk4WeytEI/AAAAAAAAAjw/r2i0umcEW_s/s1600/google+plus1.png)no-repeat center center #da4a38}
-.metro-social li:hover .pi{background:ur(http://3.bp.blogspot.com/-xOu6vPaWFQI/UhvlHFWtWYI/AAAAAAAAAkA/ZuLiaTQEgvc/s1600/pinterest1.png) no-repeatcenter center #d73532}
-.metro-social li:hover .in{background:ur(http://1.bp.blogspot.com/-C2efDwlsVw8/UhvlPv0z7QI/AAAAAAAAAkI/7Ja7pe4oeXI/s1600/linkedin1.png) no-repeatcenter center #0097bd}
-.metro-social li:hover .yt{background:ur(http://2.bp.blogspot.com/-a-WmFJ1piuc/UhvlXQDOOCI/AAAAAAAAAkQ/VWNkxrcP2PM/s1600/youtube1.png) no-repeatcenter center #e64a41}
-.metro-social li:hover .fd{background:ur(http://2.bp.blogspot.com/-d_arcwBs6SM/UhvlgtDGGhI/AAAAAAAAAkY/J2th4re5ihc/s1600/feed1.png) no-repeatcenter center #e9a01c}
+.metro-social li:hover .fb{background:url(http://1.bp.blogspot.com/-BFbVTHudOlM/UhvkgeVoiqI/AAAAAAAAAjg/35axnVfIeS0/s1600/facebook1.png) no-repeatcenter center #1f69b3}
+.metro-social li:hover .tw{background:url(http://2.bp.blogspot.com/-saT_EfxJaJE/UhvkuFTXjJI/AAAAAAAAAjo/577uDpJQEbc/s1600/twitter-bird-dark-bgs1.png) no-repeat center center #43b3e5}
+.metro-social li:hover .gp{background:url(http://2.bp.blogspot.com/-v5Z8YpYN8_E/Uhvk4WeytEI/AAAAAAAAAjw/r2i0umcEW_s/s1600/google+plus1.png)no-repeat center center #da4a38}
+.metro-social li:hover .pi{background:url(http://3.bp.blogspot.com/-xOu6vPaWFQI/UhvlHFWtWYI/AAAAAAAAAkA/ZuLiaTQEgvc/s1600/pinterest1.png) no-repeatcenter center #d73532}
+.metro-social li:hover .in{background:url(http://1.bp.blogspot.com/-C2efDwlsVw8/UhvlPv0z7QI/AAAAAAAAAkI/7Ja7pe4oeXI/s1600/linkedin1.png) no-repeatcenter center #0097bd}
+.metro-social li:hover .yt{background:url(http://2.bp.blogspot.com/-a-WmFJ1piuc/UhvlXQDOOCI/AAAAAAAAAkQ/VWNkxrcP2PM/s1600/youtube1.png) no-repeatcenter center #e64a41}
+.metro-social li:hover .fd{background:url(http://2.bp.blogspot.com/-d_arcwBs6SM/UhvlgtDGGhI/AAAAAAAAAkY/J2th4re5ihc/s1600/feed1.png) no-repeatcenter center #e9a01c}
 </style>
 <div class="metro-social">
 <li><a class="fb" href="http://www.facebook.com/" target="blank"></a></li>
@@ -68,16 +68,18 @@ Na linha `.metro-social{width:300px}` o valor 300px define a largura do seu Gadg
 
 ## Remover imagem 1 (ícone) do YouTube:
 ```css
-.metro-social .yt{
-    background:ur (http://2.bp.blogspot.com/-TrekCNcWUx0/UhvkM9ZF3CI/AAAAAAAAAjQ/Mo34C4balm8/s1600/youtube.png) no-repeat
-center center #e64a41;width:147px;height:69px}
+.metro-social .yt {
+    background:url (http://2.bp.blogspot.com/-TrekCNcWUx0/UhvkM9ZF3CI/AAAAAAAAAjQ/Mo34C4balm8/s1600/youtube.png) no-repeat center center #e64a41;
+    width:147px;
+    height:69px
+}
 ```
 
 ## Remover imagem 2 (ícone) do YouTube:
 ```css
-.metro-social li:hover .yt{
-    background:ur (http://2.bp.blogspot.com/-a-WmFJ1piuc/UhvlXQDOOCI/AAAAAAAAAkQ/VWNkxrcP2PM/s1600/youtube1.png) no-repeat
-center center #e64a41}
+.metro-social li:hover .yt {
+    background:url (http://2.bp.blogspot.com/-a-WmFJ1piuc/UhvlXQDOOCI/AAAAAAAAAkQ/VWNkxrcP2PM/s1600/youtube1.png) no-repeat center center #e64a41
+}
 ```
 
 O exemplo onde acabamos de mostrar, serve para você remover o link mais imagem do botão do YouTube, para remover outros botões você só tem que seguir o exemplo sitado acima.

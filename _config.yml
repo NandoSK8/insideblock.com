@@ -25,13 +25,25 @@ navigation:
  - title: "#Tags"
    url: /tags/
 
-include: ['_redirects', '_headers']
+pages_to_cache:
+  - '/'
+  - '/assets/style/style.css'
+  - '/assets/style/rouge.css'
+  - '/assets/materialize/v1.0.0.alpha.2/materialize.min.css'
+  - '/assets/fonts/material_icons/icons.css'
+  - '/assets/fonts/roboto/roboto.css'
+  - '/assets/style/search.js'
+  - '/assets/jquery/3.2.1/jquery.min.js'
+  - '/assets/materialize/v1.0.0.alpha.2/materialize.min.js'
+  - '/assets/style/init.js'
 
 compress_html:
   clippings: all
   comments: all
   endings: []
   profile: false
+
+include: ['_redirects', '_headers']
 
 google_analytics: "UA-81236717-1"
 google_tagmanager: "GTM-T6PZBSG"

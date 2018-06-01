@@ -76,6 +76,14 @@ a.vglnk::after {
     content: none !important
 }
 
+blockquote {
+    border-left: .313rem solid #2da0c3
+}
+
+blockquote p {
+    margin: 0
+}
+
 .ads,
 .google-auto-placed,
 .google-auto-placed,

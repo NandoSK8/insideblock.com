@@ -7,14 +7,9 @@
     <meta content='index' name='robots'/>
     <title>{{ page.title }}</title>
     {% else %}
-    {% if page.erro %}
+    {% if page.noindex %}
         <meta content='noindex,nofollow,noarchive' name='robots'/>
-        <title>{{ page.erro }}</title>
-        {% else %}
-        {% if page.success %}
-            <meta content='noindex,nofollow,noarchive' name='robots'/>
-            <title>{{ page.success }}</title>
-        {% endif %}
+        <title>{{ page.noindex }}</title>
     {% endif %}
     {% else %}
     <meta content='index' name='robots'/>
@@ -37,7 +32,6 @@
 <meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB"/>
 
 <link rel="stylesheet" href="/assets/style/style.css"/>
-<link rel="stylesheet" href="#/assets/style/syntax.css"/>
 <link rel="stylesheet" href="/assets/style/rouge.css"/>
 <link rel="stylesheet" href="/assets/materialize/v1.0.0.alpha.2/materialize.min.css"/>
 <link href="/assets/fonts/roboto/roboto.css" rel="stylesheet"/>
