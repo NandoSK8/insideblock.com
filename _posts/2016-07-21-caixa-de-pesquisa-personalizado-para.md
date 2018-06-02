@@ -62,7 +62,7 @@ background: #eee; padding:15px; border:15 none; width:340px;
 
 * O trecho `padding:15px; border:15 none;` desta linha determina pela altura da caixa de pesquisa.
 
-* O trecho `width 340px;` desta linha determina pelo tamanho da caixa de pesquisa.
+* O trecho `width: 340px;` desta linha determina pelo tamanho da caixa de pesquisa.
 
 * Botão padding
 

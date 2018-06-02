@@ -30,7 +30,7 @@ pages_to_cache:
   
 files_to_cache:
   - '/assets/style/style.css'
-  - '/assets/style/rouge.css'
+  - '/assets/style/highlight.css'
   - '/assets/materialize/v1.0.0.alpha.2/materialize.min.css'
   - '/assets/fonts/material_icons/icons.css'
   - '/assets/fonts/roboto/roboto.css'

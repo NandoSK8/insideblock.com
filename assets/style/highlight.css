@@ -1,0 +1,68 @@
+div.highlighter-rouge {
+    position: relative;
+    background: #1e1e1e;
+    color: #fff;
+    font-size: 1rem;
+    padding: .25rem 1rem .5rem 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+    overflow: auto
+}
+
+.highlight a.vglnk {
+    color: #dcdcaa !important;
+    border: none !important;
+    pointer-events: none !important
+}
+
+code.highlighter-rouge {
+    color: #569cd6;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(86, 156, 214, 0.5)
+}
+
+.highlight .c,
+.highlight .c1 {
+    color: #608b4e
+}
+
+.highlight .p,
+.highlight .o {
+    color: #d4d4d4
+}
+
+.highlight .err {
+    border: 1px solid #fff;
+    color: #fff
+}
+
+.highlight .m,
+.highlight .s,
+.highlight .s1 {
+    color: #ce9178
+}
+
+.highlight .sx,
+.highlight .nx {
+    color: #dcdcaa
+}
+
+.highlight .kd,
+.highlight .nt {
+    color: #569cd6
+}
+
+.highlight .nl,
+.highlight .nb,
+.highlight .na {
+    color: #9cdcfe
+}
+
+.highlight .nt,
+.highlight .nc {
+    color: #d7ba7d
+}
+
+.language-js .highlight .mi {
+    color: #b5cea8
+}
