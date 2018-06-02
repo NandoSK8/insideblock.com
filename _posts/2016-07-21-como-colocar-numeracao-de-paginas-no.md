@@ -23,33 +23,81 @@ Antes de fazer qualquer alteração recomendamos que você faça o BACKUP do mod
 Pressione Ctrl+F e procure pelo seguinte código
 
 ```html
-</body>
+]]></b:skin>
 ```
 
-Antes dele adicione o seguinte:
+Antes dele adicione o seguinte código:
+
+```css
+.blog-pager {
+    float: right;
+    font: bold 12px Arial;
+    text-align: center;
+    padding: 15px 10px;
+    margin: 0
+}
+
+.showpageNum a,
+.showpage a {
+    background: #fff;
+    text-decoration: none;
+    white-space: nowrap;
+    color: #222;
+    margin: 10px3px;
+    padding: 5px 10px;
+    border: 1px solid #ddd
+}
+
+.showpageNum a:hover,
+.article-post .showpage a:hover {
+    color: #fff;
+    text-decoration: nonebackground-color: #4285f4;
+    border: 1px solid #4285f4
+}
+
+.showpageOf {
+    display: none;
+    margin: 0
+}
+
+.showpagePoint {
+    color: #fff;
+    text-decoration: none;
+    background-color: #4285f4;
+    font-size: 12px;
+    margin: 10px 3pxpadding: 5px 10px;
+    border: 1px solid #4285f4
+}
+
+.blog-pager-newer-link,
+.article-post home-link,
+.article-post .blog-pager-older-link {
+    padding: 10px
+}
+```
+
+Prepare as tags script para receber o js, procure por `</body>`, adicone o código abaixo acida do código encontrado.
 
 ```html
-<style type='text/css'>
-.blog-pager{float:right;font:bold 12px Arial;text-align:center;padding:15px 10px;margin:0}
-.showpageNum a,.showpage a{background:#fff;text-decoration:none;white-space:nowrap;color:#222;margin:10px3px;padding:5px 10px;border:1px solid #ddd}
-.showpageNum a:hover,.article-post .showpage a:hover{color:#fff;text-decoration:nonebackground-color:#4285f4;border:1px solid #4285f4}
-.showpageOf{display:none;margin:0}
-.showpagePoint{color:#fff;text-decoration:none;background-color:#4285f4;font-size:12px;margin:10px 3pxpadding:5px 10px;border:1px solid #4285f4}
-.blog-pager-newer-link,.article-post home-link,.article-post .blog-pager-older-link{padding:10px}
-</style>
 <script type='text/javascript'>
-            var postperpage=10;
-            var numshowpage=3;
-            var upPageWord ='&#8249;Anterior ';
-            var downPageWord =' Próximo&#8250;';
-            var urlactivepage=location.href;
-            var home_page="/";
+    <!-- Código JS Aqui! -->
 </script>
-<script src='https://multicamada.github.io/FreeCodeProject/JavaScript/PaginationForBlogger.js'type='text/javascript'>
+<script src='https://open-source.multicamada.com/JavaScript/PaginationForBlogger.js' type='text/javascript'>
 </script>
 ```
 
-##Alteração do código
+Agora adicione o código js a seguir, dentro das tags script indicada.
+
+```js
+var postperpage = 10;
+var numshowpage = 3;
+var upPageWord = '&#8249;Anterior ';
+var downPageWord = ' Próximo&#8250;';
+var urlactivepage = location.href;
+var home_page = "/";
+```
+
+## Alteração do código
 Na linha `(var numshowpage=10;)` o numero 10 exibe a o resultado de página que o blog tem.
 
 Na linha `(var postperpage =3;)` o numero 3 exibe o resultados de artigos encontrador por página.

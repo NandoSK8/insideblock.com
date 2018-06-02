@@ -26,7 +26,7 @@ Um mapa do site, tem muito mais funções de otimização do blog, do você pode
 Cole o código abaixo dentro da página, faça as alterações necessária e clique em publicar.
 
 ```html
-<script src="https://multicamada.github.io/FreeCodeProject/JavaScript/SitemapForBlogger.js"></script>
+<script src="https://open-source.multicamada.com/JavaScript/SitemapForBlogger.js"></script>
 <script src="http://NOME-DO-SEU-BLOG.blogspot.com/feeds/posts/default?max-results=9999&amp;alt=json-in-script&ampcallback=loadtoc"></script>
 ```
 

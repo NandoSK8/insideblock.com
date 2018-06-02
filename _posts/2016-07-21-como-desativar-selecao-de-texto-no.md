@@ -21,51 +21,61 @@ Se você publica tutoriais entre outros posts em seu blog, onde seus visitantes 
 
 Recomendamos que antes de fazer qualquer alteração em seu template que faça o <b>BACKUP</b> do próprio.
 
-* Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
+`1)` Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
 
-* Agora procure pelo código abaixo. 
+`2)` Agora procure pelo código abaixo. 
 
 ```html
 </head>
 ```
-
-* Cole o seguinte código ABAIXO do tag encontrada.
+`3)` Adciones as tags script para receber o código js acima do código encontrado `(</head>)`.
 
 ```html
 <script type="text/javascript">
-function disableSelection(target){
-if (typeof target.onselectstart!="undefined") //IE route
-target.onselectstart=function(){return false}
-else if (typeof target.style.MozUserSelect!="undefined") //Firefox route
-target.style.MozUserSelect="none"
-else //All other route (ie: Opera)
-target.onmousedown=function(){return false}
-target.style.cursor = "default"
-}
-</script>
-<script>
-function click() {
-if (event.button==2||event.button==3) {
-oncontextmenu='return false';
-}
-}
-document.onmousedown=click
-document.oncontextmenu = new Function("return false;")
+    <!-- Código JS Aqui! -->
 </script>
 ```
 
-* Procure pelo seguinte código.
+`4)` Cole o seguinte código dentro do escopor das tags script.
+
+```js
+function disableSelection(target) {
+    if (typeof target.onselectstart != "undefined") target.onselectstart = function() {
+         return false 
+        }
+        else if (typeof target.style.MozUserSelect != "undefined") target.style.MozUserSelect = "none"
+            else target.onmousedown = function() {
+                return false
+            }
+    target.style.cursor = "default"
+}
+
+function click() {
+    if (event.button == 2 || event.button == 3) {
+        oncontextmenu = 'return false';
+    }
+}
+document.onmousedown = click document.oncontextmenu = new Function("return false;")
+```
+
+`5)` Procure pelo seguinte código.
 
 ```html
 </body>
 ```
 
-* Cole o código abaixo acima do código encontrado.
+`6)` Novamente adciones as tags script para receber o código js abaixo do código encontrado.
 
 ```html
 <script type="text/javascript">
-disableSelection(document.body) //disable text selection on entire body of page
+    <!-- Código JS Aqui! -->
 </script>
+```
+
+`7)` Cole o seguinte código dentro do segundo escopor das tags script.
+
+```js
+disableSelection(document.body) //disable text selection on entire body of page
 ```
 
 O código instalado em seu Template desativa, qualquer tipo de seleção de texto em seu blog, mesmo que eles esteja ou não dentro de seus artigos publicados.

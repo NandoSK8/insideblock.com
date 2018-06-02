@@ -34,9 +34,7 @@ Através do próprio “**Editor de postagens**” do Blogger, você pode indica
 
 ```html
 <h2> Título - H2 </h2>
-
 <h3> Subtítulo - H3 </h3>
-
 <h4> Título secundário - H4 </h4>
 ```
 
@@ -45,7 +43,9 @@ Através do próprio “**Editor de postagens**” do Blogger, você pode indica
 Todas os texto que você marcar com essas tags serão, otimizados pelos buscadores com as classificações de importância.
 
 ## Personalizar Heading tags com CSS
-Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.<br /><br />Acesse **Modelo › Editar HTML** e procure pela seguinte tag.
+Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.<br /><br />
+
+Acesse o **Painel do Blogger › Modelo › Editar HTML** e procure pela seguinte tag.
 
 ```html
 </b:skin>
@@ -55,22 +55,30 @@ Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data d
 
 ```css
 /*----estilos heading tag h2-------*/
-.post-body h2 {color:#4285f4; /* edite cor da fonte */
-font-size: 22px; /* edite tamanho da fonte */
-display: block; /* edite um título por linha ou delete */
-border-bottom: 1px solid rgba(0,0,0,0.1); /* edite borda abaixo do título */}
+.post-body h2 {
+    color: #4285f4;/* edite cor da fonte */
+    font-size: 22px;/* edite tamanho da fonte */
+    display: block;/* edite um título por linha ou delete */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);/* edite borda abaixo do título */
+}
+
 
 /*----estilos heading tag h3-------*/
-.post-body h3 {color: #9e9e9e; /* edite cor da fonte */
-font-size: 19px; /* edite tamanho da fonte */
-display: block; /* edite um título por linha ou delete */
-border-bottom: 1px solid rgba(0,0,0,0.1); /* edite borda abaixo do título */}
+.post-body h3 {
+    color: #9e9e9e;/* edite cor da fonte */
+    font-size: 19px;/* edite tamanho da fonte */
+    display: block;/* edite um título por linha ou delete */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);/* edite borda abaixo do título */
+}
+
 
 /*----estilos heading tag h4-------*/
-.post-body h4 {color:#455a64; /* edite cor da fonte */
-font-size: 16px;  /* edite tamanho da fonte */
-display: block; /* edite um título por linha ou delete */
-border-bottom: 1px solid rgba(0,0,0,0.1); /* edite borda abaixo do título */}
+.post-body h4 {
+    color: #455a64;/* edite cor da fonte */
+    font-size: 16px;/* edite tamanho da fonte */
+    display: block;/* edite um título por linha ou delete */
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);/* edite borda abaixo do título */
+}
 ```
 
 Existem várias técnicas para melhorar a <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização do blog para os motores de busca</a>, uma delas é <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-todas-as.html" target="_blank">indexar as páginas do blog para o Google</a>, espero que este tutoria ajude suas páginas tanto para facilitar a leitura dos clientes leitores quanto para o as metas de SEO.

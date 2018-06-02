@@ -4,3 +4,4 @@ _site
 .git
 node_modules
 .vscode
+.formatter

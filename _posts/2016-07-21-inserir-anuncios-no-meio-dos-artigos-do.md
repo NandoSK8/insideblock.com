@@ -24,10 +24,10 @@ Colocar dois anúncios lado a lado
 
 ```html
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div align='center' style='padding:10px'>
-<td> Código do Anúncio 1 Aqui! </td>
-<td> Código do Anúncio 2 Aqui! </td>
-</div>
+    <div align='center' style='padding:10px'>
+        <td> Código do Anúncio 1 Aqui! </td>
+        <td> Código do Anúncio 2 Aqui! </td>
+    </div>
 </b:if>
 ```
 
@@ -35,9 +35,9 @@ Colocar um anúncios do lado esquerdo
 
 ```html
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div style='float:left;padding-right:10px'>
-Código do Anúncio Aqui!
-</div>
+    <div style='float:left;padding-right:10px'>
+        Código do Anúncio Aqui!
+    </div>
 </b:if>
 ```
 
@@ -57,9 +57,9 @@ Colocar um anuncio do lado direito
 
 ```html
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div style='float:right;padding-left:10px'>
-Código do Anúncio Aqui!
-</div>
+    <div style='float:right;padding-left:10px'>
+        Código do Anúncio Aqui!
+    </div>
 </b:if>
 ```
 
@@ -84,24 +84,27 @@ Procure por `<data:post.body/>` e substitua pelo código abaixo.
 
 ```html
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
-<div expr:id='&quot;add-ads&quot; + data:post.id'/>
-<div style='clear:both; margin:10px 0'>
-Código do Anúncio Aqui!
-</div>
-<div expr:id='&quot;texto&quot; + data:post.id'><data:post.body/></div>
-<script type='text/javascript'>
-var objAdd-Ads=document.getElementById(&quot;add-ads<data:post.id/>&quot;);
-var objTexto=document.getElementById(&quot;texto<data:post.id/>&quot;);
-var objConteudo=document.getElementById(&quot;conteudo<data:post.id/>&quot;);
-var s=objTexto.innerHTML;
-var r=s.search(/\x3C!-- add-ads --\x3E/igm);
-if (r&lt;=0) { s += &quot;\x3C!-- add-ads --\x3E&quot;
-r=s.search(/\x3C!-- add-ads --\x3E/igm); }
-objAnuncio.innerHTML=s.substr(0,r);
-objTexto.innerHTML=s.substr(r+16);
-</script>
-<b:else/>
-<data:post.body/>
+    <div expr:id='&quot;add-ads&quot; + data:post.id' />
+    <div style='clear:both; margin:10px 0'>
+        Código do Anúncio Aqui!
+    </div>
+    <div expr:id='&quot;texto&quot; + data:post.id'><data:post.body/></div>
+    <script type='text/javascript'>
+        var objAdd - Ads = document.getElementById( & quot; add - ads < data: post.id / > & quot;);
+        var objTexto = document.getElementById( & quot; texto < data: post.id / > & quot;);
+        var objConteudo = document.getElementById( & quot; conteudo < data: post.id / > & quot;);
+        var s = objTexto.innerHTML;
+        var r = s.search(/\x3C!-- add-ads --\x3E/igm);
+        if (r & lt; = 0) {
+            s += & quot;\
+            x3C!--add - ads--\x3E & quot;
+            r = s.search(/\x3C!-- add-ads --\x3E/igm);
+        }
+        objAnuncio.innerHTML = s.substr(0, r);
+        objTexto.innerHTML = s.substr(r + 16);
+    </script>
+    <b:else/>
+    <data:post.body/>
 </b:if>
 ```
 

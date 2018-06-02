@@ -31,24 +31,28 @@ Geralmente é encontrado dois destes, delete o segundo e substitua por um dos c�
 
 ```html
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
-<b:if cond='data:blog.pageType != &quot;static_page&quot;'>
-<div class='entry-summary' rel='entry-summary'>
-<b:if cond='data:post.thumbnailUrl'>
-<b:else/>
-<a expr:href='data:post.url'>
-<img class='post-thumbnail' expr:alt='data:post.title' expr:src='data:post.firstImageUrl'/>
-</a>
-</b:if>
-<div class='snippet' rel='text'><data:post.snippet/></div>
-</div>
-<div class='jump-link'>
-<a expr:href='data:post.url' expr:title='data:post.title'><data:post.jumpText/></a>
-</div>
-<b:else/>
-<data:post.body/>
-</b:if>
-<b:else/>
-<data:post.body/>
+    <b:if cond='data:blog.pageType != &quot;static_page&quot;'>
+        <div class='entry-summary' rel='entry-summary'>
+            <b:if cond='data:post.thumbnailUrl'>
+                <b:else/>
+                <a expr:href='data:post.url'>
+                    <img class='post-thumbnail' expr:alt='data:post.title' expr:src='data:post.firstImageUrl' />
+                </a>
+            </b:if>
+            <div class='snippet' rel='text'>
+                <data:post.snippet/>
+            </div>
+        </div>
+        <div class='jump-link'>
+            <a expr:href='data:post.url' expr:title='data:post.title'>
+                <data:post.jumpText/>
+            </a>
+        </div>
+        <b:else/>
+        <data:post.body/>
+    </b:if>
+    <b:else/>
+    <data:post.body/>
 </b:if>
 ```
 
@@ -56,26 +60,30 @@ Geralmente é encontrado dois destes, delete o segundo e substitua por um dos c�
 
 ```html
 <b:if cond='data:blog.pageType != "item"'>
-<b:if cond='data:blog.pageType != "static_page"'>
-<div>
-<b:if cond='data:post.thumbnailUrl'>
-<b:else/>
-<a expr:href='data:post.url'>
-<img class='post-thumbnail' expr:alt='data:post.title' expr:src='data:post.thumbnailUrl' width='72px' height='72px'/>
-<b:else/>
-<img class='post-thumbnail' alt='no image'src='http://lh4.ggpht.com/_u7a1IFxc4WI/TTjruHJjcfI/AAAAAAAAAk0/i11Oj6i_bHY/no-image.png' width='72px'height='72px'/>
-</a>
-</b:if>
-<div class='snippet' rel='text'><data:post.snippet/></div>
-</div>
-<div class='jump-link'>
-<a expr:href='data:post.url' expr:title='data:post.title'><data:post.jumpText/></a>
-</div>
-<b:else/>
-<data:post.body/>
-</b:if>
-<b:else/>
-<data:post.body/>
+    <b:if cond='data:blog.pageType != "static_page"'>
+        <div>
+            <b:if cond='data:post.thumbnailUrl'>
+                <b:else/>
+                <a expr:href='data:post.url'>
+                    <img class='post-thumbnail' expr:alt='data:post.title' expr:src='data:post.thumbnailUrl' width='72px' height='72px' />
+                    <b:else/>
+                    <img class='post-thumbnail' alt='no image' src='http://lh4.ggpht.com/_u7a1IFxc4WI/TTjruHJjcfI/AAAAAAAAAk0/i11Oj6i_bHY/no-image.png' width='72px' height='72px' />
+                </a>
+            </b:if>
+            <div class='snippet' rel='text'>
+                <data:post.snippet/>
+            </div>
+        </div>
+        <div class='jump-link'>
+            <a expr:href='data:post.url' expr:title='data:post.title'>
+                <data:post.jumpText/>
+            </a>
+        </div>
+        <b:else/>
+        <data:post.body/>
+    </b:if>
+    <b:else/>
+    <data:post.body/>
 </b:if>
 ```
 
@@ -89,10 +97,42 @@ Para aplica um pouco de estilo, procure pela seguinte tag
 Adicione o código abaixo acima da tag encontrada.
 
 ```css
-.entry-summary{overflow:hidden;width:100%;box-sizing:border-box;padding:5px}
-.entry-summary img.post-thumbnail{float:left;width:250px;height:auto;padding:0 10px 0 0;margin:10px 0 0 0}
-.entry-summary .snippet{font-size:16px;padding:0;margin:0;text-align:justify;-webkit-margin-before:1em;-webkit-margin-after:1em;-webkit-margin-start:0;-webkit-margin-end:0;}
-@media only screen and (max-width:600px){.entry-summary .snippet{float:centertext-align:center.entry-summary img.post-thumbnail{width:100%;padding:0}}
+.entry-summary {
+    overflow: hidden;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px
+}
+
+.entry-summary img.post-thumbnail {
+    float: left;
+    width: 250px;
+    height: auto;
+    padding: 0 10px 0 0;
+    margin: 10px 0 0 0
+}
+
+.entry-summary .snippet {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    text-align: justify;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+}
+
+@media only screen and (max-width:600px) {
+    .entry-summary .snippet {
+        float: none;
+        text-align: center
+    }
+    .entry-summary img.post-thumbnail {
+        width: 100%;
+        padding: 0
+    }
+}
 ```
 
 Salve o modelo e veja como ficou a página inicial do seu blog, este código deve alterar todos os posts automaticamente, pode ser que alguns templates não aceite este código, o Blogger segue padrões e este é o padrão mais aceito pela plataforma.
