@@ -59,7 +59,8 @@ code.highlighter-rouge {
 }
 
 .highlight .nt,
-.highlight .nc {
+.highlight .nc,
+.highlight .nf {
     color: #d7ba7d
 }
 
