@@ -3,8 +3,8 @@ layout: post
 title: Como aproveitar-se dos plagiadores para ganhar mais visitas em seu blog
 date: '2016-07-21T14:52:00.000-04:00'
 modified_time: '2016-10-01T01:06:02.889-04:00'
-tags: [SEO, Otimização, Web]
-category: [Serviços Online]
+tags: [seo, Otimização]
+category: [misc]
 img: /assets/posts/como-aproveitar-se-dos-plagiadores-para/como-aproveitar-se-dos-plagiadores-para.jpg
 author: true
 author_ediano: true
@@ -23,13 +23,13 @@ Caso o site hospedeiro se neguem a solucionar o problema e você quiser iniciar 
 
 O grande problema é que isso leva tempo e gasto de dinheiro, já que você tem que contratar um advogado, para entrar com uma ação judicial, contra à empresa de hospedagem e contra o site/blog que copiou seus artigos.
 
-Para denunciar um blog no Blogger, <a href="https://support.google.com/legal/troubleshooter/1114905?product=blogger&amp;rd=2" rel="nofollow" target="_blank">clique aqui</a> e preencha o formulário.
+Para denunciar um blog no Blogger, <a href="https://support.google.com/legal/troubleshooter/1114905?product=blogger&amp;rd=2" target="_blank" class="external-link" rel="nofollow">clique aqui</a> e preencha o formulário.
 
-Para denunciar um blog no WordPress, <a href="http://automattic.com/dmca-notice/" rel="nofollow" target="_blank">clique aqui</a> e preencha o formulário (Formulário somente em Inglês). Se você não saber ler ou escrever inglês, <a href="https://translate.google.com.br/translate?sl=auto&amp;tl=pt&amp;js=y&amp;prev=_t&amp;hl=pt-BR&amp;ie=UTF-8&amp;u=http%3A%2F%2Fautomattic.com%2Fdmca-notice%2F&amp;edit-text=" rel="nofollow" target="_blank">clique aqui</a> para traduzir o formulário do WordPress.
+Para denunciar um blog no WordPress, <a href="http://automattic.com/dmca-notice/" target="_blank" class="external-link" rel="nofollow">clique aqui</a> e preencha o formulário (Formulário somente em Inglês). Se você não saber ler ou escrever inglês, <a href="https://translate.google.com.br/translate?sl=auto&amp;tl=pt&amp;js=y&amp;prev=_t&amp;hl=pt-BR&amp;ie=UTF-8&amp;u=http%3A%2F%2Fautomattic.com%2Fdmca-notice%2F&amp;edit-text=" target="_blank" class="external-link" rel="nofollow">clique aqui</a> para traduzir o formulário do WordPress.
 
 Nos do Inside Block, por outro lado, nunca denunciamos qualquer site/blog, que tenha plagiado nossos artigos sem autorização, porque isso leva tempo e dinheiro, mas para que gastar dinheiro com advogados, se eu posso fazer com que meus artigos plagiados, mede mais visitantes em meu blog e dinheiro também.
 
-Tenho certeza que você acha isso pouco provável, mas é verdade nossa indicação, veio apos lermos um artigo publicado no site <a href="http://www.criarsites.com/" rel="nofollow" target="_blank">CriarSites.com</a>, achei uma ótima dica dele, para fazer com que seus artigos plagiados, lhe de mais visitas, através do site <a href="http://www.tynt.com/" rel="nofollow" target="_blank">Tynt</a>, ao se cadastrar no site ele lhe disponibiliza um código HTML, para adicionar ao seu template, fazendo com seus seus artigos plagiados, lhe de referencias do site/blog e do artigo original.
+Tenho certeza que você acha isso pouco provável, mas é verdade nossa indicação, veio apos lermos um artigo publicado no site <a href="http://www.criarsites.com/" target="_blank" class="external-link" rel="nofollow">CriarSites.com</a>, achei uma ótima dica dele, para fazer com que seus artigos plagiados, lhe de mais visitas, através do site <a href="http://www.tynt.com/" target="_blank" class="external-link" rel="nofollow">Tynt</a>, ao se cadastrar no site ele lhe disponibiliza um código HTML, para adicionar ao seu template, fazendo com seus seus artigos plagiados, lhe de referencias do site/blog e do artigo original.
 
 Geralmente esses preguiçosos da internet, não alteram os artigos plagiados, ele nem criam os seus próprios, então para que, que eles van perder tempo, alterando os artigos plagiados, é ai que o código HTML instalado em seu template entrar, para que seus plagiados, copie automaticamente no final do artigo, o URL do artigo original ou o endereço do blog oficial.
 

@@ -3,8 +3,8 @@ layout: post
 title: Você vai comprar um domínio? Saiba qual a melhor extensão
 date: '2016-07-21T18:34:00.000-04:00'
 modified_time: '2016-10-02T00:36:53.539-04:00'
-tags: [SEO, Otimização, Desenvolvimento]
-category: [Serviços Online]
+tags: [seo, dicas]
+category: [dev]
 img: /assets/posts/voce-vai-comprar-um-dominio-saiba-qual/voce-vai-comprar-um-dominio-saiba-qual.jpg
 author: true
 author_ediano: true
@@ -20,7 +20,7 @@ A extensão .com é uma extensão universal, ela sempre vai esta presente na mai
 Quando uma empresa brasileira vai registrar um domínio ela tem as seguintes opções disponíveis para dentro do território .emp.br, .com.br, essas serias as opções mais adequada para o negocio brasileiro, ou se o empresario preferir ele também pode escolher um extensão universal .com, caso seja uma corporação você já vai ter a seguinte extensão disponível .company.
 
 ## Onde registrar um domínio
-Existe centenas de empresas onde você pode registrar seu domínio, se você pretender registrar um domínio dentro do Brasil o melhor para este serviço é o registro.br, ou se você quiser registrar qualquer outro tipo de extensão sem o .br recomendamos o godaddy.com ou domains.google, caso você ainda não esteja satisfeitos com as opções disponível você pode tentar a uolhost.uol.com.br. Leia também <a href="http://www.insideblock.com/posts/melhor-servico-de-registro-de-dominio.html" target="_blank">Melhor serviço de registro de domínio</a>.
+Existe centenas de empresas onde você pode registrar seu domínio, se você pretender registrar um domínio dentro do Brasil o melhor para este serviço é o registro.br, ou se você quiser registrar qualquer outro tipo de extensão sem o .br recomendamos o godaddy.com ou domains.google, caso você ainda não esteja satisfeitos com as opções disponível você pode tentar a uolhost.uol.com.br. Leia também <a href="http://www.insideblock.com/posts/melhor-servico-de-registro-de-dominio.html" target="_blank" class="external-link">Melhor serviço de registro de domínio</a>.
 
 ## Quanto custa
 Cada caso é um caso, muitas das vezes os valores são aleatórios, a extensão .company, ela pode variar de R$200,00 a R$10.000,00 ou mais, para domínio universais .com, .net, .org, pode varias de R$10,00 a R$150,00, caso o domínio já esteja registrado, ele pode vim a leilão aumentar consideravelmente de valor.

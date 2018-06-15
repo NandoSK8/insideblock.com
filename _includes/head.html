@@ -1,36 +1,28 @@
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta http-equiv="content-language" content="pt-br, en, fr, it" /> {% if page.title %}
-<meta content='index' name='robots' />
-<title>{{ page.title }}</title>
-{% else %} {% if page.noindex %}
-<meta content='noindex,nofollow,noarchive' name='robots' />
-<title>{{ page.noindex }}</title>
-{% endif %} {% else %}
-<meta content='index' name='robots' />
-<title>{{ site.title }}</title>
+
+<!-- Title -->
+{% if page.title %}
+    <meta content='index' name='robots' />
+    <title>{{ page.title }}</title>
+{% else %}
+    {% if page.noindex %}
+    <meta content='noindex,nofollow,noarchive' name='robots' />
+    <title>{{ page.noindex }}</title>
+    {% endif %}
+{% else %}
+    <meta content='index' name='robots' />
+    <title>{{ site.title }}</title>
 {% endif %}
 
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ " /feed.xml " | relative_url }}"/>
-<link rel="icon" type="image/x-icon" href="{{ site.url | append: site.logo | prepend: site.baseurl }}" />
-
-<!-- Metas Seo -->
-<html itemscope itemtype="http://schema.org/Blog" />
-<meta itemprop="name" content="{{ page.title }}" />
-<meta itemprop="url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-<meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}" />{% if page.img %}
-<meta itemprop="image" content="{{ site.url }}{{ page.img }}" />{% else %}
-<meta itemprop="image" content="{{ site.url | append: site.logo | prepend: site.baseurl }}" />{% endif %}
+<meta name="theme-color" content="#2da0c3"/>
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="icon" type="image/svg+xml" href="{{ site.url | append: site.favicon | prepend: site.baseurl }}" />
 
 <meta name="google-site-verification" content="WFfdXxzxwHG8RawsmRbU7KggGQx-kUe8m7A6LvjElN0" />
 <meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB" />
 
-<link rel="stylesheet" href="/assets/style/style.min.css" />
-<link rel="stylesheet" href="/assets/style/highlight.min.css" />
-<link rel="stylesheet" href="/assets/materialize/v1.0.0.alpha.2/materialize.min.css" />
-<link href="/assets/fonts/roboto/roboto.css" rel="stylesheet" />
-<link href="/assets/fonts/material_icons/icons.css" rel="stylesheet" />
-
-{% include scripts_optional.html %}
+{% include meta_social.html %}
+{% include head_scripts.html %}

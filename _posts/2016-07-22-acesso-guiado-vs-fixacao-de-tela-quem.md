@@ -3,8 +3,8 @@ layout: post
 title: Acesso Guiado vs Fixação de Tela quem copiou a ideia?
 date: '2016-07-22T18:23:00.003-04:00'
 modified_time: '2016-10-15T02:14:45.382-04:00'
-tags: [Aplicação, Sistema, Funcionalidade]
-category: [Mobile]
+tags: [mobile]
+category: [misc]
 img: /assets/posts/acesso-guiado-vs-fixacao-de-tela-quem/acesso-guiado-vs-fixacao-de-tela-quem.jpg
 author: true
 author_ediano: true

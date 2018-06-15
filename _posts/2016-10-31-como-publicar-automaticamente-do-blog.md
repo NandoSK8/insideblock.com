@@ -3,8 +3,8 @@ layout: post
 title: Como publicar automaticamente do blog para as redes sociais
 date: '2016-10-31T18:50:00.000-04:00'
 modified_time: '2016-11-24T00:34:01.636-04:00'
-tags: [Desenvolvimento, SEO, Otimização]
-category: [Serviços Online]
+tags: [seo, dicas]
+category: [dev]
 img: /assets/posts/como-publicar-automaticamente-do-blog/como-publicar-automaticamente-do-blog.jpg
 author: true
 author_ediano: true
@@ -19,7 +19,7 @@ Uma das ferramentas usada para este tipo de serviço é o dlvr.it, um sistema to
 
 Neste tutorial vamos mostrar como compartilhar automaticamente para o Facebook e Twitter, antes de tudo é necessário que tenha uma conta em cada uma dessas redes, recomendamos que em vez de usar o perfil pessoa que crie uma <a href="http://www.insideblock.com/posts/como-criar-uma-pagina-page-no-facebook.html" target="_blank">Fan Page no Facebook</a> e uma conta individual no <a href="http://www.insideblock.com/posts/como-criar-2-contas-no-twitter-com-o.html" target="_blank">Twitter</a> para o blog.
 
-1. Acesse o site <a href="http://dlvr.it/" rel="nofollow" target="_blank">dlvr.it</a> para criar uma conta, coloque um e-mail valido e uma senha de acesso.
+1. Acesse o site <a href="http://dlvr.it/" target="_blank" class="external-link" rel="nofollow">dlvr.it</a> para criar uma conta, coloque um e-mail valido e uma senha de acesso.
 
 Dica de segurança: Não repita a mesma senha que você usa em outros serviços.
 

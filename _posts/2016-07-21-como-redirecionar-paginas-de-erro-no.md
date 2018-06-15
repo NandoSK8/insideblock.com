@@ -3,8 +3,8 @@ layout: post
 title: Como redirecionar páginas de erro no Blogger para a Página inicial
 date: '2016-07-21T16:41:00.000-04:00'
 modified_time: '2016-12-05T09:30:45.684-04:00'
-tags: [Desenvolvimento, Web, Otimização, SEO]
-category: [Otimização]
+tags: [blogger, seo]
+category: [js]
 img: /assets/posts/como-redirecionar-paginas-de-erro-no/como-redirecionar-paginas-de-erro-no.jpg
 author: true
 author_ediano: true

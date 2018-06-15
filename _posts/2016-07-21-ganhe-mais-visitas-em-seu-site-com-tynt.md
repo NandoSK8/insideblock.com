@@ -3,8 +3,8 @@ layout: post
 title: Ganhe mais visitas em seu site com Tynt
 date: '2016-07-21T14:50:00.000-04:00'
 modified_time: '2016-09-30T20:37:09.936-04:00'
-tags: [SEO, Aplicação, Otimização]
-category: [Otimização]
+tags: [seo, dicas]
+category: [js]
 img: /assets/posts/ganhe-mais-visitas-em-seu-site-com-tynt/ganhe-mais-visitas-em-seu-site-com-tynt.jpg
 author: true
 author_ediano: true
@@ -15,7 +15,7 @@ ads: true
 
 Hoje nos deparamos com a grande quantidade de conteúdo copiados na internet, certamente isso é pouco provável que acabe, tão pouco menos de ser impedida, por isso só o que nos resta a fazer é dificultando o tão pouco esforço dos plagiadores, e com isso podemos aumentar nossas visitas em nossos sites/blogs, se não podemos combate-los vamos usa-los a nosso favor.
 
-A forma mais simples de se fazer isso é com os recursos oferecido pelo site <a href="http://tynt.com/" rel="nofollow" target="_blank">Tynt</a>, o Tynt é um site em inglês que gera um link de volta para o artigo original no final do conteúdo copiado.
+A forma mais simples de se fazer isso é com os recursos oferecido pelo site <a href="http://tynt.com/" target="_blank" class="external-link" rel="nofollow">Tynt</a>, o Tynt é um site em inglês que gera um link de volta para o artigo original no final do conteúdo copiado.
 
 ## Como funciona
 Sempre que alguém copiar um artigo ou um pequeno trecho do seu conteúdo, seja para compartilhar nas rede sociais, enviar por e-mail ou para adicionar em outros sites/blogs, aproveitando-se de seus esforços para ganhar visitas e dinheiro, um links é adicionado automaticamente no final do artigo copiado.
@@ -33,6 +33,6 @@ Alem disso ele gera relatórios completo sobre os sites que copiaram seus conte�
 ## Como usar o Tynt
 O Tynt é um serviço totalmente gratuito, basta você cadastrar seu site/blog, para gerar e adicionar um pequeno código em seu template, entre as tags <head> e </head>.
 
-Entre no <a href="http://tynt.com/" rel="nofollow" target="_blank">Tynt</a>, e clique em **GET IT NOW** e siga as instruções seguintes exposta no site. Escolha a plataforma do seu site ou blog, com as opções (Site Básico, Blogger, WordPress, Tumblr e Joomla), copie o código gerado pelo Tynt e cole no seu template entre as tags **<head>** e **</head>**.
+Entre no <a href="http://tynt.com/" target="_blank" class="external-link" rel="nofollow">Tynt</a>, e clique em **GET IT NOW** e siga as instruções seguintes exposta no site. Escolha a plataforma do seu site ou blog, com as opções (Site Básico, Blogger, WordPress, Tumblr e Joomla), copie o código gerado pelo Tynt e cole no seu template entre as tags **<head>** e **</head>**.
 
 Desta forma, toda vez que alguém copiar um trecho do seu conteúdo, e colar em qualquer lugar, um link de volta para o conteúdo original sera adiciona no final do texto, aumentando cada vez as visitas do seu site.

@@ -3,8 +3,8 @@ layout: post
 title: Como colocar numeração de páginas no Blogger
 date: '2016-07-21T16:39:00.000-04:00'
 modified_time: '2017-06-22T23:19:15.434-04:00'
-tags: [SEO, Otimização, Desenvolvimento, Web]
-category: [Desenvolvimento Web]
+tags: [blogger, seo]
+category: [dev]
 img: /assets/posts/como-colocar-numeracao-de-paginas-no/como-colocar-numeracao-de-paginas-no.jpg
 author: true
 author_ediano: true

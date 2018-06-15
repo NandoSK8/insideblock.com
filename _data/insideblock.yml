@@ -1,31 +1,30 @@
-- name: Inside Block
-  name_img: /assets/pages/logo/insideblock.png
+org:
+  - name: Inside Block
+    link: http://www.insideblock.com
+    desc: Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!
+    icon: icon-cube
 
-  site_link: http://www.insideblock.com
-  site_ico: /assets/pages/ico/site.png
+social: 
+  - page: Google Plus
+    link: https://plus.google.com/+insideblock
+    icon: icon-googleplus
 
-  google: Google Plus
-  google_link: https://plus.google.com/+insideblock
-  google_ico: /assets/pages/ico/google.png
+  - page: Twitter
+    link: https://twitter.com/insideblock
+    icon: icon-twitter
 
-  twitter: Twitter
-  twitter_link: https://twitter.com/insideblock
-  twitter_ico: /assets/pages/ico/twitter.png
+  - page: Facebook
+    link: https://www.facebook.com/insideblock
+    icon: icon-facebook
 
-  facebook: Facebook
-  facebook_link: https://www.facebook.com/insideblock
-  facebook_ico: /assets/pages/ico/facebook.png
+  - page: Instagram
+    link: https://www.instagram.com/inside.block
+    icon: icon-instagram
 
-  instagram: Instagram
-  instagram_link: https://www.instagram.com/inside.block
-  instagram_ico: /assets/pages/ico/instagram.png
+  - page: GitHub
+    link: https://github.com/insideblock
+    icon: icon-github
 
-  github: GitHub
-  github_link: https://github.com/insideblock
-  github_ico: /assets/pages/ico/github.png
-
-  linkedin: LinkedIn
-  linkedin_link: https://www.linkedin.com/company/27159860
-  linkedin_ico: /assets/pages/ico/linkedin.png
-
-  description: Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!
+  - page: LinkedIn
+    link: https://www.linkedin.com/company/27159860
+    icon: icon-linkedin

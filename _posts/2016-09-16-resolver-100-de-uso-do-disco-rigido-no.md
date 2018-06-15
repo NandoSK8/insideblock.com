@@ -3,8 +3,8 @@ layout: post
 title: Resolver 100% de uso do disco rigido no Windows
 date: '2016-09-16T23:22:00.000-04:00'
 modified_time: '2017-05-02T11:51:05.129-04:00'
-tags: [Aplicação, Funcionalidade, Otimização]
-category: [Aplicação]
+tags: [windows]
+category: [misc]
 img: /assets/posts/resolver-100-de-uso-do-disco-rigido-no/resolver-100-de-uso-do-disco-rigido-no.jpg
 author: true
 author_ediano: true

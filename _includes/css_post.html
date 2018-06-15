@@ -1,0 +1,438 @@
+<style type="text/css">
+    .header-post {
+        position: relative;
+        background: #2da0c3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden
+    }
+    
+    .header-post img {
+        position: absolute;
+        width: 100%;
+        height: auto
+    }
+    
+    @media only screen and (max-width: 660px) {
+        .header-post img {
+            height: 105%;
+            width: auto
+        }
+    }
+    
+    @media only screen and (min-width: 661px) {
+        .header-post img {
+            height: auto;
+            width: 105%
+        }
+    }
+    
+    .header-post .content {
+        position: relative;
+        background: rgba(0, 0, 0, 0.5);
+        width: 100%;
+        padding: 10rem 2rem
+    }
+    
+    .header-post .content>* {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto
+    }
+    
+    .header-post .content h1 {
+        position: relative;
+        display: block;
+        text-align: center;
+        color: #fff;
+        line-height: 1.2;
+        margin-bottom: 20px;
+        letter-spacing: .05rem
+    }
+    
+    .header-post .content .description {
+        display: none
+    }
+    
+    .header-post .people-time-category span {
+        margin: 0 10px;
+        color: rgba(240, 240, 240, 1)
+    }
+    
+    .header-post .people-time-category span>* {
+        color: rgb(255, 255, 255);
+        font-weight: 500
+    }
+    
+    .header-post .people-time-category svg {
+        display: inline-block;
+        height: 20px;
+        width: 20px;
+        fill: #fff;
+        margin-right: 10px;
+        position: relative;
+        top: 2.5px
+    }
+    
+    .header-post .people-time-category .category {
+        text-transform: capitalize
+    }
+    
+    @media only screen and (min-width: 601px) {
+        .header-post .content>* {
+            display: flex;
+            align-items: center
+        }
+        .header-post .people-time-category>div {
+            width: 50%;
+            display: inline-block
+        }
+        .header-post .content .people {
+            text-align: right;
+            border-right: 1px solid #fff
+        }
+        .header-post .content span {
+            display: block
+        }
+        section.related ul {
+            column-count: 2
+        }
+        section.author .details {
+            display: flex;
+            align-items: center
+        }
+        section.author img {
+            float: left;
+            margin-right: 15px
+        }
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .header-post h1 {
+            font-size: 1.75rem
+        }
+        .people-time-category>div {
+            display: block;
+            text-align: center
+        }
+        .header-post .content span {
+            display: block
+        }
+        section.author .details {
+            display: block;
+            text-align: center
+        }
+        section.author .details img {
+            margin-bottom: 5px
+        }
+    }
+    
+    @media only screen and (min-width: 601px) and (max-width: 992px) {
+        .header-post h1 {
+            font-size: 2rem
+        }
+    }
+    
+    @media only screen and (min-width: 993px) {
+        .header-post h1 {
+            font-size: 2.5rem
+        }
+    }
+    
+    article {
+        position: relative;
+        background: #fff;
+        padding: 0 0 10px 0
+    }
+    
+    article:first-letter {
+        font-size: 60px;
+        float: left;
+        font-weight: 600;
+        line-height: 1;
+        margin-right: 5px
+    }
+    
+    article>* {
+        width: 90%;
+        max-width: 800px;
+        float: none;
+        display: block;
+        margin-right: auto !important;
+        margin-left: auto !important;
+        margin: 0 auto 1.75rem auto;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 1.25rem;
+        letter-spacing: .069rem
+    }
+    
+    article div.highlighter-rouge {
+        min-width: 100% !important;
+        padding: 0 !important
+    }
+    
+    article blockquote {
+        color: rgba(0, 0, 0, 0.6);
+        border-left: .313rem solid #2da0c3;
+        padding-left: 1.5rem;
+        overflow: auto
+    }
+    
+    article hr {
+        width: 90%;
+        max-width: 800px;
+        height: 1px;
+        background: #ccc;
+        margin: 0 auto;
+        border: 0
+    }
+    
+    article h2 {
+        font-size: 1.75rem !important;
+        font-weight: 500 !important;
+        margin: 0 auto 5px auto !important;
+        line-height: 1.25 !important;
+        letter-spacing: 0 !important
+    }
+    
+    article h2,
+    article strong {
+        color: #2da0c3;
+        font-weight: 500
+    }
+    
+    article>ol,
+    article>ul {
+        padding: 0 1.5rem !important;
+    }
+    
+    article li {
+        margin: 0 auto 1rem auto;
+    }
+    
+    article ul:not(.browser-default) li {
+        list-style-type: initial !important
+    }
+    
+    article ol:not(.browser-default) li {
+        list-style-type: decimal !important
+    }
+    
+    article img {
+        max-width: 100%;
+        display: block;
+        margin: 0 auto
+    }
+    
+    article a {
+        color: #2da0c3;
+        font-weight: 400;
+        border-bottom: 2px dashed
+    }
+    
+    article a:hover {
+        background: #2da0c3;
+        color: #fff;
+        border-bottom: 2px dashed #2da0c3
+    }
+    
+    article a::after {
+        display: inline-block;
+        content: '';
+        color: #005f97;
+        background-image: url(/assets/svg/link.svg);
+        background-size: 100%;
+        margin-left: .313rem;
+        width: 1rem;
+        height: 1rem
+    }
+    
+    article a.external-link::after {
+        display: inline-block;
+        content: '';
+        color: #005f97;
+        background-image: url(/assets/svg/open.svg) !important;
+        background-size: 100%;
+        margin-left: .313rem;
+        width: 1rem;
+        height: 1rem
+    }
+    
+    section.related {
+        position: relative;
+        width: 100%;
+        background: #fff;
+        padding: 25px 0
+    }
+    
+    section.related .related-post {
+        width: 90%;
+        max-width: 800px;
+        margin: 0 auto
+    }
+    
+    section.related h4 {
+        color: #797979;
+        font-size: 1.5rem
+    }
+    
+    section.related ul li {
+        padding: 5px 10px;
+        margin-bottom: 15px;
+        border-left: 3px solid transparent
+    }
+    
+    section.related ul li:hover {
+        border-left: 3px solid #2da0c3
+    }
+    
+    section.related ul a {
+        color: #2da0c3;
+        display: block
+    }
+    
+    section.related ul svg {
+        height: 20px;
+        width: 20px;
+        position: relative;
+        top: 5px;
+        margin-right: 5px;
+        fill: #2da0c3
+    }
+    
+    .share {
+        position: relative;
+        background: #fff;
+        display: block;
+        width: 100%;
+        padding: 30px 0;
+        text-align: center;
+        border-top: 1px solid #ccc
+    }
+    
+    .share .share-link {
+        width: 90%;
+        max-width: 800px;
+        margin: 0 auto
+    }
+    
+    .share h4 {
+        font-size: 2rem
+    }
+    
+    .share a {
+        height: 50px;
+        width: 50px;
+        margin: 0 10px
+    }
+    
+    .share svg {
+        height: 50px;
+        width: 50px;
+        fill: #fff;
+        border-radius: 50%;
+        padding: 5px;
+        border: 1px solid transparent
+    }
+    
+    .share a.icon-facebook svg {
+        background: #29487d
+    }
+    
+    .share a.icon-twitter svg {
+        background: #1da1f2
+    }
+    
+    .share a.icon-googleplus svg {
+        background: #db4437
+    }
+    
+    .share a.icon-linkedin svg {
+        background: #0073b1
+    }
+    
+    .share a.icon-whatsapp svg {
+        background: #00bfa5
+    }
+    
+    .share a svg:hover {
+        background: transparent
+    }
+    
+    .share a.icon-facebook svg:hover {
+        fill: #29487d;
+        border: 1px solid #29487d
+    }
+    
+    .share a.icon-twitter svg:hover {
+        fill: #1da1f2;
+        border: 1px solid #1da1f2
+    }
+    
+    .share a.icon-googleplus svg:hover {
+        fill: #db4437;
+        border: 1px solid #db4437
+    }
+    
+    .share a.icon-linkedin svg:hover {
+        fill: #0073b1;
+        border: 1px solid #0073b1
+    }
+    
+    .share a.icon-whatsapp svg:hover {
+        fill: #00bfa5;
+        border: 1px solid #00bfa5
+    }
+    
+    section.author {
+        position: relative;
+        padding: 50px 0;
+        color: #fff;
+        overflow: hidden
+    }
+    
+    section.author .details {
+        width: 90%;
+        max-width: 800px;
+        margin: 0 auto
+    }
+    
+    section.author img {
+        height: auto;
+        width: 150px;
+        border-radius: 50%
+    }
+    
+    section.author .content {
+        display: block
+    }
+    
+    section.author .content h3 {
+        font-size: 2rem
+    }
+    
+    section.author .content h3 a {
+        color: #fff
+    }
+    
+    section.author .content .desc a {
+        color: #fff;
+        border-bottom: 1px solid #fff
+    }
+    
+    .comments {
+        position: relative;
+        background: #fff;
+        width: 100%;
+        padding: 2rem 0 0 0
+    }
+    
+    .comments #disqus_thread {
+        width: 90%;
+        max-width: 800px;
+        padding-bottom: 5rem;
+        margin: 0 auto
+    }
+</style>

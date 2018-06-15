@@ -3,8 +3,8 @@ layout: post
 title: Ganhe dinheiro em $ e em € sem sair de casa, trabalhando na internet
 date: '2016-07-21T12:57:00.000-04:00'
 modified_time: '2016-10-01T01:48:09.734-04:00'
-tags: [Monetização]
-category: [Monetização]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/ganhe-dinheiro-em-e-em-sem-sair-de-casa/ganhe-dinheiro-em-e-em-sem-sair-de-casa.jpg
 author: true
 author_ediano: true

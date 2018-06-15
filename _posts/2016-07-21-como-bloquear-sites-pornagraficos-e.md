@@ -3,8 +3,8 @@ layout: post
 title: Como bloquear sites pornográficos e perigosos
 date: '2016-07-21T20:14:00.000-04:00'
 modified_time: '2017-05-23T00:51:17.914-04:00'
-tags: [Aplicação, Web]
-category: [Segurança Digital]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/como-bloquear-sites-pornagraficos-e/como-bloquear-sites-pornagraficos-e.jpg
 author: true
 author_ediano: true

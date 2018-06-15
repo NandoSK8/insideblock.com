@@ -3,8 +3,8 @@ layout: post
 title: Caixa de pesquisa personalizado para blogs
 date: '2016-07-21T17:18:00.000-04:00'
 modified_time: '2016-12-05T09:30:45.670-04:00'
-tags: [Códigos, Otimização, SEO]
-category: [Desenvolvimento Web]
+tags: [css, seo]
+category: [dev]
 img: /assets/posts/caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
 author: true
 author_ediano: true
@@ -17,7 +17,7 @@ A caixa de pesquisa ( ou caixa de busca) é um dos recursos mais importantes em 
 
 Neste artigo iremos trabalar apenas com códigos CSS e HTML, desta formar 
 
-`1)` Adicone o CSS dentro da folha de estilo do site.
+**1)** Adicone o CSS dentro da folha de estilo do site.
 
 ```css
 #box {
@@ -45,7 +45,7 @@ Neste artigo iremos trabalar apenas com códigos CSS e HTML, desta formar
 }
 ```
 
-`2)` Agora instale o HTML entre as tags `<body>` e `</body>`.
+**2)** Agora instale o HTML entre as tags `<body>` e `</body>`.
 
 ```html
 <form action="/search" method="get" style="display: inline;">

@@ -3,8 +3,8 @@ layout: post
 title: 'Visual Studio Code: Novo editor de códigos da Microsoft'
 date: '2016-10-15T02:00:00.001-04:00'
 modified_time: '2017-07-04T00:33:18.109-04:00'
-tags: [Software, Sistema, Aplicação]
-category: [Aplicação]
+tags: [dicas, apps]
+category: [misc]
 img: /assets/posts/visual-studio-code-novo-editor-de/visual-studio-code-novo-editor-de.jpg
 author: true
 author_ediano: true
@@ -18,7 +18,7 @@ O Visual Studio Code é o novo IDE da Microsoft, um editor de código livre, um 
 Este IDE é uma versão compacta das versões anteriores do Visual Studio que já conhecemos, com ele você pode desenvolver projetos com centenas de linguagem de programação.
 
 ## Conhecendo o IDE
-Após <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank">baixar e instalar o software da página oficial</a> e hora de conhecer o nosso ambiente de trabalho. Apesar de estar em inglês você verá logo de início que a interface do IDE é bem simples e atraente, no topo você tem menus e na lateral esquerda você terá opções que interage com o ambiente de desenvolvimento. 
+Após <a href="https://code.visualstudio.com/"  target="_blank" class="external-link" rel="nofollow">baixar e instalar o software da página oficial</a> e hora de conhecer o nosso ambiente de trabalho. Apesar de estar em inglês você verá logo de início que a interface do IDE é bem simples e atraente, no topo você tem menus e na lateral esquerda você terá opções que interage com o ambiente de desenvolvimento. 
 
 * **Explorer:** O Explorer é responsável por facilitar o gerenciamento dos arquivos e pastas dos projetos, se você não está familiarizado com os explores de IDE, você pode usar os menus do topo, clique em “File” e escolha a opção desejada, New File - criar novo arquivo, New Windows - criar um novo ambiente de trabalho em uma janela separada, Open File... - abrir um arquivo, Open Folder… - abrir uma pasta. São essas as funções básicas que o explorer exerce.
 

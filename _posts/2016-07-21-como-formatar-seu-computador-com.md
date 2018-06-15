@@ -3,8 +3,8 @@ layout: post
 title: Como formatar seu computador com Windows 10
 date: '2016-07-21T11:19:00.000-04:00'
 modified_time: '2016-11-22T20:50:56.763-04:00'
-tags: [Sistema, Aplicação, Funcionalidade]
-category: [Aplicação]
+tags: [windows]
+category: [misc]
 img: /assets/posts/como-formatar-seu-computador-com/como-formatar-seu-computador-com.jpg
 author: true
 author_ediano: true

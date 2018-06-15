@@ -3,8 +3,8 @@ layout: post
 title: Como criar uma página Fan Page no Facebook
 date: '2016-07-21T13:30:00.000-04:00'
 modified_time: '2016-10-01T14:13:09.372-04:00'
-tags: [SEO, Redes Sociais, Otimização]
-category: [Serviços Online]
+tags: [seo, redes sociais]
+category: [misc]
 img: /assets/posts/como-criar-uma-pagina-page-no-facebook/como-criar-uma-pagina-page-no-facebook.jpg
 author: true
 author_ediano: true
@@ -21,7 +21,7 @@ Desde sua criação o Facebook vem cada vez mais crescendo e deixando para traz 
 
 No Brasil a cada 5 brasileiros 4 tem cadastro no Facebook, com este grande numero o Facebook se torna realmente um grande aliado para todos nos, por isso neste tutorial lhe mostrarei como você pode usar uma ótima ferramenta do Facebook pra sua empresa, site e blog totalmente gratuita.
 
-1. Faça <a href="https://www.facebook.com/" rel="nofollow" target="_blank">login no Facebook</a> se você ainda não tem conta <a href="https://www.facebook.com/r.php?locale=pt_BR" rel="nofollow" target="_blank">clique aqui</a> para criar sua conta, preencha o formulário e clique em "Cadastre-se".
+1. Faça <a href="https://www.facebook.com/" target="_blank" class="external-link" rel="nofollow">login no Facebook</a> se você ainda não tem conta <a href="https://www.facebook.com/r.php?locale=pt_BR" target="_blank" class="external-link" rel="nofollow">clique aqui</a> para criar sua conta, preencha o formulário e clique em "Cadastre-se".
 
 2. Ao entra no Facebook clique em "Mais opções" na seta no canto superior direito da tela do lado do ícone de cadeado clique em "Criar página".
 

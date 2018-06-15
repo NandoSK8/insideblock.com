@@ -3,8 +3,8 @@ layout: post
 title: Ativar a porcentagem de bateria do Android 6 Marshmallow
 date: '2016-07-21T23:29:00.000-04:00'
 modified_time: '2016-10-01T14:20:52.550-04:00'
-tags: [Sistema, Aplicação, Mobile]
-category: [Mobile]
+tags: [mobile]
+category: [misc]
 img: /assets/posts/ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
 author: true
 author_ediano: true
@@ -29,4 +29,4 @@ Como nas versões anterior do Android o Marshmallow vem com algumas funções oc
 
 ![Mostrar porcentagem de bateria Android 6](/assets/posts/ativar-porcentagem-de-bateria-do/menu-sintonizado-system-ui.png)
 
-Para ativar a porcentagem de bateria nas versões anteriores do Android, basta baixar a ferramenta <a href="https://play.google.com/store/apps/details?id=de.kroegerama.android4batpercent" rel="nofollow" target="_blank">Ativador de Percentagem</a>. Seu nome já indica a função: ao iniciar o app, basta ativar a função de mostrador em porcentagem e o ícone da bateria na barra de status também mostrará quanto resta de energia em números. O aplicativo não precisa de permissões de root e funciona a partir do Android 4.4 KitKat.
+Para ativar a porcentagem de bateria nas versões anteriores do Android, basta baixar a ferramenta <a href="https://play.google.com/store/apps/details?id=de.kroegerama.android4batpercent" target="_blank" class="external-link" rel="nofollow">Ativador de Percentagem</a>. Seu nome já indica a função: ao iniciar o app, basta ativar a função de mostrador em porcentagem e o ícone da bateria na barra de status também mostrará quanto resta de energia em números. O aplicativo não precisa de permissões de root e funciona a partir do Android 4.4 KitKat.

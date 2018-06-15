@@ -3,8 +3,8 @@ layout: post
 title: 'Otimização de site: 12 Formas de rankear seu site para os mecanismos de pesquisa'
 date: '2016-10-07T10:19:00.000-04:00'
 modified_time: '2016-10-16T16:24:46.779-04:00'
-tags: [SEO, Códigos, Otimização]
-category: [Otimização]
+tags: [seo, dicas]
+category: [dev]
 img: /assets/posts/otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
 author: true
 author_ediano: true
@@ -13,16 +13,16 @@ comments: true
 ads: true
 ---
 
-Conquistar uma boa posição nos motores de busca, um espaço dentro do seu <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, conseguir um número considerável de visitas mensais, pode ser um pouco complicado sem as técnicas de otimização necessárias.
+Conquistar uma boa posição nos motores de busca, um espaço dentro do seu nicho de mercado, conseguir um número considerável de visitas mensais, pode ser um pouco complicado sem as técnicas de otimização necessárias.
 
 Imagine você ter um website com um layout bom e postagens de alta qualidade e mesmo assim não obter o resultado esperado, não diria que isso é um erro mas sim falta de informações ou experiência.
 
 Muitos dos mestres de SEO usam técnicas simples, que poucos blogueiros conhecem, mas mesmo que você conheça alguma dessas técnicas será que você está aplicando corretamente? Criar um blog é fácil o difícil é alcançar o tão desejado sucesso.
 
 ## Nicho de mercado: Escolha o ramos em que seu blog vai seguir
-Mais uma vez estamos falando sobre <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, qual a função dele, porque ele é tão importante? O nicho de mercado é como se fosse uma segunda identidade para sua empresa depois da logomarca, vamos dizer que o seu negócio na internet fala sobre automóveis, bom isso é uma identificação uma categoria de negócio, por isso quanto mais você focar no seu ramos maiores serão suas vantagens, não convém é não faz sentido uma empresa de automóveis que vende roupas, já imaginou a confusão que iria ficar para os seus clientes.
+Mais uma vez estamos falando sobre nicho de mercado, qual a função dele, porque ele é tão importante? O nicho de mercado é como se fosse uma segunda identidade para sua empresa depois da logomarca, vamos dizer que o seu negócio na internet fala sobre automóveis, bom isso é uma identificação uma categoria de negócio, por isso quanto mais você focar no seu ramos maiores serão suas vantagens, não convém é não faz sentido uma empresa de automóveis que vende roupas, já imaginou a confusão que iria ficar para os seus clientes.
 
-O negócio é focar em um determinado assunto, e com isso conquistar clientes leitores que gostam realmente deste tipo de conteúdo. O Google AdWords é uma das grandes ferramentas que os mestres de SEO usam para <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">identificar um nicho de mercado relevantes</a>, e o Google Trends calcula estimativas de o quanto e até quando este nicho vai ser relevante. Não vamos nos aprofundar muito sobre AdWords e Trends, em breve falaremos deles abaixo.
+O negócio é focar em um determinado assunto, e com isso conquistar clientes leitores que gostam realmente deste tipo de conteúdo. O Google AdWords é uma das grandes ferramentas que os mestres de SEO usam para identificar um nicho de mercado relevantes, e o Google Trends calcula estimativas de o quanto e até quando este nicho vai ser relevante. Não vamos nos aprofundar muito sobre AdWords e Trends, em breve falaremos deles abaixo.
 
 ## Meta Tags: Categorias e descrição do website
 Quando você escolher um nicho de mercado é importante que você adicione descrições e palavras-chave de rastreamento geral, para que os buscadores entenda melhor quais os tipos de assuntos tem dentro do seu website.

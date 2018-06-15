@@ -3,8 +3,8 @@ layout: post
 title: Incorporar caixas de redes sociais no site e blog
 date: '2016-07-21T14:48:00.000-04:00'
 modified_time: '2016-09-30T20:35:46.826-04:00'
-tags: [SEO, Redes Sociais, Otimização]
-category: [Otimização]
+tags: [seo, redes sociais]
+category: [dev]
 img: /assets/posts/incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
 author: true
 author_ediano: true
@@ -21,7 +21,7 @@ A melhor forma é colocando um Gadgets da caixa de fãs do Facebook, Twitter e G
 As principais rede social possuem um condigo que qualquer administrador de site ou blog, pode facilmente incorporar as caixas das redes em seus site, nos colocamos algumas dela aqui. Aprenda incorporar.
 
 ## Page Plugin do Facebook
-É praticamente quase que uma regra da internet, todos os site e blog usarem o Page Plugin na lateral de seus posts ou em qualquer outro lugar de fácil acesso dos visitantes. Para incorporar a caixa de fás do Facebook, clique no link de acesso a <a href="https://developers.facebook.com/docs/plugins/page-plugin" rel="nofollow" target="_blank">página desenvolvedores do Facebook</a>. Em "Facebook Page URL" você deve inserir o URL de sua página. Agora você pode configurar o Page Plugin do seu gosto ou de acordo com o seu blog.
+É praticamente quase que uma regra da internet, todos os site e blog usarem o Page Plugin na lateral de seus posts ou em qualquer outro lugar de fácil acesso dos visitantes. Para incorporar a caixa de fás do Facebook, clique no link de acesso a <a href="https://developers.facebook.com/docs/plugins/page-plugin" target="_blank" class="external-link" rel="nofollow">página desenvolvedores do Facebook</a>. Em "Facebook Page URL" você deve inserir o URL de sua página. Agora você pode configurar o Page Plugin do seu gosto ou de acordo com o seu blog.
 
 Width (Largura), Height (Altura) e Hide Cover Photo (mostrar ou não foto da capa).
 
@@ -35,12 +35,12 @@ No Blogger, Abra o Painel do Blogger › Layout › Adicionar Gadgets e procure 
 No WordPress, Abra o Menu do WordPress › Aparência › Widgets, e selecione o campo de texto. Arraste para onde quiser e cole o código no campo desejado, faça as alterações e personalize conforme o necessário.
 
 ## Widget Timeline do Twitter
-Para incorporar o Timeline do Twitter, faça login no seu perfil do Twitter e <a href="https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets" rel="nofollow" target="_blank">acesse esta página</a>, Agora clique em "Criar Novo", selecione a opção e personalização de sua preferencia, clique em "Criar Widget" para gera o código e incorporar no seu blog.
+Para incorporar o Timeline do Twitter, faça login no seu perfil do Twitter e <a href="https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets" target="_blank" class="external-link" rel="nofollow">acesse esta página</a>, Agora clique em "Criar Novo", selecione a opção e personalização de sua preferencia, clique em "Criar Widget" para gera o código e incorporar no seu blog.
 
 Para incorporar o código no Blogger ou WordPress, basta repetir o mesmo processo como descrito para incorporar o código do Link Box do Facebook.
 
 ## Selo do Google Plus
-Como as páginas e perfis do Google+ são diferentes, existem também duas versões diferentes do selo disponíveis no Google Developers, uma para cada caso. Para gerar o código, <a href="https://developers.google.com/+/web/badge/?hl=pt-br" rel="nofollow" target="_blank">acesse este link</a>. Agora faça suas modificações e personalizações necessárias para, gerar o código de incorporar o Google Plus em seu site.
+Como as páginas e perfis do Google+ são diferentes, existem também duas versões diferentes do selo disponíveis no Google Developers, uma para cada caso. Para gerar o código, <a href="https://developers.google.com/+/web/badge/?hl=pt-br" target="_blank" class="external-link" rel="nofollow">acesse este link</a>. Agora faça suas modificações e personalizações necessárias para, gerar o código de incorporar o Google Plus em seu site.
 
 Para incorporar o código em seu site, basta repetir o mesmo processo como descrito para incorporar o código do Link Box do Facebook.
 

@@ -3,8 +3,8 @@ layout: post
 title: Como verificar e indexar todas as paginas do blog no Google
 date: '2016-07-21T18:20:00.000-04:00'
 modified_time: '2016-10-01T14:14:54.610-04:00'
-tags: [SEO, Otimização, Aplicação]
-category: [Aplicação]
+tags: [seo, dicas]
+category: [dev]
 img: /assets/posts/como-verificar-e-indexar-todas-as/como-verificar-e-indexar-todas-as.png
 author: true
 author_ediano: true
@@ -13,7 +13,7 @@ comments: true
 ads: true
 ---
 
-Ter todas as paginas do blog indexadas no Google pode ajudar a gerar mais visitas por isso vale a pena verificar se o seu blog está indexado corretamente no Google. Isso é simples de fazer e você pode usar as ferramentas para <a href="http://www.google.com/webmasters" rel="nofollow" target="_blank">Webmasters</a> do Google para enviar seus sitemaps e melhorar sua posição nos resultados das buscas do Google.
+Ter todas as paginas do blog indexadas no Google pode ajudar a gerar mais visitas por isso vale a pena verificar se o seu blog está indexado corretamente no Google. Isso é simples de fazer e você pode usar as ferramentas para <a href="http://www.google.com/webmasters" target="_blank" class="external-link" rel="nofollow">Webmasters</a> do Google para enviar seus sitemaps e melhorar sua posição nos resultados das buscas do Google.
 
 ## Verificar Indexação do Blog no Google
 Saber se o seu blog ou site aparece nos resultados do Google é muito simples você só precisa colocar a tag site: antes do endereço do seu blog, isto faz o Google procurar somente dentro do seu blog, por exemplo: **site: google.com**, veja o resultado na imagem acima.

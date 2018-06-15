@@ -4,8 +4,8 @@ title: Google libera novo visual do Blogger e algumas novidades
 description: "Todos acharão que o Blogger estava esquecido pelo Google, felizmente isso não aconteceu, sua mais nova atualização mostra que os engenheiros estão a todo vapor, se você é um usuário da plataforma,confira as novidades."
 date: '2016-11-23T01:06:00.001-04:00'
 modified_time: '2017-06-11T23:48:12.507-04:00'
-tags: [Desenvolvimento, Update]
-category: [Serviços Online]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/google-libera-novo-visual-do-blogger-e/google-libera-novo-visual-do-blogger-e.jpg
 author: true
 author_ediano: true
@@ -14,7 +14,7 @@ comments: true
 ads: true
 ---
 
-O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/posts/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" rel="nofollow" target="_blank">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.
+O Google liberou para todos os usuários o novo visual do Blogger, alguns minutos depois de termos <a href="http://www.insideblock.com/posts/novo-visual-do-blogger-o-que-devemos.html" target="_blank">postado aqui no Inside Block</a> que o mesmo estava disponível apenas no <a href="https://draft.blogger.com/home" target="_blank" class="external-link" rel="nofollow">Blogger in Draft</a>, a nova interface revelou algumas mudanças que atinge diretamente a página inicial do painel.
 
 ![Novo visual do Blogger](/assets/posts/google-libera-novo-visual-do-blogger-e/new-blogger.png)
 
@@ -43,4 +43,4 @@ Detalhe: Os blogs “excluídos permanentemente” não aparecerão na lista de 
 ## Lista de leitura
 Antes a lista de leitura ficava junto a lista de blogs, agora ela fica em uma página individual, onde se encontra o blog oficial do Blogger e os blogs que seguimos. A mesma pode ser facilmente acessada ao clicar no link "Lista de leitura", localizado no canto inferior esquerdo.
 
-Em uma publicação feita no blog oficial do Blogger, Guy Ronen, Gerente de Produto, fala sobre fazer alguns ajustes ao longo tempo e promete que mais novidades estão por vir. Apesar dessa nova versão estar bem recente, muitos usuários já deram seu feedback no <a href="https://blogger.googleblog.com/2016/11/a-first-few-tweaks-toward-better-blogger_22.html" rel="nofollow" target="_blank">blog oficial</a>, confira você também e deixe um comentário.
+Em uma publicação feita no blog oficial do Blogger, Guy Ronen, Gerente de Produto, fala sobre fazer alguns ajustes ao longo tempo e promete que mais novidades estão por vir. Apesar dessa nova versão estar bem recente, muitos usuários já deram seu feedback no <a href="https://blogger.googleblog.com/2016/11/a-first-few-tweaks-toward-better-blogger_22.html" target="_blank" class="external-link" rel="nofollow">blog oficial</a>, confira você também e deixe um comentário.

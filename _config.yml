@@ -1,6 +1,7 @@
 title: Inside Block
 description: "Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!"
-logo: /assets/pages/logo/insideblock.png
+logo: /assets/logo/ib.png
+favicon: /assets/logo/ib.png
 author: 'Ediano Silva Santos'
 
 url: https://www.insideblock.com
@@ -13,39 +14,18 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 10
 
-navigation:
- - title: Home
-   url: /
- - title: Contato
-   url: /contact/
- - title: Converter HTML
-   url: /convert-html/
- - title: Equipe
-   url: /team/
- - title: "#Tags"
-   url: /tags/
-
-pages_to_cache:
-  - '/'
-  
-files_to_cache:
-  - '/assets/style/style.css'
-  - '/assets/style/highlight.css'
-  - '/assets/materialize/v1.0.0.alpha.2/materialize.min.css'
-  - '/assets/fonts/material_icons/icons.css'
-  - '/assets/fonts/roboto/roboto.css'
-  - '/assets/style/search.js'
-  - '/assets/jquery/3.2.1/jquery.min.js'
-  - '/assets/materialize/v1.0.0.alpha.2/materialize.min.js'
-  - '/assets/style/init.js'
-
 compress_html:
   clippings: all
   comments: all
   endings: []
   profile: false
 
+files_to_cache:
+ - ''
+
+pages_to_cache:
+  - '/'
+
 include: ['_redirects', '_headers']
 
 google_analytics: "UA-81236717-1"
-google_tagmanager: "GTM-T6PZBSG"

@@ -4,8 +4,8 @@ title: Como criar uma máquina virtual e instalar o Windows
 description: "Você sabia que é possível instalar vários sistemas operacionais virtuais e ainda ter vários ambientes de teste com um único computador físico? Bom, se você não sabia este artigo traz o passo-a-passo completo de como você pode fazer isso."
 date: '2016-11-22T21:21:00.000-04:00'
 modified_time: '2018-01-07T19:30:36.121-04:00'
-tags: [Software, Aplicação, Sistema]
-category: [Sistema]
+tags: [windows, dicas]
+category: [misc]
 img: /assets/posts/como-criar-uma-maquina-virtual-e/como-criar-uma-maquina-virtual-e.jpg
 author: true
 author_ediano: true
@@ -20,7 +20,7 @@ Um software criado pela Oracle (Oracle VM VirtualBox Manager) possibilita a cria
 
 **Detalhe:** É muito importante que você tenha noções básicas de formatação; em todo caso, recomendo que veja o artigo “<a href="http://www.insideblock.com/posts/como-formatar-seu-computador-com.html" target="_blank">como formatar seu computador com Windows 10</a>”.
 
-Se o seu PC físico estiver dentro dos pré-requisitos, podemos iniciar a instalação do VirtualBox. Acesse <a href="https://www.virtualbox.org/wiki/Downloads" rel="nofollow" target="_blank">este link</a> para fazer o download do software! Mas antes de fazer a instalação temos uma dica para você que deve ser feita durante a mesma: quando chegar na segunda janela de instalação, onde são exibidas as extensões dos tipos de conexões, clique em “**VirtualBox Host-Only Networking**” e desative a mesma alterando para “**Entire feature will be unavailable**”. Esta alteração vai evitar que ocorra erro ou conflito de conexões via rede, caso esteja dentro de uma rede corporativa.
+Se o seu PC físico estiver dentro dos pré-requisitos, podemos iniciar a instalação do VirtualBox. Acesse <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" class="external-link" rel="nofollow">este link</a> para fazer o download do software! Mas antes de fazer a instalação temos uma dica para você que deve ser feita durante a mesma: quando chegar na segunda janela de instalação, onde são exibidas as extensões dos tipos de conexões, clique em “**VirtualBox Host-Only Networking**” e desative a mesma alterando para “**Entire feature will be unavailable**”. Esta alteração vai evitar que ocorra erro ou conflito de conexões via rede, caso esteja dentro de uma rede corporativa.
 
 1. Com o VirtualBox instalado inicie o mesmo, repare que o software é bem simples e o mesmo tem poucas opções de configurações.
 

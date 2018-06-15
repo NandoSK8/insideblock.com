@@ -3,8 +3,8 @@ layout: post
 title: Técnicas comprovada para ter um blog de qualidade
 date: '2016-09-13T00:33:00.000-04:00'
 modified_time: '2016-10-02T01:01:11.808-04:00'
-tags: [SEO, Otimização, Desenvolvimento]
-category: [Otimização]
+tags: [seo, dicas]
+category: [misc]
 img: /assets/posts/tecnicas-comprovada-para-ter-um-blog-de/tecnicas-comprovada-para-ter-um-blog-de.jpg
 author: true
 author_ediano: true
@@ -13,21 +13,21 @@ comments: true
 ads: true
 ---
 
-Acredito que seja possível criar e manter um blog de qualidade em qualquer uma das plataforma Blogger e WordPress, aplicando técnicas de SEO para <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimizar</a> ao máximo as páginas para os motores de busca.
+Acredito que seja possível criar e manter um blog de qualidade em qualquer uma das plataforma Blogger e WordPress, aplicando técnicas de SEO para otimizar ao máximo as páginas para os motores de busca.
 
-Este artigo foi criado com base e conhecimentos obtido por Marcos Lemos autor do <a href="http://www.ferramentasblog.com/" rel="nofollow" target="_blank">Ferramenta Blog</a>, as técnicas contidas neste artigo funciona diretamente para as plataforma Blogger, entretanto acrescentei algumas informações que também funciona no WordPress e em outras plataformas.
+Este artigo foi criado com base e conhecimentos obtido por Marcos Lemos autor do <a href="http://www.ferramentasblog.com/" target="_blank" class="external-link" rel="nofollow">Ferramenta Blog</a>, as técnicas contidas neste artigo funciona diretamente para as plataforma Blogger, entretanto acrescentei algumas informações que também funciona no WordPress e em outras plataformas.
 
 ## Domínio
 O <a href="http://www.insideblock.com/posts/voce-vai-comprar-um-dominio-saiba-qual.html" target="_blank">domínio próprio</a> é a coisas mais importante de um blog, um domínio seguido de .blogspot.com ou .wordspress.com, não fica atraente deixa o nome muito extenso para ser lembrar pelos usuários/vistantes, o interessante seria criar um nome matador para o seu blog e com isso originar o domínio.
 
 ## Layout
-Um modelo atraente faz uma grande diferença, manter a página limpar e de fácil navegação, pode garantir uma melhor <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização para motores de busca</a>, já que os mesmo tem algoritmos de escaneamento de página e conteúdo, para garantir que os usuários possam encontrar páginas as pesquisas mais relevante de acordo com o conteúdo que deseja encontrar. Isso também pode fazer com que os visitantes indique seu blog aos amigos ou em redes sociais, posteriormente pode fazer com que ele volte a visitar a página, garantindo ainda mais o sucesso do blog.
+Um modelo atraente faz uma grande diferença, manter a página limpar e de fácil navegação, pode garantir uma melhor otimização para motores de busca, já que os mesmo tem algoritmos de escaneamento de página e conteúdo, para garantir que os usuários possam encontrar páginas as pesquisas mais relevante de acordo com o conteúdo que deseja encontrar. Isso também pode fazer com que os visitantes indique seu blog aos amigos ou em redes sociais, posteriormente pode fazer com que ele volte a visitar a página, garantindo ainda mais o sucesso do blog.
 
 ## Metatags / Descrição
-As <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">metatags</a> tem um papel fundamental para os motores de buscas, elas indicam palavras chaves e´a que categoria o seu blog ou conteúdo está relacionado, já as descrições descreve o que é o blog e qual o <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a> que ele atua.
+As metatags tem um papel fundamental para os motores de buscas, elas indicam palavras chaves e´a que categoria o seu blog ou conteúdo está relacionado, já as descrições descreve o que é o blog e qual o nicho de mercado que ele atua.
 
 ## Título do post
-O título dos posts são os mais influentes em ranquear o blog para os buscadores, no grande geral os usuários pesquisa por palavras chaves é os buscadores traz as palavras mais relevante ou aproximada do pesquisado, tendo como o primeiro resultados as palavras dentro dos títulos e segundo as palavras das metatags, por isso é muito importante escolher um bom título para o um novo post. Leia também &gt; <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">Como colocar título do post antes de nome do blog no Blogger</a>.
+O título dos posts são os mais influentes em ranquear o blog para os buscadores, no grande geral os usuários pesquisa por palavras chaves é os buscadores traz as palavras mais relevante ou aproximada do pesquisado, tendo como o primeiro resultados as palavras dentro dos títulos e segundo as palavras das metatags, por isso é muito importante escolher um bom título para o um novo post.
 
 ## Conteúdo
 Garanta a qualidade de seus conteúdos, crie um artigo que fique fácil de ler, sem muita enrolação seja claro e objetivo direto ao posto, cuidado com os erros ortográficos você não precisa ser um expert em português mas pode verificar o artigo ante de ser publicado. O bom artigo agrada leitores e com isso agrada os buscadores, quanto mais qualidade melhores são suas chances de obter sucesso.
@@ -54,4 +54,4 @@ As redes sociais são uma forma de conseguir links ligados ao seu blog como back
 Os <a href="http://www.insideblock.com/posts/qual-importancia-dos-botoes-de.html" target="_blank">botões de compartilhamento</a> são ótimas alternativas para se conseguir mais visitas e back-links, os próprios visitantes podem prover sua página compartilhando os conteúdos para um amigo ou para um grupo, são eles que vão garantir o sucesso do seu blog, os artigos de qualidade que vai definir se eles vão ou não te ajudar.
 
 ## Conclusão
-O WordsPress é a plataforma mais completa quanto se trata de <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização de site</a>. Mas acredito que o mais importante não é a plataforma e sim as técnicas de SEO, uma boa técnica pode alavancar qualquer blog para o sucesso, conquistando boas posições nos motores de busca e na blogosfera.
+O WordsPress é a plataforma mais completa quanto se trata de otimização de site. Mas acredito que o mais importante não é a plataforma e sim as técnicas de SEO, uma boa técnica pode alavancar qualquer blog para o sucesso, conquistando boas posições nos motores de busca e na blogosfera.

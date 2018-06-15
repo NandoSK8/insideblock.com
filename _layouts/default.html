@@ -3,50 +3,8 @@ layout: compress
 ---
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-br" itemscope itemtype="http://schema.org/WebSite">
 
-<head>
-    {% include head.html %}
-</head>
-
-<body>
-
-    {% include google_tagmanager_noscript.html %}
-
-    <div class="scrollspy" id="top"></div>
-
-    <!-- Header -->
-    <header class="row">
-        {% include header.html %}
-    </header>
-
-    <div class="height"></div>
-    <div class="site-description grid center-align">
-        <div class="col s12">
-            <p class="flow-text">{{ site.description | escape }}</p>
-        </div>
-    </div>
-
-    <main class="row grid">        
-        {{ content }}
-    </main>
-
-    {% include ediano.html %}
-    {% include luciana_fabiano.html %}
-    {% include comments.html %}
-    {% include follow.html %}
-
-    <!-- Footer -->
-    <footer class="row">
-        {% include footer.html %}
-    </footer>
-
-    {% include search.html %}
-    {% include topo.html %}
-
-    <!-- Scripts -->
-    {% include scripts_style.html %}
-
-</body>
-
+    {{ content }}
+    
 </html>

@@ -3,8 +3,8 @@ layout: post
 title: Moto G2 2014 ganha atualização para o Android 6.0 Marshmallow
 date: '2016-07-21T21:34:00.000-04:00'
 modified_time: '2016-11-18T11:04:39.796-04:00'
-tags: [Sistema, Mobile, Update]
-category: [Sistema]
+tags: [mobile]
+category: [misc]
 img: /assets/posts/moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
 author: true
 author_ediano: true
@@ -29,7 +29,7 @@ Nem todos os modelos do Moto G de 2ª geração podem fazer a atualização por 
 
 * Não ter root ou alguma modificação no sistema, como recovery modificado.
 
-* Caso o seu dispositivo atende os requezitos, você já esta ponto para atualizar seu Android, baixe o arquivo aqui <a href="https://sourceforge.net/projects/freedownloads/files/Android/Blur_Version.22.56.3.titan_retbr_dstv.retbr.en.BR.zip/download" rel="nofollow" target="_blank">neste link</a>.
+* Caso o seu dispositivo atende os requezitos, você já esta ponto para atualizar seu Android, baixe o arquivo aqui <a href="https://sourceforge.net/projects/freedownloads/files/Android/Blur_Version.22.56.3.titan_retbr_dstv.retbr.en.BR.zip/download" target="_blank" class="external-link" rel="nofollow">neste link</a>.
 
 1. Ao concluir o download copie o arquivo na extensão *.zip para a raiz do Cartão SD do seu dispositivo. É importante que ele não seja extraído nem colocado dentro de uma pasta ou renomeado;
 
@@ -39,4 +39,4 @@ Nem todos os modelos do Moto G de 2ª geração podem fazer a atualização por 
 
 4. Execute a instalação da atualização e aguarde ate que seja necessário reiniciar; Atenção: Dependendo da quantidade de apps que você tem instalado em dispositivos pode levar horas para que ele inicie normalmente, ate lá não retive o mesmo do carregador.
 
-Se tudo deu certo, seu Moto G de 2ª geração já deverá estar rodando o Android 6.0 Marshmallow sem problemas. Se você tem um XT1068 e quer tentar a sorte, um usuário do XDA ensina a fazer o processo com o arquivo do XT1069 aqui (<a href="http://forum.xda-developers.com/moto-g-2014/general/guide-flash-xt1069-android-m6-0-ota-t3254802" rel="nofollow" target="_blank">tutorial em inglês</a>).
+Se tudo deu certo, seu Moto G de 2ª geração já deverá estar rodando o Android 6.0 Marshmallow sem problemas. Se você tem um XT1068 e quer tentar a sorte, um usuário do XDA ensina a fazer o processo com o arquivo do XT1069 aqui (<a href="http://forum.xda-developers.com/moto-g-2014/general/guide-flash-xt1069-android-m6-0-ota-t3254802" target="_blank" class="external-link" rel="nofollow">tutorial em inglês</a>).

@@ -4,8 +4,8 @@ title: Conheça os apps que não podem faltar em seu smartphone
 description: "Escolher apps para realizar determinadas tarefas no smartphone nem sempre é fácil, pois sempre temos que fazer testes com vários aplicativos, muitos deles de fontes desconhecidas que podem expor nossa privacidade. Pensando nisso reunimos aqui alguns apps para lhe ajudar."
 date: '2017-06-11T22:23:00.001-04:00'
 modified_time: '2017-07-11T00:43:11.017-04:00'
-tags: [Aplicação, Update]
-category: [Mobile]
+tags: [mobile]
+category: [misc]
 img: /assets/posts/conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
 author: true
 author_ediano: true
@@ -18,7 +18,7 @@ ads: true
 
 Os smartphones podem nos ajudar a lembrar de determinadas obrigações que acabamos esquecendo no decorrer do dia a dia: podemos fazer pagamentos e transferências online, fazer o controle de gastos de nossas contas bancárias, traduzir palavras e frases completas, escanear e enviar documentos por e-mail, entre outras utilidades. Mas para fazer tudo isso e um pouco mais, você precisa instalar APPs em seu dispositivo e aplicar algumas configurações para que tudo funcione como o esperado.
 
-Nós do <a href="http://www.insideblock.com/" target="_blank">Inside Block</a>, criamos uma lista de APPs muito eficientes, que podem aumentar a produção do usuário em qualquer lugar, mesmo que seja em casa ou no trabalho; e por fim vamos indicar dois jogos que melhoram o desempenho mental e ajudam a aprender outros idiomas.
+Nós do <a href="http://www.insideblock.com/">Inside Block</a>, criamos uma lista de APPs muito eficientes, que podem aumentar a produção do usuário em qualquer lugar, mesmo que seja em casa ou no trabalho; e por fim vamos indicar dois jogos que melhoram o desempenho mental e ajudam a aprender outros idiomas.
 
 ## Google Keep
 O Google Keep é um APP que serve como bloco de anotações, com ele você pode criar listas de tarefas, lembretes, adicionar imagens, criar desenhos. O serviço conta com suporte para arquivamento de notas e lixeira.

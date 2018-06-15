@@ -3,8 +3,8 @@ layout: post
 title: O que fazer quando iPhone, iPad ou iPod está sem som ou com ruidos
 date: '2016-07-27T11:44:00.000-04:00'
 modified_time: '2016-10-02T00:41:56.637-04:00'
-tags: [Funcionalidade, Sistema]
-category: [Mobile]
+tags: [mobile]
+category: [misc]
 img: /assets/posts/o-que-fazer-quando-iphone-ipad-ou-ipod/o-que-fazer-quando-iphone-ipad-ou-ipod.jpg
 author: true
 author_ediano: true
@@ -37,7 +37,7 @@ Se não for possível ouvir som ou se ele não estiver claro, prossiga para pró
 
 * Se o dispositivo estiver com uma capa, verifique se ela não está bloqueando o alto-falante.
 
-Se você seguiu essas etapas e ainda não é possível ouvir som ou ouve um som distorcido, <a href="https://support.apple.com/pt-br/contact" rel="nofollow" target="_blank">entre em contato com a Apple</a>.
+Se você seguiu essas etapas e ainda não é possível ouvir som ou ouve um som distorcido, <a href="https://support.apple.com/pt-br/contact" target="_blank" class="external-link" rel="nofollow">entre em contato com a Apple</a>.
 
 O problema que pode afetar o som do iPhone, iPad ou iPhod pode variar, cada caso é um caso e nem sempre se trata do mesmo problema. O motivos pode ser por falha do sistema ou aquecimento de hardware, deixar cair ou molhar entre outros.
 

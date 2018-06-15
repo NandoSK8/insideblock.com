@@ -1,0 +1,248 @@
+<style type="text/css">
+    .page {
+        width: 100%
+    }
+    
+    .page h2 {
+        width: 90%;
+        max-width: 800px;
+        color: #2da0c3;
+        font-size: 2rem;
+        text-transform: uppercase;
+        margin: 50px auto 25px auto
+    }
+    
+    .page>.contact,
+    .page>section.author>div,
+    .page>.tags,
+    .page>.category {
+        width: 90%;
+        max-width: 800px;
+        margin: 0 auto;
+        overflow: hidden
+    }
+    
+    .page .contact,
+    .page .tags,
+    .page .category {
+        margin-bottom: 50px
+    }
+    /* Contact */
+    
+    .page input,
+    .page textarea {
+        width: 100%;
+        border: 0;
+        margin: 15px 0
+    }
+    
+    .page input {
+        height: 60px
+    }
+    
+    .page input {
+        border-bottom: 2px solid #2da0c3
+    }
+    
+    .page textarea {
+        border: 2px solid #2da0c3
+    }
+    
+    .page textarea {
+        height: 120px;
+        padding: 5px
+    }
+    
+    .page input:focus {
+        border-bottom: 2px solid #ccc
+    }
+    
+    .page textarea:focus {
+        border: 2px solid #ccc
+    }
+    
+    .page button {
+        cursor: pointer;
+        background: #2da0c3;
+        color: #fff;
+        padding: 10px;
+        border: 0;
+        border-radius: 3px
+    }
+    
+    @media only screen and (min-width: 601px) {
+        .page .name-last-name {
+            columns: 2
+        }
+    }
+    
+    @media only screen and (min-width: 993px) {
+        .mail-text-url {
+            columns: 3;
+        }
+    }
+    /* Team */
+    
+    section.author {
+        position: relative;
+        padding: 50px 0;
+        color: #fff;
+        overflow: hidden
+    }
+    
+    section.author img {
+        height: auto;
+        width: 150px;
+        border-radius: 50%
+    }
+    
+    section.author .content {
+        display: block
+    }
+    
+    section.author .content h3 {
+        font-size: 2rem
+    }
+    
+    section.author .content h3 a {
+        color: #fff
+    }
+    
+    section.author .content .desc a {
+        color: #fff;
+        border-bottom: 1px solid #fff
+    }
+    
+    section.author .social {
+        margin-top: 15px !important
+    }
+    
+    section.author svg {
+        height: 32px;
+        width: 32px;
+        fill: #fff
+    }
+    
+    @media only screen and (max-width: 600px) {
+        section.author .details {
+            display: block;
+            text-align: center
+        }
+        section.author .details img {
+            margin-bottom: 5px
+        }
+    }
+    
+    @media only screen and (min-width: 601px) {
+        section.author .details {
+            display: flex;
+            align-items: center
+        }
+        section.author img {
+            float: left;
+            margin-right: 15px
+        }
+    }
+    /* Tags */
+    
+    .tags .tags-link {
+        margin-bottom: 25px;
+        text-align: center
+    }
+    
+    .tags .tags-link a {
+        display: inline-block;
+        margin: 5px;
+        color: #2da0c3;
+        padding: 5px;
+        border: 1px solid;
+        border-radius: 5px
+    }
+    
+    .tags .tag-title {
+        font-size: 2rem;
+        font-weight: 300
+    }
+    
+    .tags ul {
+        margin-bottom: 30px
+    }
+    
+    .tags ul li {
+        padding: 10px;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #2ba0c3
+    }
+    
+    .tags ul a {
+        display: block;
+        padding: 5px 0;
+        color: #2da0c3
+    }
+    
+    .tags span.entry-date {
+        float: right
+    }
+    
+    @media only screen and (max-width: 992px) {
+        .tags span.entry-date {
+            display: none
+        }
+    }
+    /* Category */
+    
+    .category .content {
+        position: relative;
+        overflow: hidden
+    }
+    
+    .category .body {
+        position: relative;
+        width: 100%;
+        height: 300px;
+        margin: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        overflow: hidden
+    }
+    
+    .category img {
+        position: relative;
+        width: auto;
+        height: 300px
+    }
+    
+    .category h3 {
+        background: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        padding: 10px;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        z-index: 1
+    }
+    
+    .category h3 a {
+        color: #fff
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .category .content {
+            display: block;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 450px
+        }
+    }
+    
+    @media only screen and (min-width: 601px) {
+        .category .content {
+            display: inline-flex;
+            width: 50%
+        }
+    }
+</style>

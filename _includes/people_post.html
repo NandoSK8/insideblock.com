@@ -1,0 +1,56 @@
+<!-- Author -->
+{% if page.author_ediano %}
+{% for people in site.data.ediano.people %}
+<span>
+    <svg><use xlink:href="#icon-person"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
+
+{% if page.author_danielli %}
+{% for people in site.data.danielli.people %}
+<span>
+    <svg><use xlink:href="#icon-person"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
+
+{% if page.author_luciana %}
+{% for people in site.data.luciana.people %}
+<span>
+    <svg><use xlink:href="#icon-person"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
+
+
+<!-- Coauthor -->
+{% if page.coauthor_ediano %}
+{% for people in site.data.ediano.people %}
+<span>
+    <svg><use xlink:href="#icon-person-circle"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
+
+{% if page.coauthor_danielli %}
+{% for people in site.data.danielli.people %}
+<span>
+    <svg><use xlink:href="#icon-person-circle"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
+
+{% if page.coauthor_luciana %}
+{% for people in site.data.luciana.people %}
+<span>
+    <svg><use xlink:href="#icon-person-circle"></use></svg>
+    <a href="{{ people.link }}" target="_black">{{ people.name }}</a>
+</span>
+{% endfor %}
+{% endif %}

@@ -3,8 +3,8 @@ layout: post
 title: Heading tags aprenda a otimizar melhor o Blogger
 date: '2016-09-28T23:15:00.001-04:00'
 modified_time: '2016-12-05T09:34:42.046-04:00'
-tags: [SEO, Otimização, Códigos]
-category: [Otimização]
+tags: [blogger, seo]
+category: [dev]
 img: /assets/posts/heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
 author: true
 author_ediano: true
@@ -43,7 +43,7 @@ Através do próprio “**Editor de postagens**” do Blogger, você pode indica
 Todas os texto que você marcar com essas tags serão, otimizados pelos buscadores com as classificações de importância.
 
 ## Personalizar Heading tags com CSS
-Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.<br /><br />
+Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.
 
 Acesse o **Painel do Blogger › Modelo › Editar HTML** e procure pela seguinte tag.
 
@@ -62,7 +62,6 @@ Acesse o **Painel do Blogger › Modelo › Editar HTML** e procure pela seguint
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);/* edite borda abaixo do título */
 }
 
-
 /*----estilos heading tag h3-------*/
 .post-body h3 {
     color: #9e9e9e;/* edite cor da fonte */
@@ -70,7 +69,6 @@ Acesse o **Painel do Blogger › Modelo › Editar HTML** e procure pela seguint
     display: block;/* edite um título por linha ou delete */
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);/* edite borda abaixo do título */
 }
-
 
 /*----estilos heading tag h4-------*/
 .post-body h4 {
@@ -81,4 +79,4 @@ Acesse o **Painel do Blogger › Modelo › Editar HTML** e procure pela seguint
 }
 ```
 
-Existem várias técnicas para melhorar a <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização do blog para os motores de busca</a>, uma delas é <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-todas-as.html" target="_blank">indexar as páginas do blog para o Google</a>, espero que este tutoria ajude suas páginas tanto para facilitar a leitura dos clientes leitores quanto para o as metas de SEO.
+Existem várias técnicas para melhorar a otimização do blog para os motores de busca, uma delas é <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-todas-as.html" target="_blank">indexar as páginas do blog para o Google</a>, espero que este tutoria ajude suas páginas tanto para facilitar a leitura dos clientes leitores quanto para o as metas de SEO.

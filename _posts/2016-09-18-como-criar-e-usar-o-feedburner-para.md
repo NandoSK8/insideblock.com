@@ -3,8 +3,8 @@ layout: post
 title: Como criar e usar o FeedBurner para blogs
 date: '2016-09-18T20:56:00.003-04:00'
 modified_time: '2016-10-02T01:09:19.869-04:00'
-tags: [SEO, Otimização, Desenvolvimento]
-category: [Serviços Online]
+tags: [seo, dicas]
+category: [dev]
 img: /assets/posts/como-criar-e-usar-o-feedburner-para/como-criar-e-usar-o-feedburner-para.jpg
 author: true
 author_ediano: true
@@ -15,10 +15,10 @@ ads: true
 
 Os feed para blogs são ótimas maneiras de conseguir links alternativos para aumentar a otimização da página e com isso ajuda a <a href="http://www.insideblock.com/posts/ranking-melhorar-experiencia-das.html" target="_blank">rankear</a> para os motores de buscas. O FeedBurner do Google é uma das ferramentas mais usadas por blogueiros para fazer este tipo de otimização.
 
-Com ele é possível fazer captura de e-mail e entrega automático as atualizações do blog para os leitores que se cadastrarem. Também é possível fazer o compartilhamento automático dos posts para as redes sociais, como o <a href="http://www.insideblock.com/posts/devo-ou-nao-criar-um-pagina-para-o-meu.html" target="_blank">Twitter</a>, e para as demais com a ajuda de ferramentas de terceiros que usar o endereço do feed como referência.
+Com ele é possível fazer captura de e-mail e entrega automático as atualizações do blog para os leitores que se cadastrarem. Também é possível fazer o compartilhamento automático dos posts para as redes sociais, como o Twitter, e para as demais com a ajuda de ferramentas de terceiros que usar o endereço do feed como referência.
 
 ## Criar feed
-Acesse a página inicial do <a href="http://feedburner.google.com/" rel="nofollow" target="_blank">FeedBurner</a>, na caixa de endereço abaixo de “**Burn a feed right this instant**” coloque a url do Feed Default do seu blog, parecido com esse “**http://example.com/feeds**”, clique em “**Next**”, coloque o titulo que você vai aparecer para os leitores e prossiga com as instruções do proprio FeedBurner. No final seu link vai ficar mais ou menos assim “**http://feeds.feedburner.com/ mais-nome-que-você-escolheu**”.
+Acesse a página inicial do <a href="http://feedburner.google.com/"  target="_blank" class="external-link" rel="nofollow">FeedBurner</a>, na caixa de endereço abaixo de “**Burn a feed right this instant**” coloque a url do Feed Default do seu blog, parecido com esse “**http://example.com/feeds**”, clique em “**Next**”, coloque o titulo que você vai aparecer para os leitores e prossiga com as instruções do proprio FeedBurner. No final seu link vai ficar mais ou menos assim “**http://feeds.feedburner.com/ mais-nome-que-você-escolheu**”.
 
 Ao concluir todos os procedimentos necessários para criar o feed, você terá que alterar e ativar algumas funções.
 

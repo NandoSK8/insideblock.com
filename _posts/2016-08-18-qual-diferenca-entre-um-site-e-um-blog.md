@@ -3,8 +3,8 @@ layout: post
 title: Qual a diferença entre um site e um blog
 date: '2016-08-18T19:26:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.776-04:00'
-tags: [Desenvolvimento, SEO, Otimização]
-category: [Desenvolvimento Web]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/qual-diferenca-entre-um-site-e-um-blog/qual-diferenca-entre-um-site-e-um-blog.jpg
 author: true
 author_ediano: true
@@ -20,12 +20,12 @@ O site é uma página mais formal e reservada do que um blog, é como se fosse a
 Já o blog é como se fosse o seu amigo que gosta de compartilhar coisas, que quer contar suas opiniões, falar sobre seus hobbies.
 
 ## Objetivo
-**Blog:** Informar e interagir com pessoas e clientes que se interessam pelo assuntos e temas que complementam o <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
+**Blog:** Informar e interagir com pessoas e clientes que se interessam pelo assuntos e temas que complementam o nicho de mercado.
 
 **Site:** Informa e divulgar a própria marca, produtos/serviços e potencializar no mercado negócios.
 
 ## Conteúdo
-**Blog:** Geralmente focado em um tema específico que agrada o publico alvo, com grande fluxo de atualização voltado para o <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>.
+**Blog:** Geralmente focado em um tema específico que agrada o publico alvo, com grande fluxo de atualização voltado para o nicho de mercado.
 
 **Site:** Mais rígido com o índice de aprovação do publico alvo, mais formal com a divulgação de seus conteúdos, tem um baixo fluxo de atualizações.
 

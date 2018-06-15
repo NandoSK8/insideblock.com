@@ -3,8 +3,8 @@ layout: post
 title: Postagens relacionadas com imagem para Blogger
 date: '2016-07-21T09:22:00.001-04:00'
 modified_time: '2017-06-22T23:18:10.322-04:00'
-tags: [SEO, Otimização, Desenvolvimento]
-category: [Desenvolvimento Web]
+tags: [seo, blogger]
+category: [dev]
 img: /assets/posts/postagens-relacionadas-com-imagem-para/postagens-relacionadas-com-imagem-para.jpg
 author: true
 author_ediano: true

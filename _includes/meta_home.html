@@ -1,0 +1,29 @@
+<meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}"/>
+<meta itemprop="dateModified" content="{{ post.date | date_to_xmlschema }}"/>
+<meta itemprop="mainEntityOfPage" content="{{ post.url | prepend: site.url }}"/>
+
+<div itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <!-- Ediano -->
+    {% if post.author_ediano %}
+    <meta itemprop="name" content="Ediano Silva Santos"/>
+    <!-- End Ediano -->{% endif %}
+    
+    <!-- Luciana -->
+    {% if page.author_luciana %}
+    <meta itemprop="name" content="Luciana Fabiano"/>
+    <!-- End Luciana -->{% endif %}
+    
+    <!-- Danielli -->
+    {% if page.author_danielli %}
+    <meta itemprop="name" content="Danielli Carvalho"/>
+    <!-- End Danielli -->{% endif %}
+</div>
+
+<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="{{ site.title }}"/>
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="{{ site.url }}{{ site.logo }}"/>
+    </div>
+</div>
+
+<meta itemprop="image" content="{{ site.url }}{{ post.img }}"/>

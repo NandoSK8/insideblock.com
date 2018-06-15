@@ -1,0 +1,24 @@
+<section class="related">
+    <div class="related-post">
+        <h4>Posts relacionados</h4>
+        {% assign maxRelatedCounter  = 0 %}
+        <ul>
+        {% for post in site.posts %}
+            {% if post.url != page.url %}
+                {% if post.category == page.category %}
+                    <li>
+                        <a href="{{ post.url }}">
+                            <svg><use xlink:href="#icon-magnet"></use></svg>
+                            {{ post.title }}
+                        </a>
+                    </li>
+                    {% assign maxRelatedCounter  = maxRelatedCounter | plus: 1 %}
+                    {% if maxRelatedCounter == 6 %}
+                        {% break %}
+                    {% endif %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        </ul>
+    </div>
+</section>

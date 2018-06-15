@@ -3,8 +3,8 @@ layout: post
 title: Qual a importância de criar uma página no Google Plus?
 date: '2016-07-21T13:10:00.000-04:00'
 modified_time: '2016-10-01T14:04:12.038-04:00'
-tags: [Otimização, Redes Sociais, SEO]
-category: [Otimização]
+tags: [redes sociais, seo]
+category: [misc]
 img: /assets/posts/qual-importancia-de-criar-uma-pagina-no/qual-importancia-de-criar-uma-pagina-no.jpg
 author: true
 author_ediano: true
@@ -17,7 +17,7 @@ Como já falamos antes no Inside Block sobre as redes sociais, hoje elas são as
 
 Não importa o quanto falamos sobre as redes sociais todas elas são indispensáveis, elas tem praticamente as mesmo função para divulgação de sites, blogs, produtos, marcas, empresas etc... O que você tem que aprender e como você pode aproveitar melhor cada uma delas em especial o Google Plus ou Google+, o assunto escolhido para falar neste post.
 
-O Google Plus como todos já deve conhecer e mais uma inovação do Google, Inc., para ajudar e melhorar a interatividade com os internautas e na divulgação de sites, empresas, marcas etc, alem de trazer uma grande posição na popularidade mundial. Assim como a grande Facebook o Google Plus também tem grandes disputas no mercado online, por isso eu não dispenso e recomendo que você <a href="https://business.google.com/create" rel="nofollow" target="_blank">crie uma página no Google+</a> para divulgar melhor o seu negocio online.
+O Google Plus como todos já deve conhecer e mais uma inovação do Google, Inc., para ajudar e melhorar a interatividade com os internautas e na divulgação de sites, empresas, marcas etc, alem de trazer uma grande posição na popularidade mundial. Assim como a grande Facebook o Google Plus também tem grandes disputas no mercado online, por isso eu não dispenso e recomendo que você <a href="https://business.google.com/create" target="_blank" class="external-link" rel="nofollow">crie uma página no Google+</a> para divulgar melhor o seu negocio online.
 
 ## Google Plus
 Hoje o Google Plus e uma das maiores redes sociais do mundo, ficando apenas atrás do Facebook, a vasta-experiencia do Google foi uma grande vantagem alcançar o sucesso que o Google Plus tem hoje, se destacando no meio de varias outras redes, ate onde sabemos o Google Plus não para de cresce cada dia que passa sua praticidade e popularidade vez aumentando, como isso vem acontecendo de forma rápida blogueiros, marcas de empresas vem expandindo seu negocio com a ajuda do Google Plus, com uma avançada opção de criar páginas, comunidades e perfil para o seu negocio totalmente grátis.

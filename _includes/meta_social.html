@@ -1,0 +1,33 @@
+<link rel="author" href="https://plus.google.com/+insideblock?rel=author"/>
+
+<!-- Social: Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@insideblock">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 150 | escape }}">
+{% if page.img %}
+<meta property="twitter:image:src" content="{{ site.url }}{{ page.img }}">
+{% else %}
+<meta property="twitter:image:src" content="{{ site.logo | prepend: site.baseurl | prepend: site.url }}">
+{% endif %}
+
+<!-- Social: Facebook / Open Graph -->
+<meta property="fb:admins" content="161336387609325" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+{% if page.img %}
+<meta property="og:image" content="{{ site.url }}{{ page.img }}">
+{% else %}
+<meta property="og:image" content="{{ site.logo | prepend: site.baseurl | prepend: site.url }}">
+{% endif %}
+<meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 150 | escape }}">
+<meta property="og:site_name" content="{{ site.title }}">
+
+<!-- Social: Google+ / Schema.org  -->
+<meta itemprop="name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+<meta itemprop="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 150 | escape }}">
+{% if page.img %}
+<meta itemprop="image" content="{{ site.url }}{{ page.img }}"/>
+{% else %}
+<meta itemprop="image" content="{{ site.logo | prepend: site.baseurl | prepend: site.url }}"/>
+{% endif %}

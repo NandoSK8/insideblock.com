@@ -3,8 +3,8 @@ layout: post
 title: 'Resolver problema: Perfil temporário do Windows'
 date: '2016-07-21T14:08:00.000-04:00'
 modified_time: '2016-10-01T14:08:51.276-04:00'
-tags: [Sistema, Funcionalidade, Aplicação]
-category: [Sistema]
+tags: [windows]
+category: [misc]
 img: /assets/posts/resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg
 author: true
 author_ediano: true

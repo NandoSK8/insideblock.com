@@ -1,34 +1,33 @@
-- name: Ediano Silva Santos
-  name_reference: Fundador do Inside Block; Administrador Geral; Desenvolvedor Web e Criador de Conteúdos.
-  name_mail: ess.ediano@gmail.com
-  name_img: /assets/pages/team/ediano.png
+people:
+  - name: Ediano Silva Santos
+    def: Fundador do Inside Block; Administrador Geral; Desenvolvedor Web e Criador de Conteúdos.
+    mail: ess.ediano@gmail.com
+    desc: Geek por tecnologia; Criador dos projetos <a href="http://multicamada.com">multicamada.com</a>, <a href="http://www.insideblock.com">insideblock.com</a> e desenvolvedor de Front-End.
+    link: https://github.com/ediano
+    img: /assets/people/ediano.png
+    color: teal
 
-  site_link: http://ediano.com.br
-  site_ico: /assets/pages/ico/site.png
+social:
+  - page: GitHub
+    link: https://github.com/ediano
+    icon: icon-github
 
-  google: Google Plus
-  google_link: https://plus.google.com/+edianosilvasantos
-  google_ico: /assets/pages/ico/google.png
+  - page: Google Plus
+    link: https://plus.google.com/+edianosilvasantos
+    icon: icon-googleplus
 
-  twitter: Twitter
-  twitter_link: https://twitter.com/edianoss
-  twitter_ico: /assets/pages/ico/twitter.png
+  - page: Twitter
+    link: https://twitter.com/edianoss
+    icon: icon-twitter
 
-  facebook: Facebook
-  facebook_link: https://www.facebook.com/edianoss
-  facebook_ico: /assets/pages/ico/facebook.png
+  - page: Facebook
+    link: https://www.facebook.com/edianoss
+    icon: icon-facebook
 
-  instagram: Instagram
-  instagram_link: https://www.instagram.com/edianosilvasantos
-  instagram_ico: /assets/pages/ico/instagram.png
+  - page: Instagram
+    link: https://www.instagram.com/edianosilvasantos
+    icon: icon-instagram
 
-  github: GitHub
-  github_link: https://github.com/ediano
-  github_ico: /assets/pages/ico/github.png
-
-  linkedin: LinkedIn
-  linkedin_link: https://www.linkedin.com/in/edianosilvasantos
-  linkedin_ico: /assets/pages/ico/linkedin.png
-
-  description: Geek por tecnologia; Criador dos projetos <a href="http://multicamada.com">multicamada.com</a>, <a href="http://www.insideblock.com">insideblock.com</a> e desenvolvedor de Front-End.
-  description_team: Como criador do Inside Block projetou um ambiente digital voltado para a aquisição e o aperfeiçoamento de conhecimentos técnicos do profissional da área tecnológica, além de facilitar a aprendizagem de usuários em geral.
+  - page: LinkedIn
+    link: https://www.linkedin.com/in/edianosilvasantos
+    icon: icon-linkedin

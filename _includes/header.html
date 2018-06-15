@@ -1,48 +1,37 @@
-<div class="navbar fixed">
-    <nav class="white">
-        <div class="nav-wrapper grid">
-            <h1 class="h1 site title">
-                <a class="header" href="/">
-                    <img src="{{ site.url | append: site.logo | prepend: site.baseurl }}" alt="Logo Inside Block">
-                    <span class="logo hide-on-med-and-down" alt="Inside Block">{{ site.title }}</span></a>
-            </h1>
+<header>
+    <div class="navbar">
+        <div class="fixed">
+            <nav>
+                <h2 class="iten-header">
+                    <a href="{{ site.url }}" aria-label="{{ site.url }}">
+                        <svg><use xlink:href="#icon-cube"></use></svg>
+                    </a>
+                </h2>
 
-            <ul id="nav-mobile" class="right hide-on-small-only">
-                <li><a class="waves-effect waves-light modal-trigger" href="#modal1"><i class="material-icons">search</i></a></li>
-                {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
-                <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
+                <ul>
+                    <label class="search" for="search">
+                        <svg><use xlink:href="#icon-search"></use></svg>
+                    </label>
+                    
+                    {% for link in site.data.nav.nav %}
+                    <li><a href="{{ link.url }}" class="{{ link.page }}">{{ link.page }}</a></li>
+                    {% endfor %}
+
+                    <label class="mobile" for="mobile">
+                        <svg><use xlink:href="#icon-menu"></use></svg>
+                    </label>
+                </ul>
+            </nav>
+        </div>
+
+        <input id="mobile" type="checkbox" style="display: none">
+        <div class="list-mobile">
+            <label class="mobile" for="mobile"></label>
+            <ul>
+                {% for link in site.data.nav.nav %}
+                <li><a href="{{ link.url }}" class="{{ link.page }}">{{ link.page }}</a></li>
                 {% endfor %}
             </ul>
-
-            <ul id="nav-mobile" class="right hide-on-med-and-up">
-                <li><a href="#" data-target="slide-out" class="sidenav-trigger show-on-large"><i class="material-icons">menu</i></a></li>
-            </ul>
         </div>
-    </nav>
-</div>
-
-<!--Side Nav - JS -->
-<ul id="slide-out" class="sidenav">
-    <nav class="white">
-        <div class="nav-wrapper">
-            <a class="header" href="{{ site.baseurl }}">
-                <img src="{{ site.url | append: site.logo | prepend: site.baseurl }}" alt="Logo Inside Block">
-                <span class="logo" alt="Inside Block">{{ site.title }}</span></a>
-        </div>
-    </nav>
-
-    <li><a class="waves-effect waves-light modal-trigger" href="#modal1">Search<i class="material-icons">search</i></a></li>
-    {% for link in site.navigation %}{% assign current = nil %}{% if page.url contains link.url or forloop.first and page.url == '/' or page.url == 'index.html' %}{% assign current = 'current' %}{% endif %}
-    <li><a href="{{ link.url | prepend: site.baseurl }}">{{ link.title }}</a></li>
-    {% endfor %}
-
-    <div class="divider"></div>
-
-    <menu class="hide">
-        <ul>
-            <li><a href="/">Termos</a></li>
-            <li><a href="/">Privacidade</a></li>
-            <li><a href="//multicamada.com">Grupo Multi Camada</a></li>
-        </ul>
-    </menu>
-</ul>
+    </div>
+</header>

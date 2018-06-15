@@ -2,18 +2,49 @@
 layout: default
 ---
 
-<!-- Page -->
-<div class="page">
-    <!-- Article -->
-    <article>
-        {% include seo_page_post.html %}
-        <div class="content">
-            <h2 class="post-title">{{ page.title }}</h2>
+<head>
+    {% include head.html %}
+    {% include css_default.html %}
+    {% include css_page.html %}
+</head>
 
-            <div class="body">
-                {{ content }}
-            </div>
-        </div>
+<body>
+    <!-- Header -->
+    {% include header.html %}
+    
+    <!-- Main -->
+    <section class="content">
+        <article class="page" id="page" role="main">
+            <h2>{{ page.title }}</h2>
+            {{ content }}
+        </article>
+    </section>
 
-    </article>
-</div>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "Website",
+            "url": "{{ site.url }}",
+            "name": "{{ site.title }}",
+            "author": {
+                "type": "Person",
+                "name": "{{ site.title }}",
+                "sameAs": [
+                    "https://plus.google.com/+insideblock",
+                    "https://twitter.com/insideblock",
+                    "https://www.facebook.com/InsideBlock/",
+                    "https://www.instagram.com/inside.block/",
+                    "https://github.com/insideblock",
+                    "https://www.linkedin.com/company/insideblock"
+                ]
+            },
+            "description": "{{ site.description }}"
+        }
+    </script>
+
+    <!-- Footer -->
+    {% include follow.html %}
+    {% include footer.html %}
+    {% include icon-svg.html %}
+    {% include search.html %}
+</body>

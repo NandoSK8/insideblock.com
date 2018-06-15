@@ -1,0 +1,17 @@
+people:
+  - name: Danielli Carvalho
+    def: Acadêmico de Engenharia Floresta; Técnica em Informática para Internet.
+    mail: 
+    desc: .
+    link: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8011401P2&tipo=completo&idiomaExibicao=1
+    img: /assets/people/danielli.png
+    color: purple
+
+social:
+  - page: Curriículo Lattes
+    link: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8011401P2&tipo=completo&idiomaExibicao=1
+    icon: icon-globe
+
+  - page: Facebook
+    link: https://www.facebook.com/danielli.santos.127
+    icon: icon-facebook

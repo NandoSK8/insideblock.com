@@ -1,0 +1,67 @@
+{% if page.author_ediano %}
+{% for people in site.data.ediano.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
+    </div>
+</section>
+{% endfor %}
+{% endif %}
+
+{% if page.author_luciana %}
+{% for people in site.data.luciana_fabiano.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
+    </div>
+</section>
+{% endfor %}
+{% endif %}
+
+{% if page.coauthor_ediano %}
+{% for people in site.data.ediano.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
+    </div>
+</section>
+{% endfor %}
+{% endif %}
+
+{% if page.coauthor_luciana %}
+{% for people in site.data.luciana_fabiano.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
+    </div>
+</section>
+{% endfor %}
+{% endif %}

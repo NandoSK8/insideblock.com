@@ -3,8 +3,8 @@ layout: post
 title: Como funciona o AdWords anúncios do Google?
 date: '2016-07-21T18:05:00.000-04:00'
 modified_time: '2016-10-01T01:46:16.574-04:00'
-tags: [Monetização, AdWords]
-category: [Serviços Online]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/como-funciona-o-adwords-anuncios-do/como-funciona-o-adwords-anuncios-do.jpg
 author: true
 author_ediano: true

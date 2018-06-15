@@ -3,8 +3,8 @@ layout: post
 title: O que aconteceria com seu site se o Google acabasse agora
 date: '2016-10-24T20:37:00.000-04:00'
 modified_time: '2016-11-26T19:54:47.167-04:00'
-tags: [SEO, Otimização, Redes Sociais]
-category: [Otimização]
+tags: [seo, dicas]
+category: [misc]
 img: /assets/posts/o-que-aconteceria-com-seu-site-se-o/o-que-aconteceria-com-seu-site-se-o.jpg
 author: true
 author_ediano: true
@@ -25,7 +25,7 @@ As lista de <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-t
 Hoje existem dois tipos de pessoas, as que estão satisfeitas com qualquer resultado, e as que não estão satisfeita com o melhor resultado, você tem que pensar como o segundo tipo de pessoas, mesmo que elas encontrem um ótimo resultado elas sempre procuram por algo ainda melhor, e a sua melhor saída é criar novas listas de <a href="http://www.insideblock.com/posts/como-verificar-e-indexar-todas-as.html" target="_blank">índice</a> em novos mecanismos de pesquisa como Bing, Yahoo, Ask entre outros.
 
 ## Vínculo com os usuários
-Criar um vínculo com os clientes leitores é muito importante, são eles que vão garantir o sucesso do seu site, o primeiro passo para fazer isso é criando uma <a href="http://www.insideblock.com/posts/palavras-chave-como-usar-o-google.html" target="_blank">identidade de negócio</a>, isso faz com que desperte interesse pelo <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a> proposto pelo site, levando eles a salvar a lista de favoritos e compartilhar com os amigos nas redes sociais.
+Criar um vínculo com os clientes leitores é muito importante, são eles que vão garantir o sucesso do seu site, o primeiro passo para fazer isso é criando uma <a href="http://www.insideblock.com/posts/palavras-chave-como-usar-o-google.html" target="_blank">identidade de negócio</a>, isso faz com que desperte interesse pelo nicho de mercado proposto pelo site, levando eles a salvar a lista de favoritos e compartilhar com os amigos nas redes sociais.
 
 A sua experiência com as dos seus clientes conta muito, planejar uma estratégia para manter o site atualizado é ótimo, entretanto você não pode se resumir apenas a isso, crie uma página de suporte ou uma página com as perguntas mais frequentes (S.A.Q), garante ainda mais a interação com os seus clientes, isso criar de forma automática uma sensação de compromisso, e mostra que o autor realmente tem experiência sobre o assunto apresentando um site profissional e muito eficiente.
 

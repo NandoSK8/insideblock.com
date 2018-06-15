@@ -3,8 +3,8 @@ layout: post
 title: Espelhar tela do iPhone no Windows ou Mac OS
 date: '2016-07-21T13:14:00.000-04:00'
 modified_time: '2016-10-02T00:26:37.640-04:00'
-tags: [Funcionalidade, Aplicação, Software]
-category: [Mobile]
+tags: [mobile, windows]
+category: [misc]
 img: /assets/posts/espelhar-tela-do-iphone-no-windows-ou/espelhar-tela-do-iphone-no-windows-ou.jpg
 author: true
 author_ediano: true
@@ -19,7 +19,7 @@ O LonelyScreen permite que você espelhe seu dispositivo para o Windows e Mac OS
 
 O aplicativo tem varias funções, como reproduzir o áudio no computador que esta tocando no dispositivo e espelhar e grava a tela espelhada, que possibilita a criação de tutoriais.
 
-* Acesse <a href="http://www.lonelyscreen.com/download.html" rel="nofollow" target="_blank">esse link</a> baixe e instale o aplicativo.
+* Acesse <a href="http://www.lonelyscreen.com/download.html" target="_blank" class="external-link" rel="nofollow">esse link</a> baixe e instale o aplicativo.
 
 * Apos ter instalado em seu computador abra o “LonelyScreen”.
 

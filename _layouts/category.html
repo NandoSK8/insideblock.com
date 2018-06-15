@@ -2,10 +2,14 @@
 layout: page
 ---
 
-{% for post in site.categories[page.category] %}
 <div class="category">
-    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-
-    <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 100 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 100 }}{% endif %}</p>
-</div>
+{% for post in site.categories[page.category] %}
+    <div class="content">
+        <div class="body">
+            <img src="{{ post.img }}" alt="{{ post.title }}"/>
+            
+            <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+        </div>
+    </div>
 {% endfor %}
+</div>

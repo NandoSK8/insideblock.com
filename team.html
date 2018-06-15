@@ -4,60 +4,42 @@ title: Equipe
 permalink: /team/
 ---
 
-{% for member in site.data.ediano %}
-<section class="author teal">
-    <div class="details grid" itemscope itemtype="http://schema.org/Person">
-        <img itemprop="image" class="img-rounded circle" src="{{ member.name_img }}" alt="{{ member.name }}">
-        <p class="def">{{ member.name_reference }}</p>
-        <h3 class="name">
-            <a itemprop="url" target="_blank" href="{{  member.site_link }}">
-                <span itemprop="name">{{  member.name }}</span></a>
-        </h3>
-        <p class="desc">{{ member.description_team }}</p>
+{% for people in site.data.ediano.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
     </div>
-
     <div class="social">
-        <a href="{{ member.site_link }}" target="_blank">
-            <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.google_link }}" target="_blank">
-            <img src="{{ member.google_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.twitter_link }}" target="_blank">
-            <img src="{{ member.twitter_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.facebook_link }}" target="_blank">
-            <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.instagram_link }}" target="_blank">
-            <img src="{{ member.instagram_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.github_link }}" target="_blank">
-            <img src="{{ member.github_ico }}" alt="{{ member.name }}" /></a>
-
-        <a href="{{ member.linkedin_link }}" target="_blank">
-            <img src="{{ member.linkedin_ico }}" alt="{{ member.name }}" /></a>
+        {% for social in site.data.ediano.social %}
+        <a href="{{ social.link }}" alt="{{ social.page }}"><svg><use xlink:href="#{{ social.icon }}"></use></svg></a>
+        {% endfor %}
     </div>
 </section>
 {% endfor %}
 
-{% for member in site.data.luciana_fabiano %}
-<section class="author pink">
-    <div class="details grid" itemscope itemtype="http://schema.org/Person">
-        <img itemprop="image" class="img-rounded circle" src="{{ member.name_img }}" alt="{{ member.name }}">
-        <p class="def">{{ member.name_reference }}</p>
-        <h3 class="name">
-            <a itemprop="url" target="_blank" href="{{  member.site_link }}">
-                <span itemprop="name">{{  member.name }}</span></a>
-        </h3>
-        <p class="desc">{{ member.description_team }}</p>
+{% for people in site.data.luciana.people %}
+<section class="author {{ people.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
+        <div class="content">
+            <p class="def">{{ people.def }}</p>
+            <h3 class="name" itemprop="author">
+                <a href="{{ people.link }}">{{ people.name }}</a>
+            </h3>
+            <p class="desc">{{ people.desc }}</p>
+        </div>
     </div>
-
     <div class="social">
-        <a href="{{ member.site_link }}" target="_blank">
-            <img src="{{ member.site_ico }}" alt="{{ member.name }}" /></a>
-        <a href="{{ member.facebook_link }}" target="_blank">
-            <img src="{{ member.facebook_ico }}" alt="{{ member.name }}" /></a>
+        {% for social in site.data.luciana.social %}
+        <a href="{{ social.link }}" alt="{{ social.page }}"><svg><use xlink:href="#{{ social.icon }}"></use></svg></a>
+        {% endfor %}
     </div>
 </section>
 {% endfor %}

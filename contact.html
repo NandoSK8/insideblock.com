@@ -4,46 +4,32 @@ title: Contato
 permalink: /contact/
 ---
 
-<div class="row">
-  <form class="col s12" action="/success/" name="contact" netlify>
-    <div class="row">
-      <div class="input-field col s6">
-        <input id="first_name" name="PrimeiroNome" type="text" required="" class="validate">
-        <label for="first_name">Primeiro nome</label>
-      </div>
-      <div class="input-field col s6">
-        <input id="last_name" type="text" name="Sobrenome" required="" class="validate">
-        <label for="last_name">Sobrenome</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="email" type="email" name="Email" required="" class="validate">
-        <label for="email">Email</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="text" type="text" name="Assunto" required="" class="validate">
-        <label for="text">Assunto</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <input id="url" type="text" name="Site" class="validate">
-        <label for="url">Url do site [opcional]</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="input-field col s12">
-        <textarea name="message" id="textarea1" required="" class="validate materialize-textarea"></textarea>
-        <label for="textarea1">Sua mensagem</label>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col s12">
-        <button class="btn blue" type="submit">Enviar</button>
-      </div>
-    </div>
-  </form>
+<div class="contact">
+    <form action="/success/" name="contact" autocomplete="off" netlify>
+        <div class="name-last-name">
+            <div class="first-name">
+                <input name="PrimeiroNome" type="text" placeholder="Primeiro nome" required="" class="validate">
+            </div>
+            <div class="last-name">
+                <input type="text" name="Sobrenome" placeholder="Sobrenome" required="" class="validate">
+            </div>
+        </div>
+        <div class="mail-text-url">
+            <div class="mail">
+                <input type="email" name="Email" placeholder="seu@email.com" required="" class="validate">
+            </div>
+            <div class="text">
+                <input type="text" name="Assunto" placeholder="Assunto" required="" class="validate">
+            </div>
+            <div class="url">
+                <input type="text" name="Site" placeholder="url do site [opcional]" class="validate">
+            </div>
+        </div>
+        <div class="message">
+            <textarea name="message" placeholder="Sua menssagem" required="" class="validate"></textarea>
+        </div>
+        <div class="submit">
+            <button class="btn" type="submit">Enviar</button>
+        </div>
+    </form>
 </div>

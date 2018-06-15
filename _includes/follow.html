@@ -1,32 +1,11 @@
-<div class="follow center" itemscope itemtype="http://schema.org/Organization">
+<div class="follow" itemscope itemtype="http://schema.org/Organization">
     <link itemprop="url" href="https://www.insideblock.com">
-    <div class="grid">
-        {% for people in site.data.insideblock %}
-        <div class="follow-text">Siga-nos nas nossas redes sociais</div>
-        <div class="follow-link">
-            <a itemprop="sameAs" target="_blank" href="{{ people.facebook_link }}">
-                <img src="{{ people.facebook_ico }}" alt="Siga no Facebook" />
+    <h4>Siga-nos em nossas redes sociais</h4>
+    <div class="content">
+        {% for follow in site.data.insideblock.social %}
+            <a class="{{ follow.icon }}" itemprop="sameAs" target="_blank" alt="Siga-nos no {{ follow.page }}" href="{{ follow.link }}">
+                <svg><use xlink:href="#{{ follow.icon }}"></use></svg>
             </a>
-
-            <a itemprop="sameAs" target="_blank" href="{{ people.twitter_link }}">
-                <img src="{{ people.twitter_ico }}" alt="Siga no Twitter" />
-            </a>
-
-            <a itemprop="sameAs" target="_blank" href="{{ people.google_link }}">
-                <img src="{{ people.google_ico }}" alt="Siga no Google Plus" />
-            </a>
-
-            <a itemprop="sameAs" target="_blank" href="{{ people.linkedin_link }}">
-                <img src="{{ people.linkedin_ico }}" alt="Siga no LinkeDin" />
-            </a>
-
-            <a itemprop="sameAs" target="_blank" href="{{ people.instagram_link }}">
-                <img src="{{ people.instagram_ico }}" alt="Siga no Instagram" />
-            </a>
-            <a itemprop="sameAs" target="_blank" href="{{ people.github_link }}">
-                <img src="{{ people.github_ico }}" alt="Siga no GitHub" />
-            </a>
-        </div>
         {% endfor %}
     </div>
 </div>

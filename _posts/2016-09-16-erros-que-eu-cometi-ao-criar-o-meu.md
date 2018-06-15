@@ -3,8 +3,8 @@ layout: post
 title: Erros que eu cometi ao criar o meu primeiro blog
 date: '2016-09-16T18:39:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.761-04:00'
-tags: [SEO, Otimização]
-category: [Otimização]
+tags: [dicas]
+category: [misc]
 img: /assets/posts/erros-que-eu-cometi-ao-criar-o-meu/erros-que-eu-cometi-ao-criar-o-meu.jpg
 author: true
 author_ediano: true
@@ -24,19 +24,19 @@ Essa é a decisão mais simples, porém eu escolhia errada eu não iniciei no Bl
 Não registrei um <a href="http://www.insideblock.com/posts/voce-vai-comprar-um-dominio-saiba-qual.html" target="_blank">domínio próprio</a>, a falta de um domínio *com, pode influenciar em várias coisas, uma delas é a dificuldade dos leitores decorarem o seu endereço na web, outra é a falta de elegância, já pensou um nome fácil e simples tipo “Inside Block” mas com o endereço “example.blogspot.com ou example.wordpres.com”, é realmente não é legal, isso dificulta as coisas e deixa o blog como se fosse amador (sem ofença por favor), mais legal seria apenas insideblock.com, viu simples e fácil.
 
 ## Nicho de mercado
-Um coisa muito importante para os buscadores é o <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, eu mesmo nunca tinha me focado em um, nem mesmo escrevia sobre um, meu primeiro blog foi um blog de download, isso mesmo eu disponibiliza download de drivers de placa mãe de computadores, isso nem mesmo é um <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, mesmo assim eu competia diretamente com os fabricantes que já disponibiliza os downloads.
+Um coisa muito importante para os buscadores é o nicho de mercado, eu mesmo nunca tinha me focado em um, nem mesmo escrevia sobre um, meu primeiro blog foi um blog de download, isso mesmo eu disponibiliza download de drivers de placa mãe de computadores, isso nem mesmo é um nicho de mercado, mesmo assim eu competia diretamente com os fabricantes que já disponibiliza os downloads.
 
 ## Metatags
-Nunca tinha usado, as <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">metatgs</a> também são muito importante para os buscadores, são elas que define que tipo de usuários os buscador vai levar para o seu blog, as descrições também são muitos importante a ausência delas desclassifica o posicionamento do blog, onde acaba perdendo a posição para outro.
+Nunca tinha usado, as metatgs também são muito importante para os buscadores, são elas que define que tipo de usuários os buscador vai levar para o seu blog, as descrições também são muitos importante a ausência delas desclassifica o posicionamento do blog, onde acaba perdendo a posição para outro.
 
 ## Posts de qualidade
 Criar qualquer post não é legal, e eu fazia muito isso, criava informações desnecessárias com erros ortográficos e tudo mais (eu não fazia por, era a falta de informações), falava sobre dois ou mais assuntos dentro de um único post, acabava fugindo da informação ao qual o título do assunto apresentava jamais cometa esse erro. Título do assunto e <a href="http://www.insideblock.com/posts/tecnicas-comprovada-para-ter-um-blog-de.html" target="_blank">conteúdo</a> do mesmo trabalha em conjunto, não adianta você por um título sobre “celular” se vai escrever sobre “computador”.
 
 ## Otimização dos posts
-Isso existe? Sim existe, e eu não fazia nem uma delas. A <a href="http://www.insideblock.com/posts/como-otimizar-seu-site-para-o.html" target="_blank">otimização do post</a> é algo crucial no mundo da blogosfera, fazer marcações com texto em negrito os entre “aspas” para diferenciar um parte do mesmo, é claro que você não vai sair por ai fazendo essas marcações sem necessidade, mas faça como acabamos de fazer. Imagens, criar um texto alternativo para as imagens fortalece a comunicação entre blog e buscado, criar uma legendas para elas ou adicione um título secundários e o suficiente.
+Isso existe? Sim existe, e eu não fazia nem uma delas. A otimização do post é algo crucial no mundo da blogosfera, fazer marcações com texto em negrito os entre “aspas” para diferenciar um parte do mesmo, é claro que você não vai sair por ai fazendo essas marcações sem necessidade, mas faça como acabamos de fazer. Imagens, criar um texto alternativo para as imagens fortalece a comunicação entre blog e buscado, criar uma legendas para elas ou adicione um título secundários e o suficiente.
 
 ## Divulgação
-Eu quase não trabalhava com divulgação. Mas que tipo de divulgação estou falando, estou falando das <a href="http://www.insideblock.com/category/Rede%20Sociais" target="_blank">redes sociais</a>, elas são fortes aliadas em conseguir visitas e otimizar seu blog com referências de links externos.
+Eu quase não trabalhava com divulgação. Mas que tipo de divulgação estou falando, estou falando das redes sociais, elas são fortes aliadas em conseguir visitas e otimizar seu blog com referências de links externos.
 
 ## Layout
 Modelo não otimizado, eu usar muito deles, até que aprendi a criar o meu próprio. Usar o modelo otimizado de fácil navegação e responsivo para dispositivos móveis, aumenta consideravelmente o ranking das página e o posicionamento para os motores de busca.

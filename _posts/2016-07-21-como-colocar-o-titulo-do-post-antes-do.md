@@ -3,8 +3,8 @@ layout: post
 title: Como colocar o título do post antes do nome do Blog do Blogger
 date: '2016-07-21T18:45:00.000-04:00'
 modified_time: '2017-05-02T13:21:44.858-04:00'
-tags: [Otimização, SEO, Códigos]
-category: [Otimização]
+tags: [blogger, seo]
+category: [dev]
 img: /assets/posts/como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
 author: true
 author_ediano: true
@@ -17,9 +17,9 @@ Nos Templates padrões do Blogger, quando se é aberto o mesmo blog em várias j
 
 Com a personalização do título do Post antes do nome do Blog; Nos provedores de busca pode ajuda, a ter todas as paginas do blog indexadas e gerar mais visitas por isso vale a pena personaliza o títulos do post e nome do seu blog.
 
-`1)` Acesse o Painel do Blogger › Layout › Editar html
+**1)** Acesse o Painel do Blogger › Layout › Editar html
 
-`2)` Precione as teclas ctrl+f e procure pela linha abaixo.
+**2)** Precione as teclas ctrl+f e procure pela linha abaixo.
 
 ```html
 <title><data:blog.pageTitle/></title>

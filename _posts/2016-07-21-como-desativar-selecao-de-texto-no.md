@@ -3,8 +3,8 @@ layout: post
 title: Como desativar a seleção de texto no Blogger
 date: '2016-07-21T14:05:00.000-04:00'
 modified_time: '2016-12-05T09:30:22.149-04:00'
-tags: [Aplicação, Otimização, Códigos]
-category: [Segurança Digital]
+tags: [blogger]
+category: [js]
 img: /assets/posts/como-desativar-selecao-de-texto-no/como-desativar-selecao-de-texto-no.jpg
 author: true
 author_ediano: true
@@ -21,14 +21,14 @@ Se você publica tutoriais entre outros posts em seu blog, onde seus visitantes 
 
 Recomendamos que antes de fazer qualquer alteração em seu template que faça o <b>BACKUP</b> do próprio.
 
-`1)` Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
+**1)** Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
 
-`2)` Agora procure pelo código abaixo. 
+**2)** Agora procure pelo código abaixo. 
 
 ```html
 </head>
 ```
-`3)` Adciones as tags script para receber o código js acima do código encontrado `(</head>)`.
+**3)** Adciones as tags script para receber o código js acima do código encontrado `(</head>)`.
 
 ```html
 <script type="text/javascript">
@@ -36,7 +36,7 @@ Recomendamos que antes de fazer qualquer alteração em seu template que faça o
 </script>
 ```
 
-`4)` Cole o seguinte código dentro do escopor das tags script.
+**4)** Cole o seguinte código dentro do escopor das tags script.
 
 ```js
 function disableSelection(target) {
@@ -58,13 +58,13 @@ function click() {
 document.onmousedown = click document.oncontextmenu = new Function("return false;")
 ```
 
-`5)` Procure pelo seguinte código.
+**5)** Procure pelo seguinte código.
 
 ```html
 </body>
 ```
 
-`6)` Novamente adciones as tags script para receber o código js abaixo do código encontrado.
+**6)** Novamente adciones as tags script para receber o código js abaixo do código encontrado.
 
 ```html
 <script type="text/javascript">
@@ -72,7 +72,7 @@ document.onmousedown = click document.oncontextmenu = new Function("return false
 </script>
 ```
 
-`7)` Cole o seguinte código dentro do segundo escopor das tags script.
+**7)** Cole o seguinte código dentro do segundo escopor das tags script.
 
 ```js
 disableSelection(document.body) //disable text selection on entire body of page

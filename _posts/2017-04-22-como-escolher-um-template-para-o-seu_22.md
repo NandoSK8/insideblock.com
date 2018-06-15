@@ -4,8 +4,8 @@ title: Como escolher um template para o seu blog
 description: "Escolher um modelo de site que agrada os usuários é algo primordial, independente do assunto proposto pelo blog. Por outro lado devemos levar em consideração o estudo do público alvo, descobrir novas tendências e acompanhar as exigências da atualidade."
 date: '2017-04-22T16:49:00.002-04:00'
 modified_time: '2018-01-07T20:50:06.485-04:00'
-tags: [SEO, Otimização]
-category: [Desenvolvimento Web]
+tags: [seo, dicas]
+category: [misc]
 img: /assets/posts/como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
 author: true
 author_ediano: true
@@ -16,12 +16,12 @@ ads: true
 
 Hoje existe um grande número de blogs espalhados pela internet, cada um com uma identidade diferente, uma forma de chamar a atenção dos leitores, tanto pelo bom conteúdo quanto pelo ótimo modelo que facilita a navegação dos usuários.
 
-Criar um blog não é apenas publicar um artigo ou uma imagem na internet, um blog antes de tudo se inicia na escolha do <a href="https://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, depois parte para a escolha do modelo e por último publicam-se os conteúdos.
+Criar um blog não é apenas publicar um artigo ou uma imagem na internet, um blog antes de tudo se inicia na escolha do nicho de mercado, depois parte para a escolha do modelo e por último publicam-se os conteúdos.
 
 Escolher um modelo de acordo com o assunto proposto no blog, nem sempre é fácil, principalmente para os blogueiros iniciantes. Mas o que devemos fazer, por onde devemos iniciar, o que temos que analisar antes de aplicar qualquer template em um blog?
 
 ## Nicho de mercado
-Muitos usuários questionam esta análise, ou pouco se importam com ela, entretanto este é o prato principal, quanto mais você trabalhar com o <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho de mercado</a>, maiores são os resultados de um blog.
+Muitos usuários questionam esta análise, ou pouco se importam com ela, entretanto este é o prato principal, quanto mais você trabalhar com o nicho de mercado, maiores são os resultados de um blog.
 
 Mas onde isso se encaixa quando se trata de escolher um modelo para um blog? Bom, este fato se encaixa em todas as análises, imagine um blog que aborda assuntos sobre tecnologia com um modelo voltado para o público infantil (eu exagerei um pouco fazendo esta análise), porém isso finda acontecendo, a falta de experiência do administrador de um blog pode levar tudo a perder.
 
@@ -44,6 +44,6 @@ As ferramentas de navegação são muitos importantes, são elas que vão ajudar
 ## Plataformas
 Hoje é muito fácil encontrar templates gratuitos para as plataformas mais populares, o problema é que você não pode usar qualquer modelo criado por terceiros para instalar em seu blog, alguns desenvolvedores agem de má fé, criam scripts que pode gerar alertas de malware, phishing entre outros. Vendo esta questão, decidi indicar alguns blogs que podem te ajudar a encontrar os melhores templates para as plataformas Blogger e WordPress.
 
-* **Blogger:** Apesar de não existir suporte para esses tipos de modelos no <a href="https://productforums.google.com/forum/#!forum/blogger-pt" rel="nofollow" target="_blank">fórum do Blogger</a>, um dos blogs indicado é o Blog do Paulo Guilherme, onde ele lista em um artigo “<a href="http://www.pauloguilherme.com/2014/11/melhores-sites-para-baixar-templates-para-blogger.html" target="_blank">Os melhores sites para baixar templates para Blogger</a>”.
+* **Blogger:** Apesar de não existir suporte para esses tipos de modelos no <a href="https://productforums.google.com/forum/#!forum/blogger-pt" target="_blank" class="external-link" rel="nofollow">fórum do Blogger</a>, um dos blogs indicado é o Blog do Paulo Guilherme, onde ele lista em um artigo “<a href="http://www.pauloguilherme.com/2014/11/melhores-sites-para-baixar-templates-para-blogger.html" target="_blank" class="external-link">Os melhores sites para baixar templates para Blogger</a>”.
 
-* **WordPress:** Para os usuários do WordPress o mais recomendado são os <a href="https://wordpress.org/themes/" rel="nofollow" target="_blank">templates oficiais da plataforma</a>, apesar de muitos desses modelos serem pagos, também existem centenas de modelos gratuitos. Embora o fórum do Blogger não ofereça suporte a este tipo de modelo, com o WordPress é diferente, o <a href="https://br.wordpress.org/support/" rel="nofollow" target="_blank">fórum oficial da plataforma</a> tem o compromisso de ajudar você a personalizar o seu blog.
+* **WordPress:** Para os usuários do WordPress o mais recomendado são os <a href="https://wordpress.org/themes/" target="_blank" class="external-link" rel="nofollow">templates oficiais da plataforma</a>, apesar de muitos desses modelos serem pagos, também existem centenas de modelos gratuitos. Embora o fórum do Blogger não ofereça suporte a este tipo de modelo, com o WordPress é diferente, o <a href="https://br.wordpress.org/support/" target="_blank" class="external-link" rel="nofollow">fórum oficial da plataforma</a> tem o compromisso de ajudar você a personalizar o seu blog.

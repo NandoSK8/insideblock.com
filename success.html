@@ -4,15 +4,84 @@ noindex: Sucesso
 permalink: /success/
 ---
 
-<div class="row">
-    <div class="col s12 white" style="padding-top: 25px;padding-bottom: 75px;border-radius: 3px">
-        <div class="center-align">
-            <h2 class="blue-text">Muito obrigado!</h2>
-            <p class="grey-text">Seu e-mail foi recebido com sucesso.</p>
+<head>
+    {% include head.html %}
+    <style type="text/css">
+            *,
+        *:before,
+        *:after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+            text-decoration: none;
+            outline: 0
+        }
+        
+        body {
+            background-color: #fff;
+            color: rgba(0, 0, 0, .75);
+            min-width: 100%;
+            display: block;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            text-align: center;
+            margin: 0;
+            font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+        }
+        
+        .success {
+            position: relative;
+            z-index: 10;
+            height: 100%;
+            width: 100%
+        }
+        
+        .success-content {
+            display: table;
+            width: 100%;
+            height: 100%
+        }
+        
+        .success .content {
+            display: table-cell;
+            vertical-align: middle
+        }
+        
+        .success .content>div {
+            display: block
+        }
+        
+        .success .title {
+            font-size: 5rem;
+            color: #00c7b7
+        }
+        
+        .success a {
+            display: inline-block;
+            font-weight: bold;
+            color: #00c7b7;
+            border: 1px solid;
+            border-radius: 3px;
+            padding: 5px;
+            margin: 15px 0 0 0;
+            text-transform: uppercase
+        }
 
-            <button class="btn white" style="margin-top: 30px">
-                <a class="grey-text" href="/contact/">Voltar</a>
-            </button>
+        .success a:hover {
+            color: #999
+        }
+    </style>
+</head>
+<body>
+    <div class="success">
+        <div class="success-content">
+            <div class="content">
+                <div class="title">Muito obrigado!</div>
+                <div class="desc">Seu e-mail foi recebido com sucesso.</div>
+                <div class="btn"><a href="{{ site.url }}">Voltar ao blog</a></div>
+            </div>
         </div>
     </div>
-</div>
+</body>

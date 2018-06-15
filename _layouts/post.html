@@ -2,66 +2,95 @@
 layout: default
 ---
 
-<div class="post">
+<head>
+    {% include head.html %}
+    {% include css_default.html %}
+    {% include css_post.html %}
+    {% include css_highlight.html %}
+</head>
 
-    <!-- Aside -->
-    <aside class="col s12 m12 l4 xl4 hide-on-med-and-down">
-        {% include aside.html %}
-    </aside>
+<body>
+    <!-- Header -->
+    {% include header.html %}
+    <!-- Main -->
+    <section class="content">
+        <header class="header-post" role="banner">
+            {% if page.img %}<img src="{{ page.img }}" alt="{{ page.img }}"/>{% endif %}
+            <div class="content">
+                <h1 class="post-title">{{ page.title }}</h1>
+                {% if page.description %}<p class="description">{{ page.description }}</p>{% endif %}
 
-    <!-- Article -->
-    <article class="col s12 m12 l8 xl8">
-        {% include seo_page_post.html %}
-        <div class="content">
-            <div class="open-post center">
-                <h2 class="post-title">{{ page.title }}</h2>
+                <div class="people-time-category">
+                    <div class="people">
+                        {% include people_post.html %}
+                    </div>
+                    
+                    <div class="time-category">
+                        {% if page.date %}
+                        <span><svg><use xlink:href="#icon-time"></use></svg><time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time></span>
+                        {% endif %}
 
-                {% include info_post.html %}
+                        <span class="category"><svg><use xlink:href="#icon-pricetag"></use></svg>
+                            {% for category in page.category %}
+                                <a href="/category/{{ category }}">{{ category }}</a>
+                            {% endfor %}
+                        </span>
+                    </div>
+                </div>
             </div>
+        </header>
 
-            {% if page.img %}
-            <div class="thumbnail-post">
-                <img src="{{ site.url }}{{ page.img }}" alt="{{ page.title }}" />
-            </div>
-            {% endif %}
+        {% include share.html %}
 
-            <div class="share" id="share">
-                {% include share.html %}
-            </div>
+        <article role="article" id="post" class="post">
+            {{ content }}
+            <hr/>
+        </article>
 
-            <div class="divider"></div>
+        {% include related.html %}
+        {% include share.html %}
+        {% include authors.html %}
+        {% include comments.html %}
+    </section>
 
-            <div class="category" id="category"> Você está em:
-                <a href="/">Home</a>› {% for category in page.category %}
-                <a href="/category/{{ category }}">{{ category }}</a>› {% endfor %}
-                <span class="post-title">{{ page.title }}</span>
-            </div>
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org/",
+            "@type": "BlogPosting",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+            },
+            "headline": "{{ page.title }}",
+            "datePublished": "{{ page.date }}",
+            "dateModified": "{{ page.date}}",
+            "description": "{{ content | strip_html | strip_newlines | truncate: 150 }}",
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{ site.url }}{{ page.img }}"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "
+                {% if page.author_ediano %}Ediano Silva Santos{% endif %}
+                {% if page.author_luciana %}Luciana Fabiano{% endif %}
+                {% if page.author_danielli %}Danielli Carvalho{% endif %}"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "{{ site.title }}",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "{{ site.url }}{{ site.logo }}"
+                }
+            },
+            "articleBody": "{{ content | strip_html | strip_newlines }}"
+        }
+    </script>
 
-            <div class="body flow-text">
-                {{ content }}
-            </div>
-        </div>
-
-        <!-- Pagination -->
-        <div class="pagination">
-            <div class="next">
-                {% if page.next.url %}
-                <a href="{{ page.next.url | prepend: site.baseurl }}">
-                    <span class="text"><i class="material-icons">arrow_back</i>Postagem mais recente</span>
-                    <span class="title-post">{{ page.next.title }}</span>
-                </a>
-                {% endif %}
-            </div>
-
-            <div class="prev">
-                {% if page.previous.url %}
-                <a href="{{ page.previous.url | prepend: site.baseurl }}">
-                    <span class="text">Postagem mais antiga<i class="material-icons">arrow_forward</i></span>
-                    <span class="title-post">{{ page.previous.title }}</span>
-                </a>
-                {% endif %}
-            </div>
-        </div>
-    </article>
-
-</div>
+    <!-- Footer -->
+    {% include follow.html %}
+    {% include footer.html %}
+    {% include icon-svg.html %}
+    {% include search.html %}
+</body>

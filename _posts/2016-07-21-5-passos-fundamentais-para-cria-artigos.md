@@ -3,8 +3,8 @@ layout: post
 title: 5 passos fundamentais para cria artigos de sucesso
 date: '2016-07-21T14:51:00.000-04:00'
 modified_time: '2016-09-30T20:39:42.436-04:00'
-tags: [SEO, Otimização, Aplicação]
-category: [Otimização]
+tags: [seo, otimização]
+category: [misc]
 img: /assets/posts/5-passos-fundamentais-para-cria-artigos/5-passos-fundamentais-para-cria-artigos.jpg
 author: true
 author_ediano: true
@@ -21,7 +21,7 @@ O grandes resultados de um blogs de sucesso, é que seus autores foção em um t
 Seu visitante é o seus aliado nisso, quanto mais você se interessar em que ele querem, maiores serão seus resultado, foque apenas em que seus visitante querem encontra em seu blog e site, se coloque no lugar dele e pense em que gostaria de entroncar, pensando assim você vai conseguir escrever e descobrir o que estão procurando ou precisando, você consegue fazer com que todo o resto, se torne muito mais fácil na hora de escrever seu próximo artigo, não se preocupe com as estatísticas do seus blog, e sim com a qualidade do conteúdos que você acabou de publica.
 
 ## Nicho de mercado
-Focar em um <a href="http://www.insideblock.com/posts/como-escolher-um-nicho-para-o-seu-blog.html" target="_blank">nicho</a> para o seu blog ou em um novo artigo, geralmente é bem difícil para os blogueiros iniciante, a conseguirem escrever um bom artigo para publicar, nesta hora recomendamos que busque o máximo de informação possível do assunto, e escreva com suas palavras sem a necessidade de plagio, o que você entendeu e tem à oferecer sobre o assunto estudado por você.
+Focar em um nicho para o seu blog ou em um novo artigo, geralmente é bem difícil para os blogueiros iniciante, a conseguirem escrever um bom artigo para publicar, nesta hora recomendamos que busque o máximo de informação possível do assunto, e escreva com suas palavras sem a necessidade de plagio, o que você entendeu e tem à oferecer sobre o assunto estudado por você.
 
 ## Informação
 Busque o máximo de informações possíveis, concretas e verdadeiras sobre o nicho em que você escolheu para falar, se você conseguiu informações lendo um outro artigo, de um blog qualquer, busque escrever com suas palavras sobre o assunto estudado, assim você pode oferecer um artigo com conclusões diferente do artigo original, se você optar por sitar um trecho do artigo original, não se esqueça de por os créditos do site oficial, no final do artigo ou abaixo do trecho copiado.
