@@ -17,9 +17,9 @@
 {% endif %}
 
 <meta name="theme-color" content="#2da0c3"/>
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-<link rel="icon" href="{{ site.url }}{{ site.favicon }}" type="image/x-icon" />
+<link rel="icon" type="image/x-icon" href="{{ site.url | append: site.favicon | prepend: site.baseurl }}" />
 
 <meta name="google-site-verification" content="WFfdXxzxwHG8RawsmRbU7KggGQx-kUe8m7A6LvjElN0" />
 <meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB" />
