@@ -20,20 +20,18 @@ layout: default
                 <h1 class="post-title">{{ page.title }}</h1>
                 {% if page.description %}<p class="description">{{ page.description }}</p>{% endif %}
 
-                <div class="people-time-category">
+                <div class="people-time-comments">
                     <div class="people">
                         {% include people_post.html %}
                     </div>
                     
-                    <div class="time-category">
+                    <div class="time-comments">
                         {% if page.date %}
                         <span><svg><use xlink:href="#icon-time"></use></svg><time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time></span>
                         {% endif %}
 
-                        <span class="category"><svg><use xlink:href="#icon-pricetag"></use></svg>
-                            {% for category in page.category %}
-                                <a href="/category/{{ category }}">{{ category }}</a>
-                            {% endfor %}
+                        <span class="comments"><svg><use xlink:href="#icon-comments"></use></svg>
+                            <a href="#disqus_thread"></a>
                         </span>
                     </div>
                 </div>

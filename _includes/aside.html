@@ -1,1 +1,12 @@
 {% include ads.html %}
+
+<div class="category">
+    <h5>Categorias</h5>
+    <ul>
+        {% for label in site.data.label %}
+        <li>
+            <a href="{{ label.link }}" class="{{ label.class }}">{{ label.name }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

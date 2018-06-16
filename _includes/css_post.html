@@ -55,17 +55,17 @@
         display: none
     }
     
-    .header-post .people-time-category span {
+    .header-post .people-time-comments span {
         margin: 0 10px;
         color: rgba(240, 240, 240, 1)
     }
     
-    .header-post .people-time-category span>* {
+    .header-post .people-time-comments span>* {
         color: rgb(255, 255, 255);
         font-weight: 500
     }
     
-    .header-post .people-time-category svg {
+    .header-post .people-time-comments svg {
         display: inline-block;
         height: 20px;
         width: 20px;
@@ -75,16 +75,12 @@
         top: 2.5px
     }
     
-    .header-post .people-time-category .category {
-        text-transform: capitalize
-    }
-    
     @media only screen and (min-width: 601px) {
         .header-post .content>* {
             display: flex;
             align-items: center
         }
-        .header-post .people-time-category>div {
+        .header-post .people-time-comments>div {
             width: 50%;
             display: inline-block
         }
@@ -112,7 +108,7 @@
         .header-post h1 {
             font-size: 1.75rem
         }
-        .people-time-category>div {
+        .people-time-comments>div {
             display: block;
             text-align: center
         }
@@ -422,14 +418,14 @@
         border-bottom: 1px solid #fff
     }
     
-    .comments {
+    .disqus-comments {
         position: relative;
         background: #fff;
         width: 100%;
         padding: 2rem 0 0 0
     }
     
-    .comments #disqus_thread {
+    .disqus-comments #disqus_thread {
         width: 90%;
         max-width: 800px;
         padding-bottom: 5rem;

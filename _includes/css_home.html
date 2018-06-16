@@ -13,7 +13,7 @@
         width: 100%;
         color: #fff;
         overflow: hidden;
-        box-shadow: 0 8px 17px 2px rgba(0,0,0,0.14),0 3px 14px 2px rgba(0,0,0,0.12),0 5px 5px -3px rgba(0,0,0,0.2)
+        box-shadow: 0 8px 17px 2px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2)
     }
     
     .ads-home .ads-project {
@@ -172,9 +172,10 @@
             float: left
         }
         article,
-        aside {
+        aside>div {
             border: 1px solid #eee;
-            border-radius: 3px
+            border-radius: 3px;
+            margin-bottom: 30px
         }
         article {
             height: 250px;
@@ -277,7 +278,7 @@
         padding: 5px 7.5px;
         border: 1px solid;
         border-radius: 3px;
-        text-transform: capitalize;
+        text-transform: uppercase;
         z-index: 1
     }
     
@@ -335,8 +336,9 @@
     }
     
     aside>div>div,
+    aside>div>ul,
     aside>div>ins>ins {
-        padding: 0 7.5px
+        padding: 0 7.5px 15px 7.5px !important
     }
     
     aside h5 {
@@ -346,6 +348,18 @@
         font-size: 1.5rem;
         background: #2da0c3;
         color: #fff
+    }
+    
+    aside ul li {
+        display: inline-block
+    }
+    
+    aside ul a {
+        padding: 7.5px;
+        margin: 5px;
+        border: 1px solid rgba(0, 0, 0, .1);
+        border-radius: 5px;
+        font-weight: 500
     }
     
     .pagination {

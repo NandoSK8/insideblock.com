@@ -1,26 +1,27 @@
-- name: Aplicação
-  link: /category/Aplicação
+- name: Comunicado
+  link: /category/comunicado
+  class: comunicado
 
-- name: Desenvolvimento Web
-  link: /category/Desenvolvimento Web
+- name: CSS
+  link: /category/css
+  class: css
 
-- name: Mobile
-  link: /category/Mobile
+- name: Dev
+  link: /category/dev
+  class: dev
 
-- name: Monetização
-  link: /category/Monetização
+- name: Jekyll
+  link: /category/jekyll
+  class: jekyll hide
 
-- name: Notícias
-  link: /category/Notícias
+- name: JS
+  link: /category/js
+  class: js
 
-- name: Otimização
-  link: /category/Otimização
+- name: Misc
+  link: /category/misc
+  class: misc
 
-- name: Segurança Digital
-  link: /label/segurança-digital
-
-- name: Serviços Online
-  link: /label/serviços-online
-
-- name: Sistema
-  link: /label/sistema
+- name: SVG
+  link: /label/svg
+  class: svg hide
