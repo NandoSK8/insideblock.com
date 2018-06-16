@@ -24,7 +24,7 @@ files_to_cache:
  - ''
 
 pages_to_cache:
-  - '/'
+  - '/offline/index.html'
 
 include: ['_redirects', '_headers']
 

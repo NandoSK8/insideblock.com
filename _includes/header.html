@@ -28,6 +28,7 @@
         <div class="list-mobile">
             <label class="mobile" for="mobile"></label>
             <ul>
+                <h4>MENU</h4>
                 {% for link in site.data.nav.nav %}
                 <li><a href="{{ link.url }}" class="{{ link.page }}">{{ link.page }}</a></li>
                 {% endfor %}

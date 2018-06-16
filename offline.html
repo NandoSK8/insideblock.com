@@ -1,8 +1,85 @@
 ---
-layout: offline
+layout: default
 noindex: Inside Block - Offline Page
 permalink: /offline/index.html
-img: "/assets/img/offline-game.jpg"
-description: "Não, parece que você está sem internet."
 ---
 
+<head>
+    {% include head.html %}
+    <style type="text/css">
+    *,
+        *:before,
+        *:after {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+            text-decoration: none;
+            outline: 0
+        }
+        
+        body {
+            background-color: rgba(17, 17, 17, 0.75);
+            color: #fff;
+            min-width: 100%;
+            display: block;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            text-align: center;
+            margin: 0;
+            font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+        }
+        
+        .offline {
+            position: relative;
+            z-index: 10;
+            height: 100%;
+            width: 100%
+        }
+        
+        .offline-content {
+            display: table;
+            width: 100%;
+            height: 100%
+        }
+        
+        .offline .content {
+            display: table-cell;
+            vertical-align: middle
+        }
+
+        .offline .link {
+            display: block
+        }
+        
+        .offline .link a {
+            display: inline-block;
+            font-weight: bold;
+            color: #2da0c3;
+            border: 1px solid;
+            border-radius: 3px;
+            padding: 5px;
+            margin: 15px 0 0 0;
+            text-transform: uppercase
+        }
+
+        .offline a:hover {
+            color: #ccc
+        }
+    </style>
+</head>
+
+<body>
+    <div class="offline">
+        <div class="offline-content">
+            <div class="content">
+                Opa, parece que você está sem internet.<br/>
+                Tente atualiza a página em alguns instantes.
+                <div class="link">
+                    <a href="{{ site.url }}">Atualizar página</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
