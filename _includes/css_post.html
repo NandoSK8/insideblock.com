@@ -191,7 +191,8 @@
         letter-spacing: .069rem
     }
     
-    article div.highlighter-rouge {
+    article div.highlighter-rouge,
+    figure.highlight {
         min-width: 100% !important;
         padding: 0 !important
     }
@@ -201,6 +202,19 @@
         border-left: .313rem solid #2da0c3;
         padding-left: 1.5rem;
         overflow: auto
+    }
+    
+    article .tags {
+        text-align: right;
+        margin-top: 1.75rem
+    }
+
+    article .tags a {
+        margin: 0 2.5px
+    }
+    
+    article .tags a::after {
+        content: none
     }
     
     article hr {
