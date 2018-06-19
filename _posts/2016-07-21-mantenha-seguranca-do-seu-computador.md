@@ -3,7 +3,7 @@ layout: post
 title: Mantenha a segurança do seu computador com Windows
 date: '2016-07-21T14:46:00.000-04:00'
 modified_time: '2016-10-02T00:13:39.962-04:00'
-tags: [windows]
+tags: [windows, segurança, dicas, misc]
 category: [misc]
 img: /assets/posts/mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
 author: true

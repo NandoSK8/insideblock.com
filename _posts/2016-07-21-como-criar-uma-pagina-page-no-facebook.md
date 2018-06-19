@@ -3,7 +3,7 @@ layout: post
 title: Como criar uma página Fan Page no Facebook
 date: '2016-07-21T13:30:00.000-04:00'
 modified_time: '2016-10-01T14:13:09.372-04:00'
-tags: [seo, redes sociais]
+tags: [seo, redes sociais, misc]
 category: [misc]
 img: /assets/posts/como-criar-uma-pagina-page-no-facebook/como-criar-uma-pagina-page-no-facebook.jpg
 author: true

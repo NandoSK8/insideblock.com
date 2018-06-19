@@ -3,7 +3,7 @@ layout: post
 title: Como remover a pasta Windows.old
 date: '2016-07-21T09:58:00.000-04:00'
 modified_time: '2016-10-01T14:18:46.050-04:00'
-tags: [windows]
+tags: [windows, tutorial, otimização, misc]
 category: [misc]
 img: /assets/posts/como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
 author: true

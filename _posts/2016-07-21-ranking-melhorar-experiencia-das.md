@@ -3,7 +3,7 @@ layout: post
 title: "Ranking: Melhorar a experiência das páginas com site responsivo"
 date: '2016-07-21T22:14:00.000-04:00'
 modified_time: '2016-12-05T09:32:53.770-04:00'
-tags: [seo, dicas]
+tags: [seo, dicas, otimização, css]
 category: [css]
 img: /assets/posts/ranking-melhorar-experiencia-das/ranking-melhorar-experiencia-das.jpg
 author: true

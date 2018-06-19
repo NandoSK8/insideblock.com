@@ -4,7 +4,7 @@ title: Como migrar conteúdos do Blogger para o WordPress
 description: "Não importa o quanto você gosta de uma plataforma, querendo ou não um dia você vai pensar em migrar o seu blog, se hoje for esse dia, veja como você pode fazer todos os procedimentos de migração do Blogger para o WordPress."
 date: '2016-11-05T18:59:00.000-04:00'
 modified_time: '2018-01-07T20:05:40.130-04:00'
-tags: [blogger, wordpress]
+tags: [blogger, wordpress, tutorial, misc]
 category: [misc]
 img: /assets/posts/como-migrar-conteudos-do-blogger-para-o/como-migrar-conteudos-do-blogger-para-o.jpg
 author: true

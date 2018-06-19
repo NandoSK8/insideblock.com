@@ -4,7 +4,7 @@ title: Os melhores frameworks front-end para web design
 description: "Diferente de alguns anos atrás, quando a era online ainda estava engatinhando, hoje existem centenas de frameworks front-end que aceleram a construção de sites e aplicativos. Criamos uma lista com os melhores e mais populares, confira você mesmo."
 date: '2017-01-05T22:10:00.000-04:00'
 modified_time: '2017-06-11T23:45:53.381-04:00'
-tags: [dicas, frontend]
+tags: [dicas, frontend, dev]
 category: [dev]
 img: /assets/posts/os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
 author: true

@@ -3,7 +3,7 @@ layout: post
 title: Resumo de postagem automático com imagem para Blogger
 date: '2016-09-17T19:01:00.000-04:00'
 modified_time: '2016-12-05T09:28:18.201-04:00'
-tags: [blogger, dicas]
+tags: [blogger, dicas, dev, otimização]
 category: [dev]
 img: /assets/posts/resumo-de-postagem-automatico-com/resumo-de-postagem-automatico-com.jpg
 author: true

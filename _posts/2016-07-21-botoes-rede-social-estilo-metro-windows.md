@@ -3,7 +3,7 @@ layout: post
 title: Botões rede social estilo Metro Windows 8
 date: '2016-07-21T14:06:00.000-04:00'
 modified_time: '2016-12-05T09:30:22.141-04:00'
-tags: [css, seo]
+tags: [css, seo, redes sociais, css]
 category: [css]
 img: /assets/posts/botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
 author: true

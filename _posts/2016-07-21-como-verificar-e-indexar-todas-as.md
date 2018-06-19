@@ -3,7 +3,7 @@ layout: post
 title: Como verificar e indexar todas as paginas do blog no Google
 date: '2016-07-21T18:20:00.000-04:00'
 modified_time: '2016-10-01T14:14:54.610-04:00'
-tags: [seo, dicas]
+tags: [seo, dicas, blogger, dev]
 category: [dev]
 img: /assets/posts/como-verificar-e-indexar-todas-as/como-verificar-e-indexar-todas-as.png
 author: true

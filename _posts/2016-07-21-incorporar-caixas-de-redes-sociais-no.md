@@ -3,7 +3,7 @@ layout: post
 title: Incorporar caixas de redes sociais no site e blog
 date: '2016-07-21T14:48:00.000-04:00'
 modified_time: '2016-09-30T20:35:46.826-04:00'
-tags: [seo, redes sociais]
+tags: [seo, redes sociais, otimização, dev]
 category: [dev]
 img: /assets/posts/incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
 author: true

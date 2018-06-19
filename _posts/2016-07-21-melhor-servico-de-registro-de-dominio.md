@@ -3,8 +3,8 @@ layout: post
 title: Melhor serviço de registro de domínio
 date: '2016-07-21T14:06:00.000-04:00'
 modified_time: '2016-10-01T13:51:59.258-04:00'
-tags: [dicas]
-category: [misc]
+tags: [dicas, dev]
+category: [dev]
 img: /assets/posts/melhor-servico-de-registro-de-dominio/melhor-servico-de-registro-de-dominio.jpg
 author: true
 author_ediano: true
