@@ -1,0 +1,19 @@
+<ol class="item-list-element hide" itemscope itemtype="http://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ site.url }}">
+          <span itemprop="name">Home</span>
+        </a>
+    </li>/
+    {% for cat in page.category %}
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a class="cat" itemprop="item" href="{{ site.url }}/category/{{ page.category }}">
+          <span itemprop="name">{{ page.category }}</span>
+        </a>
+    </li>/
+    {% endfor %}
+    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="{{ page.url }}">
+          <span itemprop="name">{{ page.title }}</span>
+        </a>
+    </li>
+</ol>
