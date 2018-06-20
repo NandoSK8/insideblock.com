@@ -1,20 +1,37 @@
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81236717-1"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', '{{ site.google_analytics }}');
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', '{{ site.google_analytics }}');
 </script>
 
 <!-- Service worker -->
 <script type="text/javascript">
-  if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("/offline.js").then(function(registration) {
-          console.info("Service Worker registration successful with scope: ", registration.scope);
-      }).catch(function(err) {
-          console.error("Service Worker registration failed: ", err);
-      });
-  }
+    if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/offline.js").then(function(registration) {
+            console.info("Service Worker registration successful with scope: ", registration.scope);
+        }).catch(function(err) {
+            console.error("Service Worker registration failed: ", err);
+        });
+    }
+</script>
+
+<!-- Search for Google -->
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.insideblock.com",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://www.insideblock.com/{query}",
+          "query-input": "required name="search_results""
+        }
+    }
 </script>

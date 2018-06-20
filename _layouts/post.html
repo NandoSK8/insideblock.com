@@ -43,14 +43,19 @@ layout: default
         
         <article role="article" id="post" class="post">
             {{ content }}
-            <hr/>
-            <div class="tags">#Tags:
-            {% for tag in page.tags %}
-                <a href="/tags/#{{ tag }}">{{ tag }}</a>
-            {% endfor %}
-            </div>
-            <hr/>
         </article>
+
+        {% include ads.html %}
+
+            <hr/>
+
+        <div class="tags">#Tags:
+        {% for tag in page.tags %}
+            <a href="/tags/#{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+        </div>
+
+            <hr/>
 
         {% include related.html %}
         {% include share.html %}
