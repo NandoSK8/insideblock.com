@@ -16,7 +16,7 @@
 {% endif %}
 
 {% if page.author_luciana %}
-{% for people in site.data.luciana_fabiano.people %}
+{% for people in site.data.luciana.people %}
 <section class="author {{ people.color }}">
     <div class="details">
         <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
@@ -50,7 +50,7 @@
 {% endif %}
 
 {% if page.coauthor_luciana %}
-{% for people in site.data.luciana_fabiano.people %}
+{% for people in site.data.luciana.people %}
 <section class="author {{ people.color }}">
     <div class="details">
         <img itemprop="image" src="{{ people.img }}" alt="{{ people.name }}">
