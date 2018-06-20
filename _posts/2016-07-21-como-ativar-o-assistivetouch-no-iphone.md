@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como ativar o AssistiveTouch no iPhone?
-date: '2016-07-21T12:17:00.000-04:00'
-modified_time: '2016-10-01T14:29:36.843-04:00'
+date: '2016-07-21 12:17:00'
 tags: [mobile, ios, tutorial, misc]
 category: [misc]
 img: /assets/posts/como-ativar-o-assistivetouch-no-iphone/como-ativar-o-assistivetouch-no-iphone.jpg

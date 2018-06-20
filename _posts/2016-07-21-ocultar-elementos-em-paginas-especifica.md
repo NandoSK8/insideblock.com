@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ocultar elementos em páginas específica do Blogger
-date: '2016-07-21T22:34:00.000-04:00'
-modified_time: '2016-12-05T09:30:45.666-04:00'
+date: '2016-07-21 22:34:00'
 tags: [seo, blogger, dicas, dev]
 category: [dev]
 img: /assets/posts/ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg

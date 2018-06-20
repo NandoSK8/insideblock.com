@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Erros que eu cometi ao criar o meu primeiro blog
-date: '2016-09-16T18:39:00.000-04:00'
-modified_time: '2016-12-05T09:32:53.761-04:00'
+date: '2016-09-16 18:39:00'
 tags: [dicas, misc]
 category: [misc]
 img: /assets/posts/erros-que-eu-cometi-ao-criar-o-meu/erros-que-eu-cometi-ao-criar-o-meu.jpg

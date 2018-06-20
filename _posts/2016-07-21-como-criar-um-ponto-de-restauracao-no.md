@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como criar um ponto de restauração no windows 7, 8, 8.1, 10
-date: '2016-07-21T16:24:00.000-04:00'
-modified_time: '2016-10-01T13:54:59.921-04:00'
+date: '2016-07-21 16:24:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 img: /assets/posts/como-criar-um-ponto-de-restauracao-no/como-criar-um-ponto-de-restauracao-no.jpg

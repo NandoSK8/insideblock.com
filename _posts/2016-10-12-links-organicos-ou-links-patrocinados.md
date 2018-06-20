@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Links organicos ou links patrocinados: Quais os usuários e os buscadores preferem'
-date: '2016-10-12T00:19:00.001-04:00'
-modified_time: '2016-12-05T09:34:15.484-04:00'
+date: '2016-10-12 00:19:00'
 tags: [seo, dicas, otimização, misc]
 category: [misc]
 img: /assets/posts/links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg

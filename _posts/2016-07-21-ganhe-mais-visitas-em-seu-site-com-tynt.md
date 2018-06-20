@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ganhe mais visitas em seu site com Tynt
-date: '2016-07-21T14:50:00.000-04:00'
-modified_time: '2016-09-30T20:37:09.936-04:00'
+date: '2016-07-21 14:50:00'
 tags: [seo, dicas, otimização, js]
 category: [js]
 img: /assets/posts/ganhe-mais-visitas-em-seu-site-com-tynt/ganhe-mais-visitas-em-seu-site-com-tynt.jpg

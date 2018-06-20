@@ -1,8 +1,7 @@
 ---
 layout: post
 title: O que aconteceria com seu site se o Google acabasse agora
-date: '2016-10-24T20:37:00.000-04:00'
-modified_time: '2016-11-26T19:54:47.167-04:00'
+date: '2016-10-24 20:37:00'
 tags: [seo, dicas, misc]
 category: [misc]
 img: /assets/posts/o-que-aconteceria-com-seu-site-se-o/o-que-aconteceria-com-seu-site-se-o.jpg

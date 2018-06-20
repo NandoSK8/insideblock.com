@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Clouding computing serviços de armazenamento em nuvem
-date: '2016-07-21T20:34:00.000-04:00'
-modified_time: '2016-10-02T00:35:48.042-04:00'
+date: '2016-07-21 20:34:00'
 tags: [dicas, cloud, misc]
 category: [misc]
 img: /assets/posts/clouding-computing-servicos-de/clouding-computing-servicos-de.jpg

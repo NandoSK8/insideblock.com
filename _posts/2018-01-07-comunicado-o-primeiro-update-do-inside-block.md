@@ -2,8 +2,7 @@
 layout: post
 title: "Comunicado: O primeiro grande update do blog Inside Block"
 description: "O primeiro grande update do Inside Block está cheio de novidades, como um novo layout e uma nova plataforma de desenvolvimento. Aderimos também um novo conceito de trabalho e uma nova estratégia de publicação de conteúdos."
-date: '2018-01-07T19:10:45.000-04:00'
-modified_time: '2018-01-07T19:10:45.000-04:00'
+date: '2018-01-07 19:10:45'
 tags: [comunicado]
 category: [comunicado]
 img: /assets/posts/comunicado-o-primeiro-update-do-inside-block/comunicado-o-primeiro-update-do-inside-block.jpg

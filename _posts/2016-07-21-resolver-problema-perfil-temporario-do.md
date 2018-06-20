@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Resolver problema: Perfil temporário do Windows'
-date: '2016-07-21T14:08:00.000-04:00'
-modified_time: '2016-10-01T14:08:51.276-04:00'
+date: '2016-07-21 14:08:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 img: /assets/posts/resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg

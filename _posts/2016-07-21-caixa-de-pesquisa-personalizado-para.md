@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Caixa de pesquisa personalizado para blogger
-date: '2016-07-21T17:18:00.000-04:00'
-modified_time: '2016-12-05T09:30:45.670-04:00'
+date: '2016-07-21 17:18:00'
 tags: [css, seo, blogger, dev]
 category: [dev]
 img: /assets/posts/caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como ativar o comentário do Google+ no Blogger
-date: '2016-07-21T12:40:00.000-04:00'
-modified_time: '2016-12-05T09:30:45.658-04:00'
+date: '2016-07-21 12:40:00'
 tags: [blogger, seo, redes sociais, misc]
 category: [misc]
 img: /assets/posts/como-ativar-o-comentario-do-google-no/como-ativar-o-comentario-do-google-no.jpg

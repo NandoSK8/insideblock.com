@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Visual Studio Code: Novo editor de códigos da Microsoft'
-date: '2016-10-15T02:00:00.001-04:00'
-modified_time: '2017-07-04T00:33:18.109-04:00'
+date: '2016-10-15 02:00:00'
 tags: [dicas, apps, misc]
 category: [misc]
 img: /assets/posts/visual-studio-code-novo-editor-de/visual-studio-code-novo-editor-de.jpg

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como colocar o título do post antes do nome do Blog do Blogger
-date: '2016-07-21T18:45:00.000-04:00'
-modified_time: '2017-05-02T13:21:44.858-04:00'
+date: '2016-07-21 18:45:00'
 tags: [blogger, seo, tutorial, dev]
 category: [dev]
 img: /assets/posts/como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg

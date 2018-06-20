@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 'Palavras-chave: Como usar o Google AdWords #Parte 1'
-date: '2016-10-18T23:48:00.000-04:00'
-modified_time: '2016-10-18T23:48:04.492-04:00'
+date: '2016-10-18 23:48:00'
 tags: [dicas, seo, adwords, misc]
 category: [misc]
 img: /assets/posts/palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg

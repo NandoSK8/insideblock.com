@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Qual a função do Sintonizador System UI do Android 6 Marshmallow?
-date: '2016-07-21T17:45:00.000-04:00'
-modified_time: '2017-01-05T21:55:29.518-04:00'
+date: '2016-07-21 17:45:00'
 tags: [mobile, android, tutorial, misc]
 category: [misc]
 img: /assets/posts/qual-funcao-do-sintonizador-system-ui/qual-funcao-do-sintonizador-system-ui.jpg

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Qual a diferença entre um site e um blog
-date: '2016-08-18T19:26:00.000-04:00'
-modified_time: '2016-12-05T09:32:53.776-04:00'
+date: '2016-08-18 19:26:00'
 tags: [dicas, misc]
 category: [misc]
 img: /assets/posts/qual-diferenca-entre-um-site-e-um-blog/qual-diferenca-entre-um-site-e-um-blog.jpg

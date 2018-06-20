@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Quebre a senha de qualquer computador Windows
-date: '2016-07-21T13:37:00.000-04:00'
-modified_time: '2016-10-01T14:27:22.893-04:00'
+date: '2016-07-21 13:37:00'
 tags: [windows, segurança, misc]
 category: [misc]
 img: /assets/posts/quebre-senha-de-qualquer-computador/quebre-senha-de-qualquer-computador.jpg

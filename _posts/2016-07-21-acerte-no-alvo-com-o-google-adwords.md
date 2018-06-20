@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Acerte no alvo com o Google AdWords
-date: '2016-07-21T17:23:00.000-04:00'
-modified_time: '2016-10-01T01:44:44.920-04:00'
+date: '2016-07-21 17:23:00'
 tags: [seo, otimização, adwords, misc]
 category: [misc]
 img: /assets/posts/acerte-no-alvo-com-o-google-adwords/acerte-no-alvo-com-o-google-adwords.jpg

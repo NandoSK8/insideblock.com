@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como colocar Mapa do Site no Blogger
-date: '2016-07-21T12:04:00.000-04:00'
-modified_time: '2017-06-22T23:20:15.329-04:00'
+date: '2016-07-21 12:04:00'
 tags: [seo, blogger, tutorial, dev]
 category: [dev]
 img: /assets/posts/como-colocar-mapa-do-site-no-blogger/como-colocar-mapa-do-site-no-blogger.jpg

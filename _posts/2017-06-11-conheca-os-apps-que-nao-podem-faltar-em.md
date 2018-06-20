@@ -2,8 +2,7 @@
 layout: post
 title: Conheça os apps que não podem faltar em seu smartphone
 description: "Escolher apps para realizar determinadas tarefas no smartphone nem sempre é fácil, pois sempre temos que fazer testes com vários aplicativos, muitos deles de fontes desconhecidas que podem expor nossa privacidade. Pensando nisso reunimos aqui alguns apps para lhe ajudar."
-date: '2017-06-11T22:23:00.001-04:00'
-modified_time: '2017-07-11T00:43:11.017-04:00'
+date: '2017-06-11 22:23:00'
 tags: [mobile, android, dicas, misc]
 category: [misc]
 img: /assets/posts/conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg

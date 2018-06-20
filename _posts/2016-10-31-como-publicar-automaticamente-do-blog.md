@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Como publicar automaticamente do blog para as redes sociais
-date: '2016-10-31T18:50:00.000-04:00'
-modified_time: '2016-11-24T00:34:01.636-04:00'
+date: '2016-10-31 18:50:00'
 tags: [seo, dicas, tutorial, dev]
 category: [dev]
 img: /assets/posts/como-publicar-automaticamente-do-blog/como-publicar-automaticamente-do-blog.jpg
