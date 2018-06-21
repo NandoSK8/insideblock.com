@@ -4,8 +4,8 @@ title: Clouding computing serviços de armazenamento em nuvem
 date: '2016-07-21 20:34:00'
 tags: [dicas, cloud, misc]
 category: [misc]
-img: /assets/posts/clouding-computing-servicos-de/clouding-computing-servicos-de.jpg
-author: true
+image: /assets/posts/clouding-computing-servicos-de/clouding-computing-servicos-de.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

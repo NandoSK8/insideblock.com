@@ -4,8 +4,8 @@ title: 'Links organicos ou links patrocinados: Quais os usuários e os buscadore
 date: '2016-10-12 00:19:00'
 tags: [seo, dicas, otimização, misc]
 category: [misc]
-img: /assets/posts/links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg
-author: true
+image: /assets/posts/links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

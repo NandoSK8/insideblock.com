@@ -4,8 +4,8 @@ title: Caixa de pesquisa personalizado para blogger
 date: '2016-07-21 17:18:00'
 tags: [css, seo, blogger, dev]
 category: [dev]
-img: /assets/posts/caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
-author: true
+image: /assets/posts/caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

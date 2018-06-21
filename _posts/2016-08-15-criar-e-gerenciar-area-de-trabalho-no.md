@@ -4,8 +4,8 @@ title: Criar e gerenciar área de trabalho no Windows 10
 date: '2016-08-15 14:51:00'
 tags: [windows, tutorial, misc]
 category: [misc]
-img: /assets/posts/criar-e-gerenciar-area-de-trabalho-no/criar-e-gerenciar-area-de-trabalho-no.jpg
-author: true
+image: /assets/posts/criar-e-gerenciar-area-de-trabalho-no/criar-e-gerenciar-area-de-trabalho-no.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

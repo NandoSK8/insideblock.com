@@ -4,8 +4,8 @@ title: O que aconteceria com seu site se o Google acabasse agora
 date: '2016-10-24 20:37:00'
 tags: [seo, dicas, misc]
 category: [misc]
-img: /assets/posts/o-que-aconteceria-com-seu-site-se-o/o-que-aconteceria-com-seu-site-se-o.jpg
-author: true
+image: /assets/posts/o-que-aconteceria-com-seu-site-se-o/o-que-aconteceria-com-seu-site-se-o.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

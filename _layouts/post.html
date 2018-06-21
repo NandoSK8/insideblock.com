@@ -16,7 +16,7 @@ layout: default
     <!-- Main -->
     <section class="content">
         <header class="header-post" role="banner">
-            {% if page.img %}<img src="{{ page.img }}" alt="{{ page.img }}"/>{% endif %}
+            {% if page.img %}<img src="{{ page.image }}" alt="{{ page.image }}"/>{% endif %}
             <div class="content">
                 {% include breadcrumb_list.html %}
 
@@ -80,7 +80,7 @@ layout: default
             "description": "{{ content | strip_html | strip_newlines | truncate: 150 }}",
             "image": {
                 "@type": "ImageObject",
-                "url": "{{ site.url }}{{ page.img }}"
+                "url": "{{ site.url }}{{ page.image }}"
             },
             "author": {
                 "@type": "Person",

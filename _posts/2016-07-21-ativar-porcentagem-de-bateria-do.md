@@ -4,8 +4,8 @@ title: Ativar a porcentagem de bateria do Android 6 Marshmallow
 date: '2016-07-21 23:29:00'
 tags: [mobile, android, dicas, tutorial, misc]
 category: [misc]
-img: /assets/posts/ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
-author: true
+image: /assets/posts/ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

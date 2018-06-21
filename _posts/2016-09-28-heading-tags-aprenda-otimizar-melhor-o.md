@@ -4,8 +4,8 @@ title: Heading tags aprenda a otimizar melhor o Blogger
 date: '2016-09-28 23:15:00'
 tags: [blogger, seo, otimização, dev]
 category: [dev]
-img: /assets/posts/heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
-author: true
+image: /assets/posts/heading-tags-aprenda-otimizar-melhor-o/heading-tags-aprenda-otimizar-melhor-o.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

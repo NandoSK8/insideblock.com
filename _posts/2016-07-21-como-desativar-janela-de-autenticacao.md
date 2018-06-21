@@ -4,8 +4,8 @@ title: Desativar janela de autenticação de proxy no Office
 date: '2016-07-21 18:40:00'
 tags: [windows, apps, tutorial, misc]
 category: [misc]
-img: /assets/posts/como-desativar-janela-de-autenticacao/como-desativar-janela-de-autenticacao.jpg
-author: true
+image: /assets/posts/como-desativar-janela-de-autenticacao/como-desativar-janela-de-autenticacao.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -4,8 +4,8 @@ title: ID vs CLASS quem vence entre os seletores HTML
 date: '2016-07-21 18:49:00'
 tags: [seo, dicas, css]
 category: [css]
-img: /assets/posts/id-vs-class-quem-vence-entre-os/id-vs-class-quem-vence-entre-os.jpg
-author: true
+image: /assets/posts/id-vs-class-quem-vence-entre-os/id-vs-class-quem-vence-entre-os.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

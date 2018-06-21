@@ -5,8 +5,8 @@ description: "O Google pretende lançar um novo visual para a plataforma Blogger
 date: '2016-11-22 22:34:00'
 tags: [dicas, blogger, misc]
 category: [misc]
-img: /assets/posts/novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
-author: true
+image: /assets/posts/novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

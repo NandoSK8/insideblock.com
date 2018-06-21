@@ -4,8 +4,8 @@ title: Como verificar e indexar todas as paginas do blog no Google
 date: '2016-07-21 18:20:00'
 tags: [seo, dicas, blogger, dev]
 category: [dev]
-img: /assets/posts/como-verificar-e-indexar-todas-as/como-verificar-e-indexar-todas-as.png
-author: true
+image: /assets/posts/como-verificar-e-indexar-todas-as/como-verificar-e-indexar-todas-as.png
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

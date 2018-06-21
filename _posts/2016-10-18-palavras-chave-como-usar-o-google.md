@@ -4,8 +4,8 @@ title: 'Palavras-chave: Como usar o Google AdWords #Parte 1'
 date: '2016-10-18 23:48:00'
 tags: [dicas, seo, adwords, misc]
 category: [misc]
-img: /assets/posts/palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg
-author: true
+image: /assets/posts/palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

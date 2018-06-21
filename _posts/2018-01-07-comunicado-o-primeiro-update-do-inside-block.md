@@ -5,8 +5,8 @@ description: "O primeiro grande update do Inside Block está cheio de novidades,
 date: '2018-01-07 19:10:45'
 tags: [comunicado]
 category: [comunicado]
-img: /assets/posts/comunicado-o-primeiro-update-do-inside-block/comunicado-o-primeiro-update-do-inside-block.jpg
-author: true
+image: /assets/posts/comunicado-o-primeiro-update-do-inside-block/comunicado-o-primeiro-update-do-inside-block.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

@@ -4,8 +4,8 @@ title: Como ativar ou desativar o UAC - Controle da Conta de Usuário
 date: '2016-07-21 10:40:00'
 tags: [windows, tutorial, segurança, misc]
 category: [misc]
-img: /assets/posts/como-ativar-ou-desativar-o-uac-controle/como-ativar-ou-desativar-o-uac-controle.jpg
-author: true
+image: /assets/posts/como-ativar-ou-desativar-o-uac-controle/como-ativar-ou-desativar-o-uac-controle.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

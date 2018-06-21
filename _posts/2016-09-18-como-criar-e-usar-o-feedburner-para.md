@@ -4,8 +4,8 @@ title: Como criar e usar o FeedBurner para blogs
 date: '2016-09-18 20:56:00'
 tags: [seo, dicas, tutorial, dev]
 category: [dev]
-img: /assets/posts/como-criar-e-usar-o-feedburner-para/como-criar-e-usar-o-feedburner-para.jpg
-author: true
+image: /assets/posts/como-criar-e-usar-o-feedburner-para/como-criar-e-usar-o-feedburner-para.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

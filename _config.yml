@@ -11,7 +11,7 @@ permalink: /posts/:title.html
 
 markdown: kramdown
 highlighter: rouge
-plugins: ['jekyll-paginate','jekyll-sitemap']
+plugins: ['jekyll-paginate','jekyll-sitemap','jekyll-feed']
 paginate: 10
 
 compress_html:

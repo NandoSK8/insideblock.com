@@ -4,8 +4,8 @@ title: 5 passos fundamentais para cria artigos de sucesso
 date: '2016-07-21 14:51:00'
 tags: [seo, otimização, misc]
 category: [misc]
-img: /assets/posts/5-passos-fundamentais-para-cria-artigos/5-passos-fundamentais-para-cria-artigos.jpg
-author: true
+image: /assets/posts/5-passos-fundamentais-para-cria-artigos/5-passos-fundamentais-para-cria-artigos.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

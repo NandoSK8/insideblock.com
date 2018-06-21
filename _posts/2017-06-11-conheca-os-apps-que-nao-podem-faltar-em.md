@@ -5,8 +5,8 @@ description: "Escolher apps para realizar determinadas tarefas no smartphone nem
 date: '2017-06-11 22:23:00'
 tags: [mobile, android, dicas, misc]
 category: [misc]
-img: /assets/posts/conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
-author: true
+image: /assets/posts/conheca-os-apps-que-nao-podem-faltar-em/conheca-os-apps-que-nao-podem-faltar-em.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

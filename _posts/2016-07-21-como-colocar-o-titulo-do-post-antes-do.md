@@ -4,8 +4,8 @@ title: Como colocar o título do post antes do nome do Blog do Blogger
 date: '2016-07-21 18:45:00'
 tags: [blogger, seo, tutorial, dev]
 category: [dev]
-img: /assets/posts/como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
-author: true
+image: /assets/posts/como-colocar-o-titulo-do-post-antes-do/como-colocar-o-titulo-do-post-antes-do.jpg
+author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true
