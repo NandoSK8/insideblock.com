@@ -2,7 +2,7 @@
 layout: post
 title: Ganhe mais visitas em seu site com Tynt
 date: '2016-07-21 14:50:00'
-tags: [seo, dicas, otimização, js]
+tags: [seo, dicas, otimização, tynt, js]
 category: [js]
 image: /assets/posts/ganhe-mais-visitas-em-seu-site-com-tynt/ganhe-mais-visitas-em-seu-site-com-tynt.jpg
 author: Inside Block
