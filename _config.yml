@@ -1,31 +1,37 @@
+# Info Blog
 title: Inside Block
 description: "Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!"
 logo: /assets/logo/ib.png
 author: Inside Block
 web_designer: 'Ediano Silva Santos'
 
+# URL Páginations
 url: https://www.insideblock.com
 baseurl: ""
 paginate_path: "/page/:num/"
 permalink: /posts/:title.html
+paginate: 10
 
+# Jekyll Plugins and Tools
 markdown: kramdown
 highlighter: rouge
 plugins: ['jekyll-paginate','jekyll-sitemap','jekyll-feed']
-paginate: 10
 
+# Compress HTML
 compress_html:
   clippings: all
   comments: all
   endings: []
   profile: false
 
+# Cache for Files and Pages
 files_to_cache:
  - ''
-
 pages_to_cache:
   - '/offline/index.html'
 
+# Netlify
 include: ['_redirects', '_headers']
 
+# Google
 google_analytics: "UA-81236717-1"
