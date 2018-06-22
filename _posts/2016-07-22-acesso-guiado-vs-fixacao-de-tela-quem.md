@@ -5,7 +5,6 @@ date: '2016-07-22 18:23:00'
 tags: [mobile, ios, android, tutorial, misc]
 category: [misc]
 image: /assets/posts/acesso-guiado-vs-fixacao-de-tela-quem/acesso-guiado-vs-fixacao-de-tela-quem.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

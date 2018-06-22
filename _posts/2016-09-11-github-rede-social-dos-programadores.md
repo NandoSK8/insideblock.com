@@ -5,7 +5,6 @@ date: '2016-09-11 16:10:00'
 tags: [redes sociais, seo, dev]
 category: [dev]
 image: /assets/posts/github-rede-social-dos-programadores/github-rede-social-dos-programadores.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

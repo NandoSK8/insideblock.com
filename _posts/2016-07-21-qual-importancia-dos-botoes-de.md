@@ -5,7 +5,6 @@ date: '2016-07-21 17:28:00'
 tags: [redes sociais, seo, misc]
 category: [misc]
 image: /assets/posts/qual-importancia-dos-botoes-de/qual-importancia-dos-botoes-de.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

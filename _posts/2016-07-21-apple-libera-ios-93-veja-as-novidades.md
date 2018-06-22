@@ -5,7 +5,6 @@ date: '2016-07-21 14:05:00'
 tags: [mobile, ios, dicas, misc]
 category: [misc]
 image: /assets/posts/apple-libera-ios-93-veja-as-novidades/apple-libera-ios-93-veja-as-novidades.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

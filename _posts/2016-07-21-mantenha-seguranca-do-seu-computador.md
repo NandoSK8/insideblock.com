@@ -5,7 +5,6 @@ date: '2016-07-21 14:46:00'
 tags: [windows, segurança, dicas, misc]
 category: [misc]
 image: /assets/posts/mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,6 @@ date: '2016-08-05 18:51:00'
 tags: [apps, dicas, tutorial, misc]
 category: [misc]
 image: /assets/posts/truques-e-atalhos-que-voce-pode-usar-no/truques-e-atalhos-que-voce-pode-usar-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

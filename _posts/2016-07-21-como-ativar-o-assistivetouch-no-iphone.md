@@ -5,7 +5,6 @@ date: '2016-07-21 12:17:00'
 tags: [mobile, ios, tutorial, misc]
 category: [misc]
 image: /assets/posts/como-ativar-o-assistivetouch-no-iphone/como-ativar-o-assistivetouch-no-iphone.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,6 @@ date: '2016-09-13 19:24:00'
 tags: [redes sociais, seo, dev]
 category: [dev]
 image: /assets/posts/como-hospedar-arquivos-css-e-js-no/como-hospedar-arquivos-css-e-js-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

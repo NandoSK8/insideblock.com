@@ -5,7 +5,6 @@ date: '2016-07-21 16:24:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 image: /assets/posts/como-criar-um-ponto-de-restauracao-no/como-criar-um-ponto-de-restauracao-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

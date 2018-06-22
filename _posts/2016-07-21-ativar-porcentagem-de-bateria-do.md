@@ -5,7 +5,6 @@ date: '2016-07-21 23:29:00'
 tags: [mobile, android, dicas, tutorial, misc]
 category: [misc]
 image: /assets/posts/ativar-porcentagem-de-bateria-do/ativar-porcentagem-de-bateria-do.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,6 @@ date: '2016-07-21 23:59:00'
 tags: [mobile, android, tutorial, misc]
 category: [misc]
 image: /assets/posts/hard-reset-moto-g2-2014-android-60/hard-reset-moto-g2-2014-android-60.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

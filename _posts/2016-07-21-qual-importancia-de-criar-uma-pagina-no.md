@@ -5,7 +5,6 @@ date: '2016-07-21 13:10:00'
 tags: [redes sociais, seo, misc]
 category: [misc]
 image: /assets/posts/qual-importancia-de-criar-uma-pagina-no/qual-importancia-de-criar-uma-pagina-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

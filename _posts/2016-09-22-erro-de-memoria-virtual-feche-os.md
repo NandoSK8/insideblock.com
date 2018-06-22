@@ -5,7 +5,6 @@ date: '2016-09-22 11:25:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 image: /assets/posts/erro-de-memoria-virtual-feche-os/erro-de-memoria-virtual-feche-os.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

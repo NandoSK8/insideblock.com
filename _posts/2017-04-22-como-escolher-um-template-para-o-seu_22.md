@@ -6,7 +6,6 @@ date: '2017-04-22 16:49:00'
 tags: [seo, dicas, dev]
 category: [dev]
 image: /assets/posts/como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
-author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

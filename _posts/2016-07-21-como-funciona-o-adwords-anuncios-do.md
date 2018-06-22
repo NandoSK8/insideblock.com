@@ -5,7 +5,6 @@ date: '2016-07-21 18:05:00'
 tags: [dicas, adwords, misc]
 category: [misc]
 image: /assets/posts/como-funciona-o-adwords-anuncios-do/como-funciona-o-adwords-anuncios-do.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

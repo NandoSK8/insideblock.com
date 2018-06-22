@@ -5,7 +5,6 @@ date: '2016-09-16 18:39:00'
 tags: [dicas, misc]
 category: [misc]
 image: /assets/posts/erros-que-eu-cometi-ao-criar-o-meu/erros-que-eu-cometi-ao-criar-o-meu.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

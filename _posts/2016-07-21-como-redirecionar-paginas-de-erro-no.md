@@ -5,7 +5,6 @@ date: '2016-07-21 16:41:00'
 tags: [blogger, seo, js]
 category: [js]
 image: /assets/posts/como-redirecionar-paginas-de-erro-no/como-redirecionar-paginas-de-erro-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

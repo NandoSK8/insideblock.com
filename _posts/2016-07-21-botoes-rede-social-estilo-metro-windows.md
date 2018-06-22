@@ -5,7 +5,6 @@ date: '2016-07-21 14:06:00'
 tags: [css, seo, redes sociais, css]
 category: [css]
 image: /assets/posts/botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

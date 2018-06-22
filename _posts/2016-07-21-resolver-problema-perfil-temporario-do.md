@@ -5,7 +5,6 @@ date: '2016-07-21 14:08:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 image: /assets/posts/resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,6 @@ date: '2016-07-21 22:19:00'
 tags: [mobile, ios, misc]
 category: [misc]
 image: /assets/posts/porque-funciona-um-alto-falante-do/porque-funciona-um-alto-falante-do.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

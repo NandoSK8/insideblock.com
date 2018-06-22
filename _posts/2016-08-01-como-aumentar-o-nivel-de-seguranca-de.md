@@ -5,7 +5,6 @@ date: '2016-08-01 18:18:00'
 tags: [dicas, segurança, misc]
 category: [misc]
 image: /assets/posts/como-aumentar-o-nivel-de-seguranca-de/como-aumentar-o-nivel-de-seguranca-de.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

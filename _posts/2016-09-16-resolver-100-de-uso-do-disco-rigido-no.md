@@ -5,7 +5,6 @@ date: '2016-09-16 23:22:00'
 tags: [windows, tutorial, misc]
 category: [misc]
 image: /assets/posts/resolver-100-de-uso-do-disco-rigido-no/resolver-100-de-uso-do-disco-rigido-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

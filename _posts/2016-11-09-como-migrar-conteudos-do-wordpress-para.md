@@ -6,7 +6,6 @@ date: '2016-11-09 22:24:00'
 tags: [blogger, wordpress, tutorial, misc]
 category: [misc]
 image: /assets/posts/como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

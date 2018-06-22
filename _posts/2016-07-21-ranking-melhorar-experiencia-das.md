@@ -5,7 +5,6 @@ date: '2016-07-21 22:14:00'
 tags: [seo, dicas, otimização, css]
 category: [css]
 image: /assets/posts/ranking-melhorar-experiencia-das/ranking-melhorar-experiencia-das.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

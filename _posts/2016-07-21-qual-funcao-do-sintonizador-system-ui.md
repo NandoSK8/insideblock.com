@@ -5,7 +5,6 @@ date: '2016-07-21 17:45:00'
 tags: [mobile, android, tutorial, misc]
 category: [misc]
 image: /assets/posts/qual-funcao-do-sintonizador-system-ui/qual-funcao-do-sintonizador-system-ui.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

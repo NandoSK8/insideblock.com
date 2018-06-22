@@ -5,7 +5,6 @@ date: '2016-07-21 13:30:00'
 tags: [seo, redes sociais, misc]
 category: [misc]
 image: /assets/posts/como-criar-uma-pagina-page-no-facebook/como-criar-uma-pagina-page-no-facebook.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

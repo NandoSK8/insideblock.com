@@ -5,7 +5,6 @@ date: '2016-07-21 12:40:00'
 tags: [blogger, seo, redes sociais, misc]
 category: [misc]
 image: /assets/posts/como-ativar-o-comentario-do-google-no/como-ativar-o-comentario-do-google-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

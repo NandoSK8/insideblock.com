@@ -5,7 +5,6 @@ date: '2016-07-21 12:57:00'
 tags: [dicas, monetização, misc]
 category: [misc]
 image: /assets/posts/ganhe-dinheiro-em-e-em-sem-sair-de-casa/ganhe-dinheiro-em-e-em-sem-sair-de-casa.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

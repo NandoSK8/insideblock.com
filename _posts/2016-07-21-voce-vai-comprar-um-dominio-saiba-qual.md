@@ -5,7 +5,6 @@ date: '2016-07-21 18:34:00'
 tags: [seo, dicas, dev]
 category: [dev]
 image: /assets/posts/voce-vai-comprar-um-dominio-saiba-qual/voce-vai-comprar-um-dominio-saiba-qual.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

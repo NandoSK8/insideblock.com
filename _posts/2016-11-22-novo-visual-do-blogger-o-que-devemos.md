@@ -6,7 +6,6 @@ date: '2016-11-22 22:34:00'
 tags: [dicas, blogger, misc]
 category: [misc]
 image: /assets/posts/novo-visual-do-blogger-o-que-devemos/novo-visual-do-blogger-o-que-devemos.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

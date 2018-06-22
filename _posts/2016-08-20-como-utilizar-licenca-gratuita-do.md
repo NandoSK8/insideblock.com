@@ -5,7 +5,6 @@ date: '2016-08-20 14:26:00'
 tags: [windows, dicas, misc]
 category: [misc]
 image: /assets/posts/como-utilizar-licenca-gratuita-do/como-utilizar-licenca-gratuita-do.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

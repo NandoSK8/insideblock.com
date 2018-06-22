@@ -5,7 +5,6 @@ date: '2016-07-21 13:14:00'
 tags: [mobile, windows, ios, misc]
 category: [misc]
 image: /assets/posts/espelhar-tela-do-iphone-no-windows-ou/espelhar-tela-do-iphone-no-windows-ou.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

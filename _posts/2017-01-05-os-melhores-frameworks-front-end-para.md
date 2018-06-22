@@ -6,7 +6,6 @@ date: '2017-01-05 22:10:00'
 tags: [dicas, frontend, dev]
 category: [dev]
 image: /assets/posts/os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true

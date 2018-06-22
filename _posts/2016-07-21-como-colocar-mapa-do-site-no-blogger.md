@@ -5,7 +5,6 @@ date: '2016-07-21 12:04:00'
 tags: [seo, blogger, tutorial, dev]
 category: [dev]
 image: /assets/posts/como-colocar-mapa-do-site-no-blogger/como-colocar-mapa-do-site-no-blogger.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

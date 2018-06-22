@@ -5,7 +5,6 @@ date: '2016-07-21 13:37:00'
 tags: [windows, segurança, misc]
 category: [misc]
 image: /assets/posts/quebre-senha-de-qualquer-computador/quebre-senha-de-qualquer-computador.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

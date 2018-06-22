@@ -5,7 +5,6 @@ date: '2016-08-13 15:36:00'
 tags: [dicas, misc]
 category: [misc]
 image: /assets/posts/monitoramento-de-redes-solucao-para-o/monitoramento-de-redes-solucao-para-o.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

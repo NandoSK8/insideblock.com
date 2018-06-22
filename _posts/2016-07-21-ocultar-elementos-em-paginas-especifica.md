@@ -5,7 +5,6 @@ date: '2016-07-21 22:34:00'
 tags: [seo, blogger, dicas, dev]
 category: [dev]
 image: /assets/posts/ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

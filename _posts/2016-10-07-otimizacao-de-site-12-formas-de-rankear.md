@@ -5,7 +5,6 @@ date: '2016-10-07 10:19:00'
 tags: [seo, dicas, otimização, dev]
 category: [dev]
 image: /assets/posts/otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

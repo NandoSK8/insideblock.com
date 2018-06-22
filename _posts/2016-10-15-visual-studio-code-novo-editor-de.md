@@ -5,7 +5,6 @@ date: '2016-10-15 02:00:00'
 tags: [dicas, apps, misc]
 category: [misc]
 image: /assets/posts/visual-studio-code-novo-editor-de/visual-studio-code-novo-editor-de.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,6 @@ date: '2016-07-21 17:59:00'
 tags: [redes sociais, seo, otimização, misc]
 category: [misc]
 image: /assets/posts/melhores-botoes-de-compartilhamento/melhores-botoes-de-compartilhamento.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

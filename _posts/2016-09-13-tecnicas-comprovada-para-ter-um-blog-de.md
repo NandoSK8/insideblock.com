@@ -5,7 +5,6 @@ date: '2016-09-13 00:33:00'
 tags: [seo, dicas, otmização, misc]
 category: [misc]
 image: /assets/posts/tecnicas-comprovada-para-ter-um-blog-de/tecnicas-comprovada-para-ter-um-blog-de.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

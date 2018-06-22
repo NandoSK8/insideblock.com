@@ -5,7 +5,6 @@ date: '2016-10-18 23:48:00'
 tags: [dicas, seo, adwords, misc]
 category: [misc]
 image: /assets/posts/palavras-chave-como-usar-o-google/palavras-chave-como-usar-o-google.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

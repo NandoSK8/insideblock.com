@@ -5,7 +5,6 @@ date: '2016-07-21 13:00:00'
 tags: [seo, dicas, otimização, monetização, misc]
 category: [misc]
 image: /assets/posts/melhores-posicoes-para-colocar-anuncios/melhores-posicoes-para-colocar-anuncios.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

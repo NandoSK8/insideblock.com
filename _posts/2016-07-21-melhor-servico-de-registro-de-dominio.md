@@ -5,7 +5,6 @@ date: '2016-07-21 14:06:00'
 tags: [dicas, dev]
 category: [dev]
 image: /assets/posts/melhor-servico-de-registro-de-dominio/melhor-servico-de-registro-de-dominio.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

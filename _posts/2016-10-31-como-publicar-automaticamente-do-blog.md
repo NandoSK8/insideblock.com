@@ -5,7 +5,6 @@ date: '2016-10-31 18:50:00'
 tags: [seo, dicas, tutorial, dev]
 category: [dev]
 image: /assets/posts/como-publicar-automaticamente-do-blog/como-publicar-automaticamente-do-blog.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

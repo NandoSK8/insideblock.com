@@ -5,7 +5,6 @@ date: '2016-09-17 19:01:00'
 tags: [blogger, dicas, dev, otimização]
 category: [dev]
 image: /assets/posts/resumo-de-postagem-automatico-com/resumo-de-postagem-automatico-com.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

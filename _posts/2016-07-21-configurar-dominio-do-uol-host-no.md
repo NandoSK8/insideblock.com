@@ -5,7 +5,6 @@ date: '2016-07-21 10:03:00'
 tags: [seo, blogger, tutorial, dev]
 category: [dev]
 image: /assets/posts/configurar-dominio-do-uol-host-no/configurar-dominio-do-uol-host-no.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: false
 comments: true

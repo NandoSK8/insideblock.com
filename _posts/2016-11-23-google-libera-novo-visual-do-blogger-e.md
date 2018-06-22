@@ -6,7 +6,6 @@ date: '2016-11-23 01:06:00'
 tags: [dicas, blogger, misc]
 category: [misc]
 image: /assets/posts/google-libera-novo-visual-do-blogger-e/google-libera-novo-visual-do-blogger-e.jpg
-author: Inside Block
 author_ediano: true
 coauthor_luciana: true
 comments: true
