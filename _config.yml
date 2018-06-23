@@ -1,21 +1,27 @@
 # Info Blog
 title: Inside Block
-description: "Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!"
+description: >-
+  Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web,
+  otimização, monetização, blogs, redes sociais e muito mais!
 logo: /assets/logo/logo.png
 author: Inside Block
-web_designer: 'Ediano Silva Santos'
+web_designer: Ediano Silva Santos
 
 # URL Páginations
-url: https://www.insideblock.com
-baseurl: ""
-paginate_path: "/page/:num/"
-permalink: /post/:title.html
+url: 'https://www.insideblock.com'
+baseurl: ''
+paginate_path: '/page/:num/'
+permalink: '/post/:title.html'
 paginate: 10
 
 # Jekyll Plugins and Tools
 markdown: kramdown
 highlighter: rouge
-plugins: ['jekyll-paginate','jekyll-sitemap','jekyll-feed']
+plugins: ['jekyll-paginate','jekyll-sitemap','jekyll-feed','jekyll-admin']
+
+# Hide Configyml Jekyll Admin
+jekyll_admin:
+  hidden_links: ['configuration']
 
 # Compress HTML
 compress_html:
@@ -26,20 +32,19 @@ compress_html:
 
 # Cache for Files and Pages
 files_to_cache:
- - ''
+  - ''
 pages_to_cache:
-  - '/offline/index.html'
+  - /offline/index.html
 
 # Netlify
-include: ['_redirects', '_headers']
+include: ['_redirects','_headers']
 
 # Google
-google_analytics: "UA-81236717-1"
+google_analytics: UA-81236717-1
 
 # Remove pagination from sitemap
 defaults:
-  -
-    scope:
-      path: "page"
+  - scope:
+      path: page
     values:
       sitemap: false
