@@ -15,7 +15,7 @@ Você quer ganhar mais tempo ao compartilhar as postagens nas redes sociais, o m
 
 Uma das ferramentas usada para este tipo de serviço é o dlvr.it, um sistema totalmente automático que evita esforços desnecessários da parte do administrador do site. Apesar do dlvr.it ter suporte para varias redes sociais, ele permite apenas o cadastro de dois perfis no plano gratuito.
 
-Neste tutorial vamos mostrar como compartilhar automaticamente para o Facebook e Twitter, antes de tudo é necessário que tenha uma conta em cada uma dessas redes, recomendamos que em vez de usar o perfil pessoa que crie uma <a href="http://www.insideblock.com/posts/como-criar-uma-pagina-page-no-facebook.html" target="_blank">Fan Page no Facebook</a> e uma conta individual no <a href="http://www.insideblock.com/posts/como-criar-2-contas-no-twitter-com-o.html" target="_blank">Twitter</a> para o blog.
+Neste tutorial vamos mostrar como compartilhar automaticamente para o Facebook e Twitter, antes de tudo é necessário que tenha uma conta em cada uma dessas redes, recomendamos que em vez de usar o perfil pessoa que crie uma <a href="http://www.insideblock.com/post/como-criar-uma-pagina-page-no-facebook.html" target="_blank">Fan Page no Facebook</a> e uma conta individual no <a href="http://www.insideblock.com/post/como-criar-2-contas-no-twitter-com-o.html" target="_blank">Twitter</a> para o blog.
 
 1. Acesse o site <a href="http://dlvr.it/" target="_blank" class="external-link" rel="nofollow">dlvr.it</a> para criar uma conta, coloque um e-mail valido e uma senha de acesso.
 
@@ -37,7 +37,7 @@ Agora para os usuários WordPress, o endereço do feed pode variar com as config
 
 4. Defina um nome de exibição para as redes sociais em em “**Feed Name**” e clique em “**Next: Connect socials**”.
 
-5. Agora clique em Facebook, faça login caso ainda não tenha feito para adicionar um perfil, uma <a href="http://www.insideblock.com/posts/como-criar-uma-pagina-page-no-facebook.html" target="_blank">Fan Page</a> ou um grupo, clique sobre o desejado e depois “**Connect**”.
+5. Agora clique em Facebook, faça login caso ainda não tenha feito para adicionar um perfil, uma <a href="http://www.insideblock.com/post/como-criar-uma-pagina-page-no-facebook.html" target="_blank">Fan Page</a> ou um grupo, clique sobre o desejado e depois “**Connect**”.
 
 6. Para adicionar uma conta do Twitter clique em “**Connect New**”, escolha o Twitter, faça login caso ainda não tenha feito clique em “Autorizar aplicativo”.
 
