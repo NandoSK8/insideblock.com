@@ -1,5 +1,6 @@
 https://next.insideblock.com/* https://www.insideblock.com/:splat 301!
-http://next.insideblock.com/* https://www.insideblock.com/:splat 301!
 
 https://insideblock.netlify.com/* https://www.insideblock.com/:splat 301!
-http://insideblock.netlify.com/* https://www.insideblock.com/:splat 301!
+https://www.insideblock.com/posts/* https://www.insideblock.com/post/:splat 301!
+
+/labs/* https://labs.insideblock.com/:splat 200
