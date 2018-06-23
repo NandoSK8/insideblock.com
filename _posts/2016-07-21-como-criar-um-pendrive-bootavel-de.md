@@ -4,7 +4,7 @@ title: Como criar um PenDrive bootável de instalação do Windows
 date: '2016-07-21 11:59:00'
 tags: [windows, dicas, misc]
 category: [misc]
-image: /assets/posts/como-criar-um-pendrive-bootavel-de/como-criar-um-pendrive-bootavel-de.jpg
+image: /assets/post/como-criar-um-pendrive-bootavel-de/como-criar-um-pendrive-bootavel-de.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

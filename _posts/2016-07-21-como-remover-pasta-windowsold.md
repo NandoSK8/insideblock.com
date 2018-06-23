@@ -4,7 +4,7 @@ title: Como remover a pasta Windows.old
 date: '2016-07-21 09:58:00'
 tags: [windows, tutorial, otimização, misc]
 category: [misc]
-image: /assets/posts/como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
+image: /assets/post/como-remover-pasta-windowsold/como-remover-pasta-windowsold.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

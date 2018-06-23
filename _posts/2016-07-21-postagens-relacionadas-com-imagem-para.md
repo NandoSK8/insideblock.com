@@ -4,7 +4,7 @@ title: Postagens relacionadas com imagem para Blogger
 date: '2016-07-21 09:22:00'
 tags: [seo, blogger, otimização, dev]
 category: [dev]
-image: /assets/posts/postagens-relacionadas-com-imagem-para/postagens-relacionadas-com-imagem-para.jpg
+image: /assets/post/postagens-relacionadas-com-imagem-para/postagens-relacionadas-com-imagem-para.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

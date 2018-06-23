@@ -4,7 +4,7 @@ title: Moto G2 2014 ganha atualização para o Android 6.0 Marshmallow
 date: '2016-07-21 21:34:00'
 tags: [mobile, android, misc]
 category: [misc]
-image: /assets/posts/moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
+image: /assets/post/moto-g2-2014-ganha-atualizacao-para-o/moto-g2-2014-ganha-atualizacao-para-o.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -4,7 +4,7 @@ title: Acerte no alvo com o Google AdWords
 date: '2016-07-21 17:23:00'
 tags: [seo, otimização, adwords, misc]
 category: [misc]
-image: /assets/posts/acerte-no-alvo-com-o-google-adwords/acerte-no-alvo-com-o-google-adwords.jpg
+image: /assets/post/acerte-no-alvo-com-o-google-adwords/acerte-no-alvo-com-o-google-adwords.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

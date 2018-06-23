@@ -4,7 +4,7 @@ title: 'Links organicos ou links patrocinados: Quais os usuários e os buscadore
 date: '2016-10-12 00:19:00'
 tags: [seo, dicas, otimização, misc]
 category: [misc]
-image: /assets/posts/links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg
+image: /assets/post/links-organicos-ou-links-patrocinados/links-organicos-ou-links-patrocinados.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true
@@ -23,7 +23,7 @@ Não importa como chegou a este resultado, mas importa que você nos encontrou e
 ## Links patrocinados
 Os Links patrocinados são links pagos, geralmente contratado por empresas para anunciar produtos ou marca, esses links não tem muita relevância porém você pode encontrar eles ao fazer uma pesquisa na web. Quando você pesquisa pela palavra “domínio” no Google vários resultados são encontrados, mas o que poucas pessoas percebem é que ele também traz resultados patrocinados, veja a imagem.
 
-![Demostração de pesquisa com a plavra domínio](/assets/posts/links-organicos-ou-links-patrocinados/palavra-dominio.png)
+![Demostração de pesquisa com a plavra domínio](/assets/post/links-organicos-ou-links-patrocinados/palavra-dominio.png)
 
 <br />Observe o destaque em verde a palavra “<a href="http://www.insideblock.com/posts/ganhe-dinheiro-com-seu-blog-exibindo.html" target="_blank">Anúncio</a>”, esta é a indicação de um link patrocinado no Google, este resultado só foi encontrado porque o usuários pesquisou por “<a href="http://www.insideblock.com/posts/voce-vai-comprar-um-dominio-saiba-qual.html" target="_blank">domínio</a>” mas se ele tivesse pesquisa por algo específico como “<a href="http://www.insideblock.com/posts/como-colocar-dominio-no-blogspot.html" target="_blank">configurar domínio no blog</a>”, seria bem provável que os links patrocinados não aparece no resultado da pesquisa, porém isso vai variar muito se o usuário está pesquisar um serviço de registro ou um tutorial de configuração.
 

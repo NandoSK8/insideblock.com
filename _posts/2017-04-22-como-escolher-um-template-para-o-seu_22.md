@@ -5,7 +5,7 @@ description: "Escolher um modelo de site que agrada os usuários é algo primord
 date: '2017-04-22 16:49:00'
 tags: [seo, dicas, dev]
 category: [dev]
-image: /assets/posts/como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
+image: /assets/post/como-escolher-um-template-para-o-seu_22/como-escolher-um-template-para-o-seu_22.png
 author_ediano: true
 coauthor_luciana: true
 comments: true

@@ -4,7 +4,7 @@ title: Como recuperar pendrive com pastas e arquivos ocultos e em atalhos
 date: '2016-07-21 16:38:00'
 tags: [windows, tutorial, misc]
 category: [misc]
-image: /assets/posts/como-recuperar-pendrive-com-pastas-e/como-recuperar-pendrive-com-pastas-e.jpg
+image: /assets/post/como-recuperar-pendrive-com-pastas-e/como-recuperar-pendrive-com-pastas-e.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

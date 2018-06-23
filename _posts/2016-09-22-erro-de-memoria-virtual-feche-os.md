@@ -4,7 +4,7 @@ title: Erro de memoria virtual - Feche os programas para impedir a perda de info
 date: '2016-09-22 11:25:00'
 tags: [windows, tutorial, misc]
 category: [misc]
-image: /assets/posts/erro-de-memoria-virtual-feche-os/erro-de-memoria-virtual-feche-os.jpg
+image: /assets/post/erro-de-memoria-virtual-feche-os/erro-de-memoria-virtual-feche-os.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -9,7 +9,7 @@ web_designer: 'Ediano Silva Santos'
 url: https://www.insideblock.com
 baseurl: ""
 paginate_path: "/page/:num/"
-permalink: /posts/:title.html
+permalink: /post/:title.html
 paginate: 10
 
 # Jekyll Plugins and Tools

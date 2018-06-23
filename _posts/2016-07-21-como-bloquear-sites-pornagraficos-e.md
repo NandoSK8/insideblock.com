@@ -4,7 +4,7 @@ title: Como bloquear sites pornográficos e perigosos
 date: '2016-07-21 20:14:00'
 tags: [dicas, segurança, misc]
 category: [misc]
-image: /assets/posts/como-bloquear-sites-pornagraficos-e/como-bloquear-sites-pornagraficos-e.jpg
+image: /assets/post/como-bloquear-sites-pornagraficos-e/como-bloquear-sites-pornagraficos-e.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true
