@@ -35,3 +35,11 @@ include: ['_redirects', '_headers']
 
 # Google
 google_analytics: "UA-81236717-1"
+
+# Remove pagination from sitemap
+defaults:
+  -
+    scope:
+      path: "page"
+    values:
+      sitemap: false
