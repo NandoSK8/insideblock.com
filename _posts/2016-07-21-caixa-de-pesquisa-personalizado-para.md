@@ -2,7 +2,7 @@
 layout: post
 title: Caixa de pesquisa personalizado para blogger
 date: '2016-07-21 17:18:00'
-tags: [css, seo, blogger, dev]
+tags: [front-end, seo, blogger, dev]
 category: [dev]
 image: /assets/post/caixa-de-pesquisa-personalizado-para/caixa-de-pesquisa-personalizado-para.jpg
 author_ediano: true
