@@ -4,7 +4,7 @@ title: Técnicas comprovada para ter um blog de qualidade
 date: '2016-09-13 00:33:00'
 tags: [seo, dicas, otmização, misc]
 category: [misc]
-image: /assets/post/tecnicas-comprovada-para-ter-um-blog-de/tecnicas-comprovada-para-ter-um-blog-de.jpg
+image: /assets/img/tecnicas-comprovada-para-ter-um-blog-de/tecnicas-comprovada-para-ter-um-blog-de.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

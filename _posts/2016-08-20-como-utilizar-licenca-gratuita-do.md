@@ -4,7 +4,7 @@ title: Como utilizar licença gratuita do Windows 10 após trocar o hardware ou 
 date: '2016-08-20 14:26:00'
 tags: [windows, dicas, misc]
 category: [misc]
-image: /assets/post/como-utilizar-licenca-gratuita-do/como-utilizar-licenca-gratuita-do.jpg
+image: /assets/img/como-utilizar-licenca-gratuita-do/como-utilizar-licenca-gratuita-do.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

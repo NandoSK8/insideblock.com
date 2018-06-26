@@ -4,7 +4,7 @@ title: Como ganhar dinheiro trabalhando na internet?
 date: '2016-07-21 12:48:00'
 tags: [dicas, monetização, misc]
 category: [misc]
-image: /assets/post/como-ganhar-dinheiro-trabalhando-na/como-ganhar-dinheiro-trabalhando-na.jpg
+image: /assets/img/como-ganhar-dinheiro-trabalhando-na/como-ganhar-dinheiro-trabalhando-na.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

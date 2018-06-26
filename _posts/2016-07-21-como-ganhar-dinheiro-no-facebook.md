@@ -4,7 +4,7 @@ title: Como ganhar dinheiro no Facebook
 date: '2016-07-21 18:29:00'
 tags: [redes sociais, dicas, monetização, misc]
 category: [misc]
-image: /assets/post/como-ganhar-dinheiro-no-facebook/como-ganhar-dinheiro-no-facebook.jpg
+image: /assets/img/como-ganhar-dinheiro-no-facebook/como-ganhar-dinheiro-no-facebook.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -4,7 +4,7 @@ title: Mantenha a segurança do seu computador com Windows
 date: '2016-07-21 14:46:00'
 tags: [windows, segurança, dicas, misc]
 category: [misc]
-image: /assets/post/mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
+image: /assets/img/mantenha-seguranca-do-seu-computador/mantenha-seguranca-do-seu-computador.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

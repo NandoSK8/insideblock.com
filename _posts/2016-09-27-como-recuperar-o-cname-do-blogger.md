@@ -4,7 +4,7 @@ title: Como recuperar o CNAME do Blogger
 date: '2016-09-27 15:01:00'
 tags: [blogger, seo, tutorial, dev]
 category: [dev]
-image: /assets/post/como-recuperar-o-cname-do-blogger/como-recuperar-o-cname-do-blogger.jpg
+image: /assets/img/como-recuperar-o-cname-do-blogger/como-recuperar-o-cname-do-blogger.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

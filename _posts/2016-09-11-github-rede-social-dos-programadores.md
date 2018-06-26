@@ -4,7 +4,7 @@ title: GitHub a rede social dos programadores
 date: '2016-09-11 16:10:00'
 tags: [redes sociais, seo, dev]
 category: [dev]
-image: /assets/post/github-rede-social-dos-programadores/github-rede-social-dos-programadores.jpg
+image: /assets/img/github-rede-social-dos-programadores/github-rede-social-dos-programadores.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

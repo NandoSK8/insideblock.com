@@ -4,7 +4,7 @@ title: Monitoramento de redes! A solução para o setor de TI
 date: '2016-08-13 15:36:00'
 tags: [dicas, misc]
 category: [misc]
-image: /assets/post/monitoramento-de-redes-solucao-para-o/monitoramento-de-redes-solucao-para-o.jpg
+image: /assets/img/monitoramento-de-redes-solucao-para-o/monitoramento-de-redes-solucao-para-o.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -5,7 +5,7 @@ description: "O Android é o sistema operacional mobile mais popular do mundo. A
 date: '2017-01-26 23:22:00'
 tags: [mobile, android, dicas, misc]
 category: [misc]
-image: /assets/post/7-funcoes-do-android-que-talvez-voce/7-funcoes-do-android-que-talvez-voce.jpg
+image: /assets/img/7-funcoes-do-android-que-talvez-voce/7-funcoes-do-android-que-talvez-voce.jpg
 author_ediano: true
 coauthor_luciana: true
 comments: true

@@ -5,7 +5,7 @@ description: "Fazer uma migração entre plataformas de blog não é nada fácil
 date: '2016-11-09 22:24:00'
 tags: [blogger, wordpress, tutorial, misc]
 category: [misc]
-image: /assets/post/como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
+image: /assets/img/como-migrar-conteudos-do-wordpress-para/como-migrar-conteudos-do-wordpress-para.jpg
 author_ediano: true
 coauthor_luciana: true
 comments: true

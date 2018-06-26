@@ -4,7 +4,7 @@ title: Botões rede social estilo Metro Windows 8
 date: '2016-07-21 14:06:00'
 tags: [css, seo, redes sociais, front-end]
 category: [css]
-image: /assets/post/botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
+image: /assets/img/botoes-rede-social-estilo-metro-windows/botoes-rede-social-estilo-metro-windows.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

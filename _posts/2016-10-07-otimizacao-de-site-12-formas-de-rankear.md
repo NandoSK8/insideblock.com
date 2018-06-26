@@ -4,7 +4,7 @@ title: 'Otimização de site: 12 Formas de rankear seu site para os mecanismos d
 date: '2016-10-07 10:19:00'
 tags: [seo, dicas, otimização, dev]
 category: [dev]
-image: /assets/post/otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
+image: /assets/img/otimizacao-de-site-12-formas-de-rankear/otimizacao-de-site-12-formas-de-rankear.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true
@@ -30,7 +30,7 @@ Lembrando, não adianta tentar enganar os buscadores ou seus clientes leitores, 
 ## Heading tags: Tags de cabeçalho
 As heading tags podem ser usada em qualquer plataforma blog, elas são tags de marcação universais que os buscadores usam para rastrear títulos e subtítulos de um conteúdo, fazer essas marcações melhora o rank da página e o rastreamento do conteúdo, inclusive já falamos aqui como você pode usar as <a href="http://www.insideblock.com/post/heading-tags-aprenda-otimizar-melhor-o.html" target="_blank">tags de cabeçalho no Blogger</a>.
 
-![Exemplo de tags heading](/assets/post/otimizacao-de-site-12-formas-de-rankear/tags-head.png)
+![Exemplo de tags heading](/assets/img/otimizacao-de-site-12-formas-de-rankear/tags-head.png)
 
 Existem seis tags de cabeçalhos H1, H2, H3, H4, H5 e H6, quanto menor a tag H1 mais importante ela vai ser para os buscadores, e quanto maior H6 menos importante, sei que isso não faz sentido mas na prática é como elas realmente funcionam, se você usar as marcações corretamente seu blog pode estar a um passo do sucesso.
 
@@ -79,7 +79,7 @@ Você pode usar as ferramentas Google AdWords e Google Trends para encontrar cat
 ## Ferramentas webmaster: Rastreamento de páginas
 As ferramentas webmaster podem ser usadas para fazer rastreamento de páginas através dos dados estruturais do site, o Google Webmaster e o Bing Webmaster ambos pode ser forçado à verificação e indexar todas as páginas enviando sitemaps para o mecanismo de pesquisa.
 
-![Google Webmasters](/assets/post/otimizacao-de-site-12-formas-de-rankear/google-webmasters.png)
+![Google Webmasters](/assets/img/otimizacao-de-site-12-formas-de-rankear/google-webmasters.png)
 
 O Google Webmaster oferece um ferramenta muito importante o “destaque de páginas”, com esta ferramenta é necessário que você faça as marcações do artigo manualmente, e necessários destacar o título, data e hora, categorias e uma imagem. Após fazer os destaques o Google vai aplicar essa regra para todas as outras páginas, caso o site tenha páginas diferentes você pode criar um novo destaque de página.
 

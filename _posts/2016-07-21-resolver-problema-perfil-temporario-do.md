@@ -4,7 +4,7 @@ title: 'Resolver problema: Perfil temporário do Windows'
 date: '2016-07-21 14:08:00'
 tags: [windows, tutorial, misc]
 category: [misc]
-image: /assets/post/resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg
+image: /assets/img/resolver-problema-perfil-temporario-do/resolver-problema-perfil-temporario-do.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true
@@ -23,6 +23,6 @@ Esta mensagem começa a aparece quando um usuário tem sua pasta excluída do �
 
 3. Procure pela pasta que contém o valor do usuário que tem o perfil temporário, Clique com o botão direito sobre a pasta e em **Excluir**, vai perguntar se tem certeza que deseja excluir clique em sim. Reinicia o Windows e faça logon novamente.
 
-![Registro do Windows](/assets/post/resolver-problema-perfil-temporario-do/regedit-windows.png)
+![Registro do Windows](/assets/img/resolver-problema-perfil-temporario-do/regedit-windows.png)
 
 Espero ter ajudado, se você gostou deste artigo, nos ajude e compartilhe com seus amigos.

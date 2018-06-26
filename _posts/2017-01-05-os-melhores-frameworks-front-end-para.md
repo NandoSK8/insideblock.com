@@ -5,7 +5,7 @@ description: "Diferente de alguns anos atrás, quando a era online ainda estava 
 date: '2017-01-05 22:10:00'
 tags: [dicas, front-end, dev]
 category: [dev]
-image: /assets/post/os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
+image: /assets/img/os-melhores-frameworks-front-end-para/os-melhores-frameworks-front-end-para.jpg
 author_ediano: true
 coauthor_luciana: true
 comments: true

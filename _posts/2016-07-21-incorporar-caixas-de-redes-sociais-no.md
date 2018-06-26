@@ -4,7 +4,7 @@ title: Incorporar caixas de redes sociais no site e blog
 date: '2016-07-21 14:48:00'
 tags: [seo, redes sociais, otimização, dev]
 category: [dev]
-image: /assets/post/incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
+image: /assets/img/incorporar-caixas-de-redes-sociais-no/incorporar-caixas-de-redes-sociais-no.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true

@@ -4,7 +4,7 @@ title: Ocultar elementos em páginas específica do Blogger
 date: '2016-07-21 22:34:00'
 tags: [seo, blogger, dicas, dev]
 category: [dev]
-image: /assets/post/ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
+image: /assets/img/ocultar-elementos-em-paginas-especifica/ocultar-elementos-em-paginas-especifica.jpg
 author_ediano: true
 coauthor_luciana: false
 comments: true
