@@ -27,7 +27,7 @@ Nem todos os modelos do Moto G de 2ª geração podem fazer a atualização por 
 
 * Não ter root ou alguma modificação no sistema, como recovery modificado.
 
-* Caso o seu dispositivo atende os requezitos, você já esta ponto para atualizar seu Android, baixe o arquivo aqui <a href="https://sourceforge.net/projects/freedownloads/files/Android/Blur_Version.22.56.3.titan_retbr_dstv.retbr.en.BR.zip/download" target="_blank" class="external-link" rel="nofollow">neste link</a>.
+* Caso o seu dispositivo atende os requezitos, você já esta ponto para atualizar seu Android, baixe o arquivo aqui <a href="https://mega.nz/#!38UzGSyB!cwGv-pymS-J7O1KhKk_KX33WvzjEw8-KHnZkP40xpvk" target="_blank" class="external-link" rel="nofollow">neste link</a>.
 
 1. Ao concluir o download copie o arquivo na extensão *.zip para a raiz do Cartão SD do seu dispositivo. É importante que ele não seja extraído nem colocado dentro de uma pasta ou renomeado;
 
