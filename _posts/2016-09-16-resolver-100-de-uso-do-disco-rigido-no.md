@@ -41,10 +41,14 @@ Recomendamos de deixe o "Dados do valor" com o valor "**2**", apenas para ligar 
 
 **Quarto** Verifique e recupere setores corrompidos do sistema. Abra-o prompt de comando do Windows (CMD) como Administrador, e digite o seguinte comando para verificar se a setores danificados no sistema.
 
-> Dism /Online /Cleanup-Image /ScanHealth
+```
+Dism /Online /Cleanup-Image /ScanHealth
+```
 
 Ao completar o escâner de 100% digite este segundo comando para recuperar os setores danificados.
 
-> Dism /Online /Cleanup-Image /RestoreHealth
+```
+Dism /Online /Cleanup-Image /RestoreHealth
+```
 
 Caso nem dos procedimentos acima resolver o problema, <a href="http://www.insideblock.com/post/como-formatar-seu-computador-com.html" target="_blank">recomendo que formate o PC</a> caso ainda não tenha feito isso, e novamente faça as verificações desde o inícios após a formatação, durante a instalação de softwares e drives se o disco vai entrar em consumo máximo novamente, caso isso ocorra só temos a levar em consideração que o seu hardware está com problema, ou que o mesmo não tem suporte suficiente para ser usado no sistema operacional atual.

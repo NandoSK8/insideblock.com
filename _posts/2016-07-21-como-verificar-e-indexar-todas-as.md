@@ -27,11 +27,15 @@ Quando entrar nas ferramentas para webmasters acesse o menu **Rastreamento › S
 
 Então clique em **ADICIONAR/TESTAR SITEMAP** e use esse código e clique para enviar.
 
-> atom.xml?redirect=false&amp;start-index=1&amp;max-results=500
+```
+atom.xml?redirect=false&amp;start-index=1&amp;max-results=500
+```
 
 Isso faz indexar 500 postagens do seu blog, caso tenha mais do que esse numero de postagens, adicione mais um sitemap, mas use o código desta forma:
 
-> atom.xml?redirect=false&amp;start-index=501&amp;max-results=500
+```
+atom.xml?redirect=false&amp;start-index=501&amp;max-results=500
+```
 
 Veja que a única coisa que mudou foi o trecho index=501, portanto esse segundo sitemap indexará suas postagens de 501 até 1000. Se você tiver mais de mil posts no seu blog adicione mais um sitemap, mas usando index=1001 e assim por diante para garantir que todos seus posts apareçam no Google.
 

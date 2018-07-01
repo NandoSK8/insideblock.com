@@ -46,7 +46,9 @@ Você pode usar qualquer DVD ou Pen Driver Bootavel do Windows, em qualquer outr
 
 * Dentro da tela do “**CMD**” digite os seguintes comando para ativar o usuário Administrador e tecle Enter.
 
-> net user administrador /active:yes
+```
+net user administrador /active:yes
+```
 
 * Reinicie novamente o PC. Quando o Windows iniciar o usuário Administrador vai esta ativo, clique no usuário Administrador e deixe fazer logon.
 
@@ -54,11 +56,15 @@ Caso o usuário Administrador tenha uma senha prossiga com os seguintes comandos
 
 * Eecute o “**CMD**” novamente pressionando a tecla “**SHIFT**” cinco vezes ou mais, e digite os seguintes comando para altera a senha.
 
-> net user administrador [domain]
+```
+net user administrador [domain]
+```
 
 Tecle Enter e em seguida digite este outro comando.
 
-> net user administrador 123456
+```
+net user administrador 123456
+```
 
 Novamente tecle Enter. Os números “123456” significa que você alterou a senha do Administrador para “123456”.
 

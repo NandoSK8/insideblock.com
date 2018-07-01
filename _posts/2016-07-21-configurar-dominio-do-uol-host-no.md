@@ -43,9 +43,10 @@ Para isso precisamos do CNAME que o Blogger lhe informou na hora de configurar o
 
 Observe que agora ele abril suas informações de configurações CNAME para o domínio selecionado.
 
-> "Marcador/Host CNAME:" é a entrada do seu CNAME.
-
-> "Destino/Alvo CNAME:" é o valor do CNAME.
+```
+Marcador/Host CNAME: é a entrada do seu CNAME.
+Destino/Alvo CNAME: é o valor do CNAME.
+```
 
 * Agora que você já tem as informações do CNAME para configurar o seu domino, volte ao Uol Host para configurar o domino em seu Blogger.
 
@@ -53,11 +54,11 @@ Observe que agora ele abril suas informações de configurações CNAME para o d
 
 1º Primeiro CNAME, é o padrão do Google.
 
-> Tipo: **CNAME**
-
-> Entrada: **www**
-
-> Valor: **ghs.google.com**
+```
+Tipo: CNAME
+Entrada: www
+Valor: ghs.google.com
+```
 
 Clique em Criar e aguarde a confirmação.
 
@@ -65,11 +66,11 @@ Agora vamos precisar das informações do CNAME, que fomos buscar no Google para
 
 2º Segundo CNAME, é o código único de identificação do seu domínio.
 
-> Tipo: CNAME
-
-> Entrada: **coloque as informações da linha "Marcador/Host CNAME:"**.
-
-> Valor: **Coloque as informações da linha "Destino/Alvo CNAME:"**.
+```
+Tipo: CNAME
+Entrada: coloque as informações da linha "Marcador/Host CNAME:".
+Valor: Coloque as informações da linha "Destino/Alvo CNAME:".
+```
 
 Clique novamente em Criar e aguarde a confirmação.
 
@@ -77,19 +78,19 @@ Bom seu domínio já esta configurado com a entrada www. Para que ele funcione t
 
 * Agora vamos criar o apontamento sem o www, para isso selecione no lugar de CNAME  para o tipo "A", e informe os seguintes IPs no total de 4. Nas seguinte forma.
 
-> Tipo: **A**
-
-> Entrada: **@**
-
-> Valor: **216.239.32.21**
+```
+Tipo: A
+Entrada: @
+Valor: 216.239.32.21
+```
 
 Clique em Criar e repita o mesmo processo para os IPs abaixo.
 
-> **216.239.34.21**
-
-> **216.239.36.21**
-
-> **216.239.38.21**
+```
+216.239.34.21
+216.239.36.21
+216.239.38.21
+```
 
 Se você fez todas as configurações conforme o descrito, recomendo que aguarde de 24 a 36 Horas para que as configurações de DNS, sem a entrada www seja ativada.
 

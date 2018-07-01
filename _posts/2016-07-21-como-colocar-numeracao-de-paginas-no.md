@@ -105,11 +105,15 @@ No trecho `#` você pode alterar os valores (a frente de #), para combinar com a
 ## Corrigindo o Template
 Agora procure pelo trecho a seguinte:
 
-> 'data:label.url'
+```
+'data:label.url'
+```
 
 Substitua todos os código encontrado por:
 
-> 'data:label.url + &quot;?&amp;max-results=10&quot;'
+```
+'data:label.url + &quot;?&amp;max-results=10&quot;'
+```
 
 Alterar o os resultados da correção do Template
 

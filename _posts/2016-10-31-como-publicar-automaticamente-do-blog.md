@@ -25,11 +25,15 @@ Dica de segurança: Não repita a mesma senha que você usa em outros serviços.
 
 Caso você use a plataforma Blogger o seu feed pode seguir o seguinte exemplo.
 
-> example.blogspot.com/feeds/posts/default
+```
+example.blogspot.com/feeds/posts/default
+```
 
 Se o seu Blogger tiver domínio personalizado, ele pode seguinte este outro exemplo.
 
-> example.com/feeds/posts/default
+```
+example.com/feeds/posts/default
+```
 
 Agora para os usuários WordPress, o endereço do feed pode variar com as configurações, pois ele é um serviço independente e as configurações são feitas de acordo com as necessidades de cada usuário.
 

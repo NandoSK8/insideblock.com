@@ -31,7 +31,9 @@ Caso o problema ainda persistir, você precisa iniciar o Chrome em flag "**--new
 
 4. A adicione o caminho parecido como
 
-> C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
+```
+C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
+```
 
 Sem aspas, e pressione "Enter" ou clique em "OK".
 

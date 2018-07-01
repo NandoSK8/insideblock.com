@@ -27,11 +27,10 @@ Agora clique no link “**Verificar usando um método diferente**”, selecione 
 ## Recuperando o CNAME
 Siga o caminho **Problemas? Adicionar um registro TXT › Adicionar um registro CNAME**, veja que as informações de apontamento de DNS estão visíveis, copie os endereço do CNAME gerado pelo Google Webmaster e adicione ao serviço de registro contratado.
 
-**Exemplo do registro CNAME**
-
-> **Marcador/Host CNAME:** xxxxxxxxxxxxx.example.com
-
-> **Destino/Alvo CNAME:** gv-xxxxxxxxxxxxxxxx.dv.googlehosted.com
+```
+Marcador/Host CNAME: xxxxxxxxxxxxx.example.com
+Destino/Alvo CNAME: gv-xxxxxxxxxxxxxxxx.dv.googlehosted.com
+```
 
 Ao adicionar as informações CNAME no provedor de registro clique em “**Verificar**”, caso esteja tudo certo a seguinte mensagem tem que ser apresentada “Parabéns, você confirmou a propriedade de example.com”, clique em “**Continuar**”.
 

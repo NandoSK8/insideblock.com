@@ -27,7 +27,9 @@ Isso acontece por conta do servidor de proxy, geralmente ele deve esta bloqueand
 
 2. Acesse o caminho.
 
-> HKEY_CURRENT_USER\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\15.0 ou 16.0\Commom\Internet
+```
+HKEY_CURRENT_USER\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\15.0 ou 16.0\Commom\Internet
+```
 
 OBS: Caso você estiver usando o Office 2013 selecione a pasta 15.0, ou se você estiver usando o Office 2016 selecione a pasta 16.0.
 
