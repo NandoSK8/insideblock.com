@@ -23,7 +23,7 @@ Você poderá notar que o numero de resultados é bem maior do que o seu numero 
 ## Indexar todas as paginas do blog no Google
 Para facilitar que o Google encontre suas paginas use as Ferramentas Google para Webmasters e envie um sitemap do seu blog.
 
-Quando entrar nas ferramentas para webmasters acesse o menu **Rastreamento › Sitemaps**.
+Quando entrar nas ferramentas para webmasters acesse o menu **Rastreamento\Sitemaps**.
 
 Então clique em **ADICIONAR/TESTAR SITEMAP** e use esse código e clique para enviar.
 

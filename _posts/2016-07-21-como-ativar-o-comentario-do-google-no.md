@@ -15,13 +15,13 @@ O Blogger e o Google Plus estão cada vez mais integrados um com o outro, o Goog
 
 Portanto quando nos adicionamos os comentários do Google+ ao Blogger dever atender alguns requisitos, como criar um página para o seu blog, isso ajuda a popularizar melhor sua página e não alterar o URL do blog, pois se o URL do blog for alterado, isso afetará negativamente os comentários existentes.
 
-* Clique na seta expandir sobre o blog selecionado Configurações › Postagens, comentários e compartilhamentos.
+* Clique na seta expandir sobre o blog selecionado Configurações\Postagens, comentários e compartilhamentos.
 
 * Role a página ate "**Comentários do Google+**" selecione o botão dropdown "**Sim**".
 
 Confira se a caixa de cometário foi adiciona ao blog automaticamente, caso ela não foi adicionada você terá que corrigir o HTML do seu blog.
 
-Atenção: Antes de executar os passos a seguir recomendo que faça o backup do seu template HTML. Para isso clique em Modelo › Fazer backup/Restaurar e Fazer download do modelo completo. Ao concluir o download prossiga com os passos abaixo.
+Atenção: Antes de executar os passos a seguir recomendo que faça o backup do seu template HTML. Para isso clique em Modelo\Fazer backup/Restaurar e Fazer download do modelo completo. Ao concluir o download prossiga com os passos abaixo.
 
 * Clique em Editar HTML procure por
 

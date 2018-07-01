@@ -31,7 +31,7 @@ A maneira pela qual cores e botões completam o novo modelo é mesmo incrível, 
 Logo ao fazer login no painel, o Blogger vai te levar para as postagem mais recentes, sempre para o último blog que você usou para fazer uma publicação. No canto superior esquerdo abaixo da logo Blogger, fica o nome do blog que você está atualmente, caso você tenha mais de um, basta que clique sobre o nome do mesmo e selecione o desejado. Veja que a opção de seleção é um menu dropdown, o mesmo mostra todos os blogs que você tiver toda vez que é clicado, até mesmo os blogs que já foram excluídos e que ainda podem ser revertidos da exclusão.
 
 ## Configurações do usuário
-Antes as configurações do usuário ficavam na página inicial no painel do Blogger, no canto superior direito, escondida no ícone de roda dentada; agora ela mudou de posição. Para localizar basta acessar **Configurações › Configurações de usuários**, todas as mudanças que você aplicar aqui, também serão aplicadas em todos os blogs (caso tenha mais de um).
+Antes as configurações do usuário ficavam na página inicial no painel do Blogger, no canto superior direito, escondida no ícone de roda dentada; agora ela mudou de posição. Para localizar basta acessar **Configurações\Configurações de usuários**, todas as mudanças que você aplicar aqui, também serão aplicadas em todos os blogs (caso tenha mais de um).
 
 ## Blogs excluídos
 A maneira de como vemos os blogs excluídos também mudou, para conferir a mudança clique sobre o nome do blog atual, localizado no canto superior esquerdo abaixo da logo Blogger, selecione um dos blogs da seção “**Blogs excluídos**”, veja que as opções disponíveis são: "**excluir permanentemente**" e "**desfazer exclusão**".

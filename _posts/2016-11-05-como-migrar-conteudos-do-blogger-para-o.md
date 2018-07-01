@@ -23,7 +23,7 @@ Agora que você sabe a diferença dos dois serviços do WordPress, podemos inici
 
 2. Clique no blog que deseja migrar o conteúdo
 
-3. Na lateral esquerda da tela clique em **Configurações › Outro**
+3. Na lateral esquerda da tela clique em **Configurações\Outro**
 
 4. Agora na seção “**Importar e fazer backup**”, clique em “**Fazer backup do conteúdo**”
 

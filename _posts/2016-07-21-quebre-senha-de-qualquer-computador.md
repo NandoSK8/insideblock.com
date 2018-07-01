@@ -30,7 +30,7 @@ Você pode usar qualquer DVD ou Pen Driver Bootavel do Windows, em qualquer outr
 
 ![Carregamento de drivers](/assets/img/quebre-senha-de-qualquer-computador/carregar-drivers.png)
 
-* No canto esquerdo da tela clique em “**Computador**”, selecione a unidade do disco rígido onde seu sistema operacional esta instalado, navegue ate a pasta **Windows › System32**.
+* No canto esquerdo da tela clique em “**Computador**”, selecione a unidade do disco rígido onde seu sistema operacional esta instalado, navegue ate a pasta **Windows\System32**.
 
 * Procure pelo arquivo “**CMD**” copie e cole com as teclas de atalho “CTRL+C e CTRL+V”.
 
@@ -68,6 +68,6 @@ net user administrador 123456
 
 Novamente tecle Enter. Os números “123456” significa que você alterou a senha do Administrador para “123456”.
 
-Agora didite a senha "123456" do usuário Administrador, abra o **Painel de Controle › Contas de Usuário e Segurança Família › Contas e Usuário › Gerencia outra conta***, clique no usuário que você deseja remover a senha e em “**Remover a senha**” na próxima tela clique novamente em “**Remover Senha**”.
+Agora didite a senha "123456" do usuário Administrador, abra o **Painel de Controle\Contas de Usuário e Segurança Família\Contas e Usuário\Gerencia outra conta***, clique no usuário que você deseja remover a senha e em “**Remover a senha**” na próxima tela clique novamente em “**Remover Senha**”.
 
 Caso você não tenha um DVD ou um Pen Drive, você pode remover o HD (disco rígido) de seu computador, colocar em outro computador “Desktop” e renomear os arquivos necessários, para que o “CMD” funcione na tela de logon.

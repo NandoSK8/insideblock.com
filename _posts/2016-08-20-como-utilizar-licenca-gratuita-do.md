@@ -23,13 +23,13 @@ Até pouco tempo a Microsoft estava liberando a atualização gratuita do Window
 
 1. Abra as Configurações do Windows ícone de roda dentada.
 
-2. Clique sobre **Atualização e segurança › Ativação**. Veja a seguinte mensagem “O Windows está com uma licença digital”.
+2. Clique sobre **Atualização e segurança\Ativação**. Veja a seguinte mensagem “O Windows está com uma licença digital”.
 
 3. Caso o sistema operacional apresente o Windows ativo mas sem licença digital, significa que a licença não esta qualificado para ser vincular à conta da Microsoft.
 
 De acordo com Gabriel Aul, vice-presidente de Engenharia para o grupo do Windows e Dispositivos da Microsoft, você pode entrar em contato com o suporte de dentro do Windows 10, explicar a situação, e eles vão ativar o Windows 10 para você.
 
-4. Para fazer isso, você deve ser capaz de abrir o menu Iniciar, selecione Todos os apps, e iniciar o aplicativo de Contato com o suporte incluído no Windows 10. Navegue para os **Serviços e aplicativos › Windows › Configuração da categoria**, que inclui problemas de ativação. Você pode iniciar um texto-chat com um representante de suporte Microsoft aqui ou ter um representante Microsoft chamá-lo ao telefone.
+4. Para fazer isso, você deve ser capaz de abrir o menu Iniciar, selecione Todos os apps, e iniciar o aplicativo de Contato com o suporte incluído no Windows 10. Navegue para os **Serviços e aplicativos\Windows\Configuração da categoria**, que inclui problemas de ativação. Você pode iniciar um texto-chat com um representante de suporte Microsoft aqui ou ter um representante Microsoft chamá-lo ao telefone.
 
 5. Caso você não tenha solicitado uma ativação pelo suporte do Windows, clique em "**Adicionar uma conta**", ao concluir uma nova mensagem vai esta disponível, “O Windows está com uma licença digital vinculada à sua conta da Microsoft”.
 

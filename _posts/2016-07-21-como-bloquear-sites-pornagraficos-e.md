@@ -18,7 +18,7 @@ As principais riscos desses site é a grande quantia de vírus, disponível em s
 Nos preocupado com sua segurança, temos aqui uma ótima dica para você bloquear esses tipos de site por meio de DNS, aplicáveis diretamente em seu "Computador ou em seu Modem". Siga os passos abaixo para você bloquear qualquer tipo de site, que de certa forma lhe ofereça riscos virtuais.
 
 ## Bloquear apenas um computador de cada vez
-1. Abra o Painel de controle do Windows › Rede e Internet ou Central de Rede e Compartilhamento › Alterar as configurações do adaptador.
+1. Abra o Painel de controle do Windows\Rede e Internet ou Central de Rede e Compartilhamento\Alterar as configurações do adaptador.
 
 2. Clique com o botão direito do mouse sobre o ícone de sua conexão de rede e em "Propriedade".
 

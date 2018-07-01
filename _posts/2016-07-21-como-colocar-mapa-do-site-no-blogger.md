@@ -17,7 +17,7 @@ Bom muitos blogueiros, geralmente comentem erros em seu blog, começando por uma
 
 Um mapa do site, tem muito mais funções de otimização do blog, do você pode imaginas, ele facilita o acesso de todos os seus artigos, com atualizações automática sem você precisar de acrescentar links ou qualquer outro coisa do tipo. Siga as instruções para por um mapa ao seu blog.
 
-1. Entre no Painel do Blogger › Páginas › Nova página.
+1. Entre no Painel do Blogger\Páginas\Nova página.
 
 2. Agora coloque o nome da Página que você preferir e clique em HTML.
 

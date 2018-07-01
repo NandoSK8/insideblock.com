@@ -18,7 +18,7 @@ Os dois recursos tem a função de fazer o mesmo trabalho, congelar a tela em um
 ## Acesso Guiado
 O Acesso Guiado esta disponível em todos os dispositivos com o iOS, tanto para iPhones quanto para Ipads.
 
-1. Toque em Ajustes › Geral › Acessibilidade › Acesso Guiado.
+1. Toque em Ajustes\Geral\Acessibilidade\Acesso Guiado.
 
 2. Araste o seletor para ativar a função.
 Para iniciar uma sessão do Acesso Guiado, siga estas etapas:
@@ -37,7 +37,7 @@ Se não estiver usando o Touch ID no dispositivo, siga estas etapas para finaliz
 ## Fixação de Tela
 A Fixação de Tela do Android não esta disponível para todos os Smartfones, geralmente ela esta disponível em dispositivos com Android puro nas versões 5 ou superior.
 
-1. Toque em Configurações › Segurança › Fixação de Tela.
+1. Toque em Configurações\Segurança\Fixação de Tela.
 
 2. Araste o seletor para ativar a função e deixe a opção "Pedir senha antes de desafixar" ativada (caso disponível).
 

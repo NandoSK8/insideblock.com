@@ -15,7 +15,7 @@ Você já deve ter observado que alguns blogs, mostram somente o resumo das post
 
 Fazer este tipo de alteração no blog, melhora a navegação e a experiência dos leitores, sem contar que ele ficar mais amigável tanto para os motores de busca quanto para os usuários.
 
-Antes de iniciarmos recomendo que faça o backup do template. Abra o **Painel do Blogger › Modelo › Fazer backup/Restaurar › Fazer download do modelo completo**, ao baixar o arquivo *xml na mesma janela clique em Fechar e em “**Editar HTML**”.
+Antes de iniciarmos recomendo que faça o backup do template. Abra o **Painel do Blogger\Modelo\Fazer backup/Restaurar\Fazer download do modelo completo**, ao baixar o arquivo *xml na mesma janela clique em Fechar e em “**Editar HTML**”.
 
 ## Primeiro vamos adicionar o HTML
 Pressione as teclas “Ctrl+F” e procure pela tag

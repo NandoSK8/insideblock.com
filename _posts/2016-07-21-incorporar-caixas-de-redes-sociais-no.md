@@ -28,9 +28,9 @@ A opção "Show Friend's Faces' Faces" permite que mostre alguns visitantes que 
 Depois, clique em “GET CODE” para gerar o código de incorporação, e cole o código no seu site ou blog com as instruções do Facebook .
 
 **Incorporar o código:**
-No Blogger, Abra o Painel do Blogger › Layout › Adicionar Gadgets e procure por "Html/Javascript", cole o código e salve as modificações.
+No Blogger, Abra o Painel do Blogger\Layout\Adicionar Gadgets e procure por "Html/Javascript", cole o código e salve as modificações.
 
-No WordPress, Abra o Menu do WordPress › Aparência › Widgets, e selecione o campo de texto. Arraste para onde quiser e cole o código no campo desejado, faça as alterações e personalize conforme o necessário.
+No WordPress, Abra o Menu do WordPress\Aparência\Widgets, e selecione o campo de texto. Arraste para onde quiser e cole o código no campo desejado, faça as alterações e personalize conforme o necessário.
 
 ## Widget Timeline do Twitter
 Para incorporar o Timeline do Twitter, faça login no seu perfil do Twitter e <a href="https://twitter.com/login?redirect_after_login=%2Fsettings%2Fwidgets" target="_blank" class="external-link" rel="nofollow">acesse esta página</a>, Agora clique em "Criar Novo", selecione a opção e personalização de sua preferencia, clique em "Criar Widget" para gera o código e incorporar no seu blog.

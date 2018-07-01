@@ -15,7 +15,7 @@ Você não consegue ouvir nada no alto-falante do iPhone, iPad ou iPod? Talvez v
 
 Esta falha pode acontecer ao fazer ou receber uma ligação, ouvir musicas ou assistir vídeos, alerta de notificações e outros motivos como voz do GPS de algum app especifico. Leia também <a href="http://www.insideblock.com/post/porque-funciona-um-alto-falante-do.html" target="_blank">Porque funciona um alto-falante do iPhone?</a>.
 
-* Siga esta etapa caso o problema esteja relacionado ao fazer ou receber uma ligação, ou alertas de notificação. Vá até Ajustes › Sons e arraste o controle deslizante de Toque e Alertas para aumentar o volume. Se for possível ouvir som, então ele já esta funcionando.
+* Siga esta etapa caso o problema esteja relacionado ao fazer ou receber uma ligação, ou alertas de notificação. Vá até Ajustes\Sons e arraste o controle deslizante de Toque e Alertas para aumentar o volume. Se for possível ouvir som, então ele já esta funcionando.
 
 Se não for possível ouvir som ou se ele não estiver claro, prossiga para próximo passo.
 

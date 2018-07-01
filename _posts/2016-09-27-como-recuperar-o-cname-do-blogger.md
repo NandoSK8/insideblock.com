@@ -25,7 +25,7 @@ Após adicionar o site clique sobre o mesmo, clique na “**Roda dentada**” lo
 Agora clique no link “**Verificar usando um método diferente**”, selecione a opção “**Provedor de nome de domínio**”, selecione o provedor que você contratou da lista, caso o mesmo não esteja listado selecione outros.
 
 ## Recuperando o CNAME
-Siga o caminho **Problemas? Adicionar um registro TXT › Adicionar um registro CNAME**, veja que as informações de apontamento de DNS estão visíveis, copie os endereço do CNAME gerado pelo Google Webmaster e adicione ao serviço de registro contratado.
+Siga o caminho **Problemas? Adicionar um registro TXT\Adicionar um registro CNAME**, veja que as informações de apontamento de DNS estão visíveis, copie os endereço do CNAME gerado pelo Google Webmaster e adicione ao serviço de registro contratado.
 
 ```
 Marcador/Host CNAME: xxxxxxxxxxxxx.example.com

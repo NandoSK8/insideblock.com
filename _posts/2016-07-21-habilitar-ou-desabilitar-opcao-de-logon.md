@@ -27,7 +27,7 @@ Para que você não tenha mais esse desconforto, siga o tutorial abaixo; Detalhe
 ## Segundo método
 1. Pressione a tecla **Windows+R** digite **secpol.msc** sem aspas e pressione Enter.
 
-2. Navegue para Politicas locais › Opções de segurança; De um clique duplo em “Logon interativo: não exigir Ctrl-Alt-Del”.
+2. Navegue para Politicas locais\Opções de segurança; De um clique duplo em “Logon interativo: não exigir Ctrl-Alt-Del”.
 
 3. Marque a opção Desabilitado, Aplique e em OK.
 

@@ -22,17 +22,17 @@ O Sintonizador System UI é a função mais oculta dentro do Android, inclusive 
 ## Criptografia de dados
 A criptografia de dados não fica oculta no Android, porém ela fica um pouco difícil de ser encontrada e poucos usuários sabem para que ela realmente funciona. Ela tem a função de codificar suas contas, configurações, apps, dados baixados, mídias e outros. Isso faz com que o usuário se sinta mais seguro, obrigado a digitar a senha de descriptografia toda vez que o dispositivo for desligado e ligado.
 
-Para ativar a criptografia de dados siga o caminho em seu dispositivo: **Configurações › Segurança**, na seção “**Codificações**” acesse **Codificar telefone**. Atenção: Antes de iniciar a codificação leia as informações com os pré-requisitos.
+Para ativar a criptografia de dados siga o caminho em seu dispositivo: **Configurações\Segurança**, na seção “**Codificações**” acesse **Codificar telefone**. Atenção: Antes de iniciar a codificação leia as informações com os pré-requisitos.
 
 Entretanto eu particularmente não recomendo ativar esta função em seu dispositivo, pois a mesma gera lentidão ao usar qualquer outra função do aparelho (não é nada demais, porém fica um pouco lento).
 
 ## Modo desenvolvedor
 O modo desenvolvedor passou a vir oculto já no Android da versão 4.2.2 (Jelly Bean), este recurso permite fazer diversas alterações no sistema, como aumentar ou diminuir a velocidade de animações, monitorar o funcionamento dos apps, ajudar no desenvolvimento de novos aplicativos e recursos do próprio sistema, entre outros.
 
-Para ativar o menu de desenvolvedor acesse as **Configurações › Sobre o telefone**, na última opção (**Número da versão**) pressione esta por cinco vezes seguidas ou mais, até que a mensagem “**Você agora é um desenvolvedor**” seja exibida, volte ao menu anterior e veja que uma nova opção vai estar disponível (**{} Programados**). Pronto, agora é só explorar o recurso.
+Para ativar o menu de desenvolvedor acesse as **Configurações\Sobre o telefone**, na última opção (**Número da versão**) pressione esta por cinco vezes seguidas ou mais, até que a mensagem “**Você agora é um desenvolvedor**” seja exibida, volte ao menu anterior e veja que uma nova opção vai estar disponível (**{} Programados**). Pronto, agora é só explorar o recurso.
 
 ## Modo de convidado
-Assim como os sistemas operacionais para computadores, o Android também fez a aplicação de um novo recurso que possibilita a ativação de um usuário convidado e/ou criar um novo usuário com privilégios de administrador. Para começar a usar a aplicação entre em **Configurações › Usuários**, agora escolha entre o usuário **Convidado** ou **Adicionar um novo**.
+Assim como os sistemas operacionais para computadores, o Android também fez a aplicação de um novo recurso que possibilita a ativação de um usuário convidado e/ou criar um novo usuário com privilégios de administrador. Para começar a usar a aplicação entre em **Configurações\Usuários**, agora escolha entre o usuário **Convidado** ou **Adicionar um novo**.
 
 Após a ativação do novo recurso é hora de fazer um teste. Bloqueie a tela do dispositivo, posicione o dedo no topo da tela e puche de cima para baixo duas vezes, clique sobre o ícone de usuário ao lado do ícone de configurações (roda dentada), e escolha entre os usuários que você ativou; para voltar ao usuário anterior basta repetir o mesmo processo, posicionando o dedo no topo da tela.
 
@@ -49,6 +49,6 @@ O Android tem essa função nativa escondida no sistema operacional, para inicia
 ## Jogo oculto do Android
 São poucos os usuários que conhecem o “game nativo do Android”, por um lado é até bom, pois o jogo apresenta um nível de dificuldade incrível, e são raros os usuários que se dariam bem ao testar o jogo. Em uma “escala de dificuldade de 0 a 10 eu escolheria 1000”.
 
-Para iniciar o jogo abra as **Configurações › Sobre o telefone**, na seção “**Versão do Android**” clique sobre o mesmo cinco vezes ou mais, até que uma nova tela seja exibida, agora clique sobre a logo do Android três vezes, e numa quarta vez aperte e segure até que uma outra tela com botão de player apareça, pronto agora é só iniciar o game.
+Para iniciar o jogo abra as **Configurações\Sobre o telefone**, na seção “**Versão do Android**” clique sobre o mesmo cinco vezes ou mais, até que uma nova tela seja exibida, agora clique sobre a logo do Android três vezes, e numa quarta vez aperte e segure até que uma outra tela com botão de player apareça, pronto agora é só iniciar o game.
 
 Agora que você conhece sete novas funções do Android, está na hora de experimentar algumas delas, divirta-se e conte para nós sobre qual delas você mais gostou , e deixe-nos os seus comentários.

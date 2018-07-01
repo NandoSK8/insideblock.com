@@ -18,7 +18,7 @@ Para que você possa ocultar ou exibir elementos em determinadas página você t
 ## Exemplificando para um melhor entendimento
 Digamos que você instalou um anuncio em seu blog, por padrão este anuncio vai aparecer em todas as página, porem você que que ele apereça apenas na página inicial (home).
 
-Acesse o **Painel do Blogger › Modelo › Editar HTML**. (Recomendamos que faça o backup do seu template ante de fazer qualquer alteração).
+Acesse o **Painel do Blogger\Modelo\Editar HTML**. (Recomendamos que faça o backup do seu template ante de fazer qualquer alteração).
 
 No nosso exemplo, este elemento é o anuncio, então o código html que inicia este anuncio vai estar assim:
 

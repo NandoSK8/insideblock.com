@@ -25,7 +25,7 @@ Nas configurações de reprodução, você pode aumentar o volume do som, e ativ
 
 1. Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “**Dispositivos de reprodução**”.
 
-2. Clique em **Alt-falante › Propriedade**.
+2. Clique em **Alt-falante\Propriedade**.
 
 3. Na guia superior escolha “**Aperfeiçoamentos**” e marque a opção “**Equalização de intensidade**”, esta opção faz o som do alto-falante ficar mais alto e abusado.
 
@@ -38,7 +38,7 @@ As configurações de gravação, você pode aumentar a sensibilidade do microfo
 
 1. Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “**Dispositivos de gravação**”.
 
-2. Clique em **Microfone › Propriedade**.
+2. Clique em **Microfone\Propriedade**.
 
 3. Na guia superior clique em “**Nível**”, na seção “**Aumento de sensibilidade do microfone**” arraste o ponteiro deslizante para a direita e esquerda para que encontre a melhor sensibilidade.
 

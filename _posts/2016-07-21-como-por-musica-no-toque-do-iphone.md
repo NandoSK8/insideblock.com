@@ -19,7 +19,7 @@ Se você possui um iPhone, já dever ter percebido que não é possível colocar
 
 * Coloque a musica para tocar, veja que ele vai tocar apenas o trecho definido anteriormente, porem a musica continua completa. Para criar um novo arquivo de toque do trecho do passo anterior, clique com botão direito do mouse sobre a musica e escolha **Criar Versão AAC**.
 
-* Note que dois arquivos com os mesmos nomes foram criados, tratasse do arquivo original e do recortado, para que a musica original toque por inteira novamente clique com o direito do mouse, **Obter Informações › Opções** e desmarque as opções **Iniciar e Parar**.
+* Note que dois arquivos com os mesmos nomes foram criados, tratasse do arquivo original e do recortado, para que a musica original toque por inteira novamente clique com o direito do mouse, **Obter Informações\Opções** e desmarque as opções **Iniciar e Parar**.
 
 * Araste o arquivo recortado para a areá de trabalho para criar uma copia, feito isso altere a extensão do arquivo para **.m4r** sem aspas. Caso o formato não esteja aparecendo, veja como exibir a extensão dos arquivos no Windows e Mac OS X [likar para tutorial a ser publicado em breve, por favor].
 

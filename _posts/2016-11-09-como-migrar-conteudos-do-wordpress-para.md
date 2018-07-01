@@ -34,7 +34,7 @@ Detalhe: O arquivo *xml não pode passar de 1 mb, caso o site dê algum erro, vo
 
 2. Clique no blog que deseja migrar o conteúdo
 
-3. Na lateral esquerda da tela clique em **Configurações › Outro**
+3. Na lateral esquerda da tela clique em **Configurações\Outro**
 
 4. Agora na seção “**Importar e fazer backup**”, clique em “**Importar conteúdo**”
 

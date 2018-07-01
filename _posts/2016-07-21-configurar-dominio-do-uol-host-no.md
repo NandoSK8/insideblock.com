@@ -96,7 +96,7 @@ Se você fez todas as configurações conforme o descrito, recomendo que aguarde
 
 * Antes de passar para etapa final, aguarde cerca de 30 minutos a uma horas, para que as configurações de DNS seja ativada.
 
-* Agora entre no **Painel do Blogger, selecione › Configurações › Básico**, Na área "Publicação", clique no link para adicionar um domínio personalizado.
+* Agora entre no **Painel do Blogger, selecione\Configurações\Básico**, Na área "Publicação", clique no link para adicionar um domínio personalizado.
 
 * Insira o URL de seu domínio personalizado na caixa de texto exibida como (www.exemplo.com) e clique em Salvar.
 

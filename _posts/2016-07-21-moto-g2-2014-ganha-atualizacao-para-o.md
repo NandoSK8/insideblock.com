@@ -31,7 +31,7 @@ Nem todos os modelos do Moto G de 2ª geração podem fazer a atualização por 
 
 1. Ao concluir o download copie o arquivo na extensão *.zip para a raiz do Cartão SD do seu dispositivo. É importante que ele não seja extraído nem colocado dentro de uma pasta ou renomeado;
 
-2. Desligue e ligue seu dispositivo, vá em Configurações › Sobre o telefone › Atualização do Sistema para checar por atualizações. Caso o dispositivo de uma mensagem de erro de atualização não se preocupe isso é normal.
+2. Desligue e ligue seu dispositivo, vá em Configurações\Sobre o telefone\Atualização do Sistema para checar por atualizações. Caso o dispositivo de uma mensagem de erro de atualização não se preocupe isso é normal.
 
 3. Se dispositivo não exibir a tela do novo update quando você verificar por atualizações, aguarde de três a cinco minutos ate que o sistema reconheça o arquivo *zip, veja que depois deste intervalo de tempo o mesmo ja vai exibir uma atualização disponível.
 

@@ -18,7 +18,7 @@ Isso acontece por conta do servidor de proxy, geralmente ele deve esta bloqueand
 ## Primeiro Método
 1. Abra o Word ou qualquer outra aplicação do Office e crie um documento em branco.
 
-2. Clique em **Aquivo › Opções › Central de Confiabilidade › Configurações da Central de Confiabilidade**.
+2. Clique em **Aquivo\Opções\Central de Confiabilidade\Configurações da Central de Confiabilidade**.
 
 3. Agora em “**Opções de Privacidade**” desmarque todas as opções que estiver marcada, feche o Office e tente novamente. Caso este método não funcione tente o próximo.
 
