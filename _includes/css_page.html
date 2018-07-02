@@ -16,16 +16,18 @@
     .page>section.author>div,
     .page>p.team,
     .page>.tags,
-    .page>.category {
+    .page>.category,
+    .page>.support-us {
         width: 90%;
         max-width: 800px;
         margin: 0 auto;
         overflow: hidden
     }
     
-    .page .contact,
-    .page .tags,
-    .page .category {
+    .page>.contact,
+    .page>.tags,
+    .page>.category,
+    .page>.support-us {
         margin-bottom: 50px
     }
     /* Contact */
@@ -83,7 +85,7 @@
         }
     }
     /* Team */
-
+    
     p.team {
         font-size: 1.75rem;
         text-align: center;
@@ -252,5 +254,42 @@
             display: inline-flex;
             width: 50%
         }
+    }
+    /* Support-Us */
+    
+    .support-us .form {
+        text-align: center
+    }
+
+    .support-us button {
+        text-transform: uppercase
+    }
+    
+    .support-us form {
+        display: inline-block;
+        text-align: center;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        padding: 10px;
+        margin: 15px 0
+    }
+
+    .support-us .instructions a {
+        color: #999;
+        border-bottom: 1px solid
+    }
+    
+    .support-us .table {
+        padding: 25px 0
+    }
+    
+    .support-us .table h4 {
+        display: block;
+        font-size: 1.5rem
+    }
+    
+    .support-us .table a {
+        color: #000;
+        border-bottom: 1px solid
     }
 </style>

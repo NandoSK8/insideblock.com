@@ -1,4 +1,35 @@
 <footer>
+    <div class="grid">
+        <div class="page-link">
+            <h4>Páginas Úteis</h4>
+            <div class="content">
+                <ul>
+                    {% for link in site.data.nav.page-link %}
+                    <li>
+                        <a alt="{{ link.page }}" href="{{ link.url }}">{{ link.page }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        <div class="follow" itemscope itemtype="http://schema.org/Organization">
+            <link itemprop="url" href="https://www.insideblock.com">
+            <h4>Conecte-se Conosco</h4>
+            <div class="content">
+                <ul>
+                    {% for follow in site.data.insideblock.social %}
+                    <li>
+                        <a class="{{ follow.icon }}" itemprop="sameAs" target="_blank" alt="Siga-nos no {{ follow.page }}" href="{{ follow.link }}">
+                            <svg><use xlink:href="#{{ follow.icon }}"></use></svg>{{ follow.page }}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
     <div class="footer-copyright">
         <div class="grid">
             <div class="copy">© 2016 - {{ site.time | date: "%Y" }} Copyright</div>

@@ -18,3 +18,29 @@ nav:
    url: /tags/
    class: 
    target:
+
+page-link:
+ - page: Home
+   url: /
+   class: 
+   target:
+
+ - page: Apoie-nos
+   url: /support-us/
+   class: 
+   target:
+    
+ - page: Contato
+   url: /contact/
+   class: 
+   target:
+
+ - page: Equipe
+   url: /team/
+   class: 
+   target:
+
+ - page: Tags
+   url: /tags/
+   class: 
+   target:

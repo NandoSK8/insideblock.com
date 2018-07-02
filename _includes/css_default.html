@@ -196,6 +196,11 @@
         .navbar>.list-mobile {
             display: none
         }
+        footer .page-link,
+        footer .follow {
+            width: 50%;
+            float: left
+        }
         footer .copy,
         footer .link {
             display: inline-block
@@ -317,6 +322,11 @@
         .navbar ul a:hover {
             background: #fff;
             color: #2da0c3
+        }
+        footer .page-link,
+        footer .follow {
+            width: 100%;
+            display: block
         }
         footer .copy,
         footer .link {
@@ -462,66 +472,86 @@
     .box-search ul a:hover {
         color: rgba(156, 156, 156, 1)
     }
+    /* Footer */
     
-    .follow {
-        position: relative;
+    footer {
+        border-top: 1px solid #ccc;
+        overflow: hidden
+    }
+    /* Footer Follow*/
+    
+    footer .page-link,
+    footer .follow {
         background: #fff;
-        width: 100%;
-        display: block;
-        text-align: center;
-        margin: 0 auto;
-        padding: 30px 2rem;
-        border-top: 1px solid #ccc
+        padding: 30px 2rem
     }
     
-    .follow h4 {
+    footer h4 {
         font-size: 1.25rem;
         color: #797979;
         display: block
     }
     
-    .follow a {
-        margin: 0 5px
+    footer ul li {
+        display: block;
+        margin: 15px 0
     }
     
-    .follow a,
-    .follow svg {
+    footer li a {
+        color: #999;
+        padding: 10px;
+    }
+
+    footer li a:hover {
+        color: #2da0c3
+    }
+    
+    footer .follow a,
+    footer .follow svg {
         height: 40px;
-        width: 40px
+        line-height: 40px;
+        display: flex
     }
     
-    .follow svg {
+    footer .follow svg {
+        width: 40px;
+        margin-right: 10px
+    }
+    
+    footer .follow svg {
         border-radius: 50%;
         fill: #fff;
         padding: 5px
     }
     
-    .follow a.icon-googleplus svg {
+    footer .follow a.icon-googleplus svg {
         background: #db4437
     }
     
-    .follow a.icon-facebook svg {
+    footer .follow a.icon-facebook svg {
         background: #29487d
     }
     
-    .follow a.icon-twitter svg {
+    footer .follow a.icon-twitter svg {
         background: #1da1f2
     }
     
-    .follow a.icon-instagram svg {
+    footer .follow a.icon-instagram svg {
         background: radial-gradient(circle at 33% 100%, #FED373 4%, #F15245 30%, #D92E7F 62%, #9B36B7 85%, #515ECF)
     }
     
-    .follow a.icon-github svg {
+    footer .follow a.icon-github svg {
         background: #000
     }
     
-    .follow a.icon-linkedin svg {
+    footer .follow a.icon-linkedin svg {
         background: #0073b1
     }
+    /* Footer Copy Link */
     
-    footer {
+    footer .footer-copyright {
         background: #2da0c3;
+        width: 100%;
         padding: 25px 0;
         overflow: hidden
     }
@@ -537,4 +567,4 @@
     }
 </style>
 
-{% include font_face.html %}
+{% include font_face.html %} {% include css_table.html %}
