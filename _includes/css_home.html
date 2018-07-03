@@ -196,11 +196,18 @@
         article .box-img::after {
             content: "";
             position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            height: 100px;
-            background: -webkit-linear-gradient(top, rgba(51, 51, 51, 0) 0, rgba(51, 51, 51, .75) 50px, rgba(51, 51, 51, .75) 100px)
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            height: 100%;
+            width: 100%;
+            background: rgba(51, 51, 51, .5)
+        }
+        article .box-img:hover::after {
+            content: "⌖";
+            color: #fff;
+            font-size: 5rem
         }
         article .box-body .category {
             position: absolute;
@@ -282,6 +289,10 @@
         font-size: .75rem;
         z-index: 1
     }
+
+    article .box-body .category a:hover {
+        background: rgba(0, 0, 0, .75)
+    }
     
     article,
     aside {
@@ -300,8 +311,9 @@
     article .box-img {
         display: flex;
         justify-content: center;
+        align-items: center;
         border-top-left-radius: 3px;
-        z-index: 1;
+        z-index: 1
     }
     
     article .box-body h2 {
