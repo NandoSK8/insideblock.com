@@ -73,9 +73,28 @@
         border-radius: 3px
     }
     
+    @media only screen and (max-width: 600px) {
+        .page .submit {
+            display: block;
+            text-align: center;
+            padding: 15px 0
+        }
+        .page .recaptcha {
+            display: flex;
+            justify-content: center;
+            padding: 15px 0
+        }
+    }
+    
     @media only screen and (min-width: 601px) {
         .page .name-last-name {
             columns: 2
+        }
+        .page .submit {
+            float: left
+        }
+        .page .recaptcha {
+            float: right
         }
     }
     
@@ -260,7 +279,7 @@
     .support-us .form {
         text-align: center
     }
-
+    
     .support-us button {
         text-transform: uppercase
     }
@@ -273,7 +292,7 @@
         padding: 10px;
         margin: 15px 0
     }
-
+    
     .support-us .instructions a {
         color: #999;
         border-bottom: 1px solid
