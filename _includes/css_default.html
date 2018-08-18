@@ -166,7 +166,7 @@
         margin: 0
     }
     
-    @media only screen and (min-width: 601px) {
+    @media only screen and (min-width: 701px) {
         nav h1 a::after {
             position: absolute;
             content: "Inside Block";
@@ -179,14 +179,27 @@
             height: 60px;
             line-height: 60px;
             font-size: 1rem;
-            padding: 0 15px
+            padding: 0 15px;
+            border-bottom: 3px solid transparent
         }
         nav li {
             display: inline-block
         }
         nav ul a:hover {
-            background: rgba(0, 0, 0, 0.1);
-            color: #2da0c3 !important
+            color: #2da0c3 !important;
+            border-bottom: 3px solid #2da0c3
+        }
+        nav ul a.Exchange {
+            color: #fff;
+            background: rgba(0, 0, 0, .5);
+            display: inline;
+            padding: 15px;
+            border-radius: 5px;
+            border-bottom: none
+        }
+        nav ul a.Exchange:hover {
+            background: rgba(0, 0, 0, .1);
+            border-bottom: none
         }
         nav label.mobile,
         .navbar>.list-mobile {
@@ -211,7 +224,7 @@
         }
     }
     
-    @media only screen and (max-width: 600px) {
+    @media only screen and (max-width: 700px) {
         nav h1 a::after {
             position: absolute;
             content: "IB";
