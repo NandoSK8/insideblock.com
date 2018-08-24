@@ -8,4 +8,4 @@
 
 Made by <a href="http://multicamada.com">Multi Camada</a>
 
-Administrador Geral <a href="http://ediano.com.br">Ediano Silva Santos</a>
+Administrador Geral <a href="https://github.com/ediano">Ediano Silva Santos</a>
