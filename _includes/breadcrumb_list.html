@@ -3,12 +3,14 @@
         <a itemprop="item" href="{{ site.url }}">
           <span itemprop="name">Home</span>
         </a>
+        <meta itemprop="position" content="1" />
     </li>/
     {% for cat in page.category %}
     <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
         <a class="cat" itemprop="item" href="{{ site.url }}/category/{{ page.category }}">
           <span itemprop="name">{{ page.category }}</span>
         </a>
+        <meta itemprop="position" content="2" />
     </li>
     {% endfor %}
 </ol>
