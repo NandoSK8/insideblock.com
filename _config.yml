@@ -39,8 +39,9 @@ pages_to_cache:
 # Netlify
 include: ['_redirects','_headers']
 
-# Google
-google_analytics: UA-81236717-1
+# Verification
+g_analytics: UA-81236717-1
+g_tagmanager: GTM-NHBPTTD
 
 # Remove pagination from sitemap
 defaults:

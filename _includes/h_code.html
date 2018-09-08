@@ -1,3 +1,24 @@
+<!-- Verication - Webmaster -->
+<meta name="google-site-verification" content="WFfdXxzxwHG8RawsmRbU7KggGQx-kUe8m7A6LvjElN0" />
+<meta name="msvalidate.01" content="9266B60E5A39A50A1566051C44326CDB" />
+
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', '{{ site.g_tagmanager }}');
+</script>
+
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-81236717-1"></script>
 <script>
@@ -29,9 +50,9 @@
         "@type": "WebSite",
         "url": "https://www.insideblock.com",
         "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://www.insideblock.com/{search_results}",
-          "query-input": "required name=search_results"
+            "@type": "SearchAction",
+            "target": "https://www.insideblock.com/{search_results}",
+            "query-input": "required name=search_results"
         }
     }
 </script>
