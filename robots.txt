@@ -1,3 +1,14 @@
-# robotstxt.org/
+# Site: Inside Block
 
-User-agent: *
+# All Search Engines
+User-Agent: *
+
+# Noindex
+Disallow: /page
+Disallow: /success.html
+Disallow: /offline.html
+Disallow: /convert-html.html
+Disallow: /google7d06e6ee9e6ded88.html
+
+# Sitemap
+Sitemap: https://www.insideblock.com/sitemap.xml
