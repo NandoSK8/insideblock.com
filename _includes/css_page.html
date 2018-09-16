@@ -32,7 +32,8 @@
     .page>p.team,
     .page>.tags,
     .page>.category,
-    .page>.support-us {
+    .page>.support-us,
+    .page>.tool-convert {
         width: 90%;
         max-width: 800px;
         margin: 0 auto;
@@ -42,44 +43,45 @@
     .page>.contact,
     .page>.tags,
     .page>.category,
-    .page>.support-us {
+    .page>.support-us,
+    .page>.tool-convert {
         margin-bottom: 50px
     }
     /* Contact */
     
-    .page input,
-    .page textarea {
+    .page .contact input,
+    .page .contact textarea {
         width: 100%;
         border: 0;
         margin: 15px 0
     }
     
-    .page input {
+    .page .contact input {
         height: 60px
     }
     
-    .page input {
+    .page .contact input {
         border-bottom: 2px solid #2da0c3
     }
     
-    .page textarea {
+    .page .contact textarea {
         border: 2px solid #2da0c3
     }
     
-    .page textarea {
+    .page .contact textarea {
         height: 120px;
         padding: 5px
     }
     
-    .page input:focus {
+    .page .contact input:focus {
         border-bottom: 2px solid #ccc
     }
     
-    .page textarea:focus {
+    .page .contact textarea:focus {
         border: 2px solid #ccc
     }
     
-    .page button {
+    .page .contact button {
         cursor: pointer;
         background: #2da0c3;
         color: #fff;
@@ -323,5 +325,35 @@
     .support-us .table a {
         color: #000;
         border-bottom: 1px solid
+    }
+    /* Tool Convert */
+    
+    .tool-convert {
+        text-align: center
+    }
+    
+    .tool-convert p {
+        color: #545454;
+        margin: 15px 0
+    }
+    
+    .tool-convert h3 {
+        text-transform: uppercase;
+        color: #999
+    }
+    
+    .tool-convert textarea {
+        width: 80%;
+        height: 200px
+    }
+    
+    .tool-convert .btn {
+        background: #fff;
+        color: #999;
+        padding: 5px;
+        text-transform: uppercase;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        border-radius: 5px;
+        cursor: pointer
     }
 </style>

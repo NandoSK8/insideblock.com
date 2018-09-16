@@ -24,10 +24,6 @@ page-link:
  - page: Home
    url: /
    target:
-
- - page: Apoie-nos
-   url: /support-us/
-   target:
     
  - page: Contato
    url: /contact/
@@ -41,6 +37,14 @@ page-link:
    url: /tags/
    target:
 
+ - page: Apoie-nos
+   url: /support-us/
+   target:
+
  - page: Exchange
    url: /buy-crypto/
+   target:
+
+ - page: Converter HTML
+   url: /convert-html/
    target:
