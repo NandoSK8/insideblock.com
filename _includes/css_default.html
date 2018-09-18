@@ -215,6 +215,9 @@
             width: 50%;
             float: left
         }
+        footer .footer-copyright .grid {
+            overflow: hidden
+        }
         footer .copy,
         footer .link {
             display: inline-block
@@ -561,9 +564,22 @@
         color: #fff
     }
     
+    footer .copy>span,
+    footer .link>span {
+        display: block;
+        margin: 5px;
+        overflow: hidden
+    }
+    
+    footer .copy a,
     footer .link a {
         color: rgba(255, 255, 255, 0.75);
         border-bottom: 1px solid
+    }
+    
+    footer .link #ranking-box {
+        width: 150px;
+        margin: 0 auto
     }
 </style>
 

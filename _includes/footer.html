@@ -31,16 +31,17 @@
     </div>
 
     <div class="footer-copyright">
-        <div class="grid" style="overflow:hidden">
-            <div class="copy">© 2016/{{ site.time | date: "%Y" }} Inside Block - Todos os direitos reservados</div>
-            <div class="link">Made by
-                <a class="grey-text text-lighten-4" href="http://multicamada.com" target="_blank">Multi Camada</a>
+        <div class="grid">
+            <div class="copy">
+                <span>© Copyright 2016/{{ site.time | date: "%Y" }} <a href="{{ site.url }}">{{ site.title }}</a></span>
+                <span>Todos os direitos reservados</span>
+            </div>
+            <div class="link">
+                <span>Made by <a class="grey-text text-lighten-4" href="http://multicamada.com" target="_blank">Multi Camada</a></span>
+                <span><div id="ranking-box" class="dark smaller"></div></span>
             </div>
         </div>
-        
-        <div style="width:100%;margin:5px 0 0 0;overflow:hidden">
-            <div id="ranking-box" class="dark smaller" style="width:150px;margin:0 auto"></div>
-        </div>
+
         <script>
             var blogsBrasilKey = "insideblock-com";
             var blogsBrasilOwnerKey = "ediano";

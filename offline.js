@@ -4,7 +4,7 @@ layout: null
 
 const staticCacheName = 'inside-block-{{ site.time | date: "%Y-%m-%d-%H-%M" }}';
 
-var filesToCache = [
+/*var filesToCache = [
   {% for page in site.pages_to_cache %}
     '{{ page }}',
   {% endfor %}
@@ -14,7 +14,7 @@ var filesToCache = [
   {% for asset in site.files_to_cache %}
     '{{ asset }}',
   {% endfor %}
-];
+];*/
 
 // Cache on install
 this.addEventListener("install", event => {
