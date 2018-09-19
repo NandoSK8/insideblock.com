@@ -27,7 +27,7 @@ Agora que você sabe a diferença dos dois serviços do WordPress, podemos inici
 
 **`4`** Agora na seção “*Importar e fazer backup*”, clique em “*Fazer backup do conteúdo*”
 
-5. Clique em “*Salvar no seu computador*”, salve o arquivo *xml no local desejado
+**`5`** Clique em “*Salvar no seu computador*”, salve o arquivo *xml no local desejado
 
 Obs: Caso as imagens das postagens estejam hospedadas no Blogger, você não poderá apagar o mesmo, pois se você apagar o blog do Blogger todas as imagens também serão apagadas das postagens que você migrar para o WordPress.
 
