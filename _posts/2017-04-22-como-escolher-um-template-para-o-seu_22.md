@@ -33,15 +33,15 @@ Para encaixar de forma adequada cada um dos conteúdos do seu blog, você deve s
 ## Ferramentas de navegação
 As ferramentas de navegação são muitos importantes, são elas que vão ajudar o usuário a encontrar determinados conteúdos em seu blog. Cada ferramenta tem a sua função, e são três as que nunca podem faltar em um blog.
 
-* **Primeira:** Caixa de pesquisa - aqui o usuário pode pesquisar palavras ou uma frase dentro do blog para encontrar um artigo em específico.
+* `Primeira:` Caixa de pesquisa - aqui o usuário pode pesquisar palavras ou uma frase dentro do blog para encontrar um artigo em específico.
 
-* **Segunda:** Menu - os menus podem ser usados para adicionar página sobre o blog como contatos, dados sobre o autor, mapa do site, entre outros.
+* `Segunda:` Menu - os menus podem ser usados para adicionar página sobre o blog como contatos, dados sobre o autor, mapa do site, entre outros.
 
-* **Terceira:** Menu de categorias - as categorias simplificam o conteúdo e permitem que o usuário classifique quais assuntos quer ler primeiro.
+* `Terceira:` Menu de categorias - as categorias simplificam o conteúdo e permitem que o usuário classifique quais assuntos quer ler primeiro.
 
 ## Plataformas
 Hoje é muito fácil encontrar templates gratuitos para as plataformas mais populares, o problema é que você não pode usar qualquer modelo criado por terceiros para instalar em seu blog, alguns desenvolvedores agem de má fé, criam scripts que pode gerar alertas de malware, phishing entre outros. Vendo esta questão, decidi indicar alguns blogs que podem te ajudar a encontrar os melhores templates para as plataformas Blogger e WordPress.
 
-* **Blogger:** Apesar de não existir suporte para esses tipos de modelos no <a href="https://productforums.google.com/forum/#!forum/blogger-pt" target="_blank" class="external-link" rel="nofollow">fórum do Blogger</a>, um dos blogs indicado é o Blog do Paulo Guilherme, onde ele lista em um artigo “<a href="http://www.pauloguilherme.com/2014/11/melhores-sites-para-baixar-templates-para-blogger.html" target="_blank" class="external-link">Os melhores sites para baixar templates para Blogger</a>”.
+* `Blogger:` Apesar de não existir suporte para esses tipos de modelos no <a href="https://productforums.google.com/forum/#!forum/blogger-pt" target="_blank" class="external-link" rel="nofollow">fórum do Blogger</a>, um dos blogs indicado é o Blog do Paulo Guilherme, onde ele lista em um artigo “<a href="http://www.pauloguilherme.com/2014/11/melhores-sites-para-baixar-templates-para-blogger.html" target="_blank" class="external-link">Os melhores sites para baixar templates para Blogger</a>”.
 
-* **WordPress:** Para os usuários do WordPress o mais recomendado são os <a href="https://wordpress.org/themes/" target="_blank" class="external-link" rel="nofollow">templates oficiais da plataforma</a>, apesar de muitos desses modelos serem pagos, também existem centenas de modelos gratuitos. Embora o fórum do Blogger não ofereça suporte a este tipo de modelo, com o WordPress é diferente, o <a href="https://br.wordpress.org/support/" target="_blank" class="external-link" rel="nofollow">fórum oficial da plataforma</a> tem o compromisso de ajudar você a personalizar o seu blog.
+* `WordPress:` Para os usuários do WordPress o mais recomendado são os <a href="https://wordpress.org/themes/" target="_blank" class="external-link" rel="nofollow">templates oficiais da plataforma</a>, apesar de muitos desses modelos serem pagos, também existem centenas de modelos gratuitos. Embora o fórum do Blogger não ofereça suporte a este tipo de modelo, com o WordPress é diferente, o <a href="https://br.wordpress.org/support/" target="_blank" class="external-link" rel="nofollow">fórum oficial da plataforma</a> tem o compromisso de ajudar você a personalizar o seu blog.
