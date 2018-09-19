@@ -23,12 +23,12 @@ A tag H1 pode ser adiciona apenas uma vez por página, e como o seu blog tem um 
 ![Heading Tags H1 a H6](/assets/img/heading-tags-aprenda-otimizar-melhor-o/heading.png)
 
 ## Aviso de tags de títulos e tags de conteúdos
-Como as tags H1 a H6 são usadas para destacar títulos e subtítulos, jamais use elas para destacar o conteúdo completo, para conteúdos use a tag **<p>** ou não use nada deixe o texto livre, isso faz toda a diferença para que os buscadores otimize melhor seus artigos.
+Como as tags H1 a H6 são usadas para destacar títulos e subtítulos, jamais use elas para destacar o conteúdo completo, para conteúdos use a tag *<p>* ou não use nada deixe o texto livre, isso faz toda a diferença para que os buscadores otimize melhor seus artigos.
 
 ## Como usar as Heading tags no Blogger
 Alguns templates do Blogger, essas estruturas estão desorganizadas, por isso é importe que você faça as marcações necessárias dentro do texto que você está escrevendo.
 
-Através do próprio “**Editor de postagens**” do Blogger, você pode indicar um texto como sendo o de maior importância, dentro do “Editor” tem um botão geralmente ele está marcado como “**Normal**”, clique no mesmo e escolha entre as opções.
+Através do próprio “*Editor de postagens*” do Blogger, você pode indicar um texto como sendo o de maior importância, dentro do “Editor” tem um botão geralmente ele está marcado como “*Normal*”, clique no mesmo e escolha entre as opções.
 
 ```html
 <h2> Título - H2 </h2>
@@ -43,13 +43,11 @@ Todas os texto que você marcar com essas tags serão, otimizados pelos buscador
 ## Personalizar Heading tags com CSS
 Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.
 
-Acesse o **Painel do Blogger\Modelo\Editar HTML** e procure pela seguinte tag.
+**`1`** Acesse o *Painel do Blogger\Modelo\Editar HTML*
 
-```html
-</b:skin>
-```
+**`2`** Procure pela seguinte tag `]]></b:skin>`
 
-**Adicione o código abaixo acima da tag encontrada**
+**`3`** Adicione o código abaixo acima da tag encontrada
 
 ```css
 /*----estilos heading tag h2-------*/

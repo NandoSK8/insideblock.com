@@ -20,17 +20,17 @@ O AdWords é a ferramenta indicada e a mais completa para esse tipo de serviço,
 ## Planejamento de palavras-chave
 O Planejamento de palavras-chave é uma ferramenta específica que pode ser usado tanto por empresas quanto por blogueiros, esta ferramenta tem a função de encontrar novas palavras chaves, ver dados de volume de pesquisa, planejar orçamento e receber previsões, porém iremos usar apenas a função mais importante e interessante para blogueiros. Siga as informações e confira as análise.
 
-Você pode encontrar esta função facilmente, faça <a href="https://adwords.google.com/" target="_blank" class="external-link" rel="nofollow">login no Google AdWords</a>, clique em **Ferramentas\Planejamento de palavras-chave**.
+Você pode encontrar esta função facilmente, faça <a href="https://adwords.google.com/" target="_blank" class="external-link" rel="nofollow">login no Google AdWords</a>, clique em *Ferramentas\Planejamento de palavras-chave*.
 
 ## Procurar novas palavras-chave usando uma frase, um website ou uma categoria
-Nessa opção temos vários campos de preenchimento, porém usaremos apenas a seção “**Seu produto ou serviço**”, você pode adicionar palavras ou frases nos seguintes exemplos: carro, carro usado, notebook, notebook google.
+Nessa opção temos vários campos de preenchimento, porém usaremos apenas a seção “*Seu produto ou serviço*”, você pode adicionar palavras ou frases nos seguintes exemplos: carro, carro usado, notebook, notebook google.
 
 ## Idéias de palavras-chave
-Quando fazemos uma pesquisa com a seção “**Seu produto ou serviço**”, o primeiro resultado encontrado é as “**Ideias de grupos de anúncios**”, esse tipo de grupo não é interessante para criar um nicho de mercado, por isso devemos alterna para “**Ideias de palavras-chave**”.
+Quando fazemos uma pesquisa com a seção “*Seu produto ou serviço*”, o primeiro resultado encontrado é as “*Ideias de grupos de anúncios*”, esse tipo de grupo não é interessante para criar um nicho de mercado, por isso devemos alterna para “*Ideias de palavras-chave*”.
 
 ![Google AdWords - Idéias de palavras chaves](/assets/img/palavras-chave-como-usar-o-google/google-adwords.png)
 
-Se você pesquisar por “carros usados” o AdWords vai elaborar novas ideias de palavras como “carros, carros semi novos, veículos usados” entre outros, todas elas são segmentos de um único exemplo. Observe que no menu lateral esquerdo existem algumas informações que você pode alterá, em “**Segmentação**” você pode escolher de onde vem esses resultados, como idioma, região e forma de busca, em nosso caso todos os resultados encontrados é do Brasil, idioma português e resultados apenas do Google.
+Se você pesquisar por “carros usados” o AdWords vai elaborar novas ideias de palavras como “carros, carros semi novos, veículos usados” entre outros, todas elas são segmentos de um único exemplo. Observe que no menu lateral esquerdo existem algumas informações que você pode alterá, em “*Segmentação*” você pode escolher de onde vem esses resultados, como idioma, região e forma de busca, em nosso caso todos os resultados encontrados é do Brasil, idioma português e resultados apenas do Google.
 
 ## Média de pesquisas mensais
 Agora devemos observar os resulta de pesquisa mensais, esses resultados define o nível de popularidade de cada palavra, quanto maior a popularidade maior o público alvo e é isso que procuramos.
