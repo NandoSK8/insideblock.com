@@ -20,17 +20,17 @@ Um software criado pela Oracle (Oracle VM VirtualBox Manager) possibilita a cria
 
 Se o seu PC físico estiver dentro dos pré-requisitos, podemos iniciar a instalação do VirtualBox. Acesse <a href="https://www.virtualbox.org/wiki/Downloads" target="_blank" class="external-link" rel="nofollow">este link</a> para fazer o download do software! Mas antes de fazer a instalação temos uma dica para você que deve ser feita durante a mesma: quando chegar na segunda janela de instalação, onde são exibidas as extensões dos tipos de conexões, clique em “*VirtualBox Host-Only Networking*” e desative a mesma alterando para “*Entire feature will be unavailable*”. Esta alteração vai evitar que ocorra erro ou conflito de conexões via rede, caso esteja dentro de uma rede corporativa.
 
-**1.** Com o VirtualBox instalado inicie o mesmo, repare que o software é bem simples e o mesmo tem poucas opções de configurações.
+**`1`** Com o VirtualBox instalado inicie o mesmo, repare que o software é bem simples e o mesmo tem poucas opções de configurações.
 
-**2.** Agora com o VirtualBox aberto iremos criar e configurar a nova VM. Clique em “*New*” (Novo), escolha um nome para a VM de sua preferência, em nosso caso iremos colocar “Windows 7” e usar o tipo “Microsoft WIndows”, versão “Windows 7 (64-bit)”.
+**`2`** Agora com o VirtualBox aberto iremos criar e configurar a nova VM. Clique em “*New*” (Novo), escolha um nome para a VM de sua preferência, em nosso caso iremos colocar “Windows 7” e usar o tipo “Microsoft WIndows”, versão “Windows 7 (64-bit)”.
 
-**3.** Clique em “*Next*”, veja que agora o software lhe sugeriu uma quantidade de memória mínima para executar o tipo de plataforma selecionada, caso também esteja instalado o Windows 7, recomendo que aumente para 1024MB a quantia de memória RAM.
+**`3`** Clique em “*Next*”, veja que agora o software lhe sugeriu uma quantidade de memória mínima para executar o tipo de plataforma selecionada, caso também esteja instalado o Windows 7, recomendo que aumente para 1024MB a quantia de memória RAM.
 
-**4.** Novamente clique em “*Next*”, em “*Create*” e na próxima tela novamente em “*Next*”, “*Next*”.
+**`4`** Novamente clique em “*Next*”, em “*Create*” e na próxima tela novamente em “*Next*”, “*Next*”.
 
-**5.** Agora em “*File location and size*”, escolha o tamanho do HD que você deseja usar na VM. Recomendo deixar como padrão, caso use para fazer testes simples e criação de poucos arquivos. Mas se você costuma fazer testes com arquivos grandes, neste caso recomendo que aumente o tamanho do mesmo.
+**`5`** Agora em “*File location and size*”, escolha o tamanho do HD que você deseja usar na VM. Recomendo deixar como padrão, caso use para fazer testes simples e criação de poucos arquivos. Mas se você costuma fazer testes com arquivos grandes, neste caso recomendo que aumente o tamanho do mesmo.
 
-**6.** Clique em “*Create*”, veja que agora você voltou para a janela inicial do VirtualBox. Ao clicar sobre a VM do lado direito serão exibidas informações de configurações, clique com o botão direito do mouse em uma das áreas das informações e habilite todas as funções que estiverem desativadas.
+**`6`** Clique em “*Create*”, veja que agora você voltou para a janela inicial do VirtualBox. Ao clicar sobre a VM do lado direito serão exibidas informações de configurações, clique com o botão direito do mouse em uma das áreas das informações e habilite todas as funções que estiverem desativadas.
 
 Até aqui tudo certo, nossa VM já está criada e configurada, porém ela ainda não vai funcionar, pois agora iremos instalar o sistema operacional. Como foi criada a VM para atender os requisitos do Windows 7, novamente será instalado o mesmo. Para isso será preciso um DVD ou ISO original do sistema, independente da plataforma escolhida!
 
