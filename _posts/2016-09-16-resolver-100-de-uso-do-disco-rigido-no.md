@@ -19,13 +19,13 @@ Mas o problema nem sempre se trata de um bug no sistema, mas sim um problema de 
 
 * **Segundo:** Verifique os aplicativos que fica sendo executado em segundo plano, cheque a quantia da velocidade dos hardware que eles estão consumindo como os antivírus, aplicativos de sincronização em nuvem entre outros.
 
-* **Terceiro:** Desative o armazenamento de arquivos em cache da memoria RAM, o mesmo tem quatro funções, 1. Desativar todos os armazenamento em cache, 2. Deixar apenas aplicativos em cache, 3. Deixar apenas sistema de boot e por último 4. Ativar todos os cache. Para isso abra o "**regedit**" do Windows como administrador e vá para o seguinte caminho.
+* **Terceiro:** Desative o armazenamento de arquivos em cache da memoria RAM, o mesmo tem quatro funções, 1. Desativar todos os armazenamento em cache, 2. Deixar apenas aplicativos em cache, 3. Deixar apenas sistema de boot e por último 4. Ativar todos os cache. Para isso abra o "*regedit*" do Windows como administrador e vá para o seguinte caminho.
 
 ```
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters
 ```
 
-Abra o arquivo "**EnablePrefetcher**" e altere o campo "**Dados do valor**" conforme a orientação entre aspas abaixo.
+Abra o arquivo "*EnablePrefetcher*" e altere o campo "*Dados do valor*" conforme a orientação entre aspas abaixo.
 
 1. "**0**" para desativar tudo
 
@@ -35,7 +35,7 @@ Abra o arquivo "**EnablePrefetcher**" e altere o campo "**Dados do valor**" conf
 
 4. "**3**" Ativar todos
 
-Recomendamos de deixe o "Dados do valor" com o valor "**2**", apenas para ligar e desligar mais rápido.
+Recomendamos de deixe o "Dados do valor" com o valor "*2*", apenas para ligar e desligar mais rápido.
 
 **Atenção:** O procedimento a seguir pode levar minutos ou horas para ser concluído, pois o mesmo vai depender do quanto de arquivos tem armazenado no HD e da velocidade dos hardware instalado em seu PC, como memória RAM é processado.
 

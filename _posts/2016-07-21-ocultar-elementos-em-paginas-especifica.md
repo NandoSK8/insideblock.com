@@ -18,7 +18,7 @@ Para que você possa ocultar ou exibir elementos em determinadas página você t
 ## Exemplificando para um melhor entendimento
 Digamos que você instalou um anuncio em seu blog, por padrão este anuncio vai aparecer em todas as página, porem você que que ele apereça apenas na página inicial (home).
 
-Acesse o **Painel do Blogger\Modelo\Editar HTML**. (Recomendamos que faça o backup do seu template ante de fazer qualquer alteração).
+Acesse o *Painel do Blogger\Modelo\Editar HTML*. (Recomendamos que faça o backup do seu template ante de fazer qualquer alteração).
 
 No nosso exemplo, este elemento é o anuncio, então o código html que inicia este anuncio vai estar assim:
 
@@ -50,7 +50,7 @@ No exemplo acima, o anuncio vai aparecer somente na página inicial do blog.
 
 Não esqueça que: Sempre que quiser ocultar um elemento em determinada página, você deve colar o código de abertura da condicional logo ACIMA da linha que inicia o código html do elemento, e APÓS o código de encerramento dele, você deve colar a tag de fechamento da condicional.
 
-## Código específicos da condicional para função ocultar
+### Código específicos da condicional para função ocultar
 Para Ocultar um elemento APENAS na Página Inicial:
 ```html
 <b:if cond='data:blog.homepageUrl != data:blog.url'>
@@ -71,7 +71,7 @@ Para ocultar um elemento APENAS nas Páginas Estáticas:
 <b:if cond='data:blog.pageType != "static_page"'>
 ```
 
-## Código específicos da condicional para função exibir/mostrar
+### Código específicos da condicional para função exibir/mostrar
 Para MOSTRAR um elemento APENAS na Página Inicial:
 ```html
 <b:if cond='data:blog.url == data:blog.homepageUrl'>
@@ -94,7 +94,7 @@ Para MOSTRAR um elemento APENAS nas Páginas Estáticas:
 
 Para MOSTRAR um elemento APENAS na Página de um Post Específico:
 ```html
-<b:if cond='data:blog.url == 'URL-DO-POST"'>
+<b:if cond='data:blog.url == "URL-DO-POST"'>
 ```
 
 Para MOSTRAR um elemento APENAS nas Páginas de Arquivos:

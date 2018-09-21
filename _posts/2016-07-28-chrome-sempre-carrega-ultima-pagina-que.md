@@ -17,19 +17,19 @@ Um desses problema é que todas vez que você fecha o Chrome, ao abrir ele carre
 
 Isso pode acontecer por configurações mal feita, ao atualizar o Chrome, erros no sistema operacional ou problemas de mal funcionamento do navegador.
 
-1. Abra o Chrome, no canto superior direito clique nas barras horizontais **Menu\Configurações**. Verifique se a opção "**Continuar de onde você parou**" esta marcada. Caso esteja marque uma dessas duas opções "Abrir a página Nova guia ou Abre um página específica ou um conjunto de páginas. (Configurar páginas)".
+* Abra o Chrome, no canto superior direito clique nas barras horizontais *Menu\Configurações*. Verifique se a opção "*Continuar de onde você parou*" esta marcada, caso esteja marque uma dessas duas opções "Abrir a página Nova guia ou Abre um página específica ou um conjunto de páginas. (Configurar páginas)".
 
-**Abrir a página Nova guia:** Se você marca esta opção ótimo, você não precisa fazer mais nada.
+* **Abrir a página Nova guia:** Se você marca esta opção ótimo, você não precisa fazer mais nada.
 
-Abre um página específica ou um conjunto de páginas. (Configurar páginas) Agora se você marcou esta opção e recomendado que você acrescente a página que deve ser aberta ao abrir o Chrome em (Configurar páginas) no fim da linha.
+* **Abre um página específica ou um conjunto de páginas (Configurar páginas):** Agora se você marcou esta opção e recomendado que você acrescente a página que deve ser aberta ao abrir o Chrome em (Configurar páginas) no fim da linha.
 
-2. Feche o Chrome por completo, clique nas barras horizontais no canto superior direito Menu\Sair ou pressione "Ctrl+Shift+Q". Abra o Chrome e veja se esta tudo certo.
+* Feche o Chrome por completo, clique nas barras horizontais no canto superior direito *Menu\Sair* ou pressione "*Ctrl+Shift+Q*". Abra o Chrome e veja se esta tudo certo.
 
-Caso o problema ainda persistir, você precisa iniciar o Chrome em flag "**--new-window**".
+Caso o problema ainda persistir, você precisa iniciar o Chrome em flag "*--new-window*".
 
-3. Feche o Chrome por completo, pressione as teclas "Windows+R".
+**`1`** Feche o Chrome por completo, pressione as teclas "Windows+R".
 
-4. A adicione o caminho parecido como
+**`2`** A adicione o caminho parecido como
 
 ```
 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
@@ -37,6 +37,6 @@ C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
 
 Sem aspas, e pressione "Enter" ou clique em "OK".
 
-5. Feche o Chrome novamente por completo, abra-o e veja se deu certo.
+**`3`** Feche o Chrome novamente por completo, abra-o e veja se deu certo.
 
 A privacidade as vezes não é tão importante, mas o desconforto que esse tipo de problema provoca e muito ruim. As vezes pode acontecer de emprestamos o PC para um amigo acessar o e-mail, rede social ou fazer uma pesquisa, e ele pode acabar vendo o que você acesso ou fez ultima vez.

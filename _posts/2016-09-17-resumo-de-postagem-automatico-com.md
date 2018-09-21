@@ -15,7 +15,7 @@ Você já deve ter observado que alguns blogs, mostram somente o resumo das post
 
 Fazer este tipo de alteração no blog, melhora a navegação e a experiência dos leitores, sem contar que ele ficar mais amigável tanto para os motores de busca quanto para os usuários.
 
-Antes de iniciarmos recomendo que faça o backup do template. Abra o **Painel do Blogger\Modelo\Fazer backup/Restaurar\Fazer download do modelo completo**, ao baixar o arquivo *xml na mesma janela clique em Fechar e em “**Editar HTML**”.
+Antes de iniciarmos recomendo que faça o backup do template. Abra o *Painel do Blogger\Modelo\Fazer backup/Restaurar\Fazer download do modelo completo*, ao baixar o arquivo .xml na mesma janela clique em “*Fechar*” e em “*Editar HTML*”.
 
 ## Primeiro vamos adicionar o HTML
 Pressione as teclas “Ctrl+F” e procure pela tag
@@ -25,7 +25,7 @@ Pressione as teclas “Ctrl+F” e procure pela tag
 ```
 Geralmente é encontrado dois destes, delete o segundo e substitua por um dos código abaixo. Atenção: Temos dois modelo de resumo, escolha uma das opções que melhor funcione no seu Blog.
 
-**Resumo para posts com imagens**
+### Resumo para posts com imagens
 
 ```html
 <b:if cond='data:blog.pageType != &quot;item&quot;'>
@@ -54,7 +54,7 @@ Geralmente é encontrado dois destes, delete o segundo e substitua por um dos c�
 </b:if>
 ```
 
-**Resumo para posts sem imagens**
+### Resumo para posts sem imagens
 
 ```html
 <b:if cond='data:blog.pageType != "item"'>
