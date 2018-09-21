@@ -31,19 +31,19 @@ Após <a href="https://code.visualstudio.com/"  target="_blank" class="external-
 Pensando nisso a microsoft criou uma área de extensão, onde você pode baixar extensões para melhorar e facilitar ainda mais o desenvolvimento de seus projetos. Recomendamos algumas extensões para desenvolvedores em HTML, CSS e JavaScript.
 
 ### Expensões:
-**`1`** Auto Close Tag - Para HTML/XML;
+1. Auto Close Tag - Para HTML/XML;
 
-**`2`** Auto Rename Tag - Para HTML/XML;
+2. Auto Rename Tag - Para HTML/XML;
 
-**`3`** HTML Snippets - Auto completa e auto fecha tags;
+3. HTML Snippets - Auto completa e auto fecha tags;
 
-**`4`** Live HTML Previewer - Para visualizar o modelo do projeto;
+4. Live HTML Previewer - Para visualizar o modelo do projeto;
 
-**`5`** Minify - Unificar CSS, remove espaço, tab e outros;
+5. Minify - Unificar CSS, remove espaço, tab e outros;
 
-**`6`** JS-CSS-HTML Formatter - Formata códigos JS,CSS e HTML;
+6. JS-CSS-HTML Formatter - Formata códigos JS,CSS e HTML;
 
-**`7`** CSS Auto Prefix - Adiciona automaticamente o prefix da propriedade de outros navegadores;
+7. CSS Auto Prefix - Adiciona automaticamente o prefix da propriedade de outros navegadores;
 
 ## Configurações do IDE
 O VS Code é um ótimo IDE, é tanto que o Inside Block foi desenvolvido com a ajuda dele, o único problema seria para fazer as configurações diretamente no ambiente de trabalho (caso você ache necessário), você terá que usar as teclas Ctrl+Shift+P, uma caixa de pesquisa é apresentada, digitar o nome da configuração ou da ferramenta para fazer as devidas alterações.

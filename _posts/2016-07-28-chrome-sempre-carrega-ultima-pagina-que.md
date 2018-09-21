@@ -27,9 +27,9 @@ Isso pode acontecer por configurações mal feita, ao atualizar o Chrome, erros 
 
 Caso o problema ainda persistir, você precisa iniciar o Chrome em flag "*--new-window*".
 
-**`1`** Feche o Chrome por completo, pressione as teclas "Windows+R".
+1. Feche o Chrome por completo, pressione as teclas "Windows+R".
 
-**`2`** A adicione o caminho parecido como
+2. A adicione o caminho parecido como
 
 ```
 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
@@ -37,6 +37,7 @@ C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --new-window
 
 Sem aspas, e pressione "Enter" ou clique em "OK".
 
-**`3`** Feche o Chrome novamente por completo, abra-o e veja se deu certo.
+{:start="3"}
+3. Feche o Chrome novamente por completo, abra-o e veja se deu certo.
 
 A privacidade as vezes não é tão importante, mas o desconforto que esse tipo de problema provoca e muito ruim. As vezes pode acontecer de emprestamos o PC para um amigo acessar o e-mail, rede social ou fazer uma pesquisa, e ele pode acabar vendo o que você acesso ou fez ultima vez.

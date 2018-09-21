@@ -23,28 +23,28 @@ No momento iremos precisar apenas do drive de áudio, mesmo que o áudio já est
 ## Dispositivos de reprodução
 Nas configurações de reprodução, você pode aumentar o volume do som, e ativar a qualidade de estúdio caso o hardware suporte. 
 
-**`1`** Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “*Dispositivos de reprodução*”.
+1. Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “*Dispositivos de reprodução*”.
 
-**`2`** Clique em *Alt-falante\Propriedade*.
+2. Clique em *Alt-falante\Propriedade*.
 
-**`3`** Na guia superior escolha “*Aperfeiçoamentos*” e marque a opção “*Equalização de intensidade*”, esta opção faz o som do alto-falante ficar mais alto e abusado.
+3. Na guia superior escolha “*Aperfeiçoamentos*” e marque a opção “*Equalização de intensidade*”, esta opção faz o som do alto-falante ficar mais alto e abusado.
 
-**`4`** Agora clique na guia “*Avançado*”.
+4. Agora clique na guia “*Avançado*”.
 
-**`5`** Na seção “*Formato padrão*”, se a opção “*Qualidade de DVD*” não estiver marcada não altere deixe como está. Pois o Windows fez a identificação automática da melhor qualidade possível suportada pelo hardware, caso a opção de “*Qualidade de CD*” estiver marcada, selecione uma opção de cada vez e clique em “*Testar*”, até encontrar a melhor qualidade (geralmente é a “Qualidade de DVD”), clique em *Aplicar/OK*. Caso ocorra algum erro clique em “*Restaurar Padrões*”.
+5. Na seção “*Formato padrão*”, se a opção “*Qualidade de DVD*” não estiver marcada não altere deixe como está. Pois o Windows fez a identificação automática da melhor qualidade possível suportada pelo hardware, caso a opção de “*Qualidade de CD*” estiver marcada, selecione uma opção de cada vez e clique em “*Testar*”, até encontrar a melhor qualidade (geralmente é a “Qualidade de DVD”), clique em *Aplicar/OK*. Caso ocorra algum erro clique em “*Restaurar Padrões*”.
 
 ## Dispositivos de gravação
 As configurações de gravação, você pode aumentar a sensibilidade do microfone e a qualidade conforme a capacidade do componente.
 
-**`1`** Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “*Dispositivos de gravação*”.
+1. Clique com o botão direito do mouse sobre o ícone de áudio, no canto inferior direito próximo da data e horas do computador, escolha “*Dispositivos de gravação*”.
 
-**`2`** Clique em *Microfone\Propriedade*.
+2. Clique em *Microfone\Propriedade*.
 
-**`3`** Na guia superior clique em “*Nível*”, na seção “*Aumento de sensibilidade do microfone*” arraste o ponteiro deslizante para a direita e esquerda para que encontre a melhor sensibilidade.
+3. Na guia superior clique em “*Nível*”, na seção “*Aumento de sensibilidade do microfone*” arraste o ponteiro deslizante para a direita e esquerda para que encontre a melhor sensibilidade.
 
-**`4`** Clique na guia "*Aperfeiçoamentos*", marque as seguintes opções se disponível "*Modo imediato, Supressão de ruídos (ns) e Cancelamento de eco acústico (AEC)*.
+4. Clique na guia "*Aperfeiçoamentos*", marque as seguintes opções se disponível "*Modo imediato, Supressão de ruídos (ns) e Cancelamento de eco acústico (AEC)*.
 
-**`5`** Novamente na guia superior clique em “*Avançado*”, na seção “*Formato padrão*” selecione a opção “*Qualidade de DVD*”, clique em *Aplicar/OK*. Caso ocorra algum erro clique em “*Restaurar Padrões*”.
+5. Novamente na guia superior clique em “*Avançado*”, na seção “*Formato padrão*” selecione a opção “*Qualidade de DVD*”, clique em *Aplicar/OK*. Caso ocorra algum erro clique em “*Restaurar Padrões*”.
 
 ## Conclusão
 Muitos dessas qualidades vem desativada no Windows, e na maioria das vezes por falta da instalação de drive, manter o computador atualizado é a melhor solução para evitar esses problemas.

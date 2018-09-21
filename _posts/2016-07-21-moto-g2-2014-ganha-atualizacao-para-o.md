@@ -29,12 +29,12 @@ Nem todos os modelos do Moto G de 2ª geração podem fazer a atualização por 
 
 * Caso o seu dispositivo atende os requezitos, você já esta ponto para atualizar seu Android, baixe o arquivo aqui <a href="https://mega.nz/#!38UzGSyB!cwGv-pymS-J7O1KhKk_KX33WvzjEw8-KHnZkP40xpvk" target="_blank" class="external-link" rel="nofollow">neste link</a>.
 
-**`1`** Ao concluir o download copie o arquivo na extensão *.zip para a raiz do Cartão SD do seu dispositivo. É importante que ele não seja extraído nem colocado dentro de uma pasta ou renomeado;
+1. Ao concluir o download copie o arquivo na extensão *.zip para a raiz do Cartão SD do seu dispositivo. É importante que ele não seja extraído nem colocado dentro de uma pasta ou renomeado;
 
-**`2`** Desligue e ligue seu dispositivo, vá em Configurações\Sobre o telefone\Atualização do Sistema para checar por atualizações. Caso o dispositivo de uma mensagem de erro de atualização não se preocupe isso é normal.
+2. Desligue e ligue seu dispositivo, vá em Configurações\Sobre o telefone\Atualização do Sistema para checar por atualizações. Caso o dispositivo de uma mensagem de erro de atualização não se preocupe isso é normal.
 
-**`3`** Se dispositivo não exibir a tela do novo update quando você verificar por atualizações, aguarde de três a cinco minutos ate que o sistema reconheça o arquivo *zip, veja que depois deste intervalo de tempo o mesmo ja vai exibir uma atualização disponível.
+3. Se dispositivo não exibir a tela do novo update quando você verificar por atualizações, aguarde de três a cinco minutos ate que o sistema reconheça o arquivo *zip, veja que depois deste intervalo de tempo o mesmo ja vai exibir uma atualização disponível.
 
-**`4`** Execute a instalação da atualização e aguarde ate que seja necessário reiniciar; Atenção: Dependendo da quantidade de apps que você tem instalado em dispositivos pode levar horas para que ele inicie normalmente, ate lá não retive o mesmo do carregador.
+4. Execute a instalação da atualização e aguarde ate que seja necessário reiniciar; Atenção: Dependendo da quantidade de apps que você tem instalado em dispositivos pode levar horas para que ele inicie normalmente, ate lá não retive o mesmo do carregador.
 
 Se tudo deu certo, seu Moto G de 2ª geração já deverá estar rodando o Android 6.0 Marshmallow sem problemas. Se você tem um XT1068 e quer tentar a sorte, um usuário do XDA ensina a fazer o processo com o arquivo do XT1069 aqui (<a href="http://forum.xda-developers.com/moto-g-2014/general/guide-flash-xt1069-android-m6-0-ota-t3254802" target="_blank" class="external-link" rel="nofollow">tutorial em inglês</a>).

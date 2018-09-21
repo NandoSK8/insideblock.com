@@ -15,9 +15,9 @@ Nos Templates padrões do Blogger, quando se é aberto o mesmo blog em várias j
 
 Com a personalização do título do Post antes do nome do Blog; Nos provedores de busca pode ajuda, a ter todas as paginas do blog indexadas e gerar mais visitas por isso vale a pena personaliza o títulos do post e nome do seu blog.
 
-**`1`** Acesse o *Painel do Blogger\Layout\Editar HTML*
+1. Acesse o *Painel do Blogger\Layout\Editar HTML*
 
-**`2`** Precione as teclas *ctrl+f* e procure pela linha abaixo.
+2. Precione as teclas *ctrl+f* e procure pela linha abaixo.
 
 ```html
 <title><data:blog.pageTitle/></title>

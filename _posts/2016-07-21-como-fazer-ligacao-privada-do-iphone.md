@@ -15,9 +15,9 @@ Assim como no Android o iPhone também tem a função de ocultar o ID de chamada
 
 Este recurso é nativa do iOS, é você não precisa instalar qualquer aplicativo para usa-lo, ele tem a intenção de fazer com que você não perda mas tempo ligando para a central de sua operadora, para ativa ou desativar a privatização de chamada.
 
-**`1`** Abra o *Ajuste do iPhone/Telefone/Mostrar Meu Número*.
+1. Abra o *Ajuste do iPhone/Telefone/Mostrar Meu Número*.
 
-**`2`** Desmarque a opção, "*Mostrar Meu Número*".
+2. Desmarque a opção, "*Mostrar Meu Número*".
 
 ![Ajuste de ligação do Iphone](/assets/img/como-fazer-ligacao-privada-do-iphone/ligacao-iphone.png)
 

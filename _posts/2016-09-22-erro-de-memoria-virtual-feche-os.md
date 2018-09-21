@@ -19,14 +19,14 @@ Caso você não tenha feito nem uma alteração recente no sistema operacional e
 
 Este tutorial é válido para todas as versões dos sistemas Windows 7,8/8.1 e 10
 
-**`1`** Abra o Painel de Controle do Windows, pressione as tecla  “Windows+R” e digite “*control*” sem aspas, tecle *Enter* ou clique em *OK*.
+1. Abra o Painel de Controle do Windows, pressione as tecla  “Windows+R” e digite “*control*” sem aspas, tecle *Enter* ou clique em *OK*.
 
-**`2`** Procure por *Sistema e Segurança\Sistema* ou somente *Sistema*, no canto superior esquerdo clique em “*Configurações avançadas do sistema*”.
+2. Procure por *Sistema e Segurança\Sistema* ou somente *Sistema*, no canto superior esquerdo clique em “*Configurações avançadas do sistema*”.
 
-**`3`** Na opção “Desempenho” clique no botão *Configurações\Avançado\Alterar...*, desmarque a opção “*Gerenciar automaticamente o tamanho do arquivo de paginação de todas as unidades*” se a mesmo estiver marcada.
+3. Na opção “Desempenho” clique no botão *Configurações\Avançado\Alterar...*, desmarque a opção “*Gerenciar automaticamente o tamanho do arquivo de paginação de todas as unidades*” se a mesmo estiver marcada.
 
-**`4`** Se a opção “*Tamanho personalizado*” estiver definido algum valor, marque a mesma caso esteja desmarcada e apague os valores, marque a opção “*Tamanho gerenciado pelo sistema*” clique em “*Definir*” confirme a definição na janela de aviso.
+4. Se a opção “*Tamanho personalizado*” estiver definido algum valor, marque a mesma caso esteja desmarcada e apague os valores, marque a opção “*Tamanho gerenciado pelo sistema*” clique em “*Definir*” confirme a definição na janela de aviso.
 
-**`5`** Agora marque novamente a primeira opção que desmarcamos “*Gerenciar automaticamente o tamanho do arquivo de paginação de todas as unidades*”, clique em *OK\OK* novamente na janela de aviso, confirme todas as janela, e em *Reiniciar Agora*.
+5. Agora marque novamente a primeira opção que desmarcamos “*Gerenciar automaticamente o tamanho do arquivo de paginação de todas as unidades*”, clique em *OK\OK* novamente na janela de aviso, confirme todas as janela, e em *Reiniciar Agora*.
 
 Pronto, aqui você não precisa fazer mais nada, o ideal é que deixe o Windows escolher as próprios definições, o sistema foi desenvolvido para colher informações do usuários e transformar essas informações em facilidade e qualidade de uso.

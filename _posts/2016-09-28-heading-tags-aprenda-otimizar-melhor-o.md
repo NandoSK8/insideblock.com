@@ -43,11 +43,11 @@ Todas os texto que você marcar com essas tags serão, otimizados pelos buscador
 ## Personalizar Heading tags com CSS
 Os templates do Blogger tem a tag H2 marcada para os títulos do Widget e data das postagens, se você marca um texto dentro do conteúdo como “Título” pode ser que o mesmo fique com o estilo do Widget e da data do post, por isso fizemos um CSS para que você aplique um estilo diferenciado dentro do conteúdo.
 
-**`1`** Acesse o *Painel do Blogger\Modelo\Editar HTML*
+1. Acesse o *Painel do Blogger\Modelo\Editar HTML*
 
-**`2`** Procure pela seguinte tag `]]></b:skin>`
+2. Procure pela seguinte tag `]]></b:skin>`
 
-**`3`** Adicione o código abaixo acima da tag encontrada
+3. Adicione o código abaixo acima da tag encontrada
 
 ```css
 /*----estilos heading tag h2-------*/

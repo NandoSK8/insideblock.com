@@ -25,27 +25,27 @@ O Google Chrome é uma ampla ferramenta que facilita nossas vida para fazer pesq
 ## Atalhos de mouse e teclado
 Os atalhos de teclado não ótimas opções para usar um recurso ou navegar de forma fácil e rápida, alguns desses atalhos você pode ate conhecer mas garanto que nem todos.
 
-**`1`** Teclado - Copiar texto: "Ctrl+C".
+1. Teclado - Copiar texto: "Ctrl+C".
 
-**`2`** Teclado - Colar texto: "Ctrl+V".
+2. Teclado - Colar texto: "Ctrl+V".
 
-**`3`** Teclado - Recortar texto: "Ctrl+X".
+3. Teclado - Recortar texto: "Ctrl+X".
 
-**`4`** Teclado - Pesquisar uma palavra na página: "Ctrl+F".
+4. Teclado - Pesquisar uma palavra na página: "Ctrl+F".
 
-**`5`** Teclado - Adicionar páginas ao favorito: "Ctrl+D".
+5. Teclado - Adicionar páginas ao favorito: "Ctrl+D".
 
-**`6`** Teclado - Recarregar páginas lentas ou páginas com erros: Pressione as teclas "Ctrl+Shift+F5" ou "Ctrl+R".
+6. Teclado - Recarregar páginas lentas ou páginas com erros: Pressione as teclas "Ctrl+Shift+F5" ou "Ctrl+R".
 
-**`7`** Teclado - Voltar a página anterior: "Alt+Backspace".
+7. Teclado - Voltar a página anterior: "Alt+Backspace".
 
-**`8`** Mouse - Pesquisar um trecho do texto sem sair da página: Selecione o trecho que deseja pesquisar "recomendo no máximo 7 palavras", araste o trecho selecionado para a barra de pesquisa ou para uma nova guia.
+8. Mouse - Pesquisar um trecho do texto sem sair da página: Selecione o trecho que deseja pesquisar "recomendo no máximo 7 palavras", araste o trecho selecionado para a barra de pesquisa ou para uma nova guia.
 
-**`9`** Mouse - Fechar guias sem pressionar o botão esquerdo ou direito do mouse: Aperte a bolinha do mouse sobre a guia que deseja fechar.
+9. Mouse - Fechar guias sem pressionar o botão esquerdo ou direito do mouse: Aperte a bolinha do mouse sobre a guia que deseja fechar.
 
-**`10`** Mouse - Abrir links em uma nova guia sem sair da pagina ou usar os botões do mouse: Aperte o rodinha do mouse sobre os links.
+10. Mouse - Abrir links em uma nova guia sem sair da pagina ou usar os botões do mouse: Aperte o rodinha do mouse sobre os links.
 
-**`11`** Mouse é Guia - Fixação de guia: Ao abrir uma guia você pode clicar com direito do mouse sobre ela e em "Fixar Guia", isso faz com que a barra de espaço da guia fique menos e mesmo que você feche o Chrome ao abri-lo a guia permanece no mesmo lugar.
+11. Mouse é Guia - Fixação de guia: Ao abrir uma guia você pode clicar com direito do mouse sobre ela e em "Fixar Guia", isso faz com que a barra de espaço da guia fique menos e mesmo que você feche o Chrome ao abri-lo a guia permanece no mesmo lugar.
 
 ## Login no Google Chrome
 Em minhas palavras eu declaro esta função como a mais importante do Chrome, todas vez que você instalar o Chrome em seu computador recomendo que você faça login no mesmo, para garantir que você vai desfrutar de tudo do browser. Você pode sincronizar suas informações de sua conta, pastas de sites favoritos, extensões entre outros.

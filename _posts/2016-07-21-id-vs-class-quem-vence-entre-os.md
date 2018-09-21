@@ -19,7 +19,7 @@ Para criar um site é necessário que você siga os padrões do HTMl, já para o
 
 As únicas regras usadas como padrões é o forma de fazer o apontamento para o seletor; Toda vez que você usar um ID para apontar o CSS, você se usar "#" sem aspas antes do nome do seletor; E para fazer o apontamento para o CSS de uma ClASS você deve usar "." sem aspas antes do nome do seletor.
 
-* **#ID:** A regra básica dos ID é para o nome do seletor, o nome nunca pode se repetir ou ser adicionado a outro ID, ou seja os IDs carrega nomes de seletores únicos. Veja o exemplo abaixo.
+**#ID:** A regra básica dos ID é para o nome do seletor, o nome nunca pode se repetir ou ser adicionado a outro ID, ou seja os IDs carrega nomes de seletores únicos. Veja o exemplo abaixo.
 
 ```html
 <h1 id="id-seletor1"> ID nunca pode se repete </h1>
@@ -27,7 +27,7 @@ As únicas regras usadas como padrões é o forma de fazer o apontamento para o 
 <h3 id="id-seletor3"> ID nunca pode se repete </h3>
 ```
 
-* **.CLASS:** Já para as CLASS não à regras de nome do seletor, elas pode se repetir sem nem um problema, não importa quantas vezes você tenha usar a mesma CLASS. Veja o exemplo.
+**.CLASS:** Já para as CLASS não à regras de nome do seletor, elas pode se repetir sem nem um problema, não importa quantas vezes você tenha usar a mesma CLASS. Veja o exemplo.
 
 ```html
 <h1 class="class-seletor"> CLASS sempre pode se repete </h1>
