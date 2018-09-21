@@ -25,6 +25,10 @@ Para verificar se seus arquivos continua intactos, verifique o tanho da unidade 
 
 1. Execute o Prompt de Comando (CMD) como administrador
 
-2. Agora digite o seguinte comando __attrib -h -r -s /s /d F:\*.*__.
+2. Agora digite o seguinte comando "_attrib -h -r -s /s /d F:\*.*_", sem aspas.
 
-**Note:** A letra “**F**” deve ser substituída pela letra atribuída ao seu pendrive, tecle Enter, e aguarde a verificação do dispositivo.<br /><br />Recomendamos que você utilize um bom antivírus para analisar seu pendrive e HD, use também um Anti-Malware para fazer outras varreduras no HD e disco removível. Se nenhum problema foi informado pelos programas, então o vírus deve ter sido removido de sua unidades.<br />Se o problema persistir utilize outros métodos ou formate seu HD pois seu sistema operacional pode esta infectado e comprometendo todos os outros arquivo de seu PC e pendrive.
+**Note:** A letra “*F*” deve ser substituída pela letra atribuída ao seu pendrive, tecle Enter, e aguarde a verificação do dispositivo.
+
+Recomendamos que você utilize um bom antivírus para analisar seu pendrive e HD, use também um Anti-Malware para fazer outras varreduras no HD e disco removível. Se nenhum problema foi informado pelos programas, então o vírus deve ter sido removido de sua unidades.
+
+Se o problema persistir utilize outros métodos ou formate seu HD pois seu sistema operacional pode esta infectado e comprometendo todos os outros arquivo de seu PC e pendrive.

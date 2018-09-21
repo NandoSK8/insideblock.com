@@ -15,7 +15,7 @@ A caixa de pesquisa ( ou caixa de busca) é um dos recursos mais importantes em 
 
 Neste artigo iremos trabalar apenas com códigos CSS e HTML, desta formar 
 
-**1)** Adicone o CSS dentro da folha de estilo do site.
+1. Adicone o CSS dentro da folha de estilo do site.
 
 ```css
 #box {
@@ -43,7 +43,8 @@ Neste artigo iremos trabalar apenas com códigos CSS e HTML, desta formar
 }
 ```
 
-**2)** Agora instale o HTML entre as tags `<body>` e `</body>`.
+{:start="2"}
+2. Agora instale o HTML entre as tags `<body>` e `</body>`.
 
 ```html
 <form action="/search" method="get" style="display: inline;">
@@ -54,9 +55,9 @@ Neste artigo iremos trabalar apenas com códigos CSS e HTML, desta formar
 
 Despois de instalar todos os códigos, você pode personalizar a caixa de pesquisa, agora vamos enternder como funciona.
 
-**`width: 100%`**: Se você preferir, a largura da caixa de pesquisa pode ser alterada facilmente, substitua a valor `100%` para o tamanho desejado, como no exemplo `250px` ou `50%`.
+**width: 100%**: Se você preferir, a largura da caixa de pesquisa pode ser alterada facilmente, substitua a valor `100%` para o tamanho desejado, como no exemplo `250px` ou `50%`.
 
-**`placeholder`**: Você também pode alterar a mensagem da chamada da caixa de pesquisa, para fazer isso bastar alterar `O que está procurando?` para a mensagem desejada.
+**placeholder**: Você também pode alterar a mensagem da chamada da caixa de pesquisa, para fazer isso bastar alterar `O que está procurando?` para a mensagem desejada.
 
 Bom, por enquanto é isso, espero que você tenha gostado.
 

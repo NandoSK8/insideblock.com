@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qual a função do Sintonizador System UI do Android 6 Marshmallow?
+title: Qual a função do Sintonizador System UI do Android 6
 date: '2016-07-21 17:45:00'
 tags: [mobile, android, tutorial, misc]
 category: [misc]
@@ -30,6 +30,6 @@ Na primeira tela de configuração do Sintonizador System UI você terá acesso 
 
 * Modo de demostração: Este modo é pouco usada, já que o mesmo não tem muitas utilidade, esta função permite que você desative o ícone do chip de sua operadora e congele a barra de status, não importa o que faça se sua bateria vai acabar ele sempre mostra 100%, isso pode ser totalmente inútil  para algumas pessoas já que a mesma não fornece informações reais do aparelho.
 
-Outra novidade do Android 6 Marshmallow é que ele permite que você veja as informações do hardware do seu aparelho, sem a necessidade de root ou a instalação de aplicativos. Acesse: **Configurações\Sobre o telefone\Informações de hardware**.
+Outra novidade do Android 6 Marshmallow é que ele permite que você veja as informações do hardware do seu aparelho, sem a necessidade de root ou a instalação de aplicativos. Acesse: *Configurações\Sobre o telefone\Informações de hardware*.
 
 Mais novidades em breve.

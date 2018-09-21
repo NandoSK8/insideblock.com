@@ -26,25 +26,25 @@ Este método funciona para os sistema operacionais (Windows 7, 8, 8.1, 10).
 
 ## Criando posto de restauração
 
-1. Clique com o botão direito do mouse em Meu computador e selecione "Propriedades".
+1. Clique com o botão direito do mouse em Meu computador e selecione "*Propriedades*".
 
-2. Na parte superior esquerdo da janela clique em "Proteção do sistema".
+2. Na parte superior esquerdo da janela clique em "*Proteção do sistema*".
 
-3. Clique sobre a função “Criar”, localizada na parte inferior da janela.
+3. Clique sobre a função “*Criar*”, localizada na parte inferior da janela.
 
-4. Digite um nome para identificar o ponto de restauração, clique no botão Criar e aguarde o término do processo.
+4. Digite um nome para identificar o ponto de restauração, clique no botão "*Criar*" e aguarde o término do processo.
 
 ## Restaurando o sistema
-1. Clique novamente com o botão direito do mouse em Meu computador e selecione "Propriedades".
+1. Clique novamente com o botão direito do mouse em Meu computador e selecione "*Propriedades*".
 
-2. Na parte superior esquerdo da janela clique em "Proteção do sistema".
+2. Na parte superior esquerdo da janela clique em "*Proteção do sistema*".
 
-3. Clique no botão "Restauração do Sistema..." localizado na parte superior esquerda da janela.
+3. Clique no botão "*Restauração do Sistema...*" localizado na parte superior esquerda da janela.
 
-4. Clique em Avançar.
+4. Clique em "*Avançar*".
 
-5. Caso a restauração recomendada não seja a que você criou, marque a seleção “Escolher um outro ponto de restauração”, Escolha o ponto de sua preferência e clique para avançar.
+5. Caso a restauração recomendada não seja a que você criou, marque a seleção “*Escolher um outro ponto de restauração*”, Escolha o ponto de sua preferência e clique para avançar.
 
-6. Salve todos os seus arquivos importante, quando tiver certeza da segurança de seus arquivos clique em "Concluir". Aguarde.
+6. Salve todos os seus arquivos importante, quando tiver certeza da segurança de seus arquivos clique em "*Concluir*". Aguarde.
 
 Em alguns casos podem ser necessários diversos minutos ou ate mesmo horas para retornar o seu sistema a um ponto anterior no tempo, dependendo da data e aplicativo selecionado para restauração. Problemas causados por aplicativos instalados e danos feitos ao registro do Windows, geralmente é recuperado o bom funcionamento do computador na grande maioria dos casos.

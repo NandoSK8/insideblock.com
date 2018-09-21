@@ -14,7 +14,7 @@ ads: true
 Ter todas as paginas do blog indexadas no Google pode ajudar a gerar mais visitas por isso vale a pena verificar se o seu blog está indexado corretamente no Google. Isso é simples de fazer e você pode usar as ferramentas para <a href="http://www.google.com/webmasters" target="_blank" class="external-link" rel="nofollow">Webmasters</a> do Google para enviar seus sitemaps e melhorar sua posição nos resultados das buscas do Google.
 
 ## Verificar Indexação do Blog no Google
-Saber se o seu blog ou site aparece nos resultados do Google é muito simples você só precisa colocar a tag site: antes do endereço do seu blog, isto faz o Google procurar somente dentro do seu blog, por exemplo: **site: google.com**, veja o resultado na imagem acima.
+Saber se o seu blog ou site aparece nos resultados do Google é muito simples você só precisa colocar a tag site: antes do endereço do seu blog, isto faz o Google procurar somente dentro do seu blog, por exemplo: *site: google.com*, veja o resultado na imagem acima.
 
 Isso mostrará quantas paginas de nosso site aparecem no Google.
 
@@ -23,9 +23,9 @@ Você poderá notar que o numero de resultados é bem maior do que o seu numero 
 ## Indexar todas as paginas do blog no Google
 Para facilitar que o Google encontre suas paginas use as Ferramentas Google para Webmasters e envie um sitemap do seu blog.
 
-Quando entrar nas ferramentas para webmasters acesse o menu **Rastreamento\Sitemaps**.
+1. Acesse o menu *Sitemaps*.
 
-Então clique em **ADICIONAR/TESTAR SITEMAP** e use esse código e clique para enviar.
+2. Adicone o enderço do sitemap e clique em *Enviar*.
 
 ```
 atom.xml?redirect=false&amp;start-index=1&amp;max-results=500

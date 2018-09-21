@@ -17,9 +17,9 @@ Para resolver estes problemas, temos em mão um ótimo script de redirecionament
 
 **Como funciona?** Todas vez que um usuários, cair em uma página não encontrada ou que não exista em seu blog, o script redireciona automaticamente seus usuários para a página inicial do próprio e facilitante seus usuários a encontrar novos artigos.
 
-* Vá ao Painel do Blogger\Configurações\Preferências de pesquisa.
+1. Vá ao Painel do *Blogger\Configurações\Preferências de pesquisa*.
 
-* Clique em Editar da opção "Página não encontrada" personalizada? Copie e cole o código abaixo, dentro da caixa de definições.
+2. Clique em *Editar* da opção "*Página não encontrada" personalizada?*, copie e cole o código abaixo, dentro da caixa de definições.
 
 ```html
 Desculpe, mas a página que você está procurando nesse blog não existe. Você será redirecionado a nossa página inicial em instantes.
@@ -28,6 +28,7 @@ BSPNF_redirect = setTimeout(function() { location.pathname= "/" }, 5000);
 </script>
 ```
 
-* Clique em "**Salvar alterações**" e pronto agora é fazer o teste e aproveitar.
+{:start="3"}
+3. Clique em "*Salvar alterações*" e pronto agora é fazer o teste e aproveitar.
 
 Este script funciona apenas para á plataforma Blogger, caso você tente usar em outra plataforma nos não nos responsabilizamos por danos causados em seus template ou em redirecionamento de links do seu blog para qualquer outra página.

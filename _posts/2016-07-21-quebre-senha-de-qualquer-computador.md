@@ -24,37 +24,42 @@ Este tutorial foi criado com um DVD do Windows 7, caso você esteja usando um DV
 
 Você pode usar qualquer DVD ou Pen Driver Bootavel do Windows, em qualquer outra versão instalado no seu computador.
 
-* Caso seu computador esteja ligado reinicie e insira o DVD ou conecte o Pen Drive e inicie o Boot de formatação (não formate-o).
+1. Caso seu computador esteja ligado reinicie e insira o DVD ou conecte o Pen Drive e inicie o Boot de formatação (não formate-o).
 
-* Ao carregar a primeira tela do Boot, clique em “**Avançar**” e em seguida “**Reparar o seu computador**”, aguarde a tela de recuperação carregar é em seguida clique em “**Carregar Drivers**”.
+2. Ao carregar a primeira tela do Boot, clique em “*Avançar*” e em seguida “*Reparar o seu computador*”, aguarde a tela de recuperação carregar é em seguida clique em “*Carregar Drivers*”.
 
 ![Carregamento de drivers](/assets/img/quebre-senha-de-qualquer-computador/carregar-drivers.png)
 
-* No canto esquerdo da tela clique em “**Computador**”, selecione a unidade do disco rígido onde seu sistema operacional esta instalado, navegue ate a pasta **Windows\System32**.
+{:start="3"}
+3. No canto esquerdo da tela clique em “*Computador*”, selecione a unidade do disco rígido onde seu sistema operacional esta instalado, navegue ate a pasta *Windows\System32*.
 
-* Procure pelo arquivo “**CMD**” copie e cole com as teclas de atalho “CTRL+C e CTRL+V”.
+4. Procure pelo arquivo “*CMD*” copie e cole com as teclas de atalho “CTRL+C e CTRL+V”.
 
-* Procure pelo arquivo “**SETHC**” e renomeie ele para “**SETHC2**”.
+5. Procure pelo arquivo “*SETHC*” e renomeie ele para “*SETHC2*”.
 
 ![Arquivo Sethc](/assets/img/quebre-senha-de-qualquer-computador/arquivo-sethc.png)
 
-* Agora vá ate o final da tela no arquivo “CMD” que você criou um copia e renomeie para “SETHC”.
+{:start="6"}
+6. Agora vá ate o final da tela no arquivo “CMD” que você criou um copia e renomeie para “SETHC”.
 
 ![Arquivo CMD para Sethc](/assets/img/quebre-senha-de-qualquer-computador/arquivo-cmd-sethc.png)
 
-* Feche todas as janelas, reinicie o computador e deixe iniciar normalmente, na tela de logon pressione a tecla “**SHIFT**” cinco vezes ou mais, ate que janela do “**CMD**” do Windows seja executada.
+{:start="7"}
+7. Feche todas as janelas, reinicie o computador e deixe iniciar normalmente, na tela de logon pressione a tecla “*SHIFT*” cinco vezes ou mais, ate que janela do “*CMD*” do Windows seja executada.
 
-* Dentro da tela do “**CMD**” digite os seguintes comando para ativar o usuário Administrador e tecle Enter.
+8. Dentro da tela do “*CMD*” digite os seguintes comando para ativar o usuário Administrador e tecle Enter.
 
 ```
 net user administrador /active:yes
 ```
 
-* Reinicie novamente o PC. Quando o Windows iniciar o usuário Administrador vai esta ativo, clique no usuário Administrador e deixe fazer logon.
+{:start="9"}
+9. Reinicie novamente o PC. Quando o Windows iniciar o usuário Administrador vai esta ativo, clique no usuário Administrador e deixe fazer logon.
 
 Caso o usuário Administrador tenha uma senha prossiga com os seguintes comandos.
 
-* Eecute o “**CMD**” novamente pressionando a tecla “**SHIFT**” cinco vezes ou mais, e digite os seguintes comando para altera a senha.
+{:start="10"}
+10. Eecute o “*CMD*” novamente pressionando a tecla “*SHIFT*” cinco vezes ou mais, e digite os seguintes comando para altera a senha.
 
 ```
 net user administrador [domain]
@@ -66,8 +71,8 @@ Tecle Enter e em seguida digite este outro comando.
 net user administrador 123456
 ```
 
-Novamente tecle Enter. Os números “123456” significa que você alterou a senha do Administrador para “123456”.
+Novamente tecle Enter. Os números “123456” significa que você alterou a senha do Administrador para "123456".
 
-Agora didite a senha "123456" do usuário Administrador, abra o **Painel de Controle\Contas de Usuário e Segurança Família\Contas e Usuário\Gerencia outra conta***, clique no usuário que você deseja remover a senha e em “**Remover a senha**” na próxima tela clique novamente em “**Remover Senha**”.
+Agora didite a senha "123456" do usuário Administrador, abra o *Painel de Controle\Contas de Usuário e Segurança Família\Contas e Usuário\Gerencia outra conta*, clique no usuário que você deseja remover a senha e em “*Remover a senha*” na próxima tela clique novamente em “*Remover Senha*”.
 
 Caso você não tenha um DVD ou um Pen Drive, você pode remover o HD (disco rígido) de seu computador, colocar em outro computador “Desktop” e renomear os arquivos necessários, para que o “CMD” funcione na tela de logon.

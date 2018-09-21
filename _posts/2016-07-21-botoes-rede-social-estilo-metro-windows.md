@@ -19,7 +19,7 @@ Por isso não perca tempos e coloque agora mesmo os botão das redes sociais do 
 
 Para começar siga as instruções abaixo para adicionar os botões ao seu blog.
 
-**1)** Aplique o código CSS dentro da folha de estilos do blog.
+1. Aplique o código CSS dentro da folha de estilos do blog.
 
 ```css
 .metro-social {
@@ -118,7 +118,8 @@ Para começar siga as instruções abaixo para adicionar os botões ao seu blog.
 }
 ```
 
-**2)** Agora, instale o código HTML, onde os botões vão aparecer, entre as tags `<body>` e `</body>`.
+{:start="2"}
+2. Agora, instale o código HTML, onde os botões vão aparecer, entre as tags `<body>` e `</body>`.
 
 ```html
 <div class="metro-social">

@@ -73,9 +73,9 @@ por
 <div style='float:center;padding:10px'>
 ```
 
-Anúncios abaixo do título do artigo - Procure por **<div class='post-header-line-1'/>** e logo baixo cole um dos código que você desejar abaixo dele.
+Anúncios abaixo do título do artigo - Procure por *<div class='post-header-line-1'/>* e logo baixo cole um dos código que você desejar abaixo dele.
 
-Anuncio no fim do artigo - Procure por **<div class='post-footer'>** e cole o código que você desejar abaixo dele.
+Anuncio no fim do artigo - Procure por *<div class='post-footer'>* e cole o código que você desejar abaixo dele.
 
 ## Anuncio no meio do artigo
 Procure por `<data:post.body/>` e substitua pelo código abaixo.

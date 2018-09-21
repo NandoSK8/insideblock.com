@@ -16,7 +16,7 @@ O tela segura de logon do Windows, geralmente fica disponível para usuários qu
 Para que você não tenha mais esse desconforto, siga o tutorial abaixo; Detalhe para os usuários de AD, não é possível desativar esta opção em seu computador, pois o mesmo é controlado por um servidor remotamente.
 
 ## Primeiro método
-1. Pressione a tecla **Windows+R** digite **netplwiz** e pressione Enter”
+1. Pressione a tecla *Windows+R* digite *netplwiz* e pressione Enter”
 
 2. Clique em Avançado, desmarque a opção “Exibir que os usuários pressionem Ctrl-Alt-Delete”.
 
@@ -25,11 +25,11 @@ Para que você não tenha mais esse desconforto, siga o tutorial abaixo; Detalhe
 ![Contas de usuário](/assets/img/habilitar-ou-desabilitar-opcao-de-logon/contas-de-usuario.png)
 
 ## Segundo método
-1. Pressione a tecla **Windows+R** digite **secpol.msc** sem aspas e pressione Enter.
+1. Pressione a tecla *Windows+R* digite *secpol.msc* sem aspas e pressione Enter.
 
-2. Navegue para Politicas locais\Opções de segurança; De um clique duplo em “Logon interativo: não exigir Ctrl-Alt-Del”.
+2. Navegue para *Politicas locais\Opções de segurança*; De um clique duplo em “*Logon interativo: não exigir Ctrl-Alt-Del*”.
 
-3. Marque a opção Desabilitado, Aplique e em OK.
+3. Marque a opção *Desabilitado*, *Aplique* e em *OK*.
 
 ![Politicas de segurança local](/assets/img/habilitar-ou-desabilitar-opcao-de-logon/politicas-de-seguranca.png)
 

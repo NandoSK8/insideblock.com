@@ -29,8 +29,8 @@ Nos inclusive já vimos, links gerado pelo Tynt da mesmo forma que foram copiado
 Alem disso ele gera relatórios completo sobre os sites que copiaram seus conteúdos, palavras-chave, imagens copiadas, redes sociais que direcionaram visitas para seu site entre outros.
 
 ## Como usar o Tynt
-O Tynt é um serviço totalmente gratuito, basta você cadastrar seu site/blog, para gerar e adicionar um pequeno código em seu template, entre as tags <head> e </head>.
+O Tynt é um serviço totalmente gratuito, basta você cadastrar seu site/blog, para gerar e adicionar um pequeno código em seu template, entre as tags `<head>` e `</head>`.
 
-Entre no <a href="http://tynt.com/" target="_blank" class="external-link" rel="nofollow">Tynt</a>, e clique em **GET IT NOW** e siga as instruções seguintes exposta no site. Escolha a plataforma do seu site ou blog, com as opções (Site Básico, Blogger, WordPress, Tumblr e Joomla), copie o código gerado pelo Tynt e cole no seu template entre as tags **<head>** e **</head>**.
+Entre no <a href="http://tynt.com/" target="_blank" class="external-link" rel="nofollow">Tynt</a>, e clique em *GET IT NOW* e siga as instruções seguintes exposta no site. Escolha a plataforma do seu site ou blog, com as opções (Site Básico, Blogger, WordPress, Tumblr e Joomla), copie o código gerado pelo Tynt e cole no seu template entre as tags `<head>` e `</head>`.
 
 Desta forma, toda vez que alguém copiar um trecho do seu conteúdo, e colar em qualquer lugar, um link de volta para o conteúdo original sera adiciona no final do texto, aumentando cada vez as visitas do seu site.

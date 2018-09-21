@@ -15,15 +15,16 @@ A mensagens de perfil temporário pode acontecer por vários motivos, toda vez q
 
 Esta mensagem começa a aparece quando um usuário tem sua pasta excluída do “C:\Users”, cada usuário possui uma chave única de registro dentro do sistema operacional, quando esta pasta é removida o usuário continua com chave ativa mas não com todas as funções funcionando, por isso toda vez que ele fazer logon a mensagem de perfil temporário é apresentada, para que esta mensagem pare de aparecer você tem que remover a chave de registro do usuário do Windows.
 
-**1)** Pressione tecla **WINDOWS + R**, digite “**regedit**” sem as aspas e pressione Enter. Lembrando para executar esta função você deve ser o administrador do sistema.
+1. Pressione tecla *Windows + R*, digite “*regedit*” sem as aspas e pressione Enter. Lembrando para executar esta função você deve ser o administrador do sistema.
 
-**2)** No editor do Regedit acesse o seguinte caminho
+2. No editor do Regedit acesse o seguinte caminho
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
 ```
 
-**3)** Procure pela pasta que contém o valor do usuário que tem o perfil temporário, Clique com o botão direito sobre a pasta e em **Excluir**, vai perguntar se tem certeza que deseja excluir clique em sim. Reinicia o Windows e faça logon novamente.
+{:start="3"}
+3. Procure pela pasta que contém o valor do usuário que tem o perfil temporário, Clique com o botão direito sobre a pasta e em *Excluir*, vai perguntar se tem certeza que deseja excluir clique em sim. Reinicia o Windows e faça logon novamente.
 
 ![Registro do Windows](/assets/img/resolver-problema-perfil-temporario-do/regedit-windows.png)
 

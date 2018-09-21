@@ -17,16 +17,18 @@ Onde o código tem a função de desativar as seleções de texto do seu blog, e
 
 Se você publica tutoriais entre outros posts em seu blog, onde seus visitantes tenha que copiar algum tipo de código ou texto como neste artigo, não recomendamos que instale este código em seu Template.
 
-Recomendamos que antes de fazer qualquer alteração em seu template que faça o <b>BACKUP</b> do próprio.
+Recomendamos que antes de fazer qualquer alteração em seu template que faça o *BACKUP* do próprio.
 
-**1)** Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
+1. Acesse o Painel do Blogger, escolha o blog que você deseja instalar, selecione a opção "Modelo" e clique em "Editar HTML".
 
-**2)** Agora procure pelo código abaixo. 
+2. Agora procure pelo código abaixo. 
 
 ```html
 </head>
 ```
-**3)** Adciones as tags script para receber o código js acima do código encontrado `(</head>)`.
+
+{:start="3"}
+3. Adciones as tags script para receber o código js acima do código encontrado `(</head>)`.
 
 ```html
 <script type="text/javascript">
@@ -34,7 +36,8 @@ Recomendamos que antes de fazer qualquer alteração em seu template que faça o
 </script>
 ```
 
-**4)** Cole o seguinte código dentro do escopor das tags script.
+{:start="4"}
+4. Cole o seguinte código dentro do escopor das tags script.
 
 ```js
 function disableSelection(target) {
@@ -56,13 +59,15 @@ function click() {
 document.onmousedown = click document.oncontextmenu = new Function("return false;")
 ```
 
-**5)** Procure pelo seguinte código.
+{:start="5"}
+5. Procure pelo seguinte código.
 
 ```html
 </body>
 ```
 
-**6)** Novamente adciones as tags script para receber o código js abaixo do código encontrado.
+{:start="6"}
+6. Novamente adciones as tags script para receber o código js abaixo do código encontrado.
 
 ```html
 <script type="text/javascript">
@@ -70,7 +75,8 @@ document.onmousedown = click document.oncontextmenu = new Function("return false
 </script>
 ```
 
-**7)** Cole o seguinte código dentro do segundo escopor das tags script.
+{:start="7"}
+7. Cole o seguinte código dentro do segundo escopor das tags script.
 
 ```js
 disableSelection(document.body) //disable text selection on entire body of page
