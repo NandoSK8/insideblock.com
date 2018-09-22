@@ -25,8 +25,10 @@ Ao criar qualquer tipo de anotação no APP, ele sincroniza automaticamente com 
 
 ## GuiaBolso
 O GuiaBolso é um app de controle de gastos e lucros, com ele é possível gerar relatórios de tudo o que acontece em sua conta bancária como o limite do cartão de crédito, o quanto você usou no débito, transferências, saques, aplicações na poupança, entre outros. Uma ou mais contas bancárias podem ser adicionadas dentro do app de duas maneiras:
-**Primeiro:** Conta automática - para fazer o controle de sua conta neste modo, você deve informar dentro do app o usuário e senha do “Internet Banking”, ao realizar este procedimento o app fará tudo automaticamente para você, de acordo com as informações coletadas diretamente de sua conta.
-**Segundo:** Conta manual - você também pode adicionar contas manualmente, caso não queira usar a automação, porém ao usar a ferramenta no modo manual, tudo o que for feito na conta, também deve ser adicionado manualmente no app, pois só assim ele terá o controle de todos os gastos e lucros.
+
+* Conta automática - para fazer o controle de sua conta neste modo, você deve informar dentro do app o usuário e senha do “Internet Banking”, ao realizar este procedimento o app fará tudo automaticamente para você, de acordo com as informações coletadas diretamente de sua conta.
+
+* Conta manual - você também pode adicionar contas manualmente, caso não queira usar a automação, porém ao usar a ferramenta no modo manual, tudo o que for feito na conta, também deve ser adicionado manualmente no app, pois só assim ele terá o controle de todos os gastos e lucros.
 
 Muitos usuários têm receio em informar a senha do “Internet Banking” para outras pessoas ou serviços, como no caso de usar a “conta automática”, neste caso os criadores garantem a segurança de suas informações como senha do cartão, transações indevidas e outros, pois para realizar uma transação, além da senha do “Internet Banking”, é necessário um segundo código que só você tem acesso. O GuiaBolso está disponível na versão web e mobile para Android e iOS.
 

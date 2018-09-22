@@ -185,16 +185,20 @@
     article {
         position: relative;
         background: #fff;
-        color: #3e464f;
+        color: rgba(0, 0, 0, 0.9);
         padding: 0 0 10px 0
     }
     
     article:first-letter {
-        font-size: 60px;
         float: left;
-        font-weight: 600;
+        font-size: 80px;
+        font-weight: 500;
         line-height: 1;
-        margin-right: 5px
+        margin-right: 15px
+    }
+    
+    article::first-line {
+        color: #2da0c3;
     }
     
     article>* {
@@ -202,13 +206,15 @@
         max-width: 800px;
         float: none;
         display: block;
-        font-weight: 300;
+        font-weight: 400;
         margin-right: auto !important;
         margin-left: auto !important;
         margin: 0 auto 1.75rem auto;
         font-style: normal;
         font-size: 1.25rem;
-        letter-spacing: .069rem
+        text-align: justify;
+        line-height: 2;
+        letter-spacing: .025rem
     }
     
     article blockquote {
