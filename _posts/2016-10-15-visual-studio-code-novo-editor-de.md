@@ -30,7 +30,7 @@ Após <a href="https://code.visualstudio.com/"  target="_blank" class="external-
 
 Pensando nisso a microsoft criou uma área de extensão, onde você pode baixar extensões para melhorar e facilitar ainda mais o desenvolvimento de seus projetos. Recomendamos algumas extensões para desenvolvedores em HTML, CSS e JavaScript.
 
-### Expensões:
+### Extensões:
 1. Auto Close Tag - Para HTML/XML;
 
 2. Auto Rename Tag - Para HTML/XML;
