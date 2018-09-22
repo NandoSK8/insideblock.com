@@ -17,7 +17,7 @@ Bom muitos blogueiros, geralmente comentem erros em seu blog, começando por uma
 
 Um mapa do site, tem muito mais funções de otimização do blog, do você pode imaginas, ele facilita o acesso de todos os seus artigos, com atualizações automática sem você precisar de acrescentar links ou qualquer outro coisa do tipo. Siga as instruções para por um mapa ao seu blog.
 
-1. Entre no Painel do Blogger\Páginas\Nova página.
+1. Entre no *Painel do Blogger\Páginas\Nova página*.
 
 2. Agora coloque o nome da Página que você preferir e clique em HTML.
 
@@ -29,8 +29,6 @@ Cole o código abaixo dentro da página, faça as alterações necessária e cli
 ```
 
 ## Modificação necessária
-Altere onde esta "**NOME-DO-SEU-BLOG**", para o nome do seu blog.
-
-Se você preferir você pode substituir `http://NOME-DO-SEU-BLOG-AQUI.blogspot.com/` pelo url completo do seu blog.
+Altere onde esta "*NOME-DO-SEU-BLOG*", para o nome do seu blog.
 
 Este tutorial foi testado apenas na plataforma Blogger, por isso recomendamos que use este código apenas para o Blogger.

@@ -16,7 +16,7 @@ O Controle da Conta de Usuário (UAC) pode a ajudar a impedir alterações não 
 Nos recomendamos que deixe o (UAC) em nível padrão do Windows, pois se ele estiver abaixo do nível de segurança recomendo, seu computador pode sofre alterações inesperada de outros usuários ou ate mesmo de arquivos maliciosos, para os arquivos maliciosos é recomendado o uso de antivírus, mesmo assim o (UAC) pode ajuda a proteger o seu computador.
 
 ## Ativar e/ou desativar o UAC
-Para abrir Configurações de Controle de Conta de Usuário, clique no botão Iniciar na caixa de pesquisa, digite **uac** e clique em **Alterar configurações de Controle de Conta de Usuário**. Ou se você preferir clique no botão Iniciar e em **Painel de Controle\Contas de Usuário**, clique novamente em **Conta de Usuário** e em **Alterar configurações de Controle de Conta de Usuário**.
+Para abrir Configurações de Controle de Conta de Usuário, clique no botão Iniciar na caixa de pesquisa, digite *uac* e clique em *Alterar configurações de Controle de Conta de Usuário*. Ou se você preferir clique no botão Iniciar e em *Painel de Controle\Contas de Usuário*, clique novamente em *Conta de Usuário* e em *Alterar configurações de Controle de Conta de Usuário*.
 
 ## Siga um destes procedimentos
 Para desativar o UAC, mova o controle deslizante para a posição Nunca notificar e clique em OK. Se você for solicitado a informar uma senha de administrador ou sua confirmação, digite a senha ou forneça a confirmação. Você precisará reiniciar o computador para que o UAC seja desativado.

@@ -17,7 +17,7 @@ O Google Chrome tem uma função oculta em suas configurações secretas, ela fu
 
 Em alguns caso as guias recém aberta permanece com o vídeo pausado ou silenciado, mas se você abrir a guia apertar no play do vídeo mesmo que você troque de guia o vídeo continua rodando, com esta função ativa você também pode silenciar o áudio de outra guia sem que você precise sair da guia atual.
 
-1. Abra uma nova guia no Chrome e digite ou cole o seguinte endereço na de pesquisa “**chrome://flags/**” sem aspas, procure por algo parecido como “**Controle de interface do usuário de silenciamento de áudio da guia**”, clique em “Ativar” e “Reiniciar”.
+1. Abra uma nova guia no Chrome e digite ou cole o seguinte endereço na de pesquisa “*chrome://flags/*” sem aspas, procure por algo parecido como “*Controle de interface do usuário de silenciamento de áudio da guia*”, clique em “Ativar” e “Reiniciar”.
 
 ![Guia do Google Chrome](/assets/img/deixe-uma-guia-sem-som-no-google-chrome/guia-chrome.png)
 

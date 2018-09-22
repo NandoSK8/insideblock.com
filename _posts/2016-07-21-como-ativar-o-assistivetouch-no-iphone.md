@@ -19,7 +19,7 @@ Este tutorial foi feito no iOS 9.2.1, e o mesmo deve funcionar para o iOS 7, 8, 
 
 Para ativar a função AssisteTouch prossiga com as informações abaixo.
 
-1. Abra o Ajuste\Geral\Acessibilidade\AssisteTouch.
+1. Abra o *Ajuste* e acesse o caminho *Geral\Acessibilidade\AssisteTouch*.
 
 2. Pressione ou araste o botão “seletor” para ativar a função.
 

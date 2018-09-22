@@ -19,13 +19,13 @@ O que poucos técnicos de informatica sabe é que não é necessário baixar e/o
 
 Vamos iniciar o tutorial, antes de tudo você vai precisar do DVD ou *ISO de instalação do Windows e um pendrive com espaço suficiente para copiar os arquivos de instalação do Windows.
 
-1. Espete o pendrive no PC, abra o Meu computador, clique com o botão direito do mouse sobre o pendrive e em "**Formatar**".
+1. Espete o pendrive no PC, abra o Meu computador, clique com o botão direito do mouse sobre o pendrive e em "*Formatar*".
 
-2. Clique sobre o botão "**Restaura padrão**", veja que ele vai selecionar automaticamente "**NAT32**", agora clique em "Formatar".
+2. Clique sobre o botão "*Restaura padrão*", veja que ele vai selecionar automaticamente "*NAT32*", agora clique em "Formatar".
 
 3. Apos a formatação remava o pendrive, e espete-o novamente.
 
-4. Agora formate o pendrive novamente, mas em vez de clicar em "Restaura padrão", clique sobre o seletor "FAT32" e selecione "**NTFS**", clique em "**Formatar**".
+4. Agora formate o pendrive novamente, mas em vez de clicar em "Restaura padrão", clique sobre o seletor "FAT32" e selecione "*NTFS*", clique em "*Formatar*".
 
 **DVD:** Agora é só copiar os arquivos do DVD para o pendrive.
 

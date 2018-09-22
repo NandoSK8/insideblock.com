@@ -257,21 +257,42 @@
         pointer-events: none !important
     }
     
-    article>ol,
-    article>ul {
-        padding: 0 1.5rem !important;
+    article ol,
+    article ul {
+        padding: 0 0 0 2rem !important
     }
     
     article li {
         margin: 0 auto 1rem auto;
     }
     
-    article ul:not(.browser-default) li {
-        list-style-type: initial !important
+    article ul li,
+    article ol li {
+        position: relative;
+        list-style: none !important
     }
     
-    article ol:not(.browser-default) li {
-        list-style-type: decimal !important
+    article ul li::before {
+        content: "•";
+        position: absolute;
+        top: -5px;
+        left: -20px;
+        color: #2da0c3;
+        font-size: 25px;
+        font-weight: bold
+    }
+    
+    article ol {
+        counter-reset: li
+    }
+    
+    article ol li::before {
+        content: counter(li)".";
+        counter-increment: li;
+        position: absolute;
+        left: -25px;
+        color: #2da0c3;
+        font-weight: bold
     }
     
     article img {
