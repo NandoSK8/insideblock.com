@@ -57,3 +57,30 @@
         }
     }
 </script>
+
+<!-- cookieconsent.insites.com -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function() {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#2da0c3",
+                    "text": "#ffffff"
+                },
+                "button": {
+                    "background": "#ffffff",
+                    "text": "#2da0c3"
+                }
+            },
+            "theme": "edgeless",
+            "content": {
+                "message": "Este site usa cookies para garantir que você obtenha a melhor experiência em nosso site.",
+                "dismiss": "Conceder!",
+                "link": "Saiba mais",
+                "href": "/"
+            }
+        })
+    });
+</script>
