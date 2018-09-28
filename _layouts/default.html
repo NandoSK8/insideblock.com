@@ -5,6 +5,25 @@ layout: compress
 <!DOCTYPE html>
 <html lang="pt-br" itemscope itemtype="http://schema.org/WebSite">
 
+<head>
+    {% include head.html %}
+    {% include css_default.html %}
+    
+    {% if page.layout == "post" %}
+        {% include css_post.html %}
+        {% include css_highlight.html %}
+        {% include css_highlight.html %}
+        
+        {% else %}
+            {% if page.layout == "page" %}
+            {% include css_page.html %}
+
+                {% else %}
+                    {% include css_home.html %}
+            {% endif %}
+    {% endif %}
+</head>
+
     {{ content }}
     
 </html>
