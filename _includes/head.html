@@ -7,16 +7,13 @@
     <meta content='index' name='robots' />
     <title>{{ page.title }} │ {{ site.title }}</title>
 
-    {% else %}
-        {% if page.noindex %}
+    {% elsif page.noindex %}
         <meta content='noindex,nofollow,noarchive' name='robots' />
         <title>{{ page.noindex }}</title>
 
         {% else %}
             <meta content='index' name='robots' />
             <title>{{ site.title }}</title>
-            
-        {% endif %}
 {% endif %}
 
 <!--

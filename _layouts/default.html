@@ -8,19 +8,19 @@ layout: compress
 <head>
     {% include head.html %}
     {% include css_default.html %}
+    {% include font_face.html %}
     
     {% if page.layout == "post" %}
         {% include css_post.html %}
         {% include css_highlight.html %}
-        {% include css_highlight.html %}
+        {% include css_table.html %}
         
-        {% else %}
-            {% if page.layout == "page" %}
+        {% elsif page.layout == "page" %}
             {% include css_page.html %}
+            {% include css_table.html %}
 
-                {% else %}
-                    {% include css_home.html %}
-            {% endif %}
+            {% else %}
+                {% include css_home.html %}
     {% endif %}
 </head>
 
