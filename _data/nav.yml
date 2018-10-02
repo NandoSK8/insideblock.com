@@ -24,25 +24,13 @@ page-link:
  - page: Home
    url: /
    target:
-    
- - page: Contato
-   url: /contact/
-   target:
-
- - page: Equipe
-   url: /team/
-   target:
-
- - page: Tags
-   url: /tags/
-   target:
 
  - page: Apoie-nos
    url: /support-us/
    target:
 
- - page: Exchange
-   url: /buy-crypto/
+- page: Gerador de tráfego
+   url: /traffic-generator/
    target:
 
  - page: Converter HTML

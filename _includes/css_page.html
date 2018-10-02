@@ -41,7 +41,8 @@
     .page>.tags,
     .page>.category,
     .page>.support-us,
-    .page>.tool-convert {
+    .page>.tool-convert,
+    .page>.traffic-generator {
         width: 90%;
         max-width: 800px;
         margin: 0 auto;
@@ -52,7 +53,8 @@
     .page>.tags,
     .page>.category,
     .page>.support-us,
-    .page>.tool-convert {
+    .page>.tool-convert,
+    .page>.traffic-generator {
         margin-bottom: 50px
     }
     /* Contact */
@@ -98,12 +100,127 @@
         border-radius: 3px
     }
     
+    .page .traffic-generator .content-body {
+        margin-bottom: 30px
+    }
+    
+    .page .traffic-generator .pbas {
+        color: #444
+    }
+    
+    .page .traffic-generator .pava {
+        color: #ff9800
+    }
+    
+    .page .traffic-generator .ppre {
+        color: #b71c1c
+    }
+    
+    .page .traffic-generator .pper {
+        color: #0d47a1
+    }
+    
+    .page .traffic-generator .col {
+        width: 100%;
+        display: inline-block;
+        text-align: center;
+        padding: 15px
+    }
+    
+    .page .traffic-generator .col .content {
+        padding: 25px 10px
+    }
+    
+    .page .traffic-generator .info>div {
+        padding: 5px 0
+    }
+    
+    .page .traffic-generator .info>div>span {
+        padding: 5px;
+        border-radius: 3px;
+        margin: 10px 0;
+        color: #444
+    }
+    
+    .page .traffic-generator .info>div>span>span {
+        border-radius: 3px
+    }
+    
+    .page .traffic-generator .content span.de {
+        color: #c7c7c7
+    }
+    
+    .page .traffic-generator .content .d0 {
+        background: #444;
+        color: #fff
+    }
+    
+    .page .traffic-generator .d0 span {
+        background: #fff;
+        color: #444
+    }
+    
+    .page .traffic-generator .content .d20 {
+        background: #ff9800;
+        color: #fff
+    }
+    
+    .page .traffic-generator .d20 span {
+        background: #fff;
+        color: #444
+    }
+    
+    .page .traffic-generator .content .d40 {
+        background: #b71c1c;
+        color: #fff
+    }
+    
+    .page .traffic-generator .d40 span {
+        background: #fff;
+        color: #444
+    }
+    
+    .page .traffic-generator form,
+    .page .traffic-generator form tbody,
+    .page .traffic-generator form tr,
+    .page .traffic-generator form td {
+        display: block;
+        margin: 0 auto;
+        text-align: center
+    }
+    
+    .page .traffic-generator form td,
+    .page .traffic-generator form th {
+        padding: 0
+    }
+    
+    .page .traffic-generator .form imput.btn {
+        border: 0;
+        padding: 10px;
+        border-radius: 3px;
+        text-transform: uppercase
+    }
+    
     @media only screen and (max-width: 600px) {
         .page .submit,
         .page .recaptcha {
             display: block;
             text-align: center;
             padding: 15px 0
+        }
+        .page .traffic-generator .col-3 {
+            width: 100%;
+            display: inline-block;
+            text-align: center;
+            padding: 15px
+        }
+        .page .traffic-generator .col-3 .content {
+            border-bottom: 1px solid #ccc;
+            padding: 25px 10px
+        }
+        .page .traffic-generator .content-body {
+            padding-bottom: 25px;
+            border-bottom: 1px solid #ccc
         }
     }
     
@@ -116,6 +233,18 @@
         }
         .page .recaptcha {
             float: right
+        }
+        .page .traffic-generator .col-3 {
+            width: 33.3333333333%;
+            display: inline-block;
+            text-align: center;
+            padding: 15px
+        }
+        .page .traffic-generator .col-3 .content,
+        .page .traffic-generator .col .content {
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            padding: 25px 10px
         }
     }
     
