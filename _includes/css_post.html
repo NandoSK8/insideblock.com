@@ -227,6 +227,7 @@
     article h2 {
         font-size: 1.75rem !important;
         font-weight: 700 !important;
+        padding: 15px 0 !important;
         margin: 50px auto 0 auto !important;
         border-top: 1px solid rgba(0, 0, 0, 0.15) !important;
         letter-spacing: 0 !important
@@ -244,8 +245,15 @@
         content: "";
         display: block;
         width: 20%;
-        margin-top: 5px;
         border-bottom: 1px solid rgba(0, 0, 0, 0.15) !important
+    }
+    
+    article h2::after {
+        margin-top: 15px
+    }
+    
+    article h3:after {
+        margin-top: 5px
     }
     
     article h2,
