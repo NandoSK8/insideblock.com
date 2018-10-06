@@ -227,17 +227,25 @@
     article h2 {
         font-size: 1.75rem !important;
         font-weight: 700 !important;
-        padding: 0 0 10px 0 !important;
-        margin: 0 auto 10px auto !important;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.15) !important;
+        margin: 50px auto 0 auto !important;
+        border-top: 1px solid rgba(0, 0, 0, 0.15) !important;
         letter-spacing: 0 !important
     }
     
     article h3 {
         font-size: 1.5rem !important;
         font-weight: 500 !important;
-        margin: 0 auto 5px auto !important;
+        margin: 5px auto !important;
         letter-spacing: 0 !important
+    }
+    
+    article h2::after,
+    article h3:after {
+        content: "";
+        display: block;
+        width: 20%;
+        margin-top: 5px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.15) !important
     }
     
     article h2,
@@ -346,7 +354,7 @@
         text-align: right;
         margin: 0 auto
     }
-
+    
     .form_post a {
         color: #2da0c3;
         border-bottom: 1px solid
