@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Otimização de site: 12 Formas de rankear seu site para os mecanismos de pesquisa'
+title: '12 Formas de rankear seu site para os mecanismos de pesquisa'
 date: '2016-10-07 10:19:00'
 tags: [seo, dicas, otimização, dev]
 category: [dev]
