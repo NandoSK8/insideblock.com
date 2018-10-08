@@ -1,27 +1,39 @@
 ---
 layout: page
-noindex: Contador de caracteres
+title: Contador de caracteres
 permalink: /counter-factors/
-sitemap: false
 ---
 
-<textarea cols="45" id="campo" rows="5" onkeyup="mostrarResultado(this.value,10000,'spcontando');contarCaracteres(this.value,10000,'sprestante')"></textarea><br />
-<span id="spcontando">Ainda não temos nada digitado..</span><br />
-<span id="sprestante"></span>
+<div class="counter-factors">
+    <p>Digite ou cole um texto para contar caracteres e palavras</p>
+    <textarea class="text" id="text"></textarea>
+    <div class="result" id="result">
+        <p>Caractere(s) sem espaços: 0</p>
+        <p>Caractere(s) com espaços: 0</p>
+        <p>Palavra(s): 0</p>
+        <p>Linha(s): 0</p>
+    </div>
+</div>
 
 <script>
-    function mostrarResultado(box, num_max, campospan) {
-        var contagem_carac = box.length;
-        if (contagem_carac != 0) {
-            document.getElementById(campospan).innerHTML = contagem_carac + " caracteres digitados";
-            if (contagem_carac == 1) {
-                document.getElementById(campospan).innerHTML = contagem_carac + " caracter digitado";
-            }
-            if (contagem_carac >= num_max) {
-                document.getElementById(campospan).innerHTML = "Limite de caracteres excedido! (10000)";
-            }
-        } else {
-            document.getElementById(campospan).innerHTML = "Ainda não temos nada digitado..";
-        }
+    function wordCount(val) {
+        var wom = val.match(/\S+/g);
+        return {
+            charactersNoSpaces: val.replace(/\s+/g, '').length,
+            characters: val.length,
+            words: wom ? wom.length : 0,
+            lines: val.split(/\r*\n/).length
+        };
     }
+    var textarea = document.getElementById("text");
+    var result = document.getElementById("result");
+    textarea.addEventListener("input", function() {
+        var v = wordCount(this.value);
+        result.innerHTML = (
+            "<p>Caractere(s) sem espaços:  " + v.charactersNoSpaces + "</p>" +
+            "<p>Caractere(s) com espaços: " + v.characters + "</p>" +
+            "<p>Palavra(s): " + v.words + "</p>" +
+            "<p>Linha(s): " + v.lines + "</p>"
+        );
+    }, false);
 </script>
