@@ -18,8 +18,12 @@ layout: compress
             {% include css_page.html %}
             {% include css_table.html %}
 
-            {% else %}
-                {% include css_home.html %}
+            {% elsif page.layout == "category" %}
+                {% include css_page.html %}
+                {% include css_table.html %}
+
+                {% else %}
+                    {% include css_home.html %}
     {% endif %}
 </head>
 
