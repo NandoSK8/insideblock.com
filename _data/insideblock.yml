@@ -3,6 +3,10 @@ org:
     link: http://www.insideblock.com
     desc: Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!
     icon: icon-cube
+    desc: Dicas e tutoriais sobre internet, tecnologia, SEO, desenvolvimento web, otimização, monetização, blogs, redes sociais e muito mais!
+    link: https://www.insideblock.com/
+    img: /assets/logo/cube.png
+    color: ib
 
 social: 
   - page: Google Plus

@@ -65,3 +65,19 @@
 </section>
 {% endfor %}
 {% endif %}
+
+{% if page.author_ib %}
+{% for org in site.data.insideblock.org %}
+<section class="author {{ org.color }}">
+    <div class="details">
+        <img itemprop="image" src="{{ org.img }}" alt="{{ org.name }}">
+        <div class="content">
+            <h3 class="name" itemprop="author">
+                <a href="{{ org.link }}">{{ org.name }}</a>
+            </h3>
+            <p class="desc">{{ org.desc }}</p>
+        </div>
+    </div>
+</section>
+{% endfor %}
+{% endif %}

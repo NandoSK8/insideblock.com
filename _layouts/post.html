@@ -34,6 +34,12 @@ layout: default
                 </div>
             </div>
         </header>
+
+        {% if page.sponsorship %}
+        <div class="sponsorship">
+            Está é uma publicação paga. O Inside Block não é responsável por nenhum conteúdo, produto ou material nessa publicação.
+        </div>
+        {% endif %}
                 
         {% include ads.html %}
         
@@ -46,11 +52,11 @@ layout: default
 
             <hr/>
 
-        <div class="tags">#Tags:
         {% for tag in page.tags %}
+        <div class="tags">#Tags:
             <a href="/tags/#{{ tag }}">{{ tag }}</a>
-        {% endfor %}
         </div>
+        {% endfor %}
 
             <hr/>
         {% include share.html %}

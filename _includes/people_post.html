@@ -54,3 +54,12 @@
 </span>
 {% endfor %}
 {% endif %}
+
+{% if page.author_ib %}
+{% for org in site.data.insideblock.org %}
+<span>
+    <svg><use xlink:href="#icon-person"></use></svg>
+    <a href="{{ org.link }}" target="_black">{{ org.name }}</a>
+</span>
+{% endfor %}
+{% endif %}
