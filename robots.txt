@@ -7,7 +7,6 @@ User-Agent: *
 Disallow: /page
 Disallow: /success.html
 Disallow: /offline.html
-Disallow: /google7d06e6ee9e6ded88.html
 
 # Sitemap
 Sitemap: https://www.insideblock.com/sitemap.xml
