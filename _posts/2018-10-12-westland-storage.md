@@ -9,7 +9,7 @@ image: /assets/img/westland-storage/westland-storage.png
 author_ib: true
 sponsorship: true
 comments: true
-ads: true
+ads: false
 ---
 
 Você sabe o que é Westland Storage, não, pois bem vou explicar tudo o que você precisa saber sobre essa incrível empresa.
