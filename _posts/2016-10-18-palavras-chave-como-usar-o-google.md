@@ -20,7 +20,7 @@ O AdWords é a ferramenta indicada e a mais completa para esse tipo de serviço,
 ## Planejamento de palavras-chave
 O Planejamento de palavras-chave é uma ferramenta específica que pode ser usado tanto por empresas quanto por blogueiros, esta ferramenta tem a função de encontrar novas palavras chaves, ver dados de volume de pesquisa, planejar orçamento e receber previsões, porém iremos usar apenas a função mais importante e interessante para blogueiros. Siga as informações e confira as análise.
 
-Você pode encontrar esta função facilmente, faça <a href="https://adwords.google.com/" target="_blank" class="external-link" rel="nofollow">login no Google AdWords</a>, clique em *Ferramentas\Planejamento de palavras-chave*.
+Você pode encontrar esta função facilmente, faça <a href="https://adwords.google.com/" target="_blank" rel="nofollow">login no Google AdWords</a>, clique em *Ferramentas\Planejamento de palavras-chave*.
 
 ## Procurar novas palavras-chave usando uma frase, um website ou uma categoria
 Nessa opção temos vários campos de preenchimento, porém usaremos apenas a seção “*Seu produto ou serviço*”, você pode adicionar palavras ou frases nos seguintes exemplos: carro, carro usado, notebook, notebook google.

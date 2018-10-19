@@ -29,19 +29,19 @@ Eu como administrador do Inside Block, considero o Materializecss o melhor frame
 
 O Materializecss foi desenvolvido por uma equipe de quatro estudantes da Universidade Carnegie Mellon, todo o material foi reescrito do zero, seguindo exemplos do Bootstrap, porém muito leve e com alguns componentes a mais, o material é compatível com os navegadores mais populares do mercado atual, incluindo a compatibilidade para diversas plataformas como Windows, MacOS, Linux, Android, iOS e outros. O framework pode ser usado tanto para o desenvolvimento de sites quanto para o desenvolvimento de aplicativos.
 
-Site oficial: <a href="http://materializecss.com/" target="_blank" class="external-link" rel="nofollow">Materializecss</a>
+Site oficial: <a href="http://materializecss.com/" target="_blank" rel="nofollow">Materializecss</a>
 
 ## Bootstrap
 O Bootstrap é o framework mais popular entre os desenvolvedores. Desenvolvido pelo Twitter foi um dos primeiros materiais design criado para seguir o conceito de sites que se adaptam em telas pequenas, sem a necessidade de desenvolver quaisquer aplicativos para dispositivo em específico. Com o Bootsrap é possível criar de tudo, desde website a aplicativos para dispositivos móveis e desktop, o mesmo é compatível com várias plataformas e navegadores.
 
-Site oficial: <a href="http://getbootstrap.com.br/" target="_blank" class="external-link" rel="nofollow">Bootstrap</a>
+Site oficial: <a href="http://getbootstrap.com.br/" target="_blank" rel="nofollow">Bootstrap</a>
 
 ## Google Design
 O Material Design é um sistema unificado que combina teoria, recursos e ferramentas para a elaboração de experiências digitais, criado pela Google, tem como objetivo focar em novos conceitos de cores, animações e aplicações voltados para os produtos da própria desenvolvedora (Google).
 
 O material design do Google tem um grande conjunto de ferramentas e documentações que facilitam o desenvolvimento de qualquer projeto digital, como o Google Fonts, Matéria Icons, Tabela de cores, Polymer, entre outros.
 
-Site oficial: <a href="https://design.google.com/" target="_blank" class="external-link" rel="nofollow">Google Design</a>
+Site oficial: <a href="https://design.google.com/" target="_blank" rel="nofollow">Google Design</a>
 
 ## Files .min e Sass
 Geralmente os desenvolvedores desses frameworks disponibilizam duas opções do material design (.min e Sass). O arquivo .min é o material design completo em um único arquivo. Com o .min você não consegue separar apenas as funções ou elementos que serão usados em um projeto, por isso você terá que usar do jeito que está, agora com o arquivo Sass, já é possível fazer essa separação e usar apenas o que for necessário.

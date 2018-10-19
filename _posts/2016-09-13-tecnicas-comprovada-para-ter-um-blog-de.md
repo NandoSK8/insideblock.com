@@ -13,7 +13,7 @@ ads: true
 
 Acredito que seja possível criar e manter um blog de qualidade em qualquer uma das plataforma Blogger e WordPress, aplicando técnicas de SEO para otimizar ao máximo as páginas para os motores de busca.
 
-Este artigo foi criado com base e conhecimentos obtido por Marcos Lemos autor do <a href="http://www.ferramentasblog.com/" target="_blank" class="external-link" rel="nofollow">Ferramenta Blog</a>, as técnicas contidas neste artigo funciona diretamente para as plataforma Blogger, entretanto acrescentei algumas informações que também funciona no WordPress e em outras plataformas.
+Este artigo foi criado com base e conhecimentos obtido por Marcos Lemos autor do <a href="http://www.ferramentasblog.com/" target="_blank" rel="nofollow">Ferramenta Blog</a>, as técnicas contidas neste artigo funciona diretamente para as plataforma Blogger, entretanto acrescentei algumas informações que também funciona no WordPress e em outras plataformas.
 
 ## Domínio
 O <a href="http://www.insideblock.com/post/voce-vai-comprar-um-dominio-saiba-qual.html" target="_blank">domínio próprio</a> é a coisas mais importante de um blog, um domínio seguido de .blogspot.com ou .wordspress.com, não fica atraente deixa o nome muito extenso para ser lembrar pelos usuários/vistantes, o interessante seria criar um nome matador para o seu blog e com isso originar o domínio.

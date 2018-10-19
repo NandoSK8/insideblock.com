@@ -23,7 +23,7 @@ Se você for usuário do WordPress.org recomendo que antes de fazer a migração
 
 3. Clique no botão “*Iniciar exportação*”, deixe a opção “*Todo conteúdo*” marcado, clique em “*Download do arquivo de exportação*”, e salve o arquivo .xml em seu computador.
 
-Após fazer o download do conteúdo .xml do WordPress, converta-o em... Assim ele vai funcionar no Blogger. Acesse o site <a href="https://wordpress2blogger1.appspot.com/" target="_blank" class="external-link" rel="nofollow">Wordpress2 Blogger1</a> e prossiga com as instruções.
+Após fazer o download do conteúdo .xml do WordPress, converta-o em... Assim ele vai funcionar no Blogger. Acesse o site <a href="https://wordpress2blogger1.appspot.com/" target="_blank" rel="nofollow">Wordpress2 Blogger1</a> e prossiga com as instruções.
 
 * No site Wordpress2 Blogger1 clique em “*Escolher arquivo*”, selecione o arquivo .xml que você salvou no computador anteriormente, clique em “*Convert*”, aguarde alguns instantes e salve o novo arquivo .xml no computador.
 

@@ -35,7 +35,7 @@ Se não for possível ouvir som ou se ele não estiver claro, prossiga para pró
 
 * Se o dispositivo estiver com uma capa, verifique se ela não está bloqueando o alto-falante.
 
-Se você seguiu essas etapas e ainda não é possível ouvir som ou ouve um som distorcido, <a href="https://support.apple.com/pt-br/contact" target="_blank" class="external-link" rel="nofollow">entre em contato com a Apple</a>.
+Se você seguiu essas etapas e ainda não é possível ouvir som ou ouve um som distorcido, <a href="https://support.apple.com/pt-br/contact" target="_blank" rel="nofollow">entre em contato com a Apple</a>.
 
 O problema que pode afetar o som do iPhone, iPad ou iPhod pode variar, cada caso é um caso e nem sempre se trata do mesmo problema. O motivos pode ser por falha do sistema ou aquecimento de hardware, deixar cair ou molhar entre outros.
 

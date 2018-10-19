@@ -19,7 +19,7 @@ Antes de iniciarmos gostaria que você soubesse que WordPress.com é um site que
 Agora que você sabe a diferença dos dois serviços do WordPress, podemos iniciar a migração de conteúdos. Na primeira etapa vamos fazer o download do arquivo .xml que contém o backup completo de todos os conteúdos do Blogger, na segunda etapa vamos enviar este arquivo para o WordPress. Leia também <a href="http://www.insideblock.com/post/como-migrar-conteudos-do-wordpress-para.html" target="_blank">como migrar conteúdos do WordPress para o Blogger</a>.
 
 ## Fazer backup do conteúdo do Blogger
-1. Acesse o <a href="https://www.blogger.com/home" target="_blank" class="external-link" rel="nofollow">Painel do Blogger</a>
+1. Acesse o <a href="https://www.blogger.com/home" target="_blank" rel="nofollow">Painel do Blogger</a>
 
 2. Clique no blog que deseja migrar o conteúdo
 
