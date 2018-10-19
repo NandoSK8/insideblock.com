@@ -28,7 +28,7 @@ Quando você escolher um nicho de mercado é importante que você adicione descr
 Lembrando, não adianta tentar enganar os buscadores ou seus clientes leitores, se você fala sobre automóveis a descrição e palavras-chave tem que ser relacionadas ao nicho de mercado. Isso traz mais relevância para os resultados de pesquisa, indica um site profissional com conteúdos de qualidade.
 
 ## Heading tags: Tags de cabeçalho
-As heading tags podem ser usada em qualquer plataforma blog, elas são tags de marcação universais que os buscadores usam para rastrear títulos e subtítulos de um conteúdo, fazer essas marcações melhora o rank da página e o rastreamento do conteúdo, inclusive já falamos aqui como você pode usar as <a href="http://www.insideblock.com/post/heading-tags-aprenda-otimizar-melhor-o.html" target="_blank">tags de cabeçalho no Blogger</a>.
+As heading tags podem ser usada em qualquer plataforma blog, elas são tags de marcação universais que os buscadores usam para rastrear títulos e subtítulos de um conteúdo, fazer essas marcações melhora o rank da página e o rastreamento do conteúdo, inclusive já falamos aqui como você pode usar as <a href="/post/heading-tags-aprenda-otimizar-melhor-o.html" target="_blank">tags de cabeçalho no Blogger</a>.
 
 ![Exemplo de tags heading](/assets/img/otimizacao-de-site-12-formas-de-rankear/tags-head.png)
 

@@ -13,7 +13,7 @@
         width: 100%;
         height: auto
     }
-    
+
     .ads,
     .sponsorship {
         width: 100%;
@@ -342,7 +342,7 @@
         border-bottom: 2px dashed #2da0c3
     }
     
-    article a::after {
+    article a[href*="insideblock.com"]::after {
         display: inline-block;
         content: '';
         color: #005f97;
@@ -353,11 +353,11 @@
         height: 1rem
     }
     
-    article a.external-link::after {
+    article a::after {
         display: inline-block;
         content: '';
         color: #005f97;
-        background-image: url(/assets/svg/open.svg) !important;
+        background-image: url(/assets/svg/open.svg);
         background-size: 100%;
         margin-left: .313rem;
         width: 1rem;
