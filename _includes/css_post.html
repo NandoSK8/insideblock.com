@@ -341,25 +341,23 @@
         color: #fff;
         border-bottom: 2px dashed #2da0c3
     }
-    
-    article a[href*="insideblock.com"]::after {
+
+    article a::after,
+    article a[href*="insideblock.com"]::after{
         display: inline-block;
         content: '';
-        background-image: url(/assets/svg/ioutline/link.svg);
         background-size: 100%;
         margin-left: .313rem;
-        width: 1rem;
+        width: 1.5rem;
         height: 1rem
     }
     
+    article a[href*="insideblock.com"]::after {
+        background-image: url(/assets/svg/ioutline/link.svg)
+    }
+    
     article a::after {
-        display: inline-block;
-        content: '';
-        background-image: url(/assets/svg/ioutline/open_in_new.svg);
-        background-size: 100%;
-        margin-left: .313rem;
-        width: 1rem;
-        height: 1rem
+        background-image: url(/assets/svg/ioutline/open_in_new.svg)
     }
     
     .form_post {
